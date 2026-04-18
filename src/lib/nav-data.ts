@@ -9,7 +9,7 @@ export interface NavItem {
 }
 
 export const NAV_ITEMS: NavItem[] = [
-    { href: null, label: "❁ Home", current: true },
+    { href: "/", label: "❁ Home" },
     { href: "/currents", label: "❁ Currents", children: [
         { href: "/uc-davis-katehi-illuminati", label: "🎥 UC, Davis, Katehi, Illuminati ✠", children: [
             { href: "/radchick-ucdavis-transcript", label: "⚛ RadChick: UCDavis Transcript 📜" },
