@@ -1,46 +1,474 @@
 ---
-title: "Contact"
-description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
-section: "home"
-slug: "contact"
-path: "contact"
-sidebar: |
-  #### Contact LM:GNC
-
-  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
+title: "M OSSAD’S ON THE D OORSTEP"
+description: "👤 Dateline DNR Dec 10, 2014 🎱 Worth Observing The Actual Mossad Agent Inside the DNR Pseudo-Govt 👤"
+section: "currents"
+slug: "mossads-on-the-doorstep"
+path: "currents/russia-is-coming/mossads-on-the-doorstep-"
 ---
 
-## Leuren Moret
+![Israel, Out of Erupt!](/assets/images/israel-out-of-erupt_med_hr.jpeg)
 
-Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
+  
 
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
+[Worth Observing The Actual Mossad Agent Inside the DNR Pseudo-Govt](http://niqnaq.wordpress.com/2014/12/14/worth-observing-the-actual-mossad-agent-inside-the-dnr-pseudo-govt/)
 
----
+Posted on LM:GNC, Dec 14, 2014
 
-## Laurens L. Battis III — Original Publisher & Editor
+**Walter: PM in hurqlaya@yahoo.com – RB**
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
+**Ukrainian oligarchs has extended its tentacles to the new Russia**  
+[**Vyacheslav Volkov, KV Journal, Oct 15 2014**](http://z5h64q92x9.net/tr-url/ru-en.en/kv-journal.info/content/ukrainskie-oligarhi-protyanuli-svoi-shchupalca-k-novorossii)
 
----
+![Pic 1. kofman1](/assets/images/pic-1-kofman1_med_hr.jpeg)
 
-## A Note on Leuren's Whereabouts
+  
 
-Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
 
-If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+Meet Alexander Kofman, television star and Vice-speaker of the Parliament of the DND. You ask, who was Kofman to the Declaration of DND? He was not badly off, as head of the Donetsk branch of the Bank “Nadra”. 89,97% of its share capital owned by Centragas Holding GmbH, which is owned by the infamous Ukrainian oligarch Dmytro Firtash. It is not surprising that with such a patron career Kofman, with no military or political merit, not to mention the simple confidence of the people, went up the hill “automatically”. In the political arena, he appeared suddenly, after a very timely arrest “people’s Governor” Paul Gubarev, then Kofman came out of the shadows and started to “move” those who would like to have inside of Novorossia his agent to influence the situation. Did adult male A Kofman go to the front with weapons to protect the Donbass? A rhetorical question. When you are very busy with trips to Moscow, because you “happy accident” (and not under the protection of Firtash) were invited on various TV shows, it would be foolish to climb under fire in the trenches. Now during rear intrigues Kofman sits firmly in the new government and will continue to do its career. While these front-line heroes are persecuted with false denunciations, a finger does not hit samopiarschiki (PR men) and talkers share had fallen to them the power. What to expect from the banker and agent of Firtash in power? There will be a lot of “Patriotic” words and dark deeds, in the form of work on the old host. And the owner really want to start trading in the land of the new Russia with its “sworn friends” Akhmetov and Kolomoisky. Really for this fight the militia? I’m sure not! And support of the people of new Russia will be on the side of the real field commanders, who have put their lives in the struggle against the junta oligarchs and rear pushers will do what they do best – lead TV.
 
----
+_Note: “Before this conversation with Alexander Kofman, the newly appointed Minister of foreign Affairs DND, Donetsk my friends told about the interesting details of his biography: the head of diplomatic office DND in his youth he worked with madrichim in Makeevka “the Jewish Agency”. (also known as the Jewish Agency or the Jewish Agency, the international Jewish Zionist organisation in the state of Israel… Madrich (from the Hebrew Derekh – road, path) – Judaism and Zionism leader, the leader and the head of the group (usually youth), implements the Jewish project. The term active is used in the ranks of the Jewish Agency, EZRA and similar organizations. Source:__[Cyclowiki](http://z5h64q92x9.net/tr-url/ru-en.en/cyclowiki.org/wiki/%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D1%85)_ _– RB_
 
-## The Archiver
+**Alexander Kofman talks with Edward Doks**  
+[LeChaim.ru, Dec 10 2014](http://z5h64q92x9.net/tr-url/ru-en.en/www.lechaim.ru/2999)
 
-This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+Before this conversation with Alexander Kofman, the newly appointed Minister of foreign Affairs DND, Donetsk my friends told about the interesting details of his biography: the head of diplomatic office DND in his youth worked as madrichim in Makeevka “the Jewish Agency”. As in those ancient times, today it is a working day is not normalized. Our conversation on Skype began at one o’clock on Kiev time (two in Donetsk). Alexander Igorevich incredibly well-read, intelligent and multi-faceted. However, he has excessive for a diplomat emotional and even temper. However, precisely because of this, not diplomatic qualities Jewish boy from Makeyevka our conversation turned out to be so Frank.
 
-**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
+**ED** : Than have to deal with the foreign Minister of DND at this late hour?  
+**AK** : Literally five minutes ago was a document on the establishment of diplomatic relations with South Ossetia, the exchange of consulates and honorary representatives. The other day, we hope that this document together with me will be in Ossetia. After sharing some documents we can assume that diplomatic relations with this country is installed. We need economic space, and Ossetia in this sense, a very good partner.  
+**ED** : Tell us about your family. Observed whether the Jewish tradition?  
+**AK** : My family is largely secular. Grandmother on my motherís side of the generations of Jews who tried to keep at least the Jewish holidays. Grandfather shortly before his death, too, became interested in this issue. In fact, perhaps, and ends all my Jewish tradition. I consider myself a man of a totally secular, moreover, according to Jewish laws, I probably are not a Jew, and not feel. In general, does not belong to any of the religions. Can’t say that I am an atheist, I am agnostic.  
+**ED** : One of the guys told me that he saw you in Donetsk the synagogue on the Sabbath…  
+**AK** : It’s not a hindrance. I have many friends among religious Jews, they invited me. Why can’t I go to the synagogue? Moreover, it was a personal invitation Pinchas Vysotskogo, at that time the chief Rabbi of the Donetsk region, which, like any other Rabbi, of course, is interested in increasing the number of their members. On Saturday supper we had an enjoyable visit, but… If you want to delve into the details, for me adherence to any religion is a kind of contract. If you contract concluded is obliged to comply with it. I understand that I will not be able to observe and 10 Christian commandments, not to mention the 613 Jewish. Mean to enter into a contract, knowing that you’ll break it.  
+**ED** : But, according to Judaism, even Jewish atheist origin remains a Jew.  
+**AK** : Is, yes. While he will not accept another religion… I was terribly outraged by the situation described in the book Ulitskaya “Daniel Stein, interpreter” when the righteous who saved a lot of Jews during the great Patriotic war, adopted Christianity in the Carmelite monastery, old age came to Israel, and he was denied citizenship because he was a Christian. Outrageous!  
+**ED** : Do you have relatives in Israel? Are there?  
+**AK** : Yes, there is. In Israel I was a few times. At last – due to a very unpleasant event, if I am not mistaken, in 2009. Fell seriously ill father, and only in Israel could cure. But, unfortunately, not cured. By the way, it’s up to the last days was sincerely grateful to Israel and could not grasp how this is so: “I never for a penny did for this country, and when I came here, got the full treatment, free, good…” I quote him verbatim. But, unfortunately, as I said, the treatment did not help… He immigrated to Israel, and to die came here. In peacetime, I’ve successfully worked. Therefore, the opportunity to travel there due to lack of time. But I plan to visit Israel – already with a political visit. We Jews are a people who more than anyone in the world has suffered from Nazism. And now, after the genocide, after some 70 years, the Jews do not notice that Nazism is raising its head again. Yes, he is not anti-Jewish in nature. But as well-said Vladimir Solovyov, the Jews in their place just will not give in this situation. That is, it is not anti-Jewish, is anti-Russian. It is a pity that the Jews accept this Nazism active part. Could never think that I will be ashamed of his countrymen, not only in matters of an economic nature, but also national.  
+**ED** : I understand what you are talking about…  
+**AK** : What do Korban, Filatov and many other representatives of our people…? In my opinion, these people are subject to absolute and merciless destruction. Or that there is one only Kolomoisky, representing Chabad.  
+**ED** : Jewry Filatov is doubtful, and Kolomoisky Chabad is not. He sponsors. And I would not say that he was a believer. At least religious people would never have allowed himself to say what he said in the conversation with Oleg Tsarev.  
+**AK** : “Service was held in the synagogue”?..  
+**ED** : Yes, and “funeral in the synagogue”, and that the synagogue was appointed as a reward for the head of Tsarev. From a theological point of view is utter nonsense. And besides, Kolomoisky nonsense that only brings trouble to the Jewish community…  
+**AK** : You know, Oleg Tsarev my close friend, and in this conversation I learned something very important. I was present at it. Sat, not knowing with whom Oleg talking, and to an entry in the Internet I never said who spoke. Listened in silence, and only the nodules went. And then quietly said, “you Know, Igor, don’t call me anymore!” I was living in a situation when I took a deep breath, wanted to make a bunch of claims, and then realized that this phrase is more capacious. Now usually use it.  
+**ED** : How the visit in Israel can help you? Because in Israel poorly represent what actually happens in Ukraine. Even I was removed from the ether Israeli radio station, after 19 years, and I only tried to tell the truth about the events on Maidan.  
+**AK** : I am aware that Israel depends entirely on Pindostan. I understand that Israel’s policy will be directed to where and Pindo policy. At the geopolitical level, even if all Israel sharply reformats and stand against Nazism in Ukraine, it will not affect their relationship. But even if you manage to break at least… You know, what the situation is: I sincerely fear for their fellow Jews. It’s bad for them to end. It is necessary that the Jews showed the world that they are against what is happening in Ukraine. Let the State of Israel supports whom he considers necessary, but it would be enough if Israel officially condemn Nazism in Ukraine. It does not require any approvals from Pindostan.  
+**ED** : Recently interviewed Israeli soldier battalion “Aidar”, which claimed that the UPA did not kill the Jews, and Bandera to do was call. And when I officially asked for expert opinion in the “Yad Vashem”, then, to my great surprise, they all (!) refused to speak on the topic, or simply did not answer all…  
+**AK** : To be completely objective, the most distinguished Melnikova, the second branch of the OUN-UPA, which was engaged in the organization of Babi Yar, and the commandant of Kiev was Melnikova Orlik. But I sorts of crap prefer not to understand, and for me there is no difference between Melnikova, appearance and nasty. I’d really like to chat with this fighter battalion “Aidar”, and I think this fellowship of his mortal existence would have ended…  
+**ED** : Many of those who visited the territory controlled DND, complain about the mess. Tell that selected machine, press the apartment. If you see DND state, how are you going to fight this?  
+**AK** : Believe me, I am absolutely sincere. Of course, there were such cases. Now many are returning, including those who did not support DND based, that after a month everything will end and they will return. And when you start to advance such claims, I always say: “It happened because you’re such a good left.” Indeed, the most passionate part of the population are criminals. Naturally, they went up in the first place. Someone, and I know those members of the underworld, rose to fight for their land; someone with the purpose to get rich. But believe me, the last multiply by zero with enviable regularity. They remained in the unit. My official statement: at the moment the owners taken any house, any real estate, any property (with machines more difficult, because they are harder to find) can come to write a statement to the police, and they are guaranteed a return that was selected.  
+**ED** : And if the person has not survived the documents confirming the right of ownership?  
+**AK** : Is the testimony of the neighbours. It all proved. And such cases are now every day people returned to their property.  
+**ED** : Ukraine stopped the payment of pensions to citizens living in the territory controlled by you. How will you cope with this problem?  
+**AK** : Apparently, your one-sided media coverage. It is not just about the termination of pension payments. Talking about any economic message with the territory of Ukraine. On the border with Ukraine are truckers, trucks with industrial-food products group. Here Ukraine does not miss anything. Complete blockade. Regarding pensions, we have no taxes in the full sense of the word. There are social benefits paid by enterprises in order to work for us. These tools are completely on social payments to the population. The 1000 UAH, which is now paid as a pension until only a few cities of the Republic, of course, does not correspond to economic indicators. But it’s something, and card payments significantly expanded. Companies are beginning to work. Every day more and more of them are registered in DND. A little – and formed the banking system, will improve normal taxation etc.  
+**ED** : How many percent now pay?  
+**AK** : 20% of the profits or 2.5 % of turnover. This is much less than was paid in Ukraine.  
+**ED** : Do you have interaction with Jewish charitable foundations?  
+**AK** : Currently, the draft of the accreditation humanitarian missions. Due to the fact that I hang out with my friends from Jewish organizations, I already told them that you have to come and register their mission. I know that “Joint” distributes humanitarian rations. They need just to register, absolutely free of charge. To define the shape and volume of work. We will not them to decide who to bring humanitarian aid to no. But they will have to be accredited in the Ministry of Foreign Affairs, headed by me. I woe from wit, I guess. I cautiously treat this situation. Remember, there was such a good movie “From hell”? In 1946, one Polish town JDC brought humanitarian aid. And you remember how it ended. I can’t understand humanitarian assistance based on ethnic or religious basis.  
+**ED** : The participation of Israelis in the conflict, I try to cover and I know that there are Israelis on both sides. But here’s the interesting thing: those who are fighting for Ukraine, ready to give an interview, and those who are on your side, somehow afraid, even when you know their names.  
+**AK** : And you have in Israel a law against service in mercenary armies?  
+**ED** : Theoretically, yes. But you guys refuse to even speak anonymously.  
+**AK** : This indicates the level of confidence in the press. Here’s your guy from “Aydar”, I’m sure, has been enriched. You have no idea. We daily truck “new mail” (emergency delivery service in Ukraine) come from the combat zone on the rest of the territory of Ukraine. Morderstwo scary.  
+**ED** : Is there really a Battalion “Aliya” or is it all of bollocks?  
+**AK** : I several times because of their national origin met with representatives of Israel, who are here fighting. This is mainly reconnaissance and sabotage squads, snipers. I wouldn’t call them a Battalion “Aliya”, although this may be exactly the kind of “Aliya” which was said Eskin. Among them and those who serve in the IDF, and those who came to Israel, being already experienced fighters. We have dozens of these guys.
 
-The source mirror and site code are both open and available on GitHub:
+  
 
-- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
-- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
+
+![SEPERATOR- Line, Blue \(dk\)](/assets/images/seperator--line-blue-dk_med.png)
+
+**[Intermediary](http://niqnaq.wordpress.com/2014/12/14/worth-observing-the-actual-mossad-agent-inside-the-dnr-pseudo-govt/)**[ Posti](http://niqnaq.wordpress.com/2014/12/14/worth-observing-the-actual-mossad-agent-inside-the-dnr-pseudo-govt/)ng on [December 14, 2014](http://niqnaq.wordpress.com/2014/12/14/worth-observing-the-actual-mossad-agent-inside-the-dnr-pseudo-govt/) by **niqnaq**
+
+[![\(-ed\) Cheshire Cat Smiling \(EDITOR LMGNC\)](/assets/images/ed-cheshire-cat-smiling_med_hr.jpeg)](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+[❁ LM:GNC on YouTube ❁](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+Visitors to LM:GNC
+
+  
+
+
+![TITLE, LMGNC Site Map](/assets/images/title-lmgnc-site-map-2_med.png)
+
+  
+
+
+[Leuren Moret: Global Nuclear Coverup](/)
+
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)
+    * [🚫 Out of Eurasia 🚫](/out-of-eurasia)
+    * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international)
+    * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition)
+    * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde-haarp-nlp)
+    * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima)
+    * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm)
+    * [🌎 New World Order America 🇺🇸](/new-world-order-america)
+    * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine-eu)
+    * [👥 Template: Jade Helm](/template-jade-helm)
+    * [✠ America’s Domestic Pacification ✠](/americas-domestic-pacificat)
+    * [♨️ Chernobyl, Zaporozhye, Blackmail ⚛](/chernobyl-zaporozhye-blackm)
+    * [💉 REBRANDING DISASTER🔪](/rebranding-disaster)
+    * [👤 Eurasian Enigma Arises](/eurasian-enigma-arises)
+    * [🔴 Donetsk Nuclear Explosion ⚫️](/donetsk-nuclear-explosion)
+      * [🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️](/interview-donetsk-nuclear)
+      * [⛔️ ”Absolutely Massive," Nuke Explosion Ukraine](/absolutely-massive-nuke)
+    * [🌍 21st Century Silk Road 🌏](/21st-century-silk-road)
+      * [🌍 Silk Road Strategies 🌐](/silk-road-strategies)
+      * [🌍 21st Century Silk Road PT1 🌏](/21st-century-silk-road-pt1)
+      * [🌍 21st Century Silk Road PT2 🌏](/21st-century-silk-road-pt2)
+      * [🌍 21st Century Silk Road PT3 🌏](/21st-century-silk-road-pt3)
+    * [🌍 Africa ☗](/africa)
+      * [🇫🇷 Libya's Orwellian Bienvenue 💣](/libyas-orwellian-bienvenue)
+    * [♞ Balkans, The Nameless Triangle](/the-nameless-triangle)
+      * [📜 VERDICT FIRST | SENTENCES LATER ♨️](/verdict-first-sentences)
+      * [⏰💀 Macedonian Uprising / Western NGO's](/macedonian-uprising-wester)
+      * [⏰ Minsk? Nyet! Boisto Island](/minsk-nyet-boisto-island)
+      * [☞ ☜ And Now the Flawed Minsk Agreement](/and-now-the-flawed-minsk)
+    * [🌏 China 🌝](/china)
+      * [➷ 300 Years Wasted 💀](/300-years-wasted)
+    * [🌍 Eurasia 🔴](/eurasia)
+      * U.S. Collapse in Syria
+      * [💰 Oil Money? | EU Laundromat? 🚿](/oil-money-eu-laundromat)
+      * [💣 Terrorist Christmas, Jihadi New Year 💀](/terrorist-christmas-jihadi)
+      * [🌞 Stable Oil Trade 🌝](/stable-oil-trade)
+    * [💣 Israel: Out of Erupt!](/israel-out-of-erupt)
+      * [💀 Israel Forced to Investigate ☚](/israel-forced-to-investigat)
+      * [🎈 Sweden: A Stage is Set](/sweden-a-stage-is-set)
+    * [✠ Jesuits/Templar’s Origins & Aims](/jesuitstemplars-origins)
+      * [👺 SOROS ✠ NWO 📚 Hacked ✍](/soros-nwo-hacked)
+      * [➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳](/pyatts-soros-breakfast)
+      * [Breedlove, GOOD RIDDANCE](/breedlove-good-riddance)
+      * [🎱 Obama’s $3 Billion Eurocon 💸](/obamas-3-billion-eurocon)
+      * [🌍 A Psychopath’s Psychopath ✠](/a-psychopaths-psychopath)
+      * [🔫 Global Hit Squad 💣](/global-hit-squad)
+      * [💀 Neo-Capitalist’s Slave Trade 💰](/neo-capitalists-slave-trade)
+        * [💰 Terrorist Law on Slaves 💀](/terrorist-law-on-slaves)
+        * [💩 Be Somebody, Be A Minion! 💩](/be-somebody-be-a-minion)
+      * [🇺🇸 Bio: Undermine Control](/bio-undermine-control)
+      * [↷ Fine Evening For A Minuet ↶](/fine-evening-for-a-minuet)
+      * [✠ Slavery, Then & Now](/slavery-then-now)
+      * [💣 JCS Operation Northwoods](/jcs-operation-northwoods)
+      * [✠ The Three Secret Meetings](/the-three-secret-meetings)
+    * [Korea Yeonhee (연희) Nuclear Kabuki Theatre](/korea-yeonhee-nuclear-kabuk) Nuclear Kabuki Theatre")
+    * [🌍 Middle East 💣](/middle-east)
+      * [💣 ISIL: Battered, Retreating 💀](/isil-battered-retreating)
+      * [🔥 Turkish Coup Attempt 💣](/turkish-coup-attempt)
+        * [💣 Campbell’s Turkey Coup 🎭](/campbells-turkey-coup)
+        * [🇪🇸 Turkey Coup, NATO Fire 🔥](/turkey-coup-nato-fire)
+      * [⚑ Muslim Brotherhood and ISIS ⚫️](/muslim-brotherhood-and-isis)
+      * [🔫💰💉Daesh Terrorist Multi-Tool🔪💣💊](/daesh-terrorist-multi-tool)
+      * [🚧 US and Turkey, NWO the Kurds 💸](/us-and-turkey-nwo-the-kurds)
+      * [✠ Hitler Bragged on Jesuits ✠](/hitler-bragged-on-jesuits)
+      * [🍞 Their Daily Bread & Rubble 💣](/their-daily-bread-n-rubble)
+      * [🔪“Erdogan is Strengthening ISIS”💣](/erdogan-is-strengthening)
+      * [🇫🇷 Russia Reveals ISIS’ Money 💰💰](/russia-reveals-isis-money)
+      * ["Raqqa's Rockefellers” ISIS Full Frontal](/raqqas-rockefellers-isis)
+        * [🍗 Mini Erdogan’s Terrorist Dinner 💣](/mini-erdogans-terrorist)
+      * [☞ Smashing Turkey’s Game❌](/smashing-turkeys-game)
+      * [🌍 Juncker | E.U. | Direction ⤣](/juncker-eu-direction)
+      * [🔪 GLADIO Wolf Kills Russian Pilot ✈︎](/gladio-wolf-kills-russian)
+      * [✈︎ Washington’s SU-24 🎯](/washingtons-su-24)
+      * [🌐 Turkey, NATO, War Crime? 🔎](/turkey-nato-war-crime)
+      * [➷ 449-Down, ISIL to Go 💣](/449-down-isil-to-go)
+    * [🌎 North America 🔥✠](/north-america)
+      * [🌎🔥 Alberta Oil Sands Fire 🌎🔥](/alberta-oil-sands-fire)
+    * [🇷🇺 Russia 🇷🇺](/russia-is-coming)
+      * [🇷🇺 PUTIN OVERHAULS KREMLIN 🏰](/putin-overhauls-kremlin)
+      * [☛ Who Created ISIS ☚](/who-created-isis)
+        * [☞ Assad’s ISIS Interview 🎥](/assads-isis-interview)
+      * [🍳 Food Supply Compromised 🎱](/food-supply-compromised)
+      * [🌍 Putin re Ceasefire Syria 🌐](/putin-re-ceasefire-syria)
+      * [👤 Cold War Re-Run 👀](/cold-war-re-run)
+      * [🌐 Minsk 101 | Theatre of the Absurd 🌍](/minsk101-theatre-of-absurd)
+      * [🌐 Geopolitical Original Sin 🌍](/geopolitical-original-sin)
+      * [♘ Russian Troops | Turkish Border ♘](/russian-troops-turkish)
+      * [📚 Educating Charlie Rose 🔑](/educating-charlie-rose)
+      * [🌍 Lavrov's Munich Speech](/lavrovs-munich-speech)
+      * [🎱 US Embassy Media Fail 🎭](/us-embassy-media-fail)
+      * [✠ ♛🃏 Putin’s Jar Of Spiders](/putins-jar-of-spiders)
+      * 🎱 MOSSAD’S ON THE DOORSTEP 💣
+      * [📄 This Document is Dynamite 📄](/this-document-is-dynamite)
+      * [♔ The Golden Trap](/the-golden-trap)
+      * [❁ Russian Fusion-Fission](/russian-fusion-fission)
+      * [❁ Putin’s 7-Point Plan](/putins-7-point-plan-2)
+      * [❁ Russian Position Speech](/russian-position-speech-2)
+    * [✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?](/mh-17-jesuits-flagged-brics)
+      * [⏰ Ukraine? 🔥 Bail Out! ✈️](/ukraine-bail-out)
+        * [🐟 Poroshenko Calls Merkel 🐙](/poroshenko-calls-merkel)
+        * [🃏 Poroshenko’s Spanish Villa 🏰](/poroshenkos-spanish-villa)
+      * [💦👤 Psychotropic Zombification ☔️](/psychotropic-zombification)
+      * [💣 Odessa Trade Union Murders 🔥](/odessa-trade-union-murders)
+      * [🃏 Nothing Personal, Just Business 💰](/nothing-personal-just-busin)
+      * [💉 BioWeapons for Depopulation 💀](/bioweapons-for-depopulation)
+      * [⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀](/nuclear-coverup-ukraine)
+      * [🔥 Unsustainable Ukraine 👥](/unsustainable-ukraine)
+      * [☗ ASHES TO ASHES 💀](/ashes-to-ashes)
+      * [🔪Ukrainian Wikileaks 👀](/ukrainian-wikileaks)
+      * [☞ Dispatches From the Front 🔫](/dispatches-from-the-front)
+      * [💣 The Ukrainian Failed State 🌍](/the-ukrainian-failed-state)
+      * [🔑 Our Decisions Define Us🔑](/our-decisions-define-us)
+      * [✠ Child Abuse 💀](/child-abuse)
+        * [✏️ UkroNazi ABC’s 📕](/ukronazi-abc)
+      * [💣 Mozgovoi’s Murder 🔪](/mozgovois-murder)
+        * [♞ This War? No Victory 💀](/this-war-no-victory)
+        * [☦ It Is A Gift To Die In May…](/it-is-a-gift-to-die-in-may)
+        * [🔍 Mozgovoy Murder Analysis p1.](/mozgovoy-murder-analysis-p1)
+        * [🔍 Mozgovoy Murder Analysis p2.](/mozgovoy-murder-analysis-p2)
+      * [🎱 Yatsenyuk's Russian Threat 🔮](/yatsenyuks-russian-threat)
+      * [||| Prison Ukraine |||](/prison-ukraine)
+      * [✍ CyberBerkut Reports 👥](/cyberberkut-reports)
+        * [💀 U.S.’n’Ukraine Caught Red Handed ☜](/usnukraine-caught-red-hande)
+          * [☞ Caught Red Handed ☜ CyberBerkut Original](/caught-red-handed-cyberber)
+        * [📄 Soros Letters | Ukraine ✠](/soros-letters-ukraine)
+          * [⚇ SOROS Draft Non-Paper ⚇](/soros-draft-non-paper)
+      * [♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️](/crazy-arseniys-used-ukrai)
+      * [✝ AZOV CRUCIFIXION ✝](/azov-crucifixion)
+      * [👤 Eyewitness Debaltsevo Cauldron 💀](/eyewitness-debaltsevo-cauld)
+      * [✍ Historic Slaviansk Doctor Interviewed](/historic-slaviansk-doctor)
+      * [💀 The Tragedy of Uglegorsk](/the-tragedy-of-uglegorsk)
+      * [♟ Jan. 2015 Minsk Fail 🃏](/jan-2015-minsk-fail)
+      * [➷ Tochka Found, Debaltsevo Locked](/tochka-found-debaltsevo)
+      * [🌍 World Facing Second Chernobyl](/world-facing-second-chernob)
+      * [✈︎ MH-17 AND THE Jesuit Minuet](/mh-17-and-the-jesuit-minuet)
+      * [✈︎ MH-17, Jesuits Flagged!, Video](/mh-17-jesuits-flagged-video)
+      * [💀 Death’s Drummers](/deaths-drummers)
+      * [👤 DPR! Novorossiya Calling](/dpr-novorossiya-calling)
+      * [💀 Ukraine’s Chernobyl Armor](/ukraines-chernobyl-armor)
+      * [🎱 Gas to Ukraine Blocked](/gas-to-ukraine-blocked)
+      * [❁ Global Nuclear Theatre: Donbass](/global-nuclear-theatre)
+      * [✠ GHOSTS of the 51st BRIGADE](/ghosts-of-the-51st-brigade)
+      * [❁ Novorossiya: Strelkov Briefing](/novorossiya-strelkov-briefi)
+      * [👤 Open Letter to President Putin](/open-letter-to-president)
+      * [✈︎ MH-17 Dutch Interim Report](/mh-17-dutch-interim-report)
+      * [💣 Surrendering UA Murdered by Punatives](/surrendering-ua-murdered-by)
+      * [♟ Mutiny of the Euro-Integrators ♟](/mutiny-of-the-euro-integrat)
+      * [➹ View from Ukraine Operating Room](/view-from-ukraine-operating)
+      * [❁ Ukraine’s Violent Escalation](/ukraines-violent-escalation)
+      * [❁ Ukrainian Soldier’s Cry for Help](/ukrainian-soldiers-cry-for)
+      * [⧱ Occupied Ukraine ⧱](/occupied-ukraine)
+      * [❁ US State's Nuland Directs Ukrainian Coup](/us-states-nuland-directs)
+      * [📯 Ukraine Deputies Knew Before Maidan](/ukraine-deputies-knew-befor)
+    * [❁ Health In 2015](/health-in-2015)
+    * [💉 Vaccines 💀](/vaccines)
+    * [🎥 Geopolitics, Jesuits & History](/geopolitics-jesuits-histor)
+    * [🎥 Rebranded ✠ The Jesuits ✠](/rebranded-the-jesuits)
+    * [⚛ Zaporhyze Nuclear Events & Geopolitics](/zaporhyze-nuclear-events)
+    * [❁ Fukushima Polar Vortex Radiation ❁](/fukushima-polar-vortex)
+    * [💀 Embrace, Enfold, Extinguish](/embrace-enfold-extinguish)
+    * [✈︎ Fear of Flying . . . (1of4)](/fear-of-flying-1of4)")
+      * ✈︎ Fear of Flying . . . 2of4
+      * [✈︎ Fear of Flying 3](/fear-of-flying-3)
+      * [✈︎ Fear of Flying 4](/fear-of-flying-4)
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt.1)](/fukushima-impact-of-fallout)")
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt. 2)](/fukushima-impact-of-fallout-2)")
+    * [❁ North America, Middle East and Fukushima](/north-america-middle-east)
+    * [❁ DHS/Napolitano Berkeley Template](/dhsnapolitano-berkeley)
+    * [❁ Fukushima Radiation, Ecocide & Tesla Technology](/fukushima-radiation-ecocide)
+    * [✈︎ Flight 370 Downing](/flight-370-downing)
+    * [✈︎ MH370: The Follow-Up](/mh370-the-follow-up)
+    * [❁ Domestic Radiation Issues](/domestic-radiation-issues)
+    * [❁ Fukushima: Hawaii, Pacific Is. - Unsafe](/fukushima-hawaii-pacific-is)
+    * [⚛ Fukushima Reactors, Breakdown 1-6 ⚛](/fukushima-reactors-breakdow)
+    * [🌏 International Sites Featuring LM:GNC](/international-sites-featuri)
+    * [❁ On To Mongolia 🎥](/on-to-mongolia)
+    * 🎥 LKM On Fairdinkum Media 🎥
+      * ✠ The Jesuits in Geopolitics
+    * [❁ Editorial Page](/editorial-page)
+      * [🎉April Fooles! 2016 🙊](/april-fooles-2016)
+      * [Yatsenyuk’s Failed-State Cookbook](/yatsenyuks-failed-state)
+      * [⚑ H.A.A.R.P. Season ⚑](/haarp-season)
+      * [↵ Psyop 101 ⟲](/psyop-101)
+      * [⨳ R2P THE NWO ⨳](/r2p-the-nwo)
+        * ["The Responsibility to Protect" ICISS 2001 Report.pdf](currents/editorial-page/r2p-the-nwo/the-responsibility-to-prote.pdf ""The Responsibility to Protect" ICISS 2001 Report.pdf")
+      * [➷ Tbilisi 2008, Ukraine Today](/tbilisi-2008-ukraine-today)
+      * [✠ The Old, New, Endless War](/the-old-new-endless-war)
+      * [✠ A New "Maidan" Awaits](/a-new-maidan-awaits)
+      * [❁ Your Federal Appropriations Scams at Work](/your-federal-appropriations)
+      * [🎈Amusements 🎭](/amusements)
+    * [❁ Conversations 📬](/conversations)
+      * [⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛](/uranium-mine-on-tribal-land)
+      * [📬 re: Geiger Counters ⚛⚛⚛](/re-geiger-counters)
+      * [⚡️CYBERCOM Suppression Silo 🎯](/cybercom-suppression-silo)
+      * [🌎 Pacific Coast Watch](/pacific-coast-watch)
+      * [♟ Cruel Murder of Boris Nemtsov](/cruel-murder-of-boris-nemts)
+        * [⚔ More re: Nemtsov Murder](/more-re-nemtsov-murder)
+        * [👠 A Decoy For Murder](/a-decoy-for-murder)
+      * [❁ Palladium's All-Time High](/palladiums-all-time-high)
+      * [❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014](/fukushimahawaii-update-sun)
+      * [❁ Fukushima And Diet](/fukushima-and-diet)
+  * [❁ Waves](/waves)
+    * [⚛ Radiation Around The Nation 🌎](/radiation-around-the-nation)
+      * ⚛ Your Radiation #73/74, Sep 10 - 24, 2016 🌎
+      * ⚛ Your Radiation #71/72, Aug 27 - Sep 10, 2016 🌎
+      * [⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎](/your-radiation-69-70-july)
+      * [⚛ Your Radiation #67/8,--July 16-30, 2016 🌎](/your-radiation-678-july-16)
+      * [⚛ Your Radiation #65-6,--July 2-16, 2016 🌎](/your-radiation-65-6-july-2)
+      * [⚛ Your Radiation #64, July 2-9, 2016 🌎](/your-radiation-64-july-2-9)
+      * [⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎](/your-radiation-62-3-june-18)
+      * [⚛ Your Radiation #61, June 11-18, 2016 🌎](/your-radiation-61-june-11)
+      * [⚛ Your Radiation #60, June 4-11, 2016 🌎](/your-radiation-60-june-4-11)
+      * [⚛ Your Radiation #59, May 28 - June 4, 2016 🌎](/your-radiation-59-may-28)
+      * [⚛ Your Radiation #58, May 21-28, 2016 🌎](/your-radiation-58-may-21-28)
+      * [⚛ Your Radiation #57, May 14-21, 2016 🌎](/your-radiation-57-may-14-21)
+      * [⚛ Your Radiation #56, May 7-14, 2016 🌎](/your-radiation-56-may-7-14)
+      * [⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎](/your-radiation-55-apr-30)
+      * [⚛ Your Radiation #54, Apr 23-30, 2016 🌎](/your-radiation-54-apr-23-30)
+      * [⚛ Your Radiation #53, Apr 16-23, 2016 🌎](/your-radiation-53-apr-16-23)
+      * [⚛ Your Radiation #52, Apr 9-16, 2016 🌎](/your-radiation-52-apr-9-16)
+      * [⚛ Your Radiation #51, Apr 2-9, 2016 🌎](/your-radiation-51-apr-2-9)
+      * [⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎](/your-radiation-47-50-apr-2)
+      * [⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎](/your-radiation-46-feb-27)
+      * [⚛ Your Radiation #45, Feb 20-27, 2016 🌎](/your-radiation-45-feb-20-27)
+      * [⚛ Your Radiation #44, Feb 13-20, 2016 🌎](/your-radiation-44-feb-13-20)
+      * [⚛ Your Radiation #43, Feb 6-13, 2016 🌎](/your-radiation-43-feb-6-13)
+      * [⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎](/your-radiation-42-jan-30)
+      * [⚛ Your Radiation #41, Jan 23-30, 2016 🌎](/your-radiation-41-jan-23-30)
+      * [⚛ Your Radiation #40, Jan 16-23, 2016 🌎](/your-radiation-40-jan-16-23)
+      * [⚛ Your Radiation #39, Jan 9-16, 2016 🌎](/your-radiation-39-jan-9-16)
+      * [⚛ Your Radiation #38, Jan 2-9, 2016 🌎](/your-radiation-38-jan-2-9)
+      * [⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎](/your-radiation-37-dec-26)
+      * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+      * [⚛ Your Radiation #35, Dec 12-19, 2015 🌎](/your-radiation-35-dec-12-19)
+      * [⚛ Your Radiation #34, Dec 5-12, 2015 🌎](/your-radiation-34-dec-5-12)
+      * [⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎](/your-radiation-33-nov-28)
+      * [⚛ Your Radiation #32, Nov 21-28, 2015 🌎](/your-radiation-32-nov-21-28)
+      * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+      * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+      * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+      * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+      * [⚛ Your Radiation #27, Oct 17-24, 2015 🌎](/your-radiation-27-oct-17-24)
+      * [⚛ Your Radiation #26, Oct 10-17, 2015 🌎](/your-radiation-26-oct-10-17)
+      * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+      * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+      * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+      * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+      * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+      * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+      * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+      * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+      * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+      * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+      * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+      * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+      * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+      * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+      * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+      * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+      * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+      * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+      * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+      * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+      * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+      * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+      * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+    * [🔥 Fire at Oak Ridge 💥](/fire-at-oak-ridge)
+    * [💥 NANOWEAPONRY 💥](/nanoweaponry)
+      * [💥 D.I.M.E. BOMB Fallujah 💥](/dime-bomb-fallujah)
+      * [💥 Dense Inert Metal Explosive 💀](/dense-inert-metal-explosive)
+      * [💥 NANOTECH; LAW OF WEAPONRY ☞🔫](/nanotech-law-of-weaponry)
+      * [☗ Eugenics, Euthanasia and Experiments ☗](/eugenics-euthanasia-and)
+    * [🐄 Radioactive Cattle Teeth, Fukushima 🏭](/radioactive-cattle-teeth)
+    * [📰 WikiLeaks 🔎 NSA and More 🔦](/wikileaks-nsa-and-more)
+      * [✠ Hillary’s DNC Dossier 🎭](/hillarys-dnc-dossier)
+      * [📖 Snowden’s SIDToday Files ✍](/snowdens-sidtoday-files)
+      * [❌ Clinton CyberSecurity Fail 🚫](/clinton-cybersecurity-fail)
+        * [Office of the Inspector General, State Dept- Evaluation of Emai l Records Management and Cybersecurity Requirements, oig-report.pdf](waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/office-of-the-inspector.pdf "Office of the Inspector General, State Dept- Evaluation of  Emai l Records Management and  Cybersecurity Requirements, oig-report.pdf")
+      * [⚑ Clinton’s Designs on Syria ➷](/clintons-designs-on-syria)
+      * [⚑ Clinton eMail on Syria 🎯](/clinton-email-on-syria)
+    * [✨Nano ‘Hall of Mirrors’⚡️](/nano-hall-of-mirrors)
+    * [⚛ 💀 ⚛ into the Hudson River 🌎](/into-the-hudson-river)
+    * [🚿 Flint, Metropolitan Eugenics 💀](/flint-metropolitan-eugenics)
+      * [🚿 Flint, Double Jeopardy 💰](/flint-double-jeopardy)
+      * [🚿 Flint, Poison, Epidemic 💉](/flint-poison-epidemic)
+    * [🌍 Existential Threat? ☛NATO☚](/existential-threat-nato)
+    * [💉 Gates, Poroshenko; Conspiracy, Government 🎯](/gates-poroshenko-conspiracy)
+    * [💉 Gates-Poroshenko ZPG Ukraine 💀](/gates-poroshenko-zpg-ukrain)
+    * [💀 Paris Massacre Perpetrators 👤](/paris-massacre-perpetrators)
+    * [🔪 Delgado, Mind Control ♟](/delgado-mind-control)
+    * [🌎 MOST NUKED NATION ON EARTH 🌎](/most-nuked-nation-on-earth)
+    * [🎯 Radio Frequency Directed Energy 🎯](/radio-frequency-directed)
+    * [⚛ Please, Don’t Pick the Mutants 🌻](/please-dont-pick-the-mutant)
+    * [⨳👤⨳ Space-Based Weapons Ban](/space-based-weapons-ban)
+    * [√ Saudi OP Strategy Success](/saudi-op-strategy-success)
+    * [♨️ Gallery ♨️ Chernobyl Fire ♨️ 2015 ♨️](/gallery-chernobyl-fire)
+      * [❁ 2014 Radiation Roadshow | Chernobyl ❁](/2014-radiation-roadshow)
+    * [🌍 Monsanto Backdoors E.U.](/monsanto-backdoors-eu)
+    * [🎉 Crimea’s 1st Anniversary Album 🎉](/crimeas-1st-anniversary)
+    * [🌏 21st Century Eschalon](/21st-century-eschalon)
+    * [📰 International Headline Watch 🌏](/international-headline)
+      * [📰 Fort Russ Headlines 🌍](/fort-russ-headlines)
+      * [📰 Tass Headlines 🌐](/tass-headlines)
+      * [📰 SouthFront Headlines 🌏](/southfront-headlines)
+    * [✄ Prouty Place ✑ CUT THE BULL ✂︎](/prouty-place-cut-the-bull)
+      * [🌎 Oil is Renewable 🌎](/oil-is-renewable)
+      * [👥 That Whole Bay Of Pigs Thing](/that-whole-bay-of-pigs)
+      * [☛ Lansdale at the Kennedy Assassination ⚑](/lansdale-at-the-kennedy)
+    * [🌏 How To Wreck The Environment](/how-to-wreck-the-environmen)
+    * [🇯🇵 Plutonium Isotopes Off Japan](/plutonium-isotopes-off)
+    * [🌍 Depopulation Agenda: Europe 👤](/depopulation-agenda-europe)
+    * [🔪💉Cease Covert Depopulation Letter🔪💉](/cease-covert-depopulation)
+    * [❁ Dutch Apologize for MH-17 Lies](/dutch-apologize-for-mh-17)
+    * [❁ Pacific Dead from Fukushima](/pacific-dead-from-fukushima)
+    * [❁ Strange Fish Story](/strange-fish-story)
+    * [❁ Blood Composition of Monkeys Altered Near Fukushima](/blood-composition-of-monkey)
+    * [❁ Secret Army Bases](/secret-army-bases)
+    * [⚛ Fukushima Plutonium Effect ⚛](/fukushima-plutonium-effect)
+      * [20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22](/20130423-_poster-estimatio)
+      * [⚛ Fukushima Blow-Up Regimes ⚛](/fukushima-blow-up-regimes)
+    * [➷ RAND Demographic Military Power ➷](/rand-demographic-military)
+    * [⚛ Depleted Uranium | DNA Damage ⚛](/depleted-uranium-dna-damag)
+    * [❁ Hidden Genocide: by Dr. Ernest Sternglass](/hidden-genocide-by-dr-ernes)
+    * [❁ Space Preservation Act of 2001](/space-preservation-act-of)
+    * [❁ 1972 Rothschild Ball](/1972-rothschild-ball)
+    * [❁ Unsafe Radwaste Disposal](/unsafe-radwaste-disposal)
+    * [♆ Fallout and Reproduction of Ocean Fish Populations](/fallout-and-reproduction-of)
+  * [❁ Lifestyle](/lifestyle)
+    * [📖 LM:GNC BookShelf](/lmgnc-bookshelf)
+      * [✑ Manuscripts ✍](/manuscripts)
+      * [🔴 “1984” George Orwell 💀](/1984-george-orwell)
+      * [➷ THE NAMELESS WAR 💣](/the-nameless-war)
+      * [🌍 Who Owns the World](/who-owns-the-world)
+      * [💀 Order OF Skull & Bones](/order-of-skull-bones)
+      * [🎼 Angels Don't Play this HAARP](/angels-dont-play-this-haarp)
+      * [👥 Genocide In Iraq v.I&II](/genocide-in-iraq-viii)
+      * [♟ Double Life of Fidel Castro ♚](/double-life-of-fidel-castro)
+    * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of)
+  * [❁ Archive](/archive)
+    * [⚛ 61 Years of Omnicide ⚛](/61-years-of-omnicide)
+    * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity)
+    * [❁ New Bombs and War Crimes in Fallujah](/new-bombs-and-war-crimes-in)
+    * [❁ Global Climate Change . . .](/global-climate-change)
+    * [⚛ International Radiation Distribution ⚛](/international-radiation)
+      * [Radiation Poisons Generations](/radiation-poisons-generatio)
+      * [Sellafield | Global Dose Test](/sellafield-global-dose)
+    * [💀 Depleted Uranium’n’DNA 😱](/depleted-uraniumndna)
+    * [❁ UC Regents Lose Nuke Pgm](/uc-regents-lose-nuke-pgm)
+    * [❁ DU-Trojan Horse](/du-trojan-horse)
+    * [❁ LM:GNC (Pt1)](/lmgnc-pt1)")
+    * [❁ LM:GNC (Pt2)](/lmgnc-pt2)")
+    * [❁ World Uranium Weapons Conference 2003](/world-uranium-weapons-confe)
+    * [⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization)
+    * [❁ "America First" Transcription](/america-first-transcription)
+    * [❁ "Whale Archive" Transcription](/whale-archive-transcription)
+    * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-globa)
+  * [❁ Glossary](/glossary)
+  * [❁ Contact](/contact)
+
+
+
+  
+
+
+  
+
+
+![LMGNC Irradiated Radiation Circular Symbol! - maxresdefault](/assets/images/irradiated-radiation-circul_med.png)
+
+# # #

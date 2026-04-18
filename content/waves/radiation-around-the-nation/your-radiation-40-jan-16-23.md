@@ -1,46 +1,1226 @@
 ---
-title: "Contact"
-description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
-section: "home"
-slug: "contact"
-path: "contact"
-sidebar: |
-  #### Contact LM:GNC
-
-  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
+title: "Your Radiation #40, Jan 16-23, 2016"
+description: "⚛ ⚛ ⚛ NEWSFLASH: US BIRTHRATE PLUNGES – SEE BELOW ⚛ ⚛ ⚛ A Branch of the Federal Government has Faithfully Compiled a List of Dead Kids, Infants Really, as Numbers Only for the Past 55 Years. It is Called the CDC, or Center for Disease Control. As if Pregnancy Were a Disease! If You Can Believe That ⚛ ⚛ ⚛"
+section: "waves"
+slug: "your-radiation-40-jan-16-23"
+path: "waves/radiation-around-the-nation/your-radiation-40-jan-16-23"
 ---
 
-## Leuren Moret
+![SEPERATOR- \(30\) LMGNC Irradiated Radiation Circular Symbols](/assets/images/seperator--30-irradiated_med-2.png)
 
-Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
+  
 
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
+Your Radiation This Week #40
 
----
+NEWSFLASH: US BIRTHRATE PLUNGES – SEE BELOW
 
-## Laurens L. Battis III — Original Publisher & Editor
+**San Francisco, by[ Bob Nichols](http://www.veteranstoday.com/author/bobnichols/) January 23, 2016 – Good Day, this is “Your Radiation This Week.” These are the recorded Radiation Highs that affected people this week around the United States.**
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
+**RADIATION CPM* COMPARISON CITY STATE**
 
----
+*Listed in Counts per Minute, a Count is One Radioactive Decay Registered by the Instrument.
 
-## A Note on Leuren's Whereabouts
+![Pic 1. Your Radiation #40, Jan 16-23, 2016](/assets/images/pic-1-your-radiation-40-jan_med.png)
 
-Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
+***** All Radiation Counts Reported Are Partial Counts ***** Uncounted types of radiation include Alpha, Beta, Gamma, Neutron and X-Ray radiation. Uncounted radiation, if added, makes the actual Count higher and more dangerous.
 
-If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+The highest radiation reporting city is listed first, the least radioactive city is listed last. Still, all reporting cities are above normal. These are the American cities that exceeded 1,000 CPM this week.
 
----
+  
 
-## The Archiver
 
-This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+  * **Normal Radiation is 5 to 20 CPM.** 6
 
-**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
 
-The source mirror and site code are both open and available on GitHub:
 
-- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
-- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
+[ ![CHART- Your Radiation #40, Jan 16-23, 2016](/assets/images/chart--your-radiation-40_med.png) ](/assets/images/chart--your-radiation-40.png)
+
+**🔴 Normal Radiation is 5 to 20 CPM.**6 
+
+Highest Recorded Radioactive City In America This Week
+
+**Miami, Florida****Wins! and is ****_The Most Radioactive City in the Nation this Week_ _._****There is no prize. . . **_just heartache and pain._
+
+**Only twenty-four (24) American cities topped out at more than 1,000 CPM this week. There were Thirty (30) cities last week. There are Sixteen (16) American cities between 900 and 999 CPM, inclusive. Stay Alert and take all appropriate precautions.** **The most prevalent isotope, Cesium 137, takes a daunting 600 years to decay to infinitesimal levels and it is not even particularly long-lived radiation. The Cesium will remain for 600 years.**
+
+**Bakersfield and Fresno, California stopped reporting for the time being or permanently in December 2015; it is not clear which. We’ll see what happens. In the meantime as a reminder, Fresno’s Five year Radioactive High is 2,504 CPM. Bakersfield’s 5 Year Rad High is 1,823 CPM.  
+**
+
+**I just could not overlook Washington, DC, at 383 CPM, subtotal Gamma and Beta, for a High Rad reading. This is not even a low for the District. The low Gamma only reading was only 73 CPM. Maybe they have some kind of fix for the Rad in DC? With all those politicians spending other people’s money?**
+
+**If Livermore Nuclear Weapons Lab came up with a way they even thought might work; don’t you think the politicians would buy it in an instant, no matter what the cost?  
+**
+
+**The total benefits package of living in Washington, DC are never ending and far surpass those of Normal men and women. Even New York City recorded a 769 CPM Radioactive High this week.**
+
+**  
+**
+
+**  
+**
+
+**Big Shift in the Cities.**
+
+**  
+**
+
+**Lethality Up**
+
+**It is actually much worse than it sounds, though. The Lethality goes up as the Radiation drops slightly after a nuclear disaster. This has happened outside the reactors – out in just plain old air. It’s really a Bummer in that respect.**
+
+**This is a Big Change in the cities. The sudden change could be either an EPA reporting policy change, a purely administrative move to produce lower numbers. Or, it could be the scientific reality of Uranium 238 gaining a Neutron and becoming Plutonium 239, it’s bigger, meaner, fissile cousin. This is definitely not good.  
+**
+
+**Two weeks ago 35 cities were above 1000 CPM. One week ago 30 cities were above 30 CPM. This week 24 cities are above 1000 CPM. There was a corresponding growth in the number of cities between 900 to 999 CPM. Sixteen (16) cities are now between 900 and 999 CPM.**
+
+**My thought is that a portion of the Uranium decayed to Plutonium and right on schedule. As a result, the air is more dangerous than ever. Stay tuned to YRTW, I’ll keep you advised.**
+
+**  
+**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+
+
+✍ Changes ✍
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+### Categories In,_Your Radiation This Week:_
+
+**Abandoned:** The Rad Unit was removed from public viewing by the governing authority.  
+
+
+**Tampered-with:** The Rad Unit was altered by the governing authority.
+
+**MIA, 5 Year High.** The Rad Unit data has gone missing, the recorded 5 year High Rad Number is posted, if available.  
+
+
+**KIA, 5 Year High.** The Rad Unit was obliterated by the governing authority. The 5 year High Rad Number is posted.
+
+  
+
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+___US Birthrate Plunges 1960 – 2014
+
+  
+
+
+A branch of the Federal government has faithfully compiled a list of dead kids, infants really, as numbers only for the past 55 years; it is called the CDC, or Center for Disease Control. As if pregnancy were a disease, if you can believe that.  
+
+
+The full impact of those thousands upon thousands of excess dead kids, finds its best expression in two simple numbers and they are easily calculated. The federal government is in the business of counting kids in a big way. 
+
+It is pretty simple really. The Total Fertility of the American population as measured in baby production ran at the rate of 118 kids for every 1,000 women in 1960. That had plunged to 62.9 babies for every 1,000 women by 2014. Americans it turns out, if judged as a herd of livestock, are doing none too well. In fact, that’s pretty shabby production. 
+
+The ongoing reason, year after year, for the erosion in human fertility is the horrific onslaught of uranium radiation, among other factors. Uranium is unique in one respect; Uranium Rad particles are attracted in an UN-natural way to Semen in men’s Balls and Eggs in women’s Ovaries. 
+
+The Rad-Dosed Babies are doomed before they are even born to lead stunted reproductive lives, generation after generation. The effect gets worse with each passing generation, too. Humans, animals, fish, or plants, it makes no difference, to the Rad it is all the same. The Mission is always – Attack and maim, or better – Kill.  
+
+
+Adult humans breathe about 17 times a minute, on average. Babies breathe faster. Each precious life giving breath may be contaminated with Uranium based Rad. As a result, Fertility is greatly reduced in the herd of people in the States as they grow older. 
+
+The numbers don’t lie. American Fertility plummeted over the past 75 years (1940 to 2014) also known as the Atomic Age of Uranium Radiation Poisoning. The next five year outlook is for yet another reduction in the Baby production.  
+
+
+Fight the scourge of radiation poisoning. Fight back. Make a baby today! Keep on till some of them live till they are a few years old. This is a National Security issue that’s very important; Do your part, men and women. Make a baby today for your country!  
+
+
+Do not despair if a few of your babies die along the way. There is nothing we can do about that; or, nothing much. Go Forward and make more!
+
+Take Heart, it is consistent with the National Nuclear Policy. Onward! As Texas Wildcatters say, “Proceed without Fear or Caution. Drill on!”
+
+  
+
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+
+
+___LA, or Los Angeles, California
+
+### Los Angeles Chemical and Nuclear Disaster 
+
+All the lib-er-al, conservative or otherwise inclined network jihadists reporters are going ape trying to convince you and everyone else that it is a chemical problem spewing in the LA environment. In LA-speak that means the air. 
+
+Nay, Nay not so. They are merely doing the job assigned to them … to mislead people with all the skill they can muster. They are very good, too, make no mistake about it.  
+
+
+Actually, the chemical problem is the lesser problem, though it will definitely kill you. The LA Nuclear Disaster is a Nuclear problem of the 1st order, though. 
+
+The “methane” is usually called Natural Gas. It normally contains “natural radioactive materials” that are made in the inside of exploding stars. They are things like Uranium 238 and have been here since the planet was formed. They are in the very dirt of the Earth and thus are in natural gas, naturally. You can’t have one without the other.  
+
+
+The rogue well is spewing huge amounts of Natural Gas and about 1.91 Curie an hour maximum of natural radioactive material in the natural gas. Not much, you think? That is about 45.95 Curies per day. It is a really, really Big leak of natural gas and the radiation it always carries. A Curie is a unit of measure used in the United States to describe very large radioactive releases easily and this is a very big radioactive release. 
+
+The French Becquerel is a much more human sized unit of measure. One Becquerel is one Radioactive Count per Second. One Curie equals 37 Billion Becquerels or Radioactive Counts per Second. One point Seven Trillion Becquerels per day spew from the Natural Gas well. That’s a number with a bunch of Zeros – a real Fukushima Disaster Class number right here in the USA.  
+
+
+From Europe, AIPRI finds: 
+
+“In 80 days of viscous and gaseous fumes at a breakneck pace of 1.7 million m 3 per day (1115 tons per day at a rate of 46 tons per hour escape from the underground storage), 136 million m 3 Natural gas dispersed in the air could carry with them having TBq 301.24 (3,01E14 Bq) is 8.14 KCI natural radioactivity for respirable emanation of 12,060,000 Sievert is equivalent 2 41 million of potential lethal dose by inhalation to direx same dose coefficients from ICRP.” AIPRI [15] Translation by Google. ICRP is the International Commission on Radiological Protection.  
+
+
+This is just awful, folks. What it all means is it is time for people in LA and the San Fernando Valley to get out of town.
+
+That’s the US for you, it just ain’t real unless the perps do something that will kill a lot of people. Anybody in LA up for Evacuating, Right Now, Porter Ranch style; or just ready to go for a walk-about? 
+
+Don’t worry, you’ve got company, all those nuclear refugees from St Louis, Missouri are out there somewhere. By the way, do not go where it typically snows. See below.
+
+  
+
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+**___** Snowflakes and Radiation
+
+![zPic 1.2. 20160109 RadSnow, Good luck on keeping your friends or kids out of the Rad Nnow. Have them check out #RadSnow and #DodgeRadsNow it might help](/assets/images/zpic-12-20160109-radsnow_med_hr.jpeg)
+
+**Well, it is winter time again and many portions of the world in the Northern Hemisphere are scheduled to get varying amounts of snow. This is of supreme importance when we are talking about the Rads that are everywhere now.**
+
+**Any kind of precipitation “scavenges” the Rad from the air as the precip passes through it. Snow is far and away the best Rad scavenger or collector there is. Snow grabs about 95% of the Rad in the air at the time it passes through it. The wind, of course, blows in more Rad or a reactor vents more Rad to your city directly.**
+
+**Still want to play in the radioactive snow this year? I wouldn’t if I were you. Yea… that is one more thing we cannot do because of an odorless, tasteless, invisible, ittsy-bittsy piece of Rad metal that is in the air we breathe; and, adults breathe about 17 times a minute. See also Notes & Sources Item #14 below.  
+**
+
+![Pic 2. 20160109 Winter Storms- Bella, Hera](/assets/images/pic-2-20160109-winter-storm_med.png)
+
+**Good luck on keeping your friends or kids out of the Rad snow. Have them check out #RadSnow and #DodgeRadsNow – it might help.**
+
+**  
+**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+  
+
+
+___Help Fight the FaceBook Thought Police
+
+**Just Google and Share Your Radiation This Week to help fight the FaceBook Thought Police. Some concept, eh? Well, they are here, active and Gross as anyone you’ve ever met. Help Fight the FaceBook Thought Police today and everyday.**
+
+**How? Simple, just Google and Share: Your Radiation This Week. That’s all! Thanks, I appreciate it.  
+**
+
+**Fight Censorship, Fight Back! Google and Share.**
+
+**  
+**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+  
+
+
+**_Yuma, Phoenix and Tucson Rad Units Go High, Are Shutdown**
+
+**  
+**
+
+**Yuma, Phoenix and Tucson, Arizona all saw extended absences** in their Rad measurement units this week after Yuma’s nation leading High Rad last week. Seems the New Westerners turn tail and run at the first sign they need to Man Up, or Woman Up, as the case may be. Gender is meaningless here; they deserted.
+
+**All the publicly reporting Rad Monitors** were Switched Off when called on to perform. Y’know, what the staff gets paid good money to do, keep the machines running. So, who ordered them to shut down? Were the machines lobotomized, too, like in Billings, Montana?
+
+**The real question is** still the same question as always: Where did the Rad come from – nuke weapons or nuke reactors? Yup, there are only two possible sources for this much Rad: Exploding nuclear weapons or daily venting of nuclear reactors. This is no high school physics lab test gone bad or backyard fission event.
+
+**Take your pick** ; You are damned if you do and damned if you don’t. There are no other big nuclear sources on this planet.
+
+**It takes about 40 days** for High Rad intermingled with the Jet Stream to come around again and re-hit the States. There is so much Rad high up in the air that this always happens. Closer to home there is Sen John McCain’s Favorite reactor in Phoenix. Getting long-in-the-tooth, it is.
+
+**The World’s Nuke Weapons Labs know,** of course; exactly where the Rad came from; but, they aren’t talking – not their job. The original sources are still the same, though: weapons or reactors. Take your pick. Don’t dither. The Rad excursion happened Dec 18, 2015. Somewhere another will happen today; and tomorrow, and all our tomorrows forever.
+
+_  
+_
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+___Analysis of Certain Isotopes after Meltdown in 1992
+
+Hold on to your hat. **In 1992 Germany calculated that in reactor meltdowns like Fukushima Daiichi the radioactive isotope Strontium 90 would aggressively poison the environment for 109.2 years and then decline slowly over the next 273 years.** Of course, we will ALL be long dead by then. Other deadly Rad isotopes put Strontium 90’s generous life span to shame.
+
+The German study is here for those brave enough to tackle it. Source: The IAEA: _"__[Dispersion of radionuclides and radiation exposure after leaching by groundwater of a solidified core-concrete melt](http://inis.iaea.org/search/search.aspx?orig_q=RN:36050278)_ _”_ by Bayer, A.; Tromm, W.; Al-Omari, I. (Kernforschungszentrum Karlsruhe (Germany)) from 8. International congress of the International Radiation Protection Association (IRPA8)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+**⎯** _Isotope Count Reporting_ **⎯**
+
+**These CPM numbers** do not represent the real radiation counts in your radiation weather this week. It is actually much higher [worse] than these government certified partial reports say. Use these report numbers as your**** Starting Point in adding up your daily, monthly and annual exposure from your Rad Weather.
+
+**Most Radiation Monitors** report on the radioactive presence of Cesium 137 at the detector. YRTW will report on the secrets the Pros use in estimating the actual Total radiation counts. It is not a pretty picture.
+
+**The Lethality** from a specific release goes up for 35 years; then the Lethality declines slightly and hangs steady for thousands of years. Regrettably for all Normal Humans that is many generations. The end result, of course, is extinction of our species and all others. Everybody is included; no one is left out. I know of no variety of Humans immune to radiation.
+
+**Day One** out of the reactor use a Cesium 137/134 CPM multiplier of 150 Times. After 15 days outside the reactor the multiplier is still about 100 times the two similarly named Cesium Isotopes – Cesium 137 and Cesium 134. After 10 years have passed from that release, the Multiplier is Five Times the common published Cesium 137 report.
+
+**The Lethality Is Still Increasing Though.** Yes, the Radiation is going down and the Lethality is going up at the same time for 35 years after a big release. That is a really hard to understand point about Your Rad Weather This Week. Each new major Rad release starts the Cesium countdown clock all over again, too. It gets … complicated; with all the overlapping and the daily releases.  
+
+
+**Here’s How You Can Calculate An Estimate Of Your Total Rad Today:** Use a reported account of your Cesium 137 CPM and Multiply Times 5. Another way to say it is Cs137CPM X 5.0 = Your Total Radiation Estimate. That’s it. No magic. Just the facts as close as you can calculate it. Good Luck.
+
+**However, Provided Cesium 134 Is Present** you are experiencing a recent radioactive release and all bets are off. Why is that? Because the two Rad Isotopes decay at greatly different rates. The relatively long lived Cs 137 is half gone in 30.1 years. The shorter lived Cesium 134 is half gone in only 2.06 years. As a result the Multiplier changes very rapidly.
+
+**Radiation Types Commonly Measured** by radiation monitors include Alpha, Beta, Gamma, Neutron and X-Ray radiation. Only Beta and Gamma are reported by the EPA and here on YRTW. The only thing they have in common is that all will kill you. There are also 1,944 known individual Rad elements, only a few are ever mentioned in articles.
+
+**In Short,** the newer disaster’s Cesium 137/134 immediate radiation readings so conveniently echoed by official news outlets tell you right away by simple Multiplication how big the disaster really is. Think of it as the insider’s secret code. Multiply away!
+
+**How Often Do Radioactive Releases Occur?** The Answer Is: **Radioactive Releases Occur Daily In Most Reactors.** This almost daily reactor Venting does complicate your health and your estimated Rad readings. May you always have better Rad Weather; but, that’s not likely.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯  
+
+
+ _Isotope Detectors_
+
+**If You Have A Lot Of Money You Can Buy An Isotope Detector** that will tell you the name of isotopes it is tuned to detect. They are excellent tools for determining specific Rad elements. More power to you if you can afford one, or a group of you can pony up the Bucks to buy one. In this case knowledge is power. That kind of power can only be bought.
+
+![Pic 2. Master Sergeant John C. Woods, 3rd Army Hangman, WWII](/assets/images/pic-2-master-sergeant-john_med_hr.png)
+
+Without it, you have what the Pro-Nukers laughingly refer to in our lives as “A shortened life span.” That means the Pro-nukers are joyfully killing people these 70 years now and have no intention of stopping. **I mean, after all, They Get Rich Slaughtering Us.**
+
+**Jeeeez, Where Is Master Sergeant Woods,** 3rd Army Hangman in WWII? We need him to hang these Stainless Steel Psychopaths and their political hirelings, all legal like.
+
+  
+
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+Previous Editions of YRTW
+
+Prior Editions of  _Your Radiation This Week_ are listed here at the end of the column. Each  _YRTW_ and all my previous VeteransToday columns are at <http://www.veteranstoday.com/author/bobnichols/> as well.
+
+  * **[⚛ Your Radiation #39, Jan 9-16, 2015 🌎](/your-radiation-39-jan-9-16)**
+  * **[⚛ Your Radiation #38, Jan 2-9, 2015 🌎](/your-radiation-38-jan-2-9)**
+  * **[⚛ Your Radiation #37, Dec 26 - Jan 2, 2015 🌎](/your-radiation-37-dec-26)**
+  * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+  * **[⚛ Your Radiation #35, Dec 19-26, 2015 🌎](/your-radiation-35-dec-12-19)**
+  * **[⚛ Your Radiation #34, Dec 12-19, 2015 🌎](/your-radiation-34-dec-5-12)**
+  * [**⚛ Your Radiation #33, Nov 28 - Dec 5, 2015** 🌎](/your-radiation-33-nov-28)
+  * [**⚛ Your Radiation #32, Nov 21-28, 2015** 🌎](/your-radiation-32-nov-21-28)
+  * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+  * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+  * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+  * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+  * [⚛ Your Radiation #27, Oct 24-31, 2015 🌎](/your-radiation-27-oct-17-24)
+  * [⚛ Your Radiation #26, Oct 10-17, 2015](/your-radiation-26-oct-10-17)[ 🌎](/your-radiation-26-oct-10-17)
+  * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+  * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+  * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+  * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+  * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+  * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+  * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+  * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+  * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+  * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+  * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+  * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+  * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+  * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+  * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+  * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+  * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+  * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+  * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+  * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+  * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+  * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+  * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+
+
+
+  
+
+
+**Have A Wonderful Radioactive Weekend And Remember To Dodge The Rads,_It’s Dangerous Out There_!**
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+**Sources and Notes**
+
+1. The Radiation charts and graphs of the EPA at <http://www2.epa.gov/radnet> Individual queries can be built at the EPA RadNet Query Builder. Don’t skip the “2” in www2.
+
+2. The EPA based reporting of [NETC.com](http://netc.com/), an LLC.
+
+3. * This station’s Radiation equals combined Beta and Gamma Radiation. Note: Not all locations have reporting Beta Radiation Monitors. Gamma Radiation Monitors are functioning at all these locations.
+
+4.  _“…If you pollute when you DO KNOW there is NO safe dose with respect to causing extra cases of deadly cancers or heritable effects, you are committing premeditated random murder.”_ – [John W. Gofman, Ph.D., M.D. (1918-2007),](archive/curriculum-vitae-of-dr-john.pdf) associate director, Lawrence Livermore National Laboratory 1963-1969) — Comments on a Petition for Rulemaking to the Nuclear Regulatory Commission, May 21, 1994.
+
+5. CPM.  _“Although we can’t see it, taste it, smell it or hear it we can measure radiation and observe its effects. One way to measure radiation which the United States Environmental Protection Agency [EPA] has chosen to use on its radiation websites is in Counts Per Minute. Each Count is One Radioactive Decay.”_ [Quote from the ‘Your Radiation, This Week.’” Apr 3, 2015.](http://www.veteranstoday.com/2015/04/03/your-radiation-this-week/)
+
+6. Digilert 100 Promotional Flyer pdf,  _“Normal background is 5-20 CPM.”_ <http://keison.co.uk/seinternational_digilert100.shtml> Copyright @ 2015 Keison International Ltd – All Rights Reserved.
+
+7. Many baby seals dying of leukemia-linked disorder along California coast — Blamed for over 1/3 of recent deaths at San Francisco Bay rescue center (CHART), ENENEWS, Energy News Aggregator, <http://enenews.com/many-seals-dying-leukemia-linked-disorder-along-california-coast-13-recent-deaths-san-francisco-bay-animal-research-hospital-caused-disseminated-intravascular-coagulation-chart>
+
+8. [_Dispersion of radionuclides and radiation exposure after leaching by groundwater of a solidified core-concrete melt_ ](http://inis.iaea.org/search/search.aspx?orig_q=RN:36050278)by Bayer, A.; Tromm, W.; Al-Omari, I. (Kernforschungszentrum Karlsruhe (Germany)) from 8th International congress of the International Radiation Protection Association (IRPA8)
+
+9. _**[Resuspension and redistribution of radionuclides during grassland and forest fires in the Chernobyl exclusion zone: part I. Fire experiments](http://www.elsevier.com/locate/jenvrad)**_ , Journal of Environmental Radioactivity 86 (2006) 143e163 [www.elsevier.com/locate/jenvrad](http://www.elsevier.com/locate/jenvrad)
+
+**Abstract:** “Controlled burning of experimental plots of forest or grassland in the Chernobyl exclusion zone has been carried out in order to estimate the parameters of radionuclide resuspension, transport and deposition during forest and grassland fires and to evaluate the working conditions of firemen. An increase of several orders of magnitude of the airborne radionuclide concentration was observed in the territory near the fire area. The resuspension factor for 137Cs and 90Sr was determined to range from 106 to 105 m1 the plutonium radionuclides from 107 to 106 m1 (related to the nuclides in the combustible biomass). These values are 2 orders of magnitude lower if they are calculated relatively to the total contamination density (including the nuclides in the soil). The radionuclide fallout along the plume axis is negligible in comparison to the existing contamination. However, the additional inhalation dose for firemen exposed in, and for …”
+
+10. St. Louis landfill fire could reach radioactive waste in months, September 18, 2015, [http://america.aljazeera.com/articles/2015/9/18/missouri-st-louis-landfill-fire-could-reach-radioactive-waste-in-months.html ](http://america.aljazeera.com/articles/2015/9/18/missouri-st-louis-landfill-fire-could-reach-radioactive-waste-in-months.html)  
+
+
+11. **DEPLETED URANIUM** RADIOACTIVE WASTE – DISPOSAL. By: Evgenia Misenzhnikova, Legislative Intern. <https://www.cga.ct.gov/2006/rpt/2006-R-0049.htm> (uranium can spontaneously ignite and then burn at temperatures of above 10,832 degrees Fahrenheit) …
+
+12. “Silence radio(actif) pour l’accident nucléaire à la centrale Leningrad,” Mediapart Journal, Dec 21, 2015. [https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fblogs.mediapart.fr%2Fle-nouvel-os%2Fblog%2F211215%2Fsilence-radioactif-pour-laccident-nucleaire-la-centrale-leningrad&anno=2&sandbox=1](https://translate.google.com/translate?hl=en&sl=fr&tl=en&u=https%3A%2F%2Fblogs.mediapart.fr%2Fle-nouvel-os%2Fblog%2F211215%2Fsilence-radioactif-pour-laccident-nucleaire-la-centrale-leningrad&anno=2&sandbox=1)  
+
+
+13. “Russians flee Chernobyl-style plant over fears of radioactive leak,” Express, UK, <http://www.express.co.uk/news/world/628592/Chaos-Russians-flee-Chernobyl-style-plant-radioactive-leak>
+
+14. Google: **[snowflake radiation scavenger](https://www.google.com/search?q=snowflake+radiation+scavenger&ie=utf-8&oe=utf-8)**. Read,  _[”Iraq: Silent Death,"](https://books.google.com/books?id=yhylCgAAQBAJ&pg=PT317&lpg=PT317&dq=snowflake+radiation+scavenger&source=bl&ots=sieHs3cual&sig=vtaYtel7Dffae2-hUPqlbZwD0Js&hl=en&sa=X&ved=0ahUKEwi2h5bkhZ7KAhXIbSYKHbzYC8UQ6AEIKTAC#v=onepage&q=snowflake%20radiation%20scavenger&f=false)_ edited by Christian P Scherrer for his comments on Snow as a radiation scavenger. [ttps://www.google.com/search?q=+Iraq%3A+Silent+Death&ie=utf-8&oe=utf-8](https://www.google.com/search?q=+Iraq%3A+Silent+Death&ie=utf-8&oe=utf-8) “… Snow is the most efficient scavenger because snowflakes have highly charged points, tips and edges, and they attract and remove 95% of the particles from the atmosphere.”
+
+15. “Alison Canyon, California or the radon Valley,”AIPRI, January 16, 2016, <http://aipri.blogspot.com/2016/01/alison-canyon-californie-ou-la-vallee.html> “In 80 days of viscous and gaseous fumes at a breakneck pace of 1.7 million m 3 per day (1115 tons per day at a rate of 46 tons per hour escape from the basement), 136 million m 3 Natural gas dispersed in the air could carry with them having TBq 301.24 (3,01E14 Bq) is 8.14 KCI natural radioactivity for respirable emanation of 12,060,000 Sievert is equivalent 2 41 million of potential lethal dose by inhalation to direx same dose coefficients from ICRP.  
+
+
+16. US Birthrate Plummets 1990 – 2014, CDC, Center for Disease Control, US Government. <http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6450a6.htm?s_cid=mm6450a6_e>
+
+17. QuickStats: Birth Rates Among Females Aged 15–19 Years, by Race/Ethnicity* — National Vital Statistics System, United States,† 1991 and 2014, <http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6450a6.htm?s_cid=mm6450a6_e> National Vital Statistics Reports, by Brady E. Hamilton, Ph.D., <http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_12.pdf>
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+<http://www.veteranstoday.com/2016/01/23/your-radiation-this-week-no-40/> **  
+**
+
+© Copyright by [Bob Nichols](http://www.veteranstoday.com/author/bobnichols/) @ 2016. Reproduce and distribute, give full attribution to Bob Nichols and Veterans Today.
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+[![Bob Nichols 86](/assets/images/bob-nichols-86_med_hr.jpeg)](http://www.veteranstoday.com/author/bobnichols/)
+
+[Bob Nichols](http://www.veteranstoday.com/author/bobnichols/)
+
+Bob Nichols is a Project Censored Award winner, a correspondent for the San Francisco Bay View newspaper and a frequent contributor to various online publications. He reports on war, politics and the two nuclear weapons labs in the Bay Area. Nichols is writing a book based on 20 years of nuclear war in Central Asia. He is a former employee of an Army Ammunition Plant. You are encouraged to write Nichols at [duweapons@gmail.com](mailto:duweapons@gmail.com)
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+### MORE NICHOLS ON NUCLEAR AROUND THE WORLD
+
+[Iraq Buys Russian Weapons | Veterans Today ](http://www.veteranstoday.com/2012/10/14/iraq-buys-russian-weapons/)
+
+[Bomb Syria? | Veterans Today ](http://www.veteranstoday.com/2013/10/11/bomb-syria/)
+
+[CHINA: New Sheriff In Town | Veterans Today ](http://www.veteranstoday.com/2012/11/09/new-sheriff-in-town/)
+
+[Notice – Byron, Illinois Nuke In Trouble | Veterans Today ](http://www.veteranstoday.com/2012/01/31/notice-byron-illinois-nuke-in-trouble/)
+
+[South Central US Poisoned by New Mexico Nuke Garbage Dump | Veterans Today ](http://www.veteranstoday.com/2014/03/02/south-central-us-poisoned-by-new-mexico-nuke-garbage-dump/)
+
+[Poison Gas Kills Iraqi Sperm then Spreads | Veterans Today ](http://www.veteranstoday.com/2010/05/30/poison-gas-kills-iraqi-sperm-then-spreads/)
+
+[US War Plan: Talk about Thermonuclear Bombs But Use little Nuclear Munitions | Veterans Today ](http://www.veteranstoday.com/2010/05/13/us-war-plan-talk-about-thermonuclear-bombs-but-use-little-nuclear-munitions/)
+
+[PTSD, infertility and other consequences of war | Veterans Today ](http://www.veteranstoday.com/2010/04/27/ptsd-infertility-and-other-consequences-of-war/)
+
+[Fighter Pilot Len Dietz Sets the Killing Rad Number | Veterans Today ](http://www.veteranstoday.com/2011/03/11/len-dietz-fighter-pilot-sets-the-killing-rad-number/)
+
+[How to Hide Nuke Weapon Use | Veterans Today ](http://www.veteranstoday.com/2011/02/23/how-to-hide-nuke-weapon-use/)
+
+[CIA and Israeli Intelligence Take Out Iranian Nuke Centrifuges | Veterans Today ](http://www.veteranstoday.com/2011/02/02/cia-and-israeli-intelligence-take-out-iranian-nuke-centrifuges/)
+
+[Navy Pitch for Exotic Weapons Launches at Pearl Harbor | Veterans Today ](http://www.veteranstoday.com/2011/01/03/navy-pitch-for-exotic-weapons-launches-at-pearl-harbor/)
+
+[Los Alamos Scientist: TSA Scanners Shred Human DNA | Veterans Today ](http://www.veteranstoday.com/2010/12/17/los-alamos-scientist-tsa-scanners-shred-human-dna/)
+
+[Did PM Netanyahu get a Lethal Dose of DU? | Veterans Today ](http://www.veteranstoday.com/2010/12/11/did-pm-netanyahu-get-a-lethal-dose-of-du/)
+
+[Iraq is a Self Cleaning Oven | Veterans Today ](http://www.veteranstoday.com/2010/11/27/iraq-is-a-self-cleaning-oven/)
+
+[NUCLEAR TERRORISM: A GROWTH INDUSTRY | Veterans Today ](http://www.veteranstoday.com/2010/11/10/nuclear-terrorism-a-growth-industry/)
+
+[AFGHANISTAN IED TO 9-11 AND BACK | Veterans Today ](http://www.veteranstoday.com/2010/11/06/afghanistan-ied-to-9-11-and-back/)
+
+[HUNGARY IS A FAILED STATE. OVER. EXTINCT. | Veterans Today ](http://www.veteranstoday.com/2010/10/23/hungary-is-a-failed-state-over-extinct/)
+
+[9/11, Global Warming and other Crimes | Veterans Today ](http://www.veteranstoday.com/2010/09/18/911-global-warming-and-other-crimes/)
+
+[WikiLeaks: “about 483 Million Google Hits” | Veterans Today ](http://www.veteranstoday.com/2010/12/19/wikileaks-%e2%80%9cabout-483-million-google-hits%e2%80%9d/)
+
+[38 HIROSHIMAS HIDDEN: How’d The Army Do That? | Veterans Today ](http://www.veteranstoday.com/2010/10/15/38-hiroshimas-hidden-how%e2%80%99d-the-army-do-that/)
+
+[Iran Signs Own Death Warrant | Veterans Today ](http://www.veteranstoday.com/2012/01/17/iran-signs-own-death-warrant/)
+
+[BOB NICHOLS: The War on Sperm in Iraq | Veterans Today ](http://www.veteranstoday.com/2010/09/10/the-war-on-sperm-in-iraq/)
+
+[UPDATE NO 1– EVACUATE NOW!: This is Not a Drill | Veterans Today ](http://www.veteranstoday.com/2010/08/22/46021/)
+
+[BOB NICHOLS: US TO DRILLERS, “GO FOR IT! | Veterans Today ](http://www.veteranstoday.com/2010/09/04/us-to-drillers-go-for-it/)
+
+[Nichols on the Jeff Rense Show – GI’s Brains | Veterans Today ](http://www.veteranstoday.com/2010/10/09/nichols-jeff-rense-show-gi-brains/)
+
+[GI’s Brains Fried by Military Dispensed Nose Candy | Veterans Today ](http://www.veteranstoday.com/2010/10/02/gis-brains-fried-by-military-dispensed-nose-candy/)
+
+![SEPERATOR- \(30\) LMGNC Irradiated Radiation Circular Symbols](/assets/images/seperator--30-irradiated_med-2.png)
+
+  
+
+
+[![\(-ed\) Cheshire Cat Smiling \(EDITOR LMGNC\)](/assets/images/ed-cheshire-cat-smiling_med_hr.jpeg)](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+[❁ LM:GNC on YouTube ❁](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+Visitors to LM:GNC
+
+  
+
+
+![TITLE, LMGNC Site Map](/assets/images/title-lmgnc-site-map-2_med.png)
+
+  
+
+
+[Leuren Moret: Global Nuclear Coverup](/)
+
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)
+    * [🚫 Out of Eurasia 🚫](/out-of-eurasia)
+    * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international)
+    * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition)
+    * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde-haarp-nlp)
+    * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima)
+    * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm)
+    * [🌎 New World Order America 🇺🇸](/new-world-order-america)
+    * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine-eu)
+    * [👥 Template: Jade Helm](/template-jade-helm)
+    * [✠ America’s Domestic Pacification ✠](/americas-domestic-pacificat)
+    * [♨️ Chernobyl, Zaporozhye, Blackmail ⚛](/chernobyl-zaporozhye-blackm)
+    * [💉 REBRANDING DISASTER🔪](/rebranding-disaster)
+    * [👤 Eurasian Enigma Arises](/eurasian-enigma-arises)
+    * [🔴 Donetsk Nuclear Explosion ⚫️](/donetsk-nuclear-explosion)
+      * [🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️](/interview-donetsk-nuclear)
+      * [⛔️ ”Absolutely Massive," Nuke Explosion Ukraine](/absolutely-massive-nuke)
+    * [🌍 21st Century Silk Road 🌏](/21st-century-silk-road)
+      * [🌍 Silk Road Strategies 🌐](/silk-road-strategies)
+      * [🌍 21st Century Silk Road PT1 🌏](/21st-century-silk-road-pt1)
+      * [🌍 21st Century Silk Road PT2 🌏](/21st-century-silk-road-pt2)
+      * [🌍 21st Century Silk Road PT3 🌏](/21st-century-silk-road-pt3)
+    * [🌍 Africa ☗](/africa)
+      * [🇫🇷 Libya's Orwellian Bienvenue 💣](/libyas-orwellian-bienvenue)
+    * [♞ Balkans, The Nameless Triangle](/the-nameless-triangle)
+      * [📜 VERDICT FIRST | SENTENCES LATER ♨️](/verdict-first-sentences)
+      * [⏰💀 Macedonian Uprising / Western NGO's](/macedonian-uprising-wester)
+      * [⏰ Minsk? Nyet! Boisto Island](/minsk-nyet-boisto-island)
+      * [☞ ☜ And Now the Flawed Minsk Agreement](/and-now-the-flawed-minsk)
+    * [🌏 China 🌝](/china)
+      * [➷ 300 Years Wasted 💀](/300-years-wasted)
+    * [🌍 Eurasia 🔴](/eurasia)
+      * U.S. Collapse in Syria
+      * [💰 Oil Money? | EU Laundromat? 🚿](/oil-money-eu-laundromat)
+      * [💣 Terrorist Christmas, Jihadi New Year 💀](/terrorist-christmas-jihadi)
+      * [🌞 Stable Oil Trade 🌝](/stable-oil-trade)
+    * [💣 Israel: Out of Erupt!](/israel-out-of-erupt)
+      * [💀 Israel Forced to Investigate ☚](/israel-forced-to-investigat)
+      * [🎈 Sweden: A Stage is Set](/sweden-a-stage-is-set)
+    * [✠ Jesuits/Templar’s Origins & Aims](/jesuitstemplars-origins)
+      * [👺 SOROS ✠ NWO 📚 Hacked ✍](/soros-nwo-hacked)
+      * [➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳](/pyatts-soros-breakfast)
+      * [Breedlove, GOOD RIDDANCE](/breedlove-good-riddance)
+      * [🎱 Obama’s $3 Billion Eurocon 💸](/obamas-3-billion-eurocon)
+      * [🌍 A Psychopath’s Psychopath ✠](/a-psychopaths-psychopath)
+      * [🔫 Global Hit Squad 💣](/global-hit-squad)
+      * [💀 Neo-Capitalist’s Slave Trade 💰](/neo-capitalists-slave-trade)
+        * [💰 Terrorist Law on Slaves 💀](/terrorist-law-on-slaves)
+        * [💩 Be Somebody, Be A Minion! 💩](/be-somebody-be-a-minion)
+      * [🇺🇸 Bio: Undermine Control](/bio-undermine-control)
+      * [↷ Fine Evening For A Minuet ↶](/fine-evening-for-a-minuet)
+      * [✠ Slavery, Then & Now](/slavery-then-now)
+      * [💣 JCS Operation Northwoods](/jcs-operation-northwoods)
+      * [✠ The Three Secret Meetings](/the-three-secret-meetings)
+    * [Korea Yeonhee (연희) Nuclear Kabuki Theatre](/korea-yeonhee-nuclear-kabuk) Nuclear Kabuki Theatre")
+    * [🌍 Middle East 💣](/middle-east)
+      * [💣 ISIL: Battered, Retreating 💀](/isil-battered-retreating)
+      * [🔥 Turkish Coup Attempt 💣](/turkish-coup-attempt)
+        * [💣 Campbell’s Turkey Coup 🎭](/campbells-turkey-coup)
+        * [🇪🇸 Turkey Coup, NATO Fire 🔥](/turkey-coup-nato-fire)
+      * [⚑ Muslim Brotherhood and ISIS ⚫️](/muslim-brotherhood-and-isis)
+      * [🔫💰💉Daesh Terrorist Multi-Tool🔪💣💊](/daesh-terrorist-multi-tool)
+      * [🚧 US and Turkey, NWO the Kurds 💸](/us-and-turkey-nwo-the-kurds)
+      * [✠ Hitler Bragged on Jesuits ✠](/hitler-bragged-on-jesuits)
+      * [🍞 Their Daily Bread & Rubble 💣](/their-daily-bread-n-rubble)
+      * [🔪“Erdogan is Strengthening ISIS”💣](/erdogan-is-strengthening)
+      * [🇫🇷 Russia Reveals ISIS’ Money 💰💰](/russia-reveals-isis-money)
+      * ["Raqqa's Rockefellers” ISIS Full Frontal](/raqqas-rockefellers-isis)
+        * [🍗 Mini Erdogan’s Terrorist Dinner 💣](/mini-erdogans-terrorist)
+      * [☞ Smashing Turkey’s Game❌](/smashing-turkeys-game)
+      * [🌍 Juncker | E.U. | Direction ⤣](/juncker-eu-direction)
+      * [🔪 GLADIO Wolf Kills Russian Pilot ✈︎](/gladio-wolf-kills-russian)
+      * [✈︎ Washington’s SU-24 🎯](/washingtons-su-24)
+      * [🌐 Turkey, NATO, War Crime? 🔎](/turkey-nato-war-crime)
+      * [➷ 449-Down, ISIL to Go 💣](/449-down-isil-to-go)
+    * [🌎 North America 🔥✠](/north-america)
+      * [🌎🔥 Alberta Oil Sands Fire 🌎🔥](/alberta-oil-sands-fire)
+    * [🇷🇺 Russia 🇷🇺](/russia-is-coming)
+      * [🇷🇺 PUTIN OVERHAULS KREMLIN 🏰](/putin-overhauls-kremlin)
+      * [☛ Who Created ISIS ☚](/who-created-isis)
+        * [☞ Assad’s ISIS Interview 🎥](/assads-isis-interview)
+      * [🍳 Food Supply Compromised 🎱](/food-supply-compromised)
+      * [🌍 Putin re Ceasefire Syria 🌐](/putin-re-ceasefire-syria)
+      * [👤 Cold War Re-Run 👀](/cold-war-re-run)
+      * [🌐 Minsk 101 | Theatre of the Absurd 🌍](/minsk101-theatre-of-absurd)
+      * [🌐 Geopolitical Original Sin 🌍](/geopolitical-original-sin)
+      * [♘ Russian Troops | Turkish Border ♘](/russian-troops-turkish)
+      * [📚 Educating Charlie Rose 🔑](/educating-charlie-rose)
+      * [🌍 Lavrov's Munich Speech](/lavrovs-munich-speech)
+      * [🎱 US Embassy Media Fail 🎭](/us-embassy-media-fail)
+      * [✠ ♛🃏 Putin’s Jar Of Spiders](/putins-jar-of-spiders)
+      * [🎱 MOSSAD’S ON THE DOORSTEP 💣](/mossads-on-the-doorstep)
+      * [📄 This Document is Dynamite 📄](/this-document-is-dynamite)
+      * [♔ The Golden Trap](/the-golden-trap)
+      * [❁ Russian Fusion-Fission](/russian-fusion-fission)
+      * [❁ Putin’s 7-Point Plan](/putins-7-point-plan-2)
+      * [❁ Russian Position Speech](/russian-position-speech-2)
+    * [✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?](/mh-17-jesuits-flagged-brics)
+      * [⏰ Ukraine? 🔥 Bail Out! ✈️](/ukraine-bail-out)
+        * [🐟 Poroshenko Calls Merkel 🐙](/poroshenko-calls-merkel)
+        * [🃏 Poroshenko’s Spanish Villa 🏰](/poroshenkos-spanish-villa)
+      * [💦👤 Psychotropic Zombification ☔️](/psychotropic-zombification)
+      * [💣 Odessa Trade Union Murders 🔥](/odessa-trade-union-murders)
+      * [🃏 Nothing Personal, Just Business 💰](/nothing-personal-just-busin)
+      * [💉 BioWeapons for Depopulation 💀](/bioweapons-for-depopulation)
+      * [⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀](/nuclear-coverup-ukraine)
+      * [🔥 Unsustainable Ukraine 👥](/unsustainable-ukraine)
+      * [☗ ASHES TO ASHES 💀](/ashes-to-ashes)
+      * [🔪Ukrainian Wikileaks 👀](/ukrainian-wikileaks)
+      * [☞ Dispatches From the Front 🔫](/dispatches-from-the-front)
+      * [💣 The Ukrainian Failed State 🌍](/the-ukrainian-failed-state)
+      * [🔑 Our Decisions Define Us🔑](/our-decisions-define-us)
+      * [✠ Child Abuse 💀](/child-abuse)
+        * [✏️ UkroNazi ABC’s 📕](/ukronazi-abc)
+      * [💣 Mozgovoi’s Murder 🔪](/mozgovois-murder)
+        * [♞ This War? No Victory 💀](/this-war-no-victory)
+        * [☦ It Is A Gift To Die In May…](/it-is-a-gift-to-die-in-may)
+        * [🔍 Mozgovoy Murder Analysis p1.](/mozgovoy-murder-analysis-p1)
+        * [🔍 Mozgovoy Murder Analysis p2.](/mozgovoy-murder-analysis-p2)
+      * [🎱 Yatsenyuk's Russian Threat 🔮](/yatsenyuks-russian-threat)
+      * [||| Prison Ukraine |||](/prison-ukraine)
+      * [✍ CyberBerkut Reports 👥](/cyberberkut-reports)
+        * [💀 U.S.’n’Ukraine Caught Red Handed ☜](/usnukraine-caught-red-hande)
+          * [☞ Caught Red Handed ☜ CyberBerkut Original](/caught-red-handed-cyberber)
+        * [📄 Soros Letters | Ukraine ✠](/soros-letters-ukraine)
+          * [⚇ SOROS Draft Non-Paper ⚇](/soros-draft-non-paper)
+      * [♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️](/crazy-arseniys-used-ukrai)
+      * [✝ AZOV CRUCIFIXION ✝](/azov-crucifixion)
+      * [👤 Eyewitness Debaltsevo Cauldron 💀](/eyewitness-debaltsevo-cauld)
+      * [✍ Historic Slaviansk Doctor Interviewed](/historic-slaviansk-doctor)
+      * [💀 The Tragedy of Uglegorsk](/the-tragedy-of-uglegorsk)
+      * [♟ Jan. 2015 Minsk Fail 🃏](/jan-2015-minsk-fail)
+      * [➷ Tochka Found, Debaltsevo Locked](/tochka-found-debaltsevo)
+      * [🌍 World Facing Second Chernobyl](/world-facing-second-chernob)
+      * [✈︎ MH-17 AND THE Jesuit Minuet](/mh-17-and-the-jesuit-minuet)
+      * [✈︎ MH-17, Jesuits Flagged!, Video](/mh-17-jesuits-flagged-video)
+      * [💀 Death’s Drummers](/deaths-drummers)
+      * [👤 DPR! Novorossiya Calling](/dpr-novorossiya-calling)
+      * [💀 Ukraine’s Chernobyl Armor](/ukraines-chernobyl-armor)
+      * [🎱 Gas to Ukraine Blocked](/gas-to-ukraine-blocked)
+      * [❁ Global Nuclear Theatre: Donbass](/global-nuclear-theatre)
+      * [✠ GHOSTS of the 51st BRIGADE](/ghosts-of-the-51st-brigade)
+      * [❁ Novorossiya: Strelkov Briefing](/novorossiya-strelkov-briefi)
+      * [👤 Open Letter to President Putin](/open-letter-to-president)
+      * [✈︎ MH-17 Dutch Interim Report](/mh-17-dutch-interim-report)
+      * [💣 Surrendering UA Murdered by Punatives](/surrendering-ua-murdered-by)
+      * [♟ Mutiny of the Euro-Integrators ♟](/mutiny-of-the-euro-integrat)
+      * [➹ View from Ukraine Operating Room](/view-from-ukraine-operating)
+      * [❁ Ukraine’s Violent Escalation](/ukraines-violent-escalation)
+      * [❁ Ukrainian Soldier’s Cry for Help](/ukrainian-soldiers-cry-for)
+      * [⧱ Occupied Ukraine ⧱](/occupied-ukraine)
+      * [❁ US State's Nuland Directs Ukrainian Coup](/us-states-nuland-directs)
+      * [📯 Ukraine Deputies Knew Before Maidan](/ukraine-deputies-knew-befor)
+    * [❁ Health In 2015](/health-in-2015)
+    * [💉 Vaccines 💀](/vaccines)
+    * [🎥 Geopolitics, Jesuits & History](/geopolitics-jesuits-histor)
+    * [🎥 Rebranded ✠ The Jesuits ✠](/rebranded-the-jesuits)
+    * [⚛ Zaporhyze Nuclear Events & Geopolitics](/zaporhyze-nuclear-events)
+    * [❁ Fukushima Polar Vortex Radiation ❁](/fukushima-polar-vortex)
+    * [💀 Embrace, Enfold, Extinguish](/embrace-enfold-extinguish)
+    * [✈︎ Fear of Flying . . . (1of4)](/fear-of-flying-1of4)")
+      * ✈︎ Fear of Flying . . . 2of4
+      * [✈︎ Fear of Flying 3](/fear-of-flying-3)
+      * [✈︎ Fear of Flying 4](/fear-of-flying-4)
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt.1)](/fukushima-impact-of-fallout)")
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt. 2)](/fukushima-impact-of-fallout-2)")
+    * [❁ North America, Middle East and Fukushima](/north-america-middle-east)
+    * [❁ DHS/Napolitano Berkeley Template](/dhsnapolitano-berkeley)
+    * [❁ Fukushima Radiation, Ecocide & Tesla Technology](/fukushima-radiation-ecocide)
+    * [✈︎ Flight 370 Downing](/flight-370-downing)
+    * [✈︎ MH370: The Follow-Up](/mh370-the-follow-up)
+    * [❁ Domestic Radiation Issues](/domestic-radiation-issues)
+    * [❁ Fukushima: Hawaii, Pacific Is. - Unsafe](/fukushima-hawaii-pacific-is)
+    * [⚛ Fukushima Reactors, Breakdown 1-6 ⚛](/fukushima-reactors-breakdow)
+    * [🌏 International Sites Featuring LM:GNC](/international-sites-featuri)
+    * [❁ On To Mongolia 🎥](/on-to-mongolia)
+    * 🎥 LKM On Fairdinkum Media 🎥
+      * ✠ The Jesuits in Geopolitics
+    * [❁ Editorial Page](/editorial-page)
+      * [🎉April Fooles! 2016 🙊](/april-fooles-2016)
+      * [Yatsenyuk’s Failed-State Cookbook](/yatsenyuks-failed-state)
+      * [⚑ H.A.A.R.P. Season ⚑](/haarp-season)
+      * [↵ Psyop 101 ⟲](/psyop-101)
+      * [⨳ R2P THE NWO ⨳](/r2p-the-nwo)
+        * ["The Responsibility to Protect" ICISS 2001 Report.pdf](currents/editorial-page/r2p-the-nwo/the-responsibility-to-prote.pdf ""The Responsibility to Protect" ICISS 2001 Report.pdf")
+      * [➷ Tbilisi 2008, Ukraine Today](/tbilisi-2008-ukraine-today)
+      * [✠ The Old, New, Endless War](/the-old-new-endless-war)
+      * [✠ A New "Maidan" Awaits](/a-new-maidan-awaits)
+      * [❁ Your Federal Appropriations Scams at Work](/your-federal-appropriations)
+      * [🎈Amusements 🎭](/amusements)
+    * [❁ Conversations 📬](/conversations)
+      * [⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛](/uranium-mine-on-tribal-land)
+      * [📬 re: Geiger Counters ⚛⚛⚛](/re-geiger-counters)
+      * [⚡️CYBERCOM Suppression Silo 🎯](/cybercom-suppression-silo)
+      * [🌎 Pacific Coast Watch](/pacific-coast-watch)
+      * [♟ Cruel Murder of Boris Nemtsov](/cruel-murder-of-boris-nemts)
+        * [⚔ More re: Nemtsov Murder](/more-re-nemtsov-murder)
+        * [👠 A Decoy For Murder](/a-decoy-for-murder)
+      * [❁ Palladium's All-Time High](/palladiums-all-time-high)
+      * [❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014](/fukushimahawaii-update-sun)
+      * [❁ Fukushima And Diet](/fukushima-and-diet)
+  * [❁ Waves](/waves)
+    * [⚛ Radiation Around The Nation 🌎](/radiation-around-the-nation)
+      * ⚛ Your Radiation #73/74, Sep 10 - 24, 2016 🌎
+      * ⚛ Your Radiation #71/72, Aug 27 - Sep 10, 2016 🌎
+      * [⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎](/your-radiation-69-70-july)
+      * [⚛ Your Radiation #67/8,--July 16-30, 2016 🌎](/your-radiation-678-july-16)
+      * [⚛ Your Radiation #65-6,--July 2-16, 2016 🌎](/your-radiation-65-6-july-2)
+      * [⚛ Your Radiation #64, July 2-9, 2016 🌎](/your-radiation-64-july-2-9)
+      * [⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎](/your-radiation-62-3-june-18)
+      * [⚛ Your Radiation #61, June 11-18, 2016 🌎](/your-radiation-61-june-11)
+      * [⚛ Your Radiation #60, June 4-11, 2016 🌎](/your-radiation-60-june-4-11)
+      * [⚛ Your Radiation #59, May 28 - June 4, 2016 🌎](/your-radiation-59-may-28)
+      * [⚛ Your Radiation #58, May 21-28, 2016 🌎](/your-radiation-58-may-21-28)
+      * [⚛ Your Radiation #57, May 14-21, 2016 🌎](/your-radiation-57-may-14-21)
+      * [⚛ Your Radiation #56, May 7-14, 2016 🌎](/your-radiation-56-may-7-14)
+      * [⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎](/your-radiation-55-apr-30)
+      * [⚛ Your Radiation #54, Apr 23-30, 2016 🌎](/your-radiation-54-apr-23-30)
+      * [⚛ Your Radiation #53, Apr 16-23, 2016 🌎](/your-radiation-53-apr-16-23)
+      * [⚛ Your Radiation #52, Apr 9-16, 2016 🌎](/your-radiation-52-apr-9-16)
+      * [⚛ Your Radiation #51, Apr 2-9, 2016 🌎](/your-radiation-51-apr-2-9)
+      * [⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎](/your-radiation-47-50-apr-2)
+      * [⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎](/your-radiation-46-feb-27)
+      * [⚛ Your Radiation #45, Feb 20-27, 2016 🌎](/your-radiation-45-feb-20-27)
+      * [⚛ Your Radiation #44, Feb 13-20, 2016 🌎](/your-radiation-44-feb-13-20)
+      * [⚛ Your Radiation #43, Feb 6-13, 2016 🌎](/your-radiation-43-feb-6-13)
+      * [⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎](/your-radiation-42-jan-30)
+      * [⚛ Your Radiation #41, Jan 23-30, 2016 🌎](/your-radiation-41-jan-23-30)
+      * ⚛ Your Radiation #40, Jan 16-23, 2016 🌎
+      * [⚛ Your Radiation #39, Jan 9-16, 2016 🌎](/your-radiation-39-jan-9-16)
+      * [⚛ Your Radiation #38, Jan 2-9, 2016 🌎](/your-radiation-38-jan-2-9)
+      * [⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎](/your-radiation-37-dec-26)
+      * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+      * [⚛ Your Radiation #35, Dec 12-19, 2015 🌎](/your-radiation-35-dec-12-19)
+      * [⚛ Your Radiation #34, Dec 5-12, 2015 🌎](/your-radiation-34-dec-5-12)
+      * [⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎](/your-radiation-33-nov-28)
+      * [⚛ Your Radiation #32, Nov 21-28, 2015 🌎](/your-radiation-32-nov-21-28)
+      * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+      * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+      * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+      * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+      * [⚛ Your Radiation #27, Oct 17-24, 2015 🌎](/your-radiation-27-oct-17-24)
+      * [⚛ Your Radiation #26, Oct 10-17, 2015 🌎](/your-radiation-26-oct-10-17)
+      * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+      * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+      * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+      * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+      * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+      * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+      * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+      * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+      * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+      * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+      * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+      * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+      * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+      * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+      * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+      * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+      * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+      * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+      * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+      * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+      * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+      * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+      * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+    * [🔥 Fire at Oak Ridge 💥](/fire-at-oak-ridge)
+    * [💥 NANOWEAPONRY 💥](/nanoweaponry)
+      * [💥 D.I.M.E. BOMB Fallujah 💥](/dime-bomb-fallujah)
+      * [💥 Dense Inert Metal Explosive 💀](/dense-inert-metal-explosive)
+      * [💥 NANOTECH; LAW OF WEAPONRY ☞🔫](/nanotech-law-of-weaponry)
+      * [☗ Eugenics, Euthanasia and Experiments ☗](/eugenics-euthanasia-and)
+    * [🐄 Radioactive Cattle Teeth, Fukushima 🏭](/radioactive-cattle-teeth)
+    * [📰 WikiLeaks 🔎 NSA and More 🔦](/wikileaks-nsa-and-more)
+      * [✠ Hillary’s DNC Dossier 🎭](/hillarys-dnc-dossier)
+      * [📖 Snowden’s SIDToday Files ✍](/snowdens-sidtoday-files)
+      * [❌ Clinton CyberSecurity Fail 🚫](/clinton-cybersecurity-fail)
+        * [Office of the Inspector General, State Dept- Evaluation of Emai l Records Management and Cybersecurity Requirements, oig-report.pdf](waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/office-of-the-inspector.pdf "Office of the Inspector General, State Dept- Evaluation of  Emai l Records Management and  Cybersecurity Requirements, oig-report.pdf")
+      * [⚑ Clinton’s Designs on Syria ➷](/clintons-designs-on-syria)
+      * [⚑ Clinton eMail on Syria 🎯](/clinton-email-on-syria)
+    * [✨Nano ‘Hall of Mirrors’⚡️](/nano-hall-of-mirrors)
+    * [⚛ 💀 ⚛ into the Hudson River 🌎](/into-the-hudson-river)
+    * [🚿 Flint, Metropolitan Eugenics 💀](/flint-metropolitan-eugenics)
+      * [🚿 Flint, Double Jeopardy 💰](/flint-double-jeopardy)
+      * [🚿 Flint, Poison, Epidemic 💉](/flint-poison-epidemic)
+    * [🌍 Existential Threat? ☛NATO☚](/existential-threat-nato)
+    * [💉 Gates, Poroshenko; Conspiracy, Government 🎯](/gates-poroshenko-conspiracy)
+    * [💉 Gates-Poroshenko ZPG Ukraine 💀](/gates-poroshenko-zpg-ukrain)
+    * [💀 Paris Massacre Perpetrators 👤](/paris-massacre-perpetrators)
+    * [🔪 Delgado, Mind Control ♟](/delgado-mind-control)
+    * [🌎 MOST NUKED NATION ON EARTH 🌎](/most-nuked-nation-on-earth)
+    * [🎯 Radio Frequency Directed Energy 🎯](/radio-frequency-directed)
+    * [⚛ Please, Don’t Pick the Mutants 🌻](/please-dont-pick-the-mutant)
+    * [⨳👤⨳ Space-Based Weapons Ban](/space-based-weapons-ban)
+    * [√ Saudi OP Strategy Success](/saudi-op-strategy-success)
+    * [♨️ Gallery ♨️ Chernobyl Fire ♨️ 2015 ♨️](/gallery-chernobyl-fire)
+      * [❁ 2014 Radiation Roadshow | Chernobyl ❁](/2014-radiation-roadshow)
+    * [🌍 Monsanto Backdoors E.U.](/monsanto-backdoors-eu)
+    * [🎉 Crimea’s 1st Anniversary Album 🎉](/crimeas-1st-anniversary)
+    * [🌏 21st Century Eschalon](/21st-century-eschalon)
+    * [📰 International Headline Watch 🌏](/international-headline)
+      * [📰 Fort Russ Headlines 🌍](/fort-russ-headlines)
+      * [📰 Tass Headlines 🌐](/tass-headlines)
+      * [📰 SouthFront Headlines 🌏](/southfront-headlines)
+    * [✄ Prouty Place ✑ CUT THE BULL ✂︎](/prouty-place-cut-the-bull)
+      * [🌎 Oil is Renewable 🌎](/oil-is-renewable)
+      * [👥 That Whole Bay Of Pigs Thing](/that-whole-bay-of-pigs)
+      * [☛ Lansdale at the Kennedy Assassination ⚑](/lansdale-at-the-kennedy)
+    * [🌏 How To Wreck The Environment](/how-to-wreck-the-environmen)
+    * [🇯🇵 Plutonium Isotopes Off Japan](/plutonium-isotopes-off)
+    * [🌍 Depopulation Agenda: Europe 👤](/depopulation-agenda-europe)
+    * [🔪💉Cease Covert Depopulation Letter🔪💉](/cease-covert-depopulation)
+    * [❁ Dutch Apologize for MH-17 Lies](/dutch-apologize-for-mh-17)
+    * [❁ Pacific Dead from Fukushima](/pacific-dead-from-fukushima)
+    * [❁ Strange Fish Story](/strange-fish-story)
+    * [❁ Blood Composition of Monkeys Altered Near Fukushima](/blood-composition-of-monkey)
+    * [❁ Secret Army Bases](/secret-army-bases)
+    * [⚛ Fukushima Plutonium Effect ⚛](/fukushima-plutonium-effect)
+      * [20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22](/20130423-_poster-estimatio)
+      * [⚛ Fukushima Blow-Up Regimes ⚛](/fukushima-blow-up-regimes)
+    * [➷ RAND Demographic Military Power ➷](/rand-demographic-military)
+    * [⚛ Depleted Uranium | DNA Damage ⚛](/depleted-uranium-dna-damag)
+    * [❁ Hidden Genocide: by Dr. Ernest Sternglass](/hidden-genocide-by-dr-ernes)
+    * [❁ Space Preservation Act of 2001](/space-preservation-act-of)
+    * [❁ 1972 Rothschild Ball](/1972-rothschild-ball)
+    * [❁ Unsafe Radwaste Disposal](/unsafe-radwaste-disposal)
+    * [♆ Fallout and Reproduction of Ocean Fish Populations](/fallout-and-reproduction-of)
+  * [❁ Lifestyle](/lifestyle)
+    * [📖 LM:GNC BookShelf](/lmgnc-bookshelf)
+      * [✑ Manuscripts ✍](/manuscripts)
+      * [🔴 “1984” George Orwell 💀](/1984-george-orwell)
+      * [➷ THE NAMELESS WAR 💣](/the-nameless-war)
+      * [🌍 Who Owns the World](/who-owns-the-world)
+      * [💀 Order OF Skull & Bones](/order-of-skull-bones)
+      * [🎼 Angels Don't Play this HAARP](/angels-dont-play-this-haarp)
+      * [👥 Genocide In Iraq v.I&II](/genocide-in-iraq-viii)
+      * [♟ Double Life of Fidel Castro ♚](/double-life-of-fidel-castro)
+    * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of)
+  * [❁ Archive](/archive)
+    * [⚛ 61 Years of Omnicide ⚛](/61-years-of-omnicide)
+    * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity)
+    * [❁ New Bombs and War Crimes in Fallujah](/new-bombs-and-war-crimes-in)
+    * [❁ Global Climate Change . . .](/global-climate-change)
+    * [⚛ International Radiation Distribution ⚛](/international-radiation)
+      * [Radiation Poisons Generations](/radiation-poisons-generatio)
+      * [Sellafield | Global Dose Test](/sellafield-global-dose)
+    * [💀 Depleted Uranium’n’DNA 😱](/depleted-uraniumndna)
+    * [❁ UC Regents Lose Nuke Pgm](/uc-regents-lose-nuke-pgm)
+    * [❁ DU-Trojan Horse](/du-trojan-horse)
+    * [❁ LM:GNC (Pt1)](/lmgnc-pt1)")
+    * [❁ LM:GNC (Pt2)](/lmgnc-pt2)")
+    * [❁ World Uranium Weapons Conference 2003](/world-uranium-weapons-confe)
+    * [⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization)
+    * [❁ "America First" Transcription](/america-first-transcription)
+    * [❁ "Whale Archive" Transcription](/whale-archive-transcription)
+    * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-globa)
+  * [❁ Glossary](/glossary)
+  * [❁ Contact](/contact)
+
+
+
+  
+
+
+![LMGNC Irradiated Radiation Circular Symbol! - maxresdefault](/assets/images/irradiated-radiation-circul_med.png)
+
+# # #
+
+![SEPERATOR- \(30\) LMGNC Irradiated Radiation Circular Symbols](/assets/images/seperator--30-irradiated_med-2.png)
+
+  
+
+
+_Radiation Ticker_(Text Based Listing)
+
+  
+
+
+1,556 CPM,
+
+311.2 Times Normal,
+
+Miami, FL.
+
+Beta, Gamma.
+
+  
+
+
+1,476 CPM,
+
+295.6 Times Normal,
+
+Colorado Springs, CO.
+
+Beta, Gamma.
+
+  
+
+
+1,436 CPM,
+
+287.2 Times Normal,
+
+Kansas City, KS.
+
+MIA Last High
+
+  
+
+
+1,426
+
+CPM,
+
+285.2
+
+Times Normal,
+
+Little Rock, AR.
+
+Beta, Gamma.
+
+  
+
+
+1,373
+
+CPM,
+
+272.6
+
+Times Normal,
+
+Raleigh, NC.
+
+Beta, Gamma.
+
+  
+
+
+1,278
+
+CPM,
+
+255.6
+
+Times Normal,
+
+Lubbock TX.
+
+MIA, 5 Yr High
+
+  
+
+
+1,265
+
+CPM,
+
+253
+
+Times Normal,
+
+Spokane, WA.
+
+Beta, Gamma.
+
+  
+
+
+1,133
+
+CPM,
+
+226.6
+
+Times Normal,
+
+San Diego, CA.
+
+Beta, Gamma.
+
+  
+
+
+1,124
+
+CPM,
+
+224.8
+
+Times Normal,
+
+Portland, ME.
+
+Beta, Gamma.
+
+  
+
+
+1,117
+
+CPM,
+
+223.4
+
+Times Normal,
+
+Atlanta, GA.
+
+Beta, Gamma.
+
+  
+
+
+1,107
+
+CPM,
+
+221.4
+
+Times Normal,
+
+Tallahassee, FL.
+
+Beta, Gamma.
+
+  
+
+
+1,104
+
+CPM,
+
+220.8
+
+Times Normal,
+
+Pittsburgh, PA,
+
+Beta, Gamma.
+
+  
+
+
+1,101
+
+CPM,
+
+220.8
+
+Times Normal,
+
+Shreveport, LA.
+
+Beta, Gamma.
+
+  
+
+
+1,100
+
+CPM,
+
+220
+
+Times Normal,
+
+Laredo, TX.
+
+Beta, Gamma.
+
+  
+
+
+1,100
+
+CPM,
+
+220
+
+Times Normal,
+
+Rapid City, SD.
+
+Beta, Gamma.
+
+  
+
+
+1,096
+
+CPM,
+
+219.2
+
+Times Normal,
+
+Lexington, KY.
+
+Beta, Gamma.
+
+  
+
+
+1,066
+
+CPM,
+
+213.2
+
+Times Normal,
+
+Riverside, CA.
+
+Beta, Gamma.
+
+  
+
+
+1,060
+
+CPM,
+
+212
+
+Times Normal,
+
+Idaho Falls, ID.
+
+Beta, Gamma.
+
+  
+
+
+1,043
+
+CPM,
+
+208.6
+
+Times Normal,
+
+Anaheim, CA.
+
+Beta, Gamma.
+
+  
+
+
+1,042
+
+CPM,
+
+208.4
+
+Times Normal,
+
+El Paso, TX.
+
+Beta, Gamma.
+
+  
+
+
+1,029
+
+CPM,
+
+205.8
+
+Times Normal,
+
+Hartford, CT.
+
+Beta, Gamma.
+
+  
+
+
+1,028
+
+CPM,
+
+205.6
+
+Times Normal,
+
+Mason City, IA.
+
+Beta, Gamma.
+
+  
+
+
+1,019
+
+CPM,
+
+203.8
+
+Times Normal,
+
+Denver, CO.
+
+Beta, Gamma.
+
+  
+
+
+1,014
+
+CPM,
+
+202.8
+
+Times Normal,
+
+Boston, MA.
+
+Beta, Gamma.
+
+  
+
+
+386 CPM,
+
+77.2 Times Normal,
+
+Washington, DC. High
+
+Tampered with.
+
+  
+
+
+72 CPM,
+
+14.4 Times Normal,
+
+Washington, DC. Low
+
+Tampered with.
+
+![SEPERATOR- \(30\) LMGNC Irradiated Radiation Circular Symbols](/assets/images/seperator--30-irradiated_med-2.png)

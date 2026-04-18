@@ -1,46 +1,809 @@
 ---
-title: "Contact"
-description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
-section: "home"
-slug: "contact"
-path: "contact"
-sidebar: |
-  #### Contact LM:GNC
-
-  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
+title: "New Bombs and War Crimes in Fallujah"
+section: "archive"
+slug: "new-bombs-and-war-crimes-in"
+path: "archive/new-bombs-and-war-crimes-in"
 ---
 
-## Leuren Moret
+[![Archive Article Seperator 2](/assets/images/archive-article-seperator-2_med_hr.jpeg)](/assets/images/archive-article-seperator-2.jpeg)
 
-Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
+  
 
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
+  
 
----
 
-## Laurens L. Battis III — Original Publisher & Editor
+Thursday, November 3rd, 2011 | Transcript of the Interview by [Jim Fetzer](http://www.veteranstoday.com/author/fetzer/)
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
+**New Bombs and War Crimes in Fallujah**
 
----
+  
 
-## A Note on Leuren's Whereabouts
 
-Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
+**by[Jim Fetzer](http://www.veteranstoday.com/author/fetzer/), Leuren Moret, and Christopher Busby**
 
-If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+  
 
----
 
-## The Archiver
+[![041111-M-3658J-006](/assets/images/pic-1-fallujah-us-artillery_med_hr.jpeg)](/assets/images/pic-1-fallujah-us-artillery.jpeg)
 
-This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+**HEAVY FIRE POWER WAS USED IN FALLUJAH IN 2004: U.S. Marines fire Nov. 11, 2004, on Fallujah with a 155 mm Howitzer. One of the weapons originally designed for this artillery piece was a tactical nuclear weapon (that could include a neutron warhead) designed by Samuel Cohen, to be fired in eastern Europe on Soviet troops during President Ronald Reagan’s term in office. [Photo: Lance Cpl. Samantha L. Jones]**
 
-**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
+On Friday, 28 October 2011, it was my honor to host Leuren Moret and Christopher Busby as my guests on “The Real Deal”, an internet radio program broadcast on M/W/F from 5-7 PM/CT over [http://www.revereradionetwork.com/](http://www.revereradionetwork.com/) . Leuren Moret is an independent geoscientist who has done expert studies on the Fukushima disaster, radiation problems around the world including depleted uranium. Dr. Christopher Busby is a visiting biomedical studies professor at the University of Ulster and is the co-author of reports about the effects of depleted uranium in Iraq especially in relation to Fallujah. What Busby found much to his surprise was not DU but enriched uranium instead.
 
-The source mirror and site code are both open and available on GitHub:
+The interview was extraordinary on many counts. During the first hour, Leuren reported on the latest research about Fukushima and laid out a background for understanding the issues that she and Busby and I would discuss during the second hour. It has become apparent from Busby’s research that a new kind of bomb–which seems to be a neutron bomb–has been used in Fallujah, but also in other areas, including Lebanon.
 
-- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
-- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
+As though that discovery were not astonishing enough, listening to him, it struck me that this same weapon may have been used to destroy the Twin Towers, an explanation for which has remained elusive and where alternative theories about the possible use of mini-nukes, directed energy weaponry, and other causal mechanisms have been widely discussed–or, in some cases, actually suppressed. So there are linkages of evidence and causation that tie together the commission of war crimes in Iraq with mechanisms of destruction that may have brought about the near-total conversion of two massive, 500,000 ton buildings into millions of cubic yards of very fine dust.
+
+We know that nanothermite does not have the capacity to bring about these effects, even though it has many staunch advocates. So what we have to learn from Christopher Busby may not only expose the existence of a new weapon of mass destruction but also provide a key to understanding what happened on 9/11. The transcription of the second hour of the program (published here) was done by Jeannon Kralj, to whom we are indebted for the excellence of her work. The images and captions were courtesy of Leuren Moret. I plan to have the first hour published tomorrow and will provide a link to the audio file as soon as it becomes available, which it has just become.
+
+**The Real Deal Radio Show (28 October 2011)**
+
+Host: Jim Fetzer: James Fetzer Ph.D. Guests: Dr. Busby: Christopher Busby, Ph.D. Leuren Moret: Leuren Moret B.S., M.A., PhD (ABD) HOUR TWO (transcribed by Jeannon Kralj)
+
+**Jim Fetzer** : This is Jim Fetzer, your host on “The Real Deal”, continuing my conversation with Leuren Moret and now we have been joined by Professor Christopher Busby who is a visiting biomedical studies professor at the University of Ulster and is the co-author of reports about the effects of depleteed uranium in Iraq especially in relation to Fallujah. Chris, welcome to “The Real Deal”.
+
+**Dr. Busby** : Yes, hello.
+
+**Jim Fetzer** : Please do tell us about the results of your studies and the effects of the depleted uranium.
+
+**Dr. Busby** : Okay, well, I’ve done two studies with colleagues in Iraq of the town of Fallujah, which I am sure everybody knows was attacked by US-led forces in 2004, and there was an enormous amount of fire-power used then. And following that there’s been a lot of talk about increases in cancer and congenital malformations and various other conditions, but nobody had ever done any proper epidemiology or scientific study. So it was all anecdotal, although it had been reported in a lot of media. So a colleague of mine, Malak Hamden, decided to get involved and she contacted me and together we developed an idea to conduct an epidemiological study.
+
+This was in 2010 and we organized a team of people in Fallujah to visit various houses and set up a randomized group of people in houses to tell us how many people there were, sexes, ages and so forth, and how many cancers they had and what the population was and so forth. And that study was published in the International Journal of Environmental Public Health, a Swiss journal, in 2010. And what it showed was that there was an enormous increase – there was – everybody had been right – all the anecdotal evidence was actually borne out. There was a very big increase in cancer in that population, highly statistically significant, and also there was a big increase in infant mortality and mostly driven by congenital disease, and there was a change in sex ratio, that is to the number of boys born to the number of girls, which is very indicative of a genomic or genetic effect on the sperm [in men] or the eggs of the women.
+
+[![Pic 2. Fig.1](/assets/images/pic-2-fig1_med_hr.jpeg)](/assets/images/pic-2-fig1.jpeg)
+
+**TOXIC ZONES IN IRAQ:** High risk areas contaminated with depleted uranium and other toxins from 30 years of war have left large areas of environmental ruin. The largest towns and cities account for 25% of the contaminated areas. Higher rates of cancer and birth defects have been reported at these sites. Contaminated agricultural lands in southern Iraq have caused a decline in the health of the poorest people living in those parts of the country.
+
+Recently a severe drought has decreased the water flowing in the Tigris and Euphrates Rivers by 70%, causing additional unprecedented environmental disaster. In October 2010, news sources in Baghdad Province reported 1 billion cubic tons of garbage had been dumped into the Tigris River and was increasing every day. [Sources: Chulov, M., [“Iraq littered with high levels of nuclear and dioxin contamination, study finds](http://www.guardian.co.uk/world/2010/jan/22/iraq-nuclear-contaminated-sites)”, Guardian, January 22, 2010. Kamal, F. [“One million cubic tons of garbage dumped in Tigris River”](http://www.azzaman.com/english/index.asp?fname=news%5C2010-10-28%5Ckurd.htm), AZZAMAN.COM, Oct. 28, 2010]
+
+And so there was evidently some other cause in order to answer to the fact that the levels of cancer were higher than had been reported following Hiroshima. So we’re talking about some sort of agent which causes massive genetic damage in a population. And of course everyone said ‘well it must be depleted uranium.’ But of course this was an epidemiological study so we didn’t we couldn’t say anything about depleted uranium or what it was.
+
+But in order to investigate it, we then decided to go ahead and have a look at a group of parents of children with congenital malformations. And so one of the team who was a pediatrician at Fallujah General Hospital organized 25 fathers and 25 mothers of children with serious congenital malformations, many of these died of course, and took hair samples from these people and we analyzed those hair samples using quite sophisticated technique, or Inductively Coupled Plasma Mass Spectrometry (ICPMS). And we looked at 52 elements in the hair samples of these people and we found quite large increases in a whole range of elements but most of them were innocuous, things like calcium and aluminum and magnesium, which are not likely to cause congenital malformations.
+
+In fact, the only thing that we found apart from uranium that might have been implicated was mercury. But the source and levels of congenital malformations that we had found, and in fact there is another paper which hasn’t been published yet which does show these levels at very high levels of congenital malformation. The only thing that could explain it was uranium.
+
+  
+
+
+[![Pic 3. Fig.2](/assets/images/pic-3-fig2_med_hr.jpeg)](/assets/images/pic-3-fig2.jpeg)
+
+**FALLUJAH: LARGE INCREASES IN CONGENITAL BIRTH DEFECTS AFTER 2004 ATTACK** [Source: Friday, December 31, 2010 [BBC interview on the Fallujah Epidemic of Birth Defects](http://fallujahbirthdefectsepidemic.blogspot.com/2010/12/bbc-interview-on-fallujah-epidemic-of.html)] BBC VIDEO: Fallujah Epidemic of Birth Defects BBC interview:
+
+[ [https://www.youtube.com/watch?v=8EN6UcFAAeQ](https://www.youtube.com/watch?v=8EN6UcFAAeQ) ]
+
+  
+
+
+The interesting thing about the uranium was that we were able to measure the isotopic ratio because we were interested to see whether it was, you know, natural uranium or was it DU, which is what we thought it would be. But in fact it turned out to be slightly enriched uranium [with U-235], so, that is to say, it was manmade enriched uranium.
+
+Now enriched uranium is a material that should only be found in a nuclear power station or inside an atomic bomb. So to find it in the hair of the parents of these children with congenital malformations was really astonishing. So we then went to look to see how this could be, and to cut a long story short, we concluded from various patents from the US patent office that we received from physicists, that it was quite entirely likely that there was a new secret weapon being used, an anti-personnel weapon of some sort which contained enriched uranium or else generated enriched uranium.
+
+And so there are basically two possibilities. One is that they are using this enriched uranium. It’s only mildly enriched uranium, to cover their tracks, so that afterwards nobody can come to them, you know, with a whole trail of people with cancer and congenital disease and say ‘Hey look, we’re going to sue you” because then they can say “Well, you know, there’s no depleted uranium there.’ And the alternative – which is sort of science fictional and which is entirely possible – I have to say, which is that they have developed a sort of neutron device which uses enriched uranium as part of its components to generate neutrons.
+
+And the way it does this is to dissolve tritium in uranium powder. Like deuterium, heavy hydrogen is very soluble in uranium, and when it is compressed, when the saturated solution is compressed, you can get a cold fusion reaction which produced helium-4 and neutrons, and so that too is a possibility. But of course we don’t know what the answer is. And interestingly enough, and also connected to this, is the fact that we know from various papers that have been published that the Gulf War veterans, the US Gulf War veterans, have also had a very high and statistically significant increase in congenital malformations in their children. But the uranium source of this has been excluded on the basis of urine tests which show that there is no depleted uranium. But of course, what we have discovered is that there wouldn’t be depleted uranium because it is enriched uranium.
+
+[![Pic 4. Fig.-3](/assets/images/pic-4-fig-3_med_hr.jpeg)](/assets/images/pic-4-fig-3.jpeg)
+
+**CANCER RATE INCREASES IN BASRA, IRAQ** 1993-2001: Dr. Jawad Al-Ali, an oncologist in Basra, Iraq, reported large increases in cancer and leukemia in Basra following the 1990 Gulf War, and the introduction of depleted uranium weapons to the battlefield by the US govt. Cancer rates in Fallujah from the 2004 attack are even higher than Basra, and many times higher than after Hiroshima and Nagasaki. [Source: Dr. Jawad Al-Ali, Basra, Iraq]
+
+**Jim Fetzer:** Well Chris, this is fairly astonishing news.
+
+I must say, I am taken aback in that the belief that it has been depleted uranium that has caused these problems, so widespread, so ubiquitous, that your findings are truly astonishing, I think even revolutionary, in altering the paradigm with which we view these matters where the American government, once again, is complicit. Whereas the attack on Fallujah obviously involved war crimes on a massive scale in the use of chemical and other weapons that were banned under the Geneva Conventions, now we’re talking about a whole new family of weapons that have devastating effects and that alter the genetics of the civilian and military population, which can have incalculable consequences from an evolutionary point of view. I am stunned.
+
+**Dr. Busby:** Yes, well so were we. But I have to say that we weren’t absolutely astonished as we might have been because we had already turned up enriched uranium in a bomb crater in Lebanon in 2006, and there are certainly no differences about that in two separate laboratories using two entirely different techniques. So in one laboratory they used ICPMS, which is this method we just used. But in another one, they used the old fashioned but much more certain method which is called alpha spectroscopy.
+
+And so in that laboratory, they also found enriched uranium. So there is no doubt that enriched uranium is being used as some component of some modern weapons system. And the other thing about it is that people are so “Oh well you know they use…, why do you find depleted uranium because there are no tanks.” And of course the answer is that it is an anti-personnel method of attack. It is not a tank buster at all. It is a new system and I think that this is the message to the planet, that there is a secret new system and it is extremely dangerous.
+
+[![Pic 5. Fig.41](/assets/images/pic-5-fig41_med_hr.jpeg)](/assets/images/pic-5-fig41.jpeg)
+
+**LARGE INCREASE IN FALLUJAH BIRTH DEFECTS** WERE REPORTED AFTER 2004 US ATTACKS: Defects in newborns were 11 times higher than normal, “war contaminants” from new exotic weapons including nuclear weapons, are the probable cause. [Source: Chulov, M., ["Research links rise in Falluja birth defects and cancers to US assault"](http://fallujahbirthdefectsepidemic.blogspot.com/2010/12/blog-post.html), The Guardian (UK), Dec. 30, 2010]
+
+**Jim Fetzer:** Yes, extremely dangerous, and you are observing it was found in Lebanon, where to the best of my knowledge, there was not an American incursion but rather an Israeli, and that the Israelis may even have developed this weapon or been provided with it by the American government.
+
+**Leuren Moret:** Actually what happened is that during the attack, in the middle of the Israeli attack on Lebanon, the US sent 800, rushed, 800 special bombs, and I have photos of them on planes in England and landing and taking off in Scotland and also Ireland. And they expedited delivery of these special bombs to the Israelis to use on Lebanon in the second half of that attack, and I believe that those may have been the source of this exotic weapons signature that Dr. Busby has just mentioned.
+
+**Jim Fetzer:** Chris, had you heard those reports before possibly …?
+
+**Dr. Busby:** Well I know that the Americans did supply bombs to the Israeli because there was a lot of fuss when they were landing in Scotland. The Scottish people wanted to prevent them using the airports there as a staging place for refueling in order to supply the Israelis because there was a lot of opposition to that particular war, which was another illegal war [unintelligible] I think it was in this report. The crater that we found in Khiam (Lebanon) that my colleague, that actually I sent my colleague out there to look at, was in fact radioactive. So not only did we find DU but we found enriched uranium in it.
+
+The reason that we went there in the first place was that one of the local physicists who had been looking at the various effects of these weapons in Lebanon detected the radiation signature of this particular crater was alarmingly high, so that’s why we went to see why it was high. Now the radiation levels fell rapidly over about six weeks and went back to normal. Now that would be a signature for a neutron device because what happens is that the neutrons from the device cause an increased level of gamma radioactivity due to neutron activation of substances in the soil, but these are fairly short-lived, and so they do drop off over a short period of about three to six weeks, so that would fit in with that possibility.
+
+[![Pic 6. Fig.5](/assets/images/pic-6-fig5_med_hr.jpeg)](/assets/images/pic-6-fig5.jpeg)
+
+**TURBOCHARGED “SUPERBOMBS”** Reactive Materials can be used to replace inert metals in munitions, all different kinds of weapons. Even Explosively Formed Penetrators, or EFPs, the “superbombs” used to such deadly effect in Iraq and Afghanistan, are candidates for the reactive materials revolution. [Source: Hambling, D., [“Reactive Revolution: Turbocharged ‘Superbombs’”](http://www.wired.com/dangerroom/), WIRED, May 9, 2008]
+
+**Jim Fetzer:** Now Chris, perhaps you can confirm my impression that one of the benefits of these neutron weapons is that they kill people but don’t damage property.
+
+**Dr. Busby:** Well that’s why they were developed, of course. Yes, that’s correct, that is why they were developed. I want to be very cautious about all of this. I have talked to a number of physicists who say that this is possible, who say that the model seems reasonable, but we have no real evidence apart from the existence of enriched uranium [I-235] in this crater in Lebanon, deuterium, anomalously high levels of radioactivity caused by neutron activation, and the rest is surmisable.
+
+**Jim Fetzer:** Well, on the other hand, if you apply the principle of inference to the best explanation, if you consider alternative hypotheses about the possible cause and calculate the probability of the effects if those causes were indeed what had brought about those effects, the causes with the highest probability have the highest degree of evidential support …
+
+**Dr. Busby:** Yes, of course. But the thing about this is that it is entirely possible also that what they are doing is just disposing of a load of old nuclear warheads. As you know, they have to have a lot of decommissioning of nuclear weapons and there are significant amounts, very large amounts of enriched uranium in those nuclear weapons, and so the point is that that stuff would have to normally be disposed of as nuclear waste.
+
+Now that would be a simple matter for them to just mix it in with depleted uranium until you got a mix which just took you on the correct side of the dose limits to the soldiers. That’s the way these people think. I can tell you. They would mix it in so that the soldiers under some risk model approach would have less than one millisievert in a year or whatever the risk level is, and that would be a very neat way of getting rid of all their warheads without having to find somewhere to put them which would cost them money. At the same time, of course, they could use them in this new weapon.
+
+Now it doesn’t have to be a neutron weapon. The patents that we’ve found include a weapon where the uranium is part of an explosive, and then this explosive is used in a shaped charge, a sort of shaped appliance so that it shapes and directs the actual explosion power. Now there are various missiles and tank styles that are called TOW and these are directed-charge weapons.
+
+And I’ve seen pictures of these taken at tanks. They fly over the top of the tanks and they suddenly go “bang” and this enormous directed charge goes downward on to the top of the tank and atomizes it. And these are quite small missiles. So there is an alternative explanation so it doesn’t have to be something nuclear.
+
+**Jim Fetzer:** Goes down on the top of the tank and atomizes it?
+
+**Dr. Busby:** Yes, yes, it does. It’s the most extraordinary thing, that the missile doesn’t hit the tank – it flies over the top of it and a sort of [shaped] charge shoots out from the bottom of the missile and blows the tank apart from the top. **Jim Fetzer:** Could such a weapon then be used on steel structure high-rise buildings?
+
+**Dr. Busby:** Well you could make a directed charge weapon that could do anything, and some of these weapons, of course…I think the point is…This has been described in various books about the battle of Fallujah. It’s not me saying this. But they do have these missiles that can blow down walls, and the problem was that these guys, what they call “the insurgents,” were inside buildings and were shooting out through windows and the easiest way to get them would be to just completely demolish the wall. So these directed-charge weapons are capable of doing that, which is to blow the wall away, presumably when the wall comes down with them.
+
+So there are lots and lots of modern weapons. Another thing about this is that a lot of very strange wounds have been found. You know there is actually a group of doctors who are trying to figure out how these wounds have been found. They are not the sort of wounds you get in combats in historic wars. They’re entirely new. So there is some sort of new weapon out there, and I think probably it contains uranium – would be my guess.
+
+[![Pic 7. Fig.61](/assets/images/pic-7-fig61_med_hr.jpeg)](/assets/images/pic-7-fig61.jpeg)
+
+**FALLUJAH BURNS** : During the 2004 US attack on Fallujah, strange wounds and burns were reported by Doctors treating Iraqi war casualties. These types of wounds had [never been seen before.](http://www.morrisonworldnews.com/) **Jim Fetzer:** Could you sketch some of these wounds so that we would have a better idea of what you are talking about?
+
+**Dr. Busby:** There are people who have been found that for no apparent reason their bodies are slightly swollen and they cut the bodies open to look inside and found nothing at all which could produce pain–explain why they are dead. Now this could be the consequence of a thermobaric weapon. Now uranium explosives have been associated with the development thermobaric weapons because what these weapons do, instead of their “bang” very sharply with a kind of sharp shock wave, they produce a very slow shock wave, so the shock wave goes out and then it sucks back into a vacuum. It just destroys people by its sudden change in pressure. It sucks their lungs out, if you like.
+
+So that could be one of them. Now I took photographs of a boy who was hit by one of these weapons and there’s a stripe across his chest which is like a black stripe. The rest of him is perfectly all right. There is no problem with him, but where the stripe crosses his arm, the arm has been completely charred and its like you can just see two sticks where the bones are still there but they’re carbonized. So this guy who has obviously standing by a window and some enormous heat has come through the window and has just totally wiped out parts of him and other parts are completely unharmed. There are a number of these pictures around which really don’t make sense unless you have some kind of new weapon that we don’t fully understand [yet] . . .
+
+**Jim Fetzer:** Chris, this is nauseating, I mean, man’s inhumanity to man, you know, seems to be on blatant display here.
+
+**Dr. Busby:** It’s an interesting philosophical point really, how these people can do it. But you see they put themselves in a different universe. They just sit there with their pencils and paper and they kind of just see it as a . . . I don’t know, like an abstract plan on how to kill somebody. They don’t see them as real people.
+
+**Leuren Moret:** It’s nothing personal, Chris. It’s nothing personal. It’s just another industry like making shoes to them.
+
+**Dr. Busby:** I saw a very interesting video about three women who were walking along, Palestinians as well, and they were looking at a drone, one of these Israeli drones, and then two of the young daughters turned to the mother and smiled at her and sort of laughed and then pointed to it, and then the drone wiped them out. It sort of sent a missile down and blew them to pieces, these two children. And then later on in this same program, I saw a picture of the Israelis, young men sitting at computer screens with joy sticks, and they were controlling these drones and they were looking through the eyes of the drone, if you like, and seeing people walking about, and then they could press a button on the joy stick just like a computer game.
+
+And I had this vision of two of these guys sitting there and they saw these two beautiful young women turn round and laugh at them, you know, thought they were laughing at the drone, but who knows, they may have been laughing at some joke that they had made. You know, these guys saw them laughing at the drone and they just pressed the button and wiped them out. It is like that – this distance between people – that these modern weapons enable people to use.
+
+**Jim Fetzer:** I’ve actually published a piece entitled, “On the Ethical Conduct of Warfare: Predator Drones”, that was published by [Global Research](http://www.globalresearch.ca/index.php?context=va&aid=23324), and studies have shown that from these drone attacks they are killing on the average of 140 innocent civilians for every targeted insurgent. And of course, as we well know, since the United States is the aiding and occupying force from the point of view of the Iraqis and the Afghans, these are “freedom fighters” as Ronald Reagan described the Contras in Nicaragua. The incapacity of Americans to see another point of view, Chris, is simply staggering, I must tell you, it’s just staggering.
+
+**Dr. Busby:** Well I agree with you, absolutely. I kind of know that. I know that. I don’t know what you can do about it.
+
+**Jim Fetzer:** The fact that you’ve been dealing with these exotic weapons, or at least their effects, leads me to ask the following question. One of the most puzzling aspects of research on 9/11 is how the Twin Towers were destroyed because their being converted into millions of yards of very fine dust from the top down, while all the floors were remaining stationary. The mass of the lower parts of the buildings is overwhelmingly greater than the mass of the top of the building – in relation to the North Tower, for example, the top 14 floors, because the steel is tapered from the base.
+
+Whereas in the sub-basement it is 6 inches thick, and then 5 and so forth up to a quarter inch thick at the top, represents that only 1.4 percent of the mass of the steel and the idea that that could overcome the lower 98.6 is simply a physical impossibility. And yet we have these buildings clearly being blown apart in every direction, not any effect of a unidirectional gravitational attraction downward. And the question becomes “what could possibly have brought this about?” And I just wonder if any of these extraordinary weapons you are talking about could have such effects.
+
+**Dr. Busby:** Well, that is an interesting question there and it has to do with this story of tritium in the water in the basement of the Twin Towers. Now if you look at tritium in the Twin Towers, there is a proper, peer reviewed scientific paper by a number of quite eminent chemical analysts who measured the concentration of the element tritium, which is a form of radioactive hydrogen [used in nuclear weapons and produced in some nuclear reactions] in the basement waters of the Twin Towers, and they concluded that the amount of tritium there was absolutely impossible – it could not have got there except as a consequence of some “unusual happening”.
+
+Now the point about this weapon that I’m talking to you about, this weapon of deuterium and uranium, is that it does actually produce tritium. That’s one of its major products. It produces helium-4 and tritium. So what you would need to look for if you were looking for, I suppose, this particular explosive’s sort of footprint, you would look for tritium, and they did find tritium in the Twin Towers, so it is entirely possible that they were brought down with this same weapon.
+
+**Jim Fetzer:** And it’s a weapon that produces a neutron bomb effect . . .
+
+**Dr. Busby** : Yes, by producing gamma rays
+
+**Jim Fetzer:** . . . by combining depleted uranium with enriched uranium. And could be blended so you could create any mixture you like to achieve the type of effect, the range of blast and so forth desired.
+
+[![Pic 8. Fig.7-Photo1](/assets/images/pic-8-fig7-photo1_med_hr.jpeg)](/assets/images/pic-8-fig7-photo1.jpeg)
+
+**Leuren Moret:** Chris, explain to Jim and the audience what you discovered about the structure of super-thermite or thermite that was developed at the Livermore Nuclear Weapons Lab and the similar structure in the layers, like a sandwich, of these fourth-generation nuclear weapons, and they were also developed at the Livermore Nuclear Weapons Lab.
+
+**Dr. Busby:** Well I think that you’ll have to do that. I don’t know anything about super-thermite. People have talked to me about it, but I don’t really know anything about it.
+
+[![Pic 9. Fig.7-Photo2](/assets/images/pic-9-fig7-photo2_med_hr.jpeg)](/assets/images/pic-9-fig7-photo2.jpeg)
+
+**Photo 1:** This photo was taken within a few hundredths of a microsecond of the detonation of the device. It was most likely taken from an airplane, but it could have been shot from a satellite. The fireball can be seen at its brightest, and a uniquely designed pattern is also very easily seen.
+
+**Photo 2** : This second photograph was taken approximately a millisecond after the first. The dome of the fireball can be seen, along with the specially created pattern of neutrons impacting the ground.
+
+**CHINESE NEUTRON BOMB TEST** 1995-6: Samuel Cohen said he estimates the size of the fireball in the pictures to be about 200 to 300 feet across. He believes it is a good example of what to expect from a one-kiloton, low yield neutron bomb. The photos came without technical information, so Cohen and others who evaluated the pictures were unable to provide conclusive details. [Source: Bresnahan, D., [“China Test-detonates Kiloton Neutron Bomb: U.S. likely knew about surface explosion](http://uts.cc.utexas.edu/%7Ewbova/fn/gov/china_nb.htm)”, FREEDOM NETWORK, April 1999]
+
+**Leuren Moret:** You were talking about the structure of the fourth-generation nuclear weapons where it is a layer of deuterium, a layer of U235….
+
+**Dr. Busby:** No no, it’s a solution of deuterium in the uranium…
+
+**Leuren Moret:** Oh, in the uranium.
+
+**Dr. Busby:** Yes. The fact is that we know from work that was done by a colleague of mine called Martin Fleischmann, who first discovered what is called “cold fusion” at the University of Southampton, and I was actually working with that a while ago. It was in the late 70s, beginning of the 80s. He discovered that if you dissolve deuterium and palladium and then electrolyze… use it for electrolysis, you get more energy out than you put in, and then that was called cold fusion.
+
+And everyone was running around trying to make free energy using cold fusion. And the Harwell Laboratory, at that time, the atomic energy research laboratory in the UK denied that and said “Oh, it doesn’t work”. He just kind of gave up on that, or at least it didn’t go anywhere. But more recently, he has told my colleague in Italy that in fact a much better electrode to use, or a much better material to use, is uranium, but in fact not palladium. But uranium dissolves much more hydrogen or deuterium because it goes into the interstices between these enormous uranium atoms because you know it has an atomic number of 92. So it’s a very very big atom and in the metallic matrix, there’s lots of spaces between the atoms where hydrogen can pack in, so enormous amounts of deuterium will actually just dissolve in solution into the uranium matrix.
+
+Now if you then compress it, it causes a cold fusion reaction, according to this guy, Emilio Della Guidice, whom I met in London. He told me about this. If you then compress a supersaturated solution of deuterium in uranium, there is nowhere for the deuterium to go so it compresses to the extent that it turns itself into helium-4 and produces tritium and a great gamma ray pulse with neutrons. It’s a two-stage reaction. So it is a cold fusion reaction. So in principle what you have to do is take a shell and fill it up with uranium powder and then dissolve deuterium, heavy hydrogen, in that and then fire it at something. So there is that something it squashes. It gets compressed and then you get this gigantic pulse of energy as a result of this fusion reaction – cold fusion. That is what he suggested is what this cold fusion weapon is. In fact, the Russians did talk about a similar weapon which they called “Red Mercury”.
+
+And they referred to it in the late part of Ronald Reagan’s presidency, sometime when there was a discussion between Reagan and some General in the Soviet system. They were bragging about the fact that they had this weapon that was about the size of a baseball that was a neutron bomb, and it had a density such that it weighed about 20 kilograms or so many kilograms. Anyway I have worked out that in order to be the size of a baseball and weigh whatever they said it weighed, it had to be to be uranium because that was the only thing that had sufficient density to weigh that much.
+
+So I think this weapon has been around for some time actually. So that’s all I know, but I don’t know anything about the super-thermite. But if a weapon exists, that’s how it works.
+
+**Jim Fetzer:** The research that has been done about the superthermite or nanothermite actually had shown that it does not have the explosive properties that would be required to perform these feats. I have worked in collaboration with a chemical engineer from NASA by the name of T. Mark Hightower. We have now published several articles demonstrating that the detonation velocity of nano-thermite is only 895 meters per second, whereas as you know from materials science the principle that you must have a detonation velocity equal at least to the speed of sound and the material wherein concrete is 3200 meters per second and in steel 6100 meters per second, so that nano-thermite doesn’t even have the potential to have brought about the effects that were observed, for example in the Twin Towers on 9-11.
+
+**Dr. Busby:** …the tritium, that’s the point.
+
+**Jim Fetzer:** The tritium, yes yes, elevated levels of tritium and I also understand that of barium, of strontium and of deuterium.
+
+**Dr. Busby:** Well…if true…I didn’t know you got deuterium as well as tritium. If you’ve got deuterium as well as tritium, that pretty much nails it, doesn’t it?
+
+[![Pic 10. Fig.8](/assets/images/pic-10-fig8_med_hr.jpeg)](/assets/images/pic-10-fig8.jpeg)
+
+**EURASIAN AIR CIRCULATION AND DISPERSAL** Movement of air masses through contaminated regions transports the radioactive poison gas and aerosols around the world, contaminating the environment through dry and wet depositions, causing large increases globally in uranium-related diseases and chronic illnesses, infertility, and the feminization of men. [Source: Peter Eyre, former British Naval Intelligence and Middle East oil and gas consultant]
+
+**Jim Fetzer:** Well I would like for you to elaborate on that because this is a very important point. I have longed believed that it was the chemical residue that was going to tell us what was going on here.
+
+**Dr. Busby:** Right. Well, from what I just said, from what Emilio Della Guidice told me, this weapon is deuterium dissolved in uranium. OK. Now if that’s the case, you’re not going to get a hundred percent fusion. I mean I’d be surprised if you got more than five percent fusion. And it could well be that you could regulate the level of fusion by regulating the gamma radioactivity of the uranium. So if you put more U235 into the mix, you might be able to increase the electron density and therefore, because of the ionization of the U235 is much more radioactive than U238, and then you might be able to regulate the percentage of the material that went to cold fusion.
+
+But I would be extremely surprised if the percentage of fusion was very high at all. Because, if it were for me [to say], there would be all sorts of parts of this weapon that didn’t reach super-saturation. So some part of it would get this fusion reaction and it would blow the rest of it away. Just like the atom bombs. That’s why they had to put these big uranium casings on the atom bomb because the initial fission explosion would blow everything away and then the neutron density would fall down, so you would lose a lot of efficiency.
+
+And even the way in which they did it with atom bombs, they still only got about five percent fission. So there was an awful lot of wastage. And the same here. So the wastage, of course, would lead to all that deuterium being released in the explosion as deuterium, not having been turned into anything else… like tritium and so forth and would be able to be there in the ground, see, and hence the deuterium.
+
+**Jim Fetzer:** Let me pose the plausibility of the following scenario. We have firefighters who were reporting hearing ‘boom boom boom boom’. It was 110 stories and it took approximately 11 seconds to be completely destroyed, I believe we were listening to a series of explosions that were blowing out 10 floors at a time. Would that sound plausible using these types of weapons?
+
+**Dr. Busby:** I really don’t know. I’m not a weapons expert. All I can say…I mean…all of this is the sort of back walk, I mean we walked away from what I know, which is that we discovered enriched uranium in Fallujah.
+
+**Jim Fetzer:** Yes.
+
+**Dr. Busby:** And walking back from that we then think well why is there enriched uranium in Fallujah and then we say ‘well look here, one of the possibilities is that they developed this weapon.’ And then you add all of the other stuff in and it means that maybe this weapon exists.
+
+**Jim Fetzer:** Yes.
+
+**Dr. Busby:** I have no idea how powerful it is, but I would suggest that it is very very powerful in terms of its size. So if you want something that’s small that somebody can walk and just stick it in the corner somewhere that has enough power to blow this building down, you know, then it’s a good bet. In other words, otherwise you’d have to take a suitcase of TNT, or maybe like, you know, suitcases that would make it more difficult…
+
+**Jim Fetzer:** Oh it would be massive quantities of TNT, massive quantities… Just to mention in response to Leuren’s interest in the nano-thermite, it has less than 13 percent the explosive power of TNT.
+
+**Leuren Moret:** A chemical explosive does not release enough energy to do what happened to the World Trade Center buildings, which was to nano-powder them. And they were in lower orbital space within 48 hours of the disaster. Those are very very tiny particles and I am an atmospheric dust expert. I’ve never heard of it going up into lower orbital space that fast.
+
+**Jim Fetzer:** Doesn’t what Chris is describing sound very plausible conjecture, admittedly as a conjecture? But of course the crucial part of scientific reasoning is speculation, identifying hypotheses for further investigation. You know I think…
+
+**Leuren Moret:** The whole key to what happened at the World Trade Center is the energy budget. How much energy was necessary to break those building materials into nano-particles? And that could not come from a chemical explosive. And secondly, the data that Dr. Thomas Cahill reported from his air monitoring of the World Trade Center for five months beginning October 5th after 9-11 was…He’s the one that reported high levels of uranium, elevated levels of uranium in the dust that was released from the WTC, the highest concentration of fine particles ever measured in an air sample in the US and the highest concentration of metal ever measured in an air sample in the US. And also he reported deuterium, tritium, and like I said the elevated uranium levels.
+
+**Jim Fetzer:** Go ahead Chris, yes.
+
+**Dr. Busby:** Well, there you are. You have all those three ingredients, don’t you? The tritium, the deuterium and the uranium – yes, that’s all you need. It seems quite a plausible hypothesis. 
+
+**J****im Fetzer:** It does indeed and I just want to clear, Chris, about the ingredients. You have the deuterium that is a solution of uranium, or depleted uranium, powder that is diluted with deuterium, and then all you have to do is project it or impose some pressure upon it to cause it to…
+
+**Dr. Busby:** That’s right. That’s how it works.
+
+**Jim Fetzer:** That’s astounding! That’s just simply astonishing!
+
+**Leuren Moret:** And then to add to that…to add to that, New York City is still radioactive after 9-11. And when I started a depleted uranium Geiger counter movement in Hawaii in 2007, the police chief of New York City tried to get a law passed, he panicked because New Yorkers were contacting me and wanted to do a Geiger counter survey in New York City. And he tried to get a law passed in New York City that prohibited citizens from having or using Geiger counters or any air-monitoring instruments. It failed.
+
+**Jim Fetzer:** What an arbitrary, capricious and tyrannical step to propose! I mean, that’s just stunning, Leuren. We’re talking about health hazard detection devices. They were supposed to be made illegal in New York City?
+
+**Leuren Moret:** That’s right. Because as long as the government agencies are measuring the radiation levels, we’ll never get the truth. But once American citizens, or Japanese citizens or people in other countries start making the measurements themselves, then the cat is out of the bag. It’s extremely empowering and very powerful and it really pushes the military and the government up against the wall. And so it’s very important for Americans and citizens around the world to have measuring devices. Dr. Busby just went to Japan. Tell them what happened, Chris.
+
+**Dr. Busby:** Oh, well, sure. I said I wasn’t going to go very close to Fukushima because I was scared of dying, basically. So they said, “You can come 100 kilometers and we’ll get the citizens of Fukushima to come to you”, which they did. So I went to a place called Aizu Wakamatsu, and they said “Oh, the levels of radioactivity there are quite low.” Now I have a portable gamma-spectrometer. It’s really quite a sophisticated piece of kit, which I got from the East Germans – call it the Germans now – but basically I still think of them as the East Germans, in Dresden. A very very nice piece of equipment, which consisted of a germanium-scintillation counter, a two and a half inch sodium iodide detector and then a little mini-computer and stuff.
+
+And we found in Aizu Wakumatsu, we found using a Geiger counter that there were levels of about 5.5 microsieverts per hour, which is about 5, 6, 7 times higher than background. And we set up this thing and made it the spectrum there and found enormous levels of cesium-137 and cesium-134, and also the signal appeared to show the presence of uranium-235. And since then, I have brought that sample back to England and had it tested in another laboratory using a high-resolution camera and what this shows is that there is a signal from U238, uranium-235. And that the ratio of U238 to U235 is quite anomalous.
+
+Again, it’s very highly enriched uranium, but it’s much more highly enriched than Fallujah. As far as the signal is concerned, based on the thorium daughter isotopes, it seems that there is at least a 4 to 1 ratio of enriched U235 to U238, whereas it should be about 140 [to 1]. So there is something causing a lot of U235 and it could well be the presence of plutonium-239. Because U235 is the daughter of plutonium-239, and of course there was one of the reactors at Number 3 that had MOX fuel [MOX: mixed uranium and plutonium oxide fuel] which burned and exploded and so on. So I think there is quite a lot of contamination of plutonium all over the whole area there. But of course all of this has been covered up by the Japanese authorities…
+
+**Jim Fetzer:** And with complicity from the American government, it appears, and I think…
+
+**Dr. Busby:** And I would say probably encouragement from the American government.
+
+**Jim Fetzer:** And in part, no doubt, on behalf of the nuclear power industry because they don’t want Americans to be alarmed by the massive risks they are confronting by having these power plants distributed all over the country.
+
+**Leuren Moret:** Of course, of course. There is just an absolute massive global cover-up.
+
+[![Pic 11. Fig.12](/assets/images/pic-11-fig12_med_hr.jpeg)](/assets/images/pic-11-fig12.jpeg)
+
+**LIVERMORE WHISTLEBLOWER:** Staff Scientist Leuren Moret exposed science fraud, graft, corruption, and contractor fraud in 1991 at the Livermore nuclear weapons lab. She has traveled to 50 countries to carry out an education campaign against nuclear technologies. [Photo: courtesy of Leuren Moret 2005]
+
+**Dr. Busby:** In my country in Britain, I managed to get on to the BBC right at the beginning before they figured out what was going on and I haven’t been on air since then. And there is a whole stream of people out there on television saying ‘oh, really no problem’ and ‘very low doses and nobody will be harmed’ and so forth. It’s an entire cover-up operation. It’s quite sickening.
+
+**Jim Fetzer:** And I found the same with the BBC in covering research that I and others had done about 9-11. They were very adept when I’d be discussing one feature reported by photographic evidence. When they broadcast, they showed another photograph with different features and they did that in a pattern suggesting I hadn’t known what I was talking about, when in fact I had explained to them when they were here at my home, this most recent taping for four hours, the differences that were involved here, and nevertheless, they performed a sleight-of-hand during their documentaries.
+
+**Dr. Busby:** How interesting. How interesting.
+
+**Jim Fetzer:** I have actually published this in a piece titled “The BBC’s Instrument of 9/11 Misinformation” on [Veterans Today](http://www.veteranstoday.com/2011/09/03/the-bbcs-instrument-of-911-misinformation/). But Chris I’ve got to say how much I admire what you have been doing here. This Fallujah catastrophe is going to go down as one of the great war crimes in history, comparable to the bombing of Guernica which Picasso immortalized. It is just grief inducing to hear about the consequences, and I gather, based upon your research, it is evident that this contamination is reaching around the globe, that it has the potential to effect the entire human species genetically.
+
+**Dr. Busby:** Yes, that’s right. That’s right. We have measured this stuff in places like in the atomic weapons establishment in the United Kingdom. And it is not surprising at all because these particles are basically gas, and they are so small, you know, 50 nanometers, a hundred nanometers, they can’t really be considered to be solids. They are aerosols and they just behave as a gas, and they float all over the place. They float all around the globe and they contaminate everybody, so no man is an island in this case. Absolutely.
+
+**Jim Fetzer:** It seems to me that between the catastrophes in Fallujah, in Iraq generally, in the Gulf of Mexico, and Fukushima that we are doing a pretty good job of contaminating our environment and making the planet uninhabitable at least for the long run for the human species because of genetic abnormalities which are going to lead to such a high percentage of deaths. And really it is going to stem the reproduction of the species. It seems to me it’s inevitable at this point in time.
+
+  
+
+
+[![Pic 12. Fig.9](/assets/images/pic-12-fig9_med_hr.jpeg)](/assets/images/pic-12-fig9.jpeg)
+
+**SAMUEL T. COHEN, INVENTOR OF THE NEUTRON (FUSION) BOMB** Sam Cohen holds up a Vatican Peace (for War) Medal for inventing the neutron bomb (for Peace), given to him by Pope John Paul I. He designed the neutron bomb with just pencil, paper and a slide rule. (Photo: San Jose Mercury News)
+
+**Dr. Busby:** Well you say “we” but it’s not you or me, James. These are actual people and they’ve got names and addresses, and we’re talking about a split in the human race between the bad guys and the good guys. It’s a bit like the Lord of the Rings. There are bad guys and they do have names and ultimately I hope that they will send them to jail for a very long time.
+
+**Jim Fetzer:** But the consequences, I fear, is not merely, you know, those who are responsible, but the enduring effects, which, it seems to me, are going to prove to be insurmountable, that there’s going to be no way to circumvent the consequences to the human species with respect to its capacity for reproduction based upon the genetic defects that are being induced by these calamities. It includes, of course, not just the radioactive disaster at Fukushima but also those induced by the use of Corexit in the Gulf of Mexico, and everything you have been describing in Iraq, which is horrendous by itself.
+
+**Dr. Busby:** Yes, they were of course. And I can tell you one thing…that the Israelis, for example, carried out a study in Jerusalem about two years ago of sperm counts in young men. And what they found was that there was such a reduction in sperm counts [a 40% decline in sperm count/quality in last ten years] that the authors of this article, which was in a peer-reviewed journal, said that if this rate in reduction of sperm count continued at the same rate, by the time 2020, there will be no more Israelis. That will be it – finished. It will be like the Newfoundland cod.
+
+**Jim Fetzer:** By the year when? How distant was their projection?
+
+**Dr. Busby:** By 2020. Their project was 2020. If it continues…
+
+**Jim Fetzer:** 2020 !
+
+**Dr. Busby:** By 2020, that would be the end of Israel.
+
+**Jim Fetzer:** 2020 — and this is already 2011!
+
+**Leuren Moret:** The sperm count in the last ten years has declined 40 percent in Israeli men. It was already at least 20 percent in decline because of nuclear technology, but at this rate, by 2020, just as Dr. Busby has said, basically [Israeli men will be sterilized](http://www.haaretz.com/print-edition/news/study-quality-of-israeli-sperm-down-40-in-past-decade-1.275772). At 20 percent sperm count, men are considered to be sterile. [See HAARETZ: “[Study: Quality of Israeli sperm down 40% in past decade”](http://www.haaretz.com/print-edition/news/study-quality-of-israeli-sperm-down-40-in-past-decade-1.275772) by Ofri Ilani (11.05.09)]
+
+**Jim Fetzer:** Are we aware of what might be the specific causes of this reduction in sperm count among the Israeli …
+
+**Dr. Busby:** It’s uranium. It’s the uranium. The uranium is floating all around the Middle East.
+
+**Jim Fetzer:** Including, at part, perhaps their own production of weapons where they have one of the larger stock piles, the largest in the Middle East, but also a large one worldwide.
+
+**Dr. Busby:** It’s the uranium in the atmosphere. It’s the uranium. That’s what it is. Its inhaled and then it goes directly into the system…
+
+**Jim Fetzer:** So we’re just talking about these Israeli men as a sample of a larger population problem worldwide?
+
+**Leuren Moret:** No. What happened is I have photographs during the Gaza attack of the Israeli Defense Forces [IDF] dropping 8 and 10 depleted uranium bunker busters at a time [carpet bombing with DU] along the Israeli Gaza border, which is up on the heights. There’s nobody living up there. The Gaza population lives along the ocean, the Mediterranean coastline, and the Israeli Defense Forces were deliberately bombing their own border and I have airflow charts and photographs of the wind blowing from the Mediterranean, up to the heights, and blowing all that uranium dust into Israel.
+
+[![Pic 13. Fig.101](/assets/images/pic-13-fig101_med_hr.jpeg)](/assets/images/pic-13-fig101.jpeg)
+
+**JANUARY 2009 ATTACK ON GAZA**
+
+Exploding depleted (DU) uranium bomb, with 4 incoming DU bombs just above the fireball, on the heights above Gaza at the Israeli-Gaza border. The Gaza shoreline and Mediterranean Sea are in the back-ground. The onshore winds on this day in early 2009, carried the radioactive dust and smoke over the Israeli border in minutes, exposing the Israeli population to high levels of radiation in the air, and permanent contamination of the Israeli environment – air, water, soil, and food. [Source: “UN 2008 Report: Evidence of Global Decline In Population and Fertility”, presented by Leuren Moret, at Kuala Lumpur War Crimes Confer. Sept. 20, 2009]
+
+**Jim Fetzer:** Wow. And I presume a comparable reduction in sperm count is taking place in the Palestinian population.
+
+**Leuren Moret:** Actually their population is expanding. The Israeli population is shrinking.
+
+**Jim Fetzer:** That’s stunning, isn’t it? Stunning!
+
+**Leuren Moret:** Well, they have a lot more children than the Israelis.
+
+**Jim Fetzer:** Yes, but if the sperm count was being affected on both sides, it wouldn’t be happening this way either.
+
+**Dr. Busby:** The Palestinians have a lot more babies, that’s all, same percentage…doesn’t matter same effect.
+
+**Jim Fetzer:** Oh, so you are suggesting they could have the lower sperm count but because of reproducing, having more children than the Israelis, which of course is a well known socioeconomic phenomenon…
+
+**Leuren Moret:** Right!
+
+**Jim Fetzer:** …that the higher educated, the higher socioeconomic…
+
+**Dr. Busby:** Have you noticed in the West, well I don’t know about America, but I certainly know in this country that it is getting more and more difficult to have babies. I mean there is all of this technology going into IVF (in vitro fertilization) now and so forth. You know when I was young, you know, you only had to shake hands with a woman and she would be pregnant.
+
+**Jim Fetzer:** (laughs)
+
+**Dr. Busby:** I mean, I can tell you…
+
+**Jim Fetzer:** I got it, Chris, yes. That’s great.
+
+**Dr. Busby:** But nowadays its not like that. You have to get fancy doctors and have all sorts of treatments.
+
+**Jim Fetzer:** Don’t you imagine it is also a function of the increased use of electronic equipment and wireless transmissions and cell phones?
+
+**Dr. Busby:** Yes, I think I know about that too. If you want to start me on that one, I think we figured that one out.
+
+**Jim Fetzer:** Yes, give us a few words about that before we have to part because this has been simply superb.
+
+**Dr. Busby:** OK. This is how it works. All of the effects of ionizing radiation are transmitted in the body in the form of charged particle tracks and most of these are electrons. So what happens is a gamma ray is absorbed by material in the body water, in the cell, and it generates a photoelectron. So the electron is wheeling off. And it is the photoelectron that causes all of the ionization that leads to the genetic damage. So it is charged particle tracks that cause cancer. Now if you put a charged particle track in the body electric into an electric field, then the energy of the electron or the particle is absolutely added to by the electric field.
+
+And this is how television works. You shoot an electron down a cathode ray tube and you perturb its motion by putting it an electric field or a magnetic field, so you put any body contaminated with radiation into an electro-magnetic field, the energy is transferred to the body and it is transferred to the charged particles, to the electron. So obviously what you are doing is merely increasing the impact, if you like, the momentum, of the ionizing radiation…
+
+**Leuren Moret:** The energy release. Yes.
+
+**Dr. Busby:** And so that…what you are doing is augmenting the ionizing radiation dose.
+
+**Jim Fetzer:** Say the last part…you’re ionizing the radiation…?
+
+**Dr. Busby:** You’re augmenting the radiation, you’re increasing the ionizing radiation dose. So the ionizing radiation that you would normally get in the absence of a mobile phone, so you haven’t got a mobile phone, you’re sitting in a room with all the electrons whirling around causing genetic damage, and that’s called background radiation. So then you pick up your mobile phone, you switch it on and say “Hello mum it’s me’ all right, and what happens then is quite a few milliwatts per cubic centimeter then go into your brain, and all of that energy is electromagnetic energy. Now as far as the electron tracks are concerned, they see no difference between that and an electric field or a magnetic field. So instead of whizzing along in a straight line, [an electric field causes the electrons to] wiggle about. So they’re increasing the amount of energy they deposit in the tissue over the amount that they normally would in the absence of the mobile phone radiation.
+
+Well, this is really quite remarkable. We tried to do research on this at the Karolinska Institute [where the Nobel prizes are awarded in Norway]. We put in an application for funding and they freaked out and they shut down my main laboratory. They got so upset about this that my colleague, Olav Johansen, who is like a world authority on this – he and I were going to do research on this and show that it is true, using all sorts of techniques, you know, Monte Carlo modeling and cloud chambers and all sorts of…
+
+**Jim Fetzer:** So the greatest risk from cell phone usage may not be a form of brain cancer but rather some kind of genetic damage?
+
+**Dr. Busby:** No, no, it is a form of brain cancer. That’s how cancer forms. Cancer forms because of genetic damage. You get cancer from genetic damage, so all I’m saying is that the genetic damage that you normally get from ionizing radiation increases because the ionizing radiation borrows [absorbs] energy from the electromagnetic field. That’s it. The point is what they say is that it is not possible for the electromagnetic field on its own to interact with genetic material because the quantum energy is not high enough. But that is not the point…what I say is that it is not about the quantum energy being ionized, **it****adds its energy to the electron******[from internal exposure to ionizing radiation]…
+
+**Jim Fetzer:** It’s additive. Yes yes yes, so it does that much more damage between what the body is used to and not used to, the threshold is transcended and therefore it brings about…
+
+**Dr. Busby:** No, normally you get cancer because of radiation. In other words, in a year you get two millisieverts, and then over the years the millisieverts add up and when you’re 70, you get cancer. OK So, you multiply that by say 140 millisieverts and your body starts to fall apart. **But if you sit there with an electromagnetic field, with a mobile phone, that just doubles it, so instead of two millisieverts in a year, you’re now getting four millisieverts in a year.**
+
+**Jim Fetzer:** Yes Yes. and all the concomitant effects that will bring about…
+
+**Dr. Busby:** Well it just doubles your rate of cancer and it doubles your rate of aging.
+
+**Leuren Moret:** It’s a multiplier effect.
+
+**Jim Fetzer:** It’s a multiplier effect, not merely additive.
+
+**Dr. Busby:** Yes, correct, it is a multiplier effect.
+
+**Jim Fetzer:** Christopher Busby, I cannot tell you how much I admire what you have been doing and the value of your contributions is immeasurable. This has been a most important conversation, and I am so grateful you could join me. Leuren, of course, I have long admired your many contributions and I am so grateful to have the both of you here together today. So I want to profess my profound appreciation to you, Leuren Moret, and to you, Christopher Busby for the exceptional quality of your work and your contributions to humanity. I admire you both.
+
+**Leuren Moret:** Well we appreciate you.
+
+**Dr. Busby:** You’re welcome.
+
+**Jim Fetzer:** So this is Jim Fetzer, your host on “The Real Deal” thanking my specials guests today, Christopher Busby from the UK, Leuren Moret from California, and all of you for listening. 
+
+**J****im Fetzer,** McKnight Professor Emeritus at the University of Minnesota Duluth, is a former Marine Corps officer and the founder of Scholars for 9/11 Truth.
+
+**Leuren Moret** is an independent geoscientist who has done expert studies on the Fukushima disaster, and radiation problems around the world including depleted uranium.
+
+**Dr. Christopher Busby** is a visiting biomedical studies professor at the University of Ulster and is the co-author of reports about the effects of enriched uranium in Iraq especially in Fallujah.
+
+# # #
+
+[http://www.veteranstoday.com/2011/11/03/new-bombs-and-war-crimes-in-fallujah/](http://www.veteranstoday.com/2011/11/03/new-bombs-and-war-crimes-in-fallujah/)
+
+⚛ ⚛ ⚛
+
+[![Archive Article Seperator - blue 1940x46px](/assets/images/article-seperator---blue_med_hr.jpeg)](/assets/images/article-seperator---blue.jpeg)
+
+⚛
+
+⚛
+
+Visitors to LM:GNC
+
+  
+
+
+![LM-GNC Site Map \(1-spin\)](/assets/images/lm-gnc-site-map-1-spin_med.png)
+
+  
+
+
+Leuren Moret: Global Nuclear Coverup
+
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)
+    * [🚫 Out of Eurasia 🚫](/out-of-eurasia)
+    * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international)
+    * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition)
+    * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde-haarp-nlp)
+    * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima)
+    * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm)
+    * [🌎 New World Order America 🇺🇸](/new-world-order-america)
+    * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine-eu)
+    * [👥 Template: Jade Helm](/template-jade-helm)
+    * [✠ America’s Domestic Pacification ✠](/americas-domestic-pacificat)
+    * [♨️ Chernobyl, Zaporozhye, Blackmail ⚛](/chernobyl-zaporozhye-blackm)
+    * [💉 REBRANDING DISASTER🔪](/rebranding-disaster)
+    * [👤 Eurasian Enigma Arises](/eurasian-enigma-arises)
+    * [🔴 Donetsk Nuclear Explosion ⚫️](/donetsk-nuclear-explosion)
+      * [🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️](/interview-donetsk-nuclear)
+      * [⛔️ ”Absolutely Massive," Nuke Explosion Ukraine](/absolutely-massive-nuke)
+    * [🌍 21st Century Silk Road 🌏](/21st-century-silk-road)
+      * [🌍 Silk Road Strategies 🌐](/silk-road-strategies)
+      * [🌍 21st Century Silk Road PT1 🌏](/21st-century-silk-road-pt1)
+      * [🌍 21st Century Silk Road PT2 🌏](/21st-century-silk-road-pt2)
+      * [🌍 21st Century Silk Road PT3 🌏](/21st-century-silk-road-pt3)
+    * [🌍 Africa ☗](/africa)
+      * [🇫🇷 Libya's Orwellian Bienvenue 💣](/libyas-orwellian-bienvenue)
+    * [♞ Balkans, The Nameless Triangle](/the-nameless-triangle)
+      * [📜 VERDICT FIRST | SENTENCES LATER ♨️](/verdict-first-sentences)
+      * [⏰💀 Macedonian Uprising / Western NGO's](/macedonian-uprising-wester)
+      * [⏰ Minsk? Nyet! Boisto Island](/minsk-nyet-boisto-island)
+      * [☞ ☜ And Now the Flawed Minsk Agreement](/and-now-the-flawed-minsk)
+    * [🌏 China 🌝](/china)
+      * [➷ 300 Years Wasted 💀](/300-years-wasted)
+    * [🌍 Eurasia 🔴](/eurasia)
+      * U.S. Collapse in Syria
+      * [💰 Oil Money? | EU Laundromat? 🚿](/oil-money-eu-laundromat)
+      * [💣 Terrorist Christmas, Jihadi New Year 💀](/terrorist-christmas-jihadi)
+      * [🌞 Stable Oil Trade 🌝](/stable-oil-trade)
+    * [💣 Israel: Out of Erupt!](/israel-out-of-erupt)
+      * [💀 Israel Forced to Investigate ☚](/israel-forced-to-investigat)
+      * [🎈 Sweden: A Stage is Set](/sweden-a-stage-is-set)
+    * [✠ Jesuits/Templar’s Origins & Aims](/jesuitstemplars-origins)
+      * [👺 SOROS ✠ NWO 📚 Hacked ✍](/soros-nwo-hacked)
+      * [➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳](/pyatts-soros-breakfast)
+      * [Breedlove, GOOD RIDDANCE](/breedlove-good-riddance)
+      * [🎱 Obama’s $3 Billion Eurocon 💸](/obamas-3-billion-eurocon)
+      * [🌍 A Psychopath’s Psychopath ✠](/a-psychopaths-psychopath)
+      * [🔫 Global Hit Squad 💣](/global-hit-squad)
+      * [💀 Neo-Capitalist’s Slave Trade 💰](/neo-capitalists-slave-trade)
+        * [💰 Terrorist Law on Slaves 💀](/terrorist-law-on-slaves)
+        * [💩 Be Somebody, Be A Minion! 💩](/be-somebody-be-a-minion)
+      * [🇺🇸 Bio: Undermine Control](/bio-undermine-control)
+      * [↷ Fine Evening For A Minuet ↶](/fine-evening-for-a-minuet)
+      * [✠ Slavery, Then & Now](/slavery-then-now)
+      * [💣 JCS Operation Northwoods](/jcs-operation-northwoods)
+      * [✠ The Three Secret Meetings](/the-three-secret-meetings)
+    * [Korea Yeonhee (연희) Nuclear Kabuki Theatre](/korea-yeonhee-nuclear-kabuk) Nuclear Kabuki Theatre")
+    * [🌍 Middle East 💣](/middle-east)
+      * [💣 ISIL: Battered, Retreating 💀](/isil-battered-retreating)
+      * [🔥 Turkish Coup Attempt 💣](/turkish-coup-attempt)
+        * [💣 Campbell’s Turkey Coup 🎭](/campbells-turkey-coup)
+        * [🇪🇸 Turkey Coup, NATO Fire 🔥](/turkey-coup-nato-fire)
+      * [⚑ Muslim Brotherhood and ISIS ⚫️](/muslim-brotherhood-and-isis)
+      * [🔫💰💉Daesh Terrorist Multi-Tool🔪💣💊](/daesh-terrorist-multi-tool)
+      * [🚧 US and Turkey, NWO the Kurds 💸](/us-and-turkey-nwo-the-kurds)
+      * [✠ Hitler Bragged on Jesuits ✠](/hitler-bragged-on-jesuits)
+      * [🍞 Their Daily Bread & Rubble 💣](/their-daily-bread-n-rubble)
+      * [🔪“Erdogan is Strengthening ISIS”💣](/erdogan-is-strengthening)
+      * [🇫🇷 Russia Reveals ISIS’ Money 💰💰](/russia-reveals-isis-money)
+      * ["Raqqa's Rockefellers” ISIS Full Frontal](/raqqas-rockefellers-isis)
+        * [🍗 Mini Erdogan’s Terrorist Dinner 💣](/mini-erdogans-terrorist)
+      * [☞ Smashing Turkey’s Game❌](/smashing-turkeys-game)
+      * [🌍 Juncker | E.U. | Direction ⤣](/juncker-eu-direction)
+      * [🔪 GLADIO Wolf Kills Russian Pilot ✈︎](/gladio-wolf-kills-russian)
+      * [✈︎ Washington’s SU-24 🎯](/washingtons-su-24)
+      * [🌐 Turkey, NATO, War Crime? 🔎](/turkey-nato-war-crime)
+      * [➷ 449-Down, ISIL to Go 💣](/449-down-isil-to-go)
+    * [🌎 North America 🔥✠](/north-america)
+      * [🌎🔥 Alberta Oil Sands Fire 🌎🔥](/alberta-oil-sands-fire)
+    * [🇷🇺 Russia 🇷🇺](/russia-is-coming)
+      * [🇷🇺 PUTIN OVERHAULS KREMLIN 🏰](/putin-overhauls-kremlin)
+      * [☛ Who Created ISIS ☚](/who-created-isis)
+        * [☞ Assad’s ISIS Interview 🎥](/assads-isis-interview)
+      * [🍳 Food Supply Compromised 🎱](/food-supply-compromised)
+      * [🌍 Putin re Ceasefire Syria 🌐](/putin-re-ceasefire-syria)
+      * [👤 Cold War Re-Run 👀](/cold-war-re-run)
+      * [🌐 Minsk 101 | Theatre of the Absurd 🌍](/minsk101-theatre-of-absurd)
+      * [🌐 Geopolitical Original Sin 🌍](/geopolitical-original-sin)
+      * [♘ Russian Troops | Turkish Border ♘](/russian-troops-turkish)
+      * [📚 Educating Charlie Rose 🔑](/educating-charlie-rose)
+      * [🌍 Lavrov's Munich Speech](/lavrovs-munich-speech)
+      * [🎱 US Embassy Media Fail 🎭](/us-embassy-media-fail)
+      * [✠ ♛🃏 Putin’s Jar Of Spiders](/putins-jar-of-spiders)
+      * [🎱 MOSSAD’S ON THE DOORSTEP 💣](/mossads-on-the-doorstep)
+      * [📄 This Document is Dynamite 📄](/this-document-is-dynamite)
+      * [♔ The Golden Trap](/the-golden-trap)
+      * [❁ Russian Fusion-Fission](/russian-fusion-fission)
+      * [❁ Putin’s 7-Point Plan](/putins-7-point-plan-2)
+      * [❁ Russian Position Speech](/russian-position-speech-2)
+    * [✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?](/mh-17-jesuits-flagged-brics)
+      * [⏰ Ukraine? 🔥 Bail Out! ✈️](/ukraine-bail-out)
+        * [🐟 Poroshenko Calls Merkel 🐙](/poroshenko-calls-merkel)
+        * [🃏 Poroshenko’s Spanish Villa 🏰](/poroshenkos-spanish-villa)
+      * [💦👤 Psychotropic Zombification ☔️](/psychotropic-zombification)
+      * [💣 Odessa Trade Union Murders 🔥](/odessa-trade-union-murders)
+      * [🃏 Nothing Personal, Just Business 💰](/nothing-personal-just-busin)
+      * [💉 BioWeapons for Depopulation 💀](/bioweapons-for-depopulation)
+      * [⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀](/nuclear-coverup-ukraine)
+      * [🔥 Unsustainable Ukraine 👥](/unsustainable-ukraine)
+      * [☗ ASHES TO ASHES 💀](/ashes-to-ashes)
+      * [🔪Ukrainian Wikileaks 👀](/ukrainian-wikileaks)
+      * [☞ Dispatches From the Front 🔫](/dispatches-from-the-front)
+      * [💣 The Ukrainian Failed State 🌍](/the-ukrainian-failed-state)
+      * [🔑 Our Decisions Define Us🔑](/our-decisions-define-us)
+      * [✠ Child Abuse 💀](/child-abuse)
+        * [✏️ UkroNazi ABC’s 📕](/ukronazi-abc)
+      * [💣 Mozgovoi’s Murder 🔪](/mozgovois-murder)
+        * [♞ This War? No Victory 💀](/this-war-no-victory)
+        * [☦ It Is A Gift To Die In May…](/it-is-a-gift-to-die-in-may)
+        * [🔍 Mozgovoy Murder Analysis p1.](/mozgovoy-murder-analysis-p1)
+        * [🔍 Mozgovoy Murder Analysis p2.](/mozgovoy-murder-analysis-p2)
+      * [🎱 Yatsenyuk's Russian Threat 🔮](/yatsenyuks-russian-threat)
+      * [||| Prison Ukraine |||](/prison-ukraine)
+      * [✍ CyberBerkut Reports 👥](/cyberberkut-reports)
+        * [💀 U.S.’n’Ukraine Caught Red Handed ☜](/usnukraine-caught-red-hande)
+          * [☞ Caught Red Handed ☜ CyberBerkut Original](/caught-red-handed-cyberber)
+        * [📄 Soros Letters | Ukraine ✠](/soros-letters-ukraine)
+          * [⚇ SOROS Draft Non-Paper ⚇](/soros-draft-non-paper)
+      * [♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️](/crazy-arseniys-used-ukrai)
+      * [✝ AZOV CRUCIFIXION ✝](/azov-crucifixion)
+      * [👤 Eyewitness Debaltsevo Cauldron 💀](/eyewitness-debaltsevo-cauld)
+      * [✍ Historic Slaviansk Doctor Interviewed](/historic-slaviansk-doctor)
+      * [💀 The Tragedy of Uglegorsk](/the-tragedy-of-uglegorsk)
+      * [♟ Jan. 2015 Minsk Fail 🃏](/jan-2015-minsk-fail)
+      * [➷ Tochka Found, Debaltsevo Locked](/tochka-found-debaltsevo)
+      * [🌍 World Facing Second Chernobyl](/world-facing-second-chernob)
+      * [✈︎ MH-17 AND THE Jesuit Minuet](/mh-17-and-the-jesuit-minuet)
+      * [✈︎ MH-17, Jesuits Flagged!, Video](/mh-17-jesuits-flagged-video)
+      * [💀 Death’s Drummers](/deaths-drummers)
+      * [👤 DPR! Novorossiya Calling](/dpr-novorossiya-calling)
+      * [💀 Ukraine’s Chernobyl Armor](/ukraines-chernobyl-armor)
+      * [🎱 Gas to Ukraine Blocked](/gas-to-ukraine-blocked)
+      * [❁ Global Nuclear Theatre: Donbass](/global-nuclear-theatre)
+      * [✠ GHOSTS of the 51st BRIGADE](/ghosts-of-the-51st-brigade)
+      * [❁ Novorossiya: Strelkov Briefing](/novorossiya-strelkov-briefi)
+      * [👤 Open Letter to President Putin](/open-letter-to-president)
+      * [✈︎ MH-17 Dutch Interim Report](/mh-17-dutch-interim-report)
+      * [💣 Surrendering UA Murdered by Punatives](/surrendering-ua-murdered-by)
+      * [♟ Mutiny of the Euro-Integrators ♟](/mutiny-of-the-euro-integrat)
+      * [➹ View from Ukraine Operating Room](/view-from-ukraine-operating)
+      * [❁ Ukraine’s Violent Escalation](/ukraines-violent-escalation)
+      * [❁ Ukrainian Soldier’s Cry for Help](/ukrainian-soldiers-cry-for)
+      * [⧱ Occupied Ukraine ⧱](/occupied-ukraine)
+      * [❁ US State's Nuland Directs Ukrainian Coup](/us-states-nuland-directs)
+      * [📯 Ukraine Deputies Knew Before Maidan](/ukraine-deputies-knew-befor)
+    * [❁ Health In 2015](/health-in-2015)
+    * [💉 Vaccines 💀](/vaccines)
+    * [🎥 Geopolitics, Jesuits & History](/geopolitics-jesuits-histor)
+    * [🎥 Rebranded ✠ The Jesuits ✠](/rebranded-the-jesuits)
+    * [⚛ Zaporhyze Nuclear Events & Geopolitics](/zaporhyze-nuclear-events)
+    * [❁ Fukushima Polar Vortex Radiation ❁](/fukushima-polar-vortex)
+    * [💀 Embrace, Enfold, Extinguish](/embrace-enfold-extinguish)
+    * [✈︎ Fear of Flying . . . (1of4)](/fear-of-flying-1of4)")
+      * ✈︎ Fear of Flying . . . 2of4
+      * [✈︎ Fear of Flying 3](/fear-of-flying-3)
+      * [✈︎ Fear of Flying 4](/fear-of-flying-4)
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt.1)](/fukushima-impact-of-fallout)")
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt. 2)](/fukushima-impact-of-fallout-2)")
+    * [❁ North America, Middle East and Fukushima](/north-america-middle-east)
+    * [❁ DHS/Napolitano Berkeley Template](/dhsnapolitano-berkeley)
+    * [❁ Fukushima Radiation, Ecocide & Tesla Technology](/fukushima-radiation-ecocide)
+    * [✈︎ Flight 370 Downing](/flight-370-downing)
+    * [✈︎ MH370: The Follow-Up](/mh370-the-follow-up)
+    * [❁ Domestic Radiation Issues](/domestic-radiation-issues)
+    * [❁ Fukushima: Hawaii, Pacific Is. - Unsafe](/fukushima-hawaii-pacific-is)
+    * [⚛ Fukushima Reactors, Breakdown 1-6 ⚛](/fukushima-reactors-breakdow)
+    * [🌏 International Sites Featuring LM:GNC](/international-sites-featuri)
+    * [❁ On To Mongolia 🎥](/on-to-mongolia)
+    * 🎥 LKM On Fairdinkum Media 🎥
+      * ✠ The Jesuits in Geopolitics
+    * [❁ Editorial Page](/editorial-page)
+      * [🎉April Fooles! 2016 🙊](/april-fooles-2016)
+      * [Yatsenyuk’s Failed-State Cookbook](/yatsenyuks-failed-state)
+      * [⚑ H.A.A.R.P. Season ⚑](/haarp-season)
+      * [↵ Psyop 101 ⟲](/psyop-101)
+      * [⨳ R2P THE NWO ⨳](/r2p-the-nwo)
+        * ["The Responsibility to Protect" ICISS 2001 Report.pdf](../currents/editorial-page/r2p-the-nwo/the-responsibility-to-prote.pdf ""The Responsibility to Protect" ICISS 2001 Report.pdf")
+      * [➷ Tbilisi 2008, Ukraine Today](/tbilisi-2008-ukraine-today)
+      * [✠ The Old, New, Endless War](/the-old-new-endless-war)
+      * [✠ A New "Maidan" Awaits](/a-new-maidan-awaits)
+      * [❁ Your Federal Appropriations Scams at Work](/your-federal-appropriations)
+      * [🎈Amusements 🎭](/amusements)
+    * [❁ Conversations 📬](/conversations)
+      * [⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛](/uranium-mine-on-tribal-land)
+      * [📬 re: Geiger Counters ⚛⚛⚛](/re-geiger-counters)
+      * [⚡️CYBERCOM Suppression Silo 🎯](/cybercom-suppression-silo)
+      * [🌎 Pacific Coast Watch](/pacific-coast-watch)
+      * [♟ Cruel Murder of Boris Nemtsov](/cruel-murder-of-boris-nemts)
+        * [⚔ More re: Nemtsov Murder](/more-re-nemtsov-murder)
+        * [👠 A Decoy For Murder](/a-decoy-for-murder)
+      * [❁ Palladium's All-Time High](/palladiums-all-time-high)
+      * [❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014](/fukushimahawaii-update-sun)
+      * [❁ Fukushima And Diet](/fukushima-and-diet)
+  * [❁ Waves](/waves)
+    * [⚛ Radiation Around The Nation 🌎](/radiation-around-the-nation)
+      * ⚛ Your Radiation #73/74, Sep 10 - 24, 2016 🌎
+      * ⚛ Your Radiation #71/72, Aug 27 - Sep 10, 2016 🌎
+      * [⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎](/your-radiation-69-70-july)
+      * [⚛ Your Radiation #67/8,--July 16-30, 2016 🌎](/your-radiation-678-july-16)
+      * [⚛ Your Radiation #65-6,--July 2-16, 2016 🌎](/your-radiation-65-6-july-2)
+      * [⚛ Your Radiation #64, July 2-9, 2016 🌎](/your-radiation-64-july-2-9)
+      * [⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎](/your-radiation-62-3-june-18)
+      * [⚛ Your Radiation #61, June 11-18, 2016 🌎](/your-radiation-61-june-11)
+      * [⚛ Your Radiation #60, June 4-11, 2016 🌎](/your-radiation-60-june-4-11)
+      * [⚛ Your Radiation #59, May 28 - June 4, 2016 🌎](/your-radiation-59-may-28)
+      * [⚛ Your Radiation #58, May 21-28, 2016 🌎](/your-radiation-58-may-21-28)
+      * [⚛ Your Radiation #57, May 14-21, 2016 🌎](/your-radiation-57-may-14-21)
+      * [⚛ Your Radiation #56, May 7-14, 2016 🌎](/your-radiation-56-may-7-14)
+      * [⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎](/your-radiation-55-apr-30)
+      * [⚛ Your Radiation #54, Apr 23-30, 2016 🌎](/your-radiation-54-apr-23-30)
+      * [⚛ Your Radiation #53, Apr 16-23, 2016 🌎](/your-radiation-53-apr-16-23)
+      * [⚛ Your Radiation #52, Apr 9-16, 2016 🌎](/your-radiation-52-apr-9-16)
+      * [⚛ Your Radiation #51, Apr 2-9, 2016 🌎](/your-radiation-51-apr-2-9)
+      * [⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎](/your-radiation-47-50-apr-2)
+      * [⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎](/your-radiation-46-feb-27)
+      * [⚛ Your Radiation #45, Feb 20-27, 2016 🌎](/your-radiation-45-feb-20-27)
+      * [⚛ Your Radiation #44, Feb 13-20, 2016 🌎](/your-radiation-44-feb-13-20)
+      * [⚛ Your Radiation #43, Feb 6-13, 2016 🌎](/your-radiation-43-feb-6-13)
+      * [⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎](/your-radiation-42-jan-30)
+      * [⚛ Your Radiation #41, Jan 23-30, 2016 🌎](/your-radiation-41-jan-23-30)
+      * [⚛ Your Radiation #40, Jan 16-23, 2016 🌎](/your-radiation-40-jan-16-23)
+      * [⚛ Your Radiation #39, Jan 9-16, 2016 🌎](/your-radiation-39-jan-9-16)
+      * [⚛ Your Radiation #38, Jan 2-9, 2016 🌎](/your-radiation-38-jan-2-9)
+      * [⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎](/your-radiation-37-dec-26)
+      * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+      * [⚛ Your Radiation #35, Dec 12-19, 2015 🌎](/your-radiation-35-dec-12-19)
+      * [⚛ Your Radiation #34, Dec 5-12, 2015 🌎](/your-radiation-34-dec-5-12)
+      * [⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎](/your-radiation-33-nov-28)
+      * [⚛ Your Radiation #32, Nov 21-28, 2015 🌎](/your-radiation-32-nov-21-28)
+      * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+      * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+      * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+      * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+      * [⚛ Your Radiation #27, Oct 17-24, 2015 🌎](/your-radiation-27-oct-17-24)
+      * [⚛ Your Radiation #26, Oct 10-17, 2015 🌎](/your-radiation-26-oct-10-17)
+      * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+      * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+      * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+      * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+      * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+      * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+      * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+      * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+      * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+      * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+      * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+      * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+      * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+      * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+      * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+      * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+      * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+      * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+      * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+      * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+      * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+      * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+      * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+    * [🔥 Fire at Oak Ridge 💥](/fire-at-oak-ridge)
+    * [💥 NANOWEAPONRY 💥](/nanoweaponry)
+      * [💥 D.I.M.E. BOMB Fallujah 💥](/dime-bomb-fallujah)
+      * [💥 Dense Inert Metal Explosive 💀](/dense-inert-metal-explosive)
+      * [💥 NANOTECH; LAW OF WEAPONRY ☞🔫](/nanotech-law-of-weaponry)
+      * [☗ Eugenics, Euthanasia and Experiments ☗](/eugenics-euthanasia-and)
+    * [🐄 Radioactive Cattle Teeth, Fukushima 🏭](/radioactive-cattle-teeth)
+    * [📰 WikiLeaks 🔎 NSA and More 🔦](/wikileaks-nsa-and-more)
+      * [✠ Hillary’s DNC Dossier 🎭](/hillarys-dnc-dossier)
+      * [📖 Snowden’s SIDToday Files ✍](/snowdens-sidtoday-files)
+      * [❌ Clinton CyberSecurity Fail 🚫](/clinton-cybersecurity-fail)
+        * [Office of the Inspector General, State Dept- Evaluation of Emai l Records Management and Cybersecurity Requirements, oig-report.pdf](../waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/office-of-the-inspector.pdf "Office of the Inspector General, State Dept- Evaluation of  Emai l Records Management and  Cybersecurity Requirements, oig-report.pdf")
+      * [⚑ Clinton’s Designs on Syria ➷](/clintons-designs-on-syria)
+      * [⚑ Clinton eMail on Syria 🎯](/clinton-email-on-syria)
+    * [✨Nano ‘Hall of Mirrors’⚡️](/nano-hall-of-mirrors)
+    * [⚛ 💀 ⚛ into the Hudson River 🌎](/into-the-hudson-river)
+    * [🚿 Flint, Metropolitan Eugenics 💀](/flint-metropolitan-eugenics)
+      * [🚿 Flint, Double Jeopardy 💰](/flint-double-jeopardy)
+      * [🚿 Flint, Poison, Epidemic 💉](/flint-poison-epidemic)
+    * [🌍 Existential Threat? ☛NATO☚](/existential-threat-nato)
+    * [💉 Gates, Poroshenko; Conspiracy, Government 🎯](/gates-poroshenko-conspiracy)
+    * [💉 Gates-Poroshenko ZPG Ukraine 💀](/gates-poroshenko-zpg-ukrain)
+    * [💀 Paris Massacre Perpetrators 👤](/paris-massacre-perpetrators)
+    * [🔪 Delgado, Mind Control ♟](/delgado-mind-control)
+    * [🌎 MOST NUKED NATION ON EARTH 🌎](/most-nuked-nation-on-earth)
+    * [🎯 Radio Frequency Directed Energy 🎯](/radio-frequency-directed)
+    * [⚛ Please, Don’t Pick the Mutants 🌻](/please-dont-pick-the-mutant)
+    * [⨳👤⨳ Space-Based Weapons Ban](/space-based-weapons-ban)
+    * [√ Saudi OP Strategy Success](/saudi-op-strategy-success)
+    * [♨️ Gallery ♨️ Chernobyl Fire ♨️ 2015 ♨️](/gallery-chernobyl-fire)
+      * [❁ 2014 Radiation Roadshow | Chernobyl ❁](/2014-radiation-roadshow)
+    * [🌍 Monsanto Backdoors E.U.](/monsanto-backdoors-eu)
+    * [🎉 Crimea’s 1st Anniversary Album 🎉](/crimeas-1st-anniversary)
+    * [🌏 21st Century Eschalon](/21st-century-eschalon)
+    * [📰 International Headline Watch 🌏](/international-headline)
+      * [📰 Fort Russ Headlines 🌍](/fort-russ-headlines)
+      * [📰 Tass Headlines 🌐](/tass-headlines)
+      * [📰 SouthFront Headlines 🌏](/southfront-headlines)
+    * [✄ Prouty Place ✑ CUT THE BULL ✂︎](/prouty-place-cut-the-bull)
+      * [🌎 Oil is Renewable 🌎](/oil-is-renewable)
+      * [👥 That Whole Bay Of Pigs Thing](/that-whole-bay-of-pigs)
+      * [☛ Lansdale at the Kennedy Assassination ⚑](/lansdale-at-the-kennedy)
+    * [🌏 How To Wreck The Environment](/how-to-wreck-the-environmen)
+    * [🇯🇵 Plutonium Isotopes Off Japan](/plutonium-isotopes-off)
+    * [🌍 Depopulation Agenda: Europe 👤](/depopulation-agenda-europe)
+    * [🔪💉Cease Covert Depopulation Letter🔪💉](/cease-covert-depopulation)
+    * [❁ Dutch Apologize for MH-17 Lies](/dutch-apologize-for-mh-17)
+    * [❁ Pacific Dead from Fukushima](/pacific-dead-from-fukushima)
+    * [❁ Strange Fish Story](/strange-fish-story)
+    * [❁ Blood Composition of Monkeys Altered Near Fukushima](/blood-composition-of-monkey)
+    * [❁ Secret Army Bases](/secret-army-bases)
+    * [⚛ Fukushima Plutonium Effect ⚛](/fukushima-plutonium-effect)
+      * [20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22](/20130423-_poster-estimatio)
+      * [⚛ Fukushima Blow-Up Regimes ⚛](/fukushima-blow-up-regimes)
+    * [➷ RAND Demographic Military Power ➷](/rand-demographic-military)
+    * [⚛ Depleted Uranium | DNA Damage ⚛](/depleted-uranium-dna-damag)
+    * [❁ Hidden Genocide: by Dr. Ernest Sternglass](/hidden-genocide-by-dr-ernes)
+    * [❁ Space Preservation Act of 2001](/space-preservation-act-of)
+    * [❁ 1972 Rothschild Ball](/1972-rothschild-ball)
+    * [❁ Unsafe Radwaste Disposal](/unsafe-radwaste-disposal)
+    * [♆ Fallout and Reproduction of Ocean Fish Populations](/fallout-and-reproduction-of)
+  * [❁ Lifestyle](/lifestyle)
+    * [📖 LM:GNC BookShelf](/lmgnc-bookshelf)
+      * [✑ Manuscripts ✍](/manuscripts)
+      * [🔴 “1984” George Orwell 💀](/1984-george-orwell)
+      * [➷ THE NAMELESS WAR 💣](/the-nameless-war)
+      * [🌍 Who Owns the World](/who-owns-the-world)
+      * [💀 Order OF Skull & Bones](/order-of-skull-bones)
+      * [🎼 Angels Don't Play this HAARP](/angels-dont-play-this-haarp)
+      * [👥 Genocide In Iraq v.I&II](/genocide-in-iraq-viii)
+      * [♟ Double Life of Fidel Castro ♚](/double-life-of-fidel-castro)
+    * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of)
+  * [❁ Archive](/)
+    * ⚛ 61 Years of Omnicide ⚛
+    * 📻 Nanoparticle Toxicity with Leuren Moret ❦
+    * ❁ New Bombs and War Crimes in Fallujah
+    * ❁ Global Climate Change . . .
+    * ⚛ International Radiation Distribution ⚛
+      * Radiation Poisons Generations
+      * Sellafield | Global Dose Test
+    * 💀 Depleted Uranium’n’DNA 😱
+    * ❁ UC Regents Lose Nuke Pgm
+    * ❁ DU-Trojan Horse
+    * ❁ LM:GNC (Pt1)")
+    * ❁ LM:GNC (Pt2)")
+    * ❁ World Uranium Weapons Conference 2003
+    * ⚛ Radionuclide ReMobilization Abatement
+    * ❁ "America First" Transcription
+    * ❁ "Whale Archive" Transcription
+    * ⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛
+  * [❁ Glossary](/glossary)
+  * [❁ Contact](/contact)
+
+
+
+  
+
+
+![LM-GNC Site Map \(1-spin\)](/assets/images/lm-gnc-site-map-1-spin_med.png)

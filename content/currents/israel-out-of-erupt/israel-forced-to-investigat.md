@@ -1,46 +1,491 @@
 ---
-title: "Contact"
-description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
-section: "home"
-slug: "contact"
-path: "contact"
-sidebar: |
-  #### Contact LM:GNC
-
-  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
+title: "Israel Forced to Investigate"
+description: "The Accused's Friends and Family Allegedly Murdered Three People and Made a Baby an Orphan. This is what These Supposedly Learned Rabbis Have Lost Sight Of. Instead they Focus the Fact that the Suspects are Having their Religious Objects Denied them. You’ll Barely Hear a Whisper About the Murders in these Letters Though, They Wisely Omit from Them any Reference to the Killers themselves and Their Crime. Certainly, If You Spoke To These Rabbis Privately, They Would Have A Thousand Justifications For These Foul Deeds. But they’re Wise Enough to Understand that this Won’t “Sell” Well in Israel Right Now."
+section: "currents"
+slug: "israel-forced-to-investigat"
+path: "currents/israel-out-of-erupt/israel-forced-to-investigat"
 ---
 
-## Leuren Moret
+![SEPARATOR- Israel Forced to Investigate](/assets/images/separator--israel-forced-to_med_hr.png)
 
-Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
+  
 
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
+**Richard Silverstein has Almost Managed to Identify the Killers of the Dawabsheh Family**
 
----
+![_The Dawabsheh Family, 3248097915](/assets/images/_the-dawabsheh-family-32480_med_hr.jpeg)
 
-## Laurens L. Battis III — Original Publisher & Editor
+December 13, 2015 – 2:56 pm | Originally on [niqnaq](https://niqnaq.wordpress.com/author/niqnaq/)
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
+PART-1-
 
----
+**Then there Were Five: New Settler Murder Accomplice Arrested Under Gag Order**  
+[Richard Silverstein, Tikun Olam, Dec 9 2015](http://www.richardsilverstein.com/2015/12/09/then-there-were-five-new-settler-murder-accomplice-arrested/)
 
-## A Note on Leuren's Whereabouts
+![Pic 1.1, wp-1449728887299](/assets/images/pic-11-wp-1449728887299_med_hr.png)
 
-Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
+_Still from TV clip of the suspects_
 
-If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+There’s been a new addition to the settler Murderers Row of suspects in the arson-murders of the Dewabsheh family outside of Nablus. He is **Netanel Porkovich** , resident of the Kochav Shahar settlement. He is [suspected of providing the car the murderers used](http://www.inn.co.il/News/News.aspx/311596) to carry out the crime. His identity is under Shabak gag order. You may assume that he is not being offered the typically high level of hospitality bestowed on Shabak detainees. The picture features two of the terror suspects in court. The image was not pixellated by the Israeli TV channel which featured this video. Images of the suspects, as well as their identities, are under gag. If anyone can name each of them, let me know. Tellingly, this is the same settlement where new Israeli national police chief Roni Alsheikh lived before deciding he had a better chance of bagging the top Shin Bet job if he moved to a home within the Green Line. He also might have realized he was snuggling too closely with prospective Shabak terror suspects. Alsheikh, who was once deputy chief of the Shin Bet and hoped to be promoted to the top job, chose instead to become national police chief. In profiles of Alsheikh in Israeli media, he has been called “messianic,” which seems fitting for an agency being increasingly held hostage to an extremist Israeli nationalist religious outlook.
 
----
+![Pic 1.2, idx-06611-mp4](/assets/images/pic-12-idx-06611-mp4_med_hr.jpeg)
 
-## The Archiver
+_Rabbi Moshe Odess_
 
-This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+In a further development, one of the detainees’ fathers, Rabbi Moshe Odess, has also been [arrested](http://www.srugim.co.il/132850-%d7%a8%d7%91%d7%a0%d7%99-%d7%94%d7%a9%d7%95%d7%9e%d7%a8%d7%95%d7%9f-%d7%94%d7%a9%d7%91%d7%9b-%d7%90%d7%99%d7%91%d7%93-%d7%90%d7%aa-%d7%94%d7%a2%d7%a9%d7%aa%d7%95%d7%a0%d7%95%d7%aa) by the Shin Bet. It is highly unusual for Israel’s security forces to arrest a rabbi, no matter how extreme, and you may be certain that Rabbi Odess is plenty extreme. In fact, he is one of Israel’s most extreme settler rabbis. The good rabbi has written not one but two books telling “Judeans” how to maintain the rites and rituals of the God’s Holy Temple when Israel “finally” rebuilds it as it should be (irony intended). This struggle appears part of a psychological contest between the settlers and the Shin Bet, in which the settlers are using their considerable political clout against this aggressive interrogation of the suspects. The Shin Bet appears to be saying the gloves have come off, and the former niceties will no longer be observed. There seems to be stronger will to solve this case than others which have come before.
 
-**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
+The settler councils are uniting to exert pressure on their political allies in Knesset to intercede on behalf of their boys. Headlines scream “Israeli security forces crossing all red lines.” Why are they crossing red lines? Because they’re treating these Jewish terrorists similarly to how they treat Plastelinan security prisoners. Not the same, mind you: they’re probably not crushing their balls or applying other forms of outright torture, as they do against Plastelinans, but they’re not being very nice. They’re not permitting them contact with their lawyers. They’re putting other forms of pressure on them. That’s crossing red lines. These settler validators of Jewish terror haven’t stopped to think about the crime itself. Did the murderers not cross a few red lines? If so, what do they expect? Shabak’s motivation to pursue the case energetically is because international figures and bodies, including the UN and world leaders, have specifically demanded that Israel solve this case. Further, Israeli-Plastelinan MKs have brought an action before the Supreme Court demanding that the defense minister and Attorney General expend considerably more effort than they have to solve the crime. The security services are willing to be lax in solving Jewish terror crimes, but not at the expense of being made to look like fools. Nor does this mean it will pursue similar cases in the future with anything but the laxity with which it dealt with previous cases of murder of Palestinian victims. There are rare instances when Shabak is forced to punish Jewish terrorists, almost against its will. This is one of them.
 
-The source mirror and site code are both open and available on GitHub:
+PART-2-
 
-- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
-- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
+**Settler Terror and Its Apologists**  
+[**Richard Silverstein, Tikun Olam, Dec 11 2015**](http://www.richardsilverstein.com/2015/12/11/settler-terror-and-its-apologists/)
+
+Israeli settlers have waged an organized campaign of mass violence against West Bank Plastelinans for decades. It began in the 1980s with bombings which severely injured many members of the Plastelinan political leadership. Now the third generation of those terrorists is making its mark on the political landscape. They are following in their tatehs‘ and zaydehs‘ footsteps by desecrating mosques and cemeteries, razing and burning agricultural land, slaughtering flocks, and maiming and murdering Plastelinan civilians. They’ve done so with impunity, all the while living high off the land stolen from these same Plastelinans. This new generation is standing on the shoulders of its forefathers and reaping the benefit of their political achievements. But not to be outdone, the young ones have devised their own form of high-profile terror attacks designed to lead to an all-out war between Jews and Arabs, which Israel will presumably win. To this end, they’ve engaged in ever more cruel and brutal acts of terror, the latest one being the arson-murder of the Dawabsheh family, which killed a young mother and father, their youngest baby boy, and left one young son alive as an orphan. The Shabak was inclined not to do much to solve this crime. Several months went by without any movement in the case. Defense Minister Ya’alon made noises that the crime might never be solved, in order to protect the settler snitches it had recruited as spies, at least one of whom had betrayed his handlers by not informing them about this plot.
+
+But then a UN official and EU leaders began calling for action. Israeli Plastelinan MKs filed suit before the Supreme Court demanding that the defense minister and attorney general take action. All of a sudden, the police had the case in hand. “Meaningful progress” was being made. Arrests were imminent. Thanks to foreign involvement and the potential embarrassment of having the Supreme Court raking them over the coals, the security apparatus made arrests. They’re all under gag order, which I’ve broken. Four alleged conspirators are in prison along with one accomplice, [Netanel Porkovich](http://www.richardsilverstein.com/2015/12/09/then-there-were-five-new-settler-murder-accomplice-arrested/), who’s accused of giving them the vehicle they used in the attack.
+
+![Pic 2.1, 10426653_249496705242699_7495462544048523550_n](/assets/images/pic-21-10426653_24949670524_med_hr.jpeg)
+
+_Netanel Porkevich & spouse_
+
+Porkovich is the “youth secretary” of Kochav ha-Sachar. Imagine, an accomplice to murder who is a community youth leader! It should tell you what sort of education these youth are getting. The father of one of the suspects, Rabbi Moshe Odess, is also in prison, a tactic the Shabak likes to use to exert pressure on young suspects. But what’s astonishing is the PR onslaught orchestrated by the settler political lobby. It’s a very powerful one, as I’ve written here before. It essentially controls almost all the levers of power, though it likes to make a dramatic flourish every so often about its rights being trampled upon and politicians betraying them in various ways. Settlers are very good at this. They play all the cards of Jewish guilt against a populace which is largely secular, but which can easily be made to feel sorry for abandoning the faith. In this and in so many other ways, the settlers hold the rest of Israel hostage. They do so by invoking Jewish third-rail memes like Holocaust and anti-Semitism. They’re also expert in exploiting the supposed democratic values of the State whenever their own rights are compromised. Though they are more than prepared to trample on the rights of non-settlers, both Jewish and Plastelinan, at any opportunity. They scream about Israel violating its democratic norms when they don’t believe in democracy. Virtually every settler leader will tell you that their constituency believes in a Jewish state and has no use for Israeli democracy, echoing Meir Kahane. Even the majority of secular Israelis believe that in a clash between democracy and Judaism, the latter should prevail. Thus it’s the height of hypocrisy for settlers to demand rights they don’t value themselves.
+
+**UPDATE** : To show you the power of the lobby, despite the fact that the Shabak could’ve held Porkovich for several more days legally, it just released him from prison before his detention order expired. It NEVER does this with non-settler security detainees. Just the opposite, it extends detention for weeks, months and sometimes years. A “minyan” of settler rabbis wrote a letter to the Israeli public singing the praises of two of the detainees, citing them as shining models of Israeli manhood. I simply must quote from them. The “youth” of his settlement wrote this encomium about Porkovich’s extraordinary humanity:
+
+  * We the youth of Kochav HaShachar are deeply troubled at the arrest of our youth secretary. Netanel Porkovich has been our companion for several years. We’ve enjoyed many hours with him in discussions, activities, hikes, etc. We learned to value and appreciate him as an extraordinary man who leads us to positive acts and to contribute in every possible way. Concepts like honesty, love of the Jewish people and the Land, the army and soldiers, contributing to society and the State…good deeds–all of this characterizes who he is. This may not be pleasant to write, but when residents grew heated over issues concerning our existence here, he was the one who tried to calm and moderate us. … We were horrified to learn that Netanel’s tefillin were withheld from him for five days. These are acts of oppressive regimes. It’s terrible to think that in the State of Israel they won’t enable a man to pray to his God and fulfill the most basic mitzvot!
+
+
+
+  
+
+
+Here is a joint letter from the rabbis protesting the arrest of Rabbi Odess, the father of suspect, Elisha Odess:
+
+  * The Shabak, which is behind this deed, knows full well that Rabbi Odess has no connection to the crime committed in Duma. It is nothing more than an exploitation of his status in order to exert pressure on the suspects. … His arrest on his way to morning prayer indicates that the Shabak has lost its way, using prohibited methods against a faithful, law-abiding citizen. A democratic state may not permit itself to use such illegitimate methods.
+
+
+
+  
+
+
+Note that the letter completely disregards the role Odess’ own son may have played in this crime, and treats him as someone who played no role in educating a boy to do the things he’s alleged to have done. Rabbi Ohad Krakauer and the leadership of Kochav ha-Shachar wrote yet another letter expressing astonishment that the democratic State of Israel would treat its citizen (a Jewish one, no less), Netanel Porkovich, so shabbily:
+
+  * Last week, we discovered to our sorrow and deep frustration that in this democratic State of Israel it’s possible to perform grave acts against normative citizens under the color of law. In our nation, a law-abiding citizen, a member of the President’s List, who serves in the IDF reserves and contributes to society, an educator who is deeply appreciated and who engages with youth and educates them in love of country, may find himself thrown in a Shabak cell, without even minimal conditions, without having committed any misdeed and without any suspicion against him. In a conversation between our representatives and the officer conducting the investigation, we were shocked to discover that the attitude toward Netanel was one of a terrorist. This crosses all red lines in a State which professes to be democratic and to protect the rights of the individual without regard to religion, sex or personal perspective.
+
+
+
+  
+
+
+Do not forget, as well, that Porkovich is portrayed in the press quite differently than in these letters. There is a serious charge against him: that he provided the vehicle used in committing the murders. While it’s true he may not have known what the killers planned, he is an accessory after the fact, and there is every reason to question him. These supposedly learned rabbis have lost sight of the fact that while the suspects may be inconvenienced by having their religious objects denied them, their friends and family allegedly murdered three people and made a baby an orphan. You’ll barely hear a whisper about this in these letters, though they wisely omit from them any reference to the killers themselves and their crime. Certainly, if you spoke to them privately, they would have a thousand justifications for these foul deeds. But they’re wise enough to understand that this won’t “sell” well in Israel right now.
+
+![SEPARATOR- Israel Forced to Investigate](/assets/images/separator--israel-forced-to_med_hr.png)
+
+  
+
+
+[http://www.richardsilverstein.com/2015/12/09/then-there-were-five-new-settler-murder-accomplice-arrested/](http://www.richardsilverstein.com/2015/12/09/then-there-were-five-new-settler-murder-accomplice-arrested/)
+
+[https://niqnaq.wordpress.com/2015/12/13/richard-silverstein-has-almost-managed-to-identify-of-the-killers-of-the-dawabsheh-family/](https://niqnaq.wordpress.com/2015/12/13/richard-silverstein-has-almost-managed-to-identify-of-the-killers-of-the-dawabsheh-family/)   
+
+
+![SEPARATOR- Israel Forced to Investigate](/assets/images/separator--israel-forced-to_med_hr.png)
+
+  
+
+
+[![\(-ed\) Cheshire Cat Smiling \(EDITOR LMGNC\)](/assets/images/ed-cheshire-cat-smiling_med_hr.jpeg)](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+[❁ LM:GNC on YouTube ❁](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+Visitors to LM:GNC
+
+  
+
+
+![TITLE, LMGNC Site Map](/assets/images/title-lmgnc-site-map-2_med.png)
+
+  
+
+
+[Leuren Moret: Global Nuclear Coverup](/)
+
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)
+    * [🚫 Out of Eurasia 🚫](/out-of-eurasia)
+    * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international)
+    * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition)
+    * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde-haarp-nlp)
+    * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima)
+    * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm)
+    * [🌎 New World Order America 🇺🇸](/new-world-order-america)
+    * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine-eu)
+    * [👥 Template: Jade Helm](/template-jade-helm)
+    * [✠ America’s Domestic Pacification ✠](/americas-domestic-pacificat)
+    * [♨️ Chernobyl, Zaporozhye, Blackmail ⚛](/chernobyl-zaporozhye-blackm)
+    * [💉 REBRANDING DISASTER🔪](/rebranding-disaster)
+    * [👤 Eurasian Enigma Arises](/eurasian-enigma-arises)
+    * [🔴 Donetsk Nuclear Explosion ⚫️](/donetsk-nuclear-explosion)
+      * [🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️](/interview-donetsk-nuclear)
+      * [⛔️ ”Absolutely Massive," Nuke Explosion Ukraine](/absolutely-massive-nuke)
+    * [🌍 21st Century Silk Road 🌏](/21st-century-silk-road)
+      * [🌍 Silk Road Strategies 🌐](/silk-road-strategies)
+      * [🌍 21st Century Silk Road PT1 🌏](/21st-century-silk-road-pt1)
+      * [🌍 21st Century Silk Road PT2 🌏](/21st-century-silk-road-pt2)
+      * [🌍 21st Century Silk Road PT3 🌏](/21st-century-silk-road-pt3)
+    * [🌍 Africa ☗](/africa)
+      * [🇫🇷 Libya's Orwellian Bienvenue 💣](/libyas-orwellian-bienvenue)
+    * [♞ Balkans, The Nameless Triangle](/the-nameless-triangle)
+      * [📜 VERDICT FIRST | SENTENCES LATER ♨️](/verdict-first-sentences)
+      * [⏰💀 Macedonian Uprising / Western NGO's](/macedonian-uprising-wester)
+      * [⏰ Minsk? Nyet! Boisto Island](/minsk-nyet-boisto-island)
+      * [☞ ☜ And Now the Flawed Minsk Agreement](/and-now-the-flawed-minsk)
+    * [🌏 China 🌝](/china)
+      * [➷ 300 Years Wasted 💀](/300-years-wasted)
+    * [🌍 Eurasia 🔴](/eurasia)
+      * U.S. Collapse in Syria
+      * [💰 Oil Money? | EU Laundromat? 🚿](/oil-money-eu-laundromat)
+      * [💣 Terrorist Christmas, Jihadi New Year 💀](/terrorist-christmas-jihadi)
+      * [🌞 Stable Oil Trade 🌝](/stable-oil-trade)
+    * [💣 Israel: Out of Erupt!](/israel-out-of-erupt)
+      * 💀 Israel Forced to Investigate ☚
+      * [🎈 Sweden: A Stage is Set](/sweden-a-stage-is-set)
+    * [✠ Jesuits/Templar’s Origins & Aims](/jesuitstemplars-origins)
+      * [👺 SOROS ✠ NWO 📚 Hacked ✍](/soros-nwo-hacked)
+      * [➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳](/pyatts-soros-breakfast)
+      * [Breedlove, GOOD RIDDANCE](/breedlove-good-riddance)
+      * [🎱 Obama’s $3 Billion Eurocon 💸](/obamas-3-billion-eurocon)
+      * [🌍 A Psychopath’s Psychopath ✠](/a-psychopaths-psychopath)
+      * [🔫 Global Hit Squad 💣](/global-hit-squad)
+      * [💀 Neo-Capitalist’s Slave Trade 💰](/neo-capitalists-slave-trade)
+        * [💰 Terrorist Law on Slaves 💀](/terrorist-law-on-slaves)
+        * [💩 Be Somebody, Be A Minion! 💩](/be-somebody-be-a-minion)
+      * [🇺🇸 Bio: Undermine Control](/bio-undermine-control)
+      * [↷ Fine Evening For A Minuet ↶](/fine-evening-for-a-minuet)
+      * [✠ Slavery, Then & Now](/slavery-then-now)
+      * [💣 JCS Operation Northwoods](/jcs-operation-northwoods)
+      * [✠ The Three Secret Meetings](/the-three-secret-meetings)
+    * [Korea Yeonhee (연희) Nuclear Kabuki Theatre](/korea-yeonhee-nuclear-kabuk) Nuclear Kabuki Theatre")
+    * [🌍 Middle East 💣](/middle-east)
+      * [💣 ISIL: Battered, Retreating 💀](/isil-battered-retreating)
+      * [🔥 Turkish Coup Attempt 💣](/turkish-coup-attempt)
+        * [💣 Campbell’s Turkey Coup 🎭](/campbells-turkey-coup)
+        * [🇪🇸 Turkey Coup, NATO Fire 🔥](/turkey-coup-nato-fire)
+      * [⚑ Muslim Brotherhood and ISIS ⚫️](/muslim-brotherhood-and-isis)
+      * [🔫💰💉Daesh Terrorist Multi-Tool🔪💣💊](/daesh-terrorist-multi-tool)
+      * [🚧 US and Turkey, NWO the Kurds 💸](/us-and-turkey-nwo-the-kurds)
+      * [✠ Hitler Bragged on Jesuits ✠](/hitler-bragged-on-jesuits)
+      * [🍞 Their Daily Bread & Rubble 💣](/their-daily-bread-n-rubble)
+      * [🔪“Erdogan is Strengthening ISIS”💣](/erdogan-is-strengthening)
+      * [🇫🇷 Russia Reveals ISIS’ Money 💰💰](/russia-reveals-isis-money)
+      * ["Raqqa's Rockefellers” ISIS Full Frontal](/raqqas-rockefellers-isis)
+        * [🍗 Mini Erdogan’s Terrorist Dinner 💣](/mini-erdogans-terrorist)
+      * [☞ Smashing Turkey’s Game❌](/smashing-turkeys-game)
+      * [🌍 Juncker | E.U. | Direction ⤣](/juncker-eu-direction)
+      * [🔪 GLADIO Wolf Kills Russian Pilot ✈︎](/gladio-wolf-kills-russian)
+      * [✈︎ Washington’s SU-24 🎯](/washingtons-su-24)
+      * [🌐 Turkey, NATO, War Crime? 🔎](/turkey-nato-war-crime)
+      * [➷ 449-Down, ISIL to Go 💣](/449-down-isil-to-go)
+    * [🌎 North America 🔥✠](/north-america)
+      * [🌎🔥 Alberta Oil Sands Fire 🌎🔥](/alberta-oil-sands-fire)
+    * [🇷🇺 Russia 🇷🇺](/russia-is-coming)
+      * [🇷🇺 PUTIN OVERHAULS KREMLIN 🏰](/putin-overhauls-kremlin)
+      * [☛ Who Created ISIS ☚](/who-created-isis)
+        * [☞ Assad’s ISIS Interview 🎥](/assads-isis-interview)
+      * [🍳 Food Supply Compromised 🎱](/food-supply-compromised)
+      * [🌍 Putin re Ceasefire Syria 🌐](/putin-re-ceasefire-syria)
+      * [👤 Cold War Re-Run 👀](/cold-war-re-run)
+      * [🌐 Minsk 101 | Theatre of the Absurd 🌍](/minsk101-theatre-of-absurd)
+      * [🌐 Geopolitical Original Sin 🌍](/geopolitical-original-sin)
+      * [♘ Russian Troops | Turkish Border ♘](/russian-troops-turkish)
+      * [📚 Educating Charlie Rose 🔑](/educating-charlie-rose)
+      * [🌍 Lavrov's Munich Speech](/lavrovs-munich-speech)
+      * [🎱 US Embassy Media Fail 🎭](/us-embassy-media-fail)
+      * [✠ ♛🃏 Putin’s Jar Of Spiders](/putins-jar-of-spiders)
+      * [🎱 MOSSAD’S ON THE DOORSTEP 💣](/mossads-on-the-doorstep)
+      * [📄 This Document is Dynamite 📄](/this-document-is-dynamite)
+      * [♔ The Golden Trap](/the-golden-trap)
+      * [❁ Russian Fusion-Fission](/russian-fusion-fission)
+      * [❁ Putin’s 7-Point Plan](/putins-7-point-plan-2)
+      * [❁ Russian Position Speech](/russian-position-speech-2)
+    * [✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?](/mh-17-jesuits-flagged-brics)
+      * [⏰ Ukraine? 🔥 Bail Out! ✈️](/ukraine-bail-out)
+        * [🐟 Poroshenko Calls Merkel 🐙](/poroshenko-calls-merkel)
+        * [🃏 Poroshenko’s Spanish Villa 🏰](/poroshenkos-spanish-villa)
+      * [💦👤 Psychotropic Zombification ☔️](/psychotropic-zombification)
+      * [💣 Odessa Trade Union Murders 🔥](/odessa-trade-union-murders)
+      * [🃏 Nothing Personal, Just Business 💰](/nothing-personal-just-busin)
+      * [💉 BioWeapons for Depopulation 💀](/bioweapons-for-depopulation)
+      * [⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀](/nuclear-coverup-ukraine)
+      * [🔥 Unsustainable Ukraine 👥](/unsustainable-ukraine)
+      * [☗ ASHES TO ASHES 💀](/ashes-to-ashes)
+      * [🔪Ukrainian Wikileaks 👀](/ukrainian-wikileaks)
+      * [☞ Dispatches From the Front 🔫](/dispatches-from-the-front)
+      * [💣 The Ukrainian Failed State 🌍](/the-ukrainian-failed-state)
+      * [🔑 Our Decisions Define Us🔑](/our-decisions-define-us)
+      * [✠ Child Abuse 💀](/child-abuse)
+        * [✏️ UkroNazi ABC’s 📕](/ukronazi-abc)
+      * [💣 Mozgovoi’s Murder 🔪](/mozgovois-murder)
+        * [♞ This War? No Victory 💀](/this-war-no-victory)
+        * [☦ It Is A Gift To Die In May…](/it-is-a-gift-to-die-in-may)
+        * [🔍 Mozgovoy Murder Analysis p1.](/mozgovoy-murder-analysis-p1)
+        * [🔍 Mozgovoy Murder Analysis p2.](/mozgovoy-murder-analysis-p2)
+      * [🎱 Yatsenyuk's Russian Threat 🔮](/yatsenyuks-russian-threat)
+      * [||| Prison Ukraine |||](/prison-ukraine)
+      * [✍ CyberBerkut Reports 👥](/cyberberkut-reports)
+        * [💀 U.S.’n’Ukraine Caught Red Handed ☜](/usnukraine-caught-red-hande)
+          * [☞ Caught Red Handed ☜ CyberBerkut Original](/caught-red-handed-cyberber)
+        * [📄 Soros Letters | Ukraine ✠](/soros-letters-ukraine)
+          * [⚇ SOROS Draft Non-Paper ⚇](/soros-draft-non-paper)
+      * [♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️](/crazy-arseniys-used-ukrai)
+      * [✝ AZOV CRUCIFIXION ✝](/azov-crucifixion)
+      * [👤 Eyewitness Debaltsevo Cauldron 💀](/eyewitness-debaltsevo-cauld)
+      * [✍ Historic Slaviansk Doctor Interviewed](/historic-slaviansk-doctor)
+      * [💀 The Tragedy of Uglegorsk](/the-tragedy-of-uglegorsk)
+      * [♟ Jan. 2015 Minsk Fail 🃏](/jan-2015-minsk-fail)
+      * [➷ Tochka Found, Debaltsevo Locked](/tochka-found-debaltsevo)
+      * [🌍 World Facing Second Chernobyl](/world-facing-second-chernob)
+      * [✈︎ MH-17 AND THE Jesuit Minuet](/mh-17-and-the-jesuit-minuet)
+      * [✈︎ MH-17, Jesuits Flagged!, Video](/mh-17-jesuits-flagged-video)
+      * [💀 Death’s Drummers](/deaths-drummers)
+      * [👤 DPR! Novorossiya Calling](/dpr-novorossiya-calling)
+      * [💀 Ukraine’s Chernobyl Armor](/ukraines-chernobyl-armor)
+      * [🎱 Gas to Ukraine Blocked](/gas-to-ukraine-blocked)
+      * [❁ Global Nuclear Theatre: Donbass](/global-nuclear-theatre)
+      * [✠ GHOSTS of the 51st BRIGADE](/ghosts-of-the-51st-brigade)
+      * [❁ Novorossiya: Strelkov Briefing](/novorossiya-strelkov-briefi)
+      * [👤 Open Letter to President Putin](/open-letter-to-president)
+      * [✈︎ MH-17 Dutch Interim Report](/mh-17-dutch-interim-report)
+      * [💣 Surrendering UA Murdered by Punatives](/surrendering-ua-murdered-by)
+      * [♟ Mutiny of the Euro-Integrators ♟](/mutiny-of-the-euro-integrat)
+      * [➹ View from Ukraine Operating Room](/view-from-ukraine-operating)
+      * [❁ Ukraine’s Violent Escalation](/ukraines-violent-escalation)
+      * [❁ Ukrainian Soldier’s Cry for Help](/ukrainian-soldiers-cry-for)
+      * [⧱ Occupied Ukraine ⧱](/occupied-ukraine)
+      * [❁ US State's Nuland Directs Ukrainian Coup](/us-states-nuland-directs)
+      * [📯 Ukraine Deputies Knew Before Maidan](/ukraine-deputies-knew-befor)
+    * [❁ Health In 2015](/health-in-2015)
+    * [💉 Vaccines 💀](/vaccines)
+    * [🎥 Geopolitics, Jesuits & History](/geopolitics-jesuits-histor)
+    * [🎥 Rebranded ✠ The Jesuits ✠](/rebranded-the-jesuits)
+    * [⚛ Zaporhyze Nuclear Events & Geopolitics](/zaporhyze-nuclear-events)
+    * [❁ Fukushima Polar Vortex Radiation ❁](/fukushima-polar-vortex)
+    * [💀 Embrace, Enfold, Extinguish](/embrace-enfold-extinguish)
+    * [✈︎ Fear of Flying . . . (1of4)](/fear-of-flying-1of4)")
+      * ✈︎ Fear of Flying . . . 2of4
+      * [✈︎ Fear of Flying 3](/fear-of-flying-3)
+      * [✈︎ Fear of Flying 4](/fear-of-flying-4)
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt.1)](/fukushima-impact-of-fallout)")
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt. 2)](/fukushima-impact-of-fallout-2)")
+    * [❁ North America, Middle East and Fukushima](/north-america-middle-east)
+    * [❁ DHS/Napolitano Berkeley Template](/dhsnapolitano-berkeley)
+    * [❁ Fukushima Radiation, Ecocide & Tesla Technology](/fukushima-radiation-ecocide)
+    * [✈︎ Flight 370 Downing](/flight-370-downing)
+    * [✈︎ MH370: The Follow-Up](/mh370-the-follow-up)
+    * [❁ Domestic Radiation Issues](/domestic-radiation-issues)
+    * [❁ Fukushima: Hawaii, Pacific Is. - Unsafe](/fukushima-hawaii-pacific-is)
+    * [⚛ Fukushima Reactors, Breakdown 1-6 ⚛](/fukushima-reactors-breakdow)
+    * [🌏 International Sites Featuring LM:GNC](/international-sites-featuri)
+    * [❁ On To Mongolia 🎥](/on-to-mongolia)
+    * 🎥 LKM On Fairdinkum Media 🎥
+      * ✠ The Jesuits in Geopolitics
+    * [❁ Editorial Page](/editorial-page)
+      * [🎉April Fooles! 2016 🙊](/april-fooles-2016)
+      * [Yatsenyuk’s Failed-State Cookbook](/yatsenyuks-failed-state)
+      * [⚑ H.A.A.R.P. Season ⚑](/haarp-season)
+      * [↵ Psyop 101 ⟲](/psyop-101)
+      * [⨳ R2P THE NWO ⨳](/r2p-the-nwo)
+        * ["The Responsibility to Protect" ICISS 2001 Report.pdf](currents/editorial-page/r2p-the-nwo/the-responsibility-to-prote.pdf ""The Responsibility to Protect" ICISS 2001 Report.pdf")
+      * [➷ Tbilisi 2008, Ukraine Today](/tbilisi-2008-ukraine-today)
+      * [✠ The Old, New, Endless War](/the-old-new-endless-war)
+      * [✠ A New "Maidan" Awaits](/a-new-maidan-awaits)
+      * [❁ Your Federal Appropriations Scams at Work](/your-federal-appropriations)
+      * [🎈Amusements 🎭](/amusements)
+    * [❁ Conversations 📬](/conversations)
+      * [⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛](/uranium-mine-on-tribal-land)
+      * [📬 re: Geiger Counters ⚛⚛⚛](/re-geiger-counters)
+      * [⚡️CYBERCOM Suppression Silo 🎯](/cybercom-suppression-silo)
+      * [🌎 Pacific Coast Watch](/pacific-coast-watch)
+      * [♟ Cruel Murder of Boris Nemtsov](/cruel-murder-of-boris-nemts)
+        * [⚔ More re: Nemtsov Murder](/more-re-nemtsov-murder)
+        * [👠 A Decoy For Murder](/a-decoy-for-murder)
+      * [❁ Palladium's All-Time High](/palladiums-all-time-high)
+      * [❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014](/fukushimahawaii-update-sun)
+      * [❁ Fukushima And Diet](/fukushima-and-diet)
+  * [❁ Waves](/waves)
+    * [⚛ Radiation Around The Nation 🌎](/radiation-around-the-nation)
+      * ⚛ Your Radiation #73/74, Sep 10 - 24, 2016 🌎
+      * ⚛ Your Radiation #71/72, Aug 27 - Sep 10, 2016 🌎
+      * [⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎](/your-radiation-69-70-july)
+      * [⚛ Your Radiation #67/8,--July 16-30, 2016 🌎](/your-radiation-678-july-16)
+      * [⚛ Your Radiation #65-6,--July 2-16, 2016 🌎](/your-radiation-65-6-july-2)
+      * [⚛ Your Radiation #64, July 2-9, 2016 🌎](/your-radiation-64-july-2-9)
+      * [⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎](/your-radiation-62-3-june-18)
+      * [⚛ Your Radiation #61, June 11-18, 2016 🌎](/your-radiation-61-june-11)
+      * [⚛ Your Radiation #60, June 4-11, 2016 🌎](/your-radiation-60-june-4-11)
+      * [⚛ Your Radiation #59, May 28 - June 4, 2016 🌎](/your-radiation-59-may-28)
+      * [⚛ Your Radiation #58, May 21-28, 2016 🌎](/your-radiation-58-may-21-28)
+      * [⚛ Your Radiation #57, May 14-21, 2016 🌎](/your-radiation-57-may-14-21)
+      * [⚛ Your Radiation #56, May 7-14, 2016 🌎](/your-radiation-56-may-7-14)
+      * [⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎](/your-radiation-55-apr-30)
+      * [⚛ Your Radiation #54, Apr 23-30, 2016 🌎](/your-radiation-54-apr-23-30)
+      * [⚛ Your Radiation #53, Apr 16-23, 2016 🌎](/your-radiation-53-apr-16-23)
+      * [⚛ Your Radiation #52, Apr 9-16, 2016 🌎](/your-radiation-52-apr-9-16)
+      * [⚛ Your Radiation #51, Apr 2-9, 2016 🌎](/your-radiation-51-apr-2-9)
+      * [⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎](/your-radiation-47-50-apr-2)
+      * [⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎](/your-radiation-46-feb-27)
+      * [⚛ Your Radiation #45, Feb 20-27, 2016 🌎](/your-radiation-45-feb-20-27)
+      * [⚛ Your Radiation #44, Feb 13-20, 2016 🌎](/your-radiation-44-feb-13-20)
+      * [⚛ Your Radiation #43, Feb 6-13, 2016 🌎](/your-radiation-43-feb-6-13)
+      * [⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎](/your-radiation-42-jan-30)
+      * [⚛ Your Radiation #41, Jan 23-30, 2016 🌎](/your-radiation-41-jan-23-30)
+      * [⚛ Your Radiation #40, Jan 16-23, 2016 🌎](/your-radiation-40-jan-16-23)
+      * [⚛ Your Radiation #39, Jan 9-16, 2016 🌎](/your-radiation-39-jan-9-16)
+      * [⚛ Your Radiation #38, Jan 2-9, 2016 🌎](/your-radiation-38-jan-2-9)
+      * [⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎](/your-radiation-37-dec-26)
+      * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+      * [⚛ Your Radiation #35, Dec 12-19, 2015 🌎](/your-radiation-35-dec-12-19)
+      * [⚛ Your Radiation #34, Dec 5-12, 2015 🌎](/your-radiation-34-dec-5-12)
+      * [⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎](/your-radiation-33-nov-28)
+      * [⚛ Your Radiation #32, Nov 21-28, 2015 🌎](/your-radiation-32-nov-21-28)
+      * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+      * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+      * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+      * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+      * [⚛ Your Radiation #27, Oct 17-24, 2015 🌎](/your-radiation-27-oct-17-24)
+      * [⚛ Your Radiation #26, Oct 10-17, 2015 🌎](/your-radiation-26-oct-10-17)
+      * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+      * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+      * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+      * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+      * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+      * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+      * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+      * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+      * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+      * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+      * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+      * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+      * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+      * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+      * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+      * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+      * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+      * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+      * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+      * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+      * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+      * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+      * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+    * [🔥 Fire at Oak Ridge 💥](/fire-at-oak-ridge)
+    * [💥 NANOWEAPONRY 💥](/nanoweaponry)
+      * [💥 D.I.M.E. BOMB Fallujah 💥](/dime-bomb-fallujah)
+      * [💥 Dense Inert Metal Explosive 💀](/dense-inert-metal-explosive)
+      * [💥 NANOTECH; LAW OF WEAPONRY ☞🔫](/nanotech-law-of-weaponry)
+      * [☗ Eugenics, Euthanasia and Experiments ☗](/eugenics-euthanasia-and)
+    * [🐄 Radioactive Cattle Teeth, Fukushima 🏭](/radioactive-cattle-teeth)
+    * [📰 WikiLeaks 🔎 NSA and More 🔦](/wikileaks-nsa-and-more)
+      * [✠ Hillary’s DNC Dossier 🎭](/hillarys-dnc-dossier)
+      * [📖 Snowden’s SIDToday Files ✍](/snowdens-sidtoday-files)
+      * [❌ Clinton CyberSecurity Fail 🚫](/clinton-cybersecurity-fail)
+        * [Office of the Inspector General, State Dept- Evaluation of Emai l Records Management and Cybersecurity Requirements, oig-report.pdf](waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/office-of-the-inspector.pdf "Office of the Inspector General, State Dept- Evaluation of  Emai l Records Management and  Cybersecurity Requirements, oig-report.pdf")
+      * [⚑ Clinton’s Designs on Syria ➷](/clintons-designs-on-syria)
+      * [⚑ Clinton eMail on Syria 🎯](/clinton-email-on-syria)
+    * [✨Nano ‘Hall of Mirrors’⚡️](/nano-hall-of-mirrors)
+    * [⚛ 💀 ⚛ into the Hudson River 🌎](/into-the-hudson-river)
+    * [🚿 Flint, Metropolitan Eugenics 💀](/flint-metropolitan-eugenics)
+      * [🚿 Flint, Double Jeopardy 💰](/flint-double-jeopardy)
+      * [🚿 Flint, Poison, Epidemic 💉](/flint-poison-epidemic)
+    * [🌍 Existential Threat? ☛NATO☚](/existential-threat-nato)
+    * [💉 Gates, Poroshenko; Conspiracy, Government 🎯](/gates-poroshenko-conspiracy)
+    * [💉 Gates-Poroshenko ZPG Ukraine 💀](/gates-poroshenko-zpg-ukrain)
+    * [💀 Paris Massacre Perpetrators 👤](/paris-massacre-perpetrators)
+    * [🔪 Delgado, Mind Control ♟](/delgado-mind-control)
+    * [🌎 MOST NUKED NATION ON EARTH 🌎](/most-nuked-nation-on-earth)
+    * [🎯 Radio Frequency Directed Energy 🎯](/radio-frequency-directed)
+    * [⚛ Please, Don’t Pick the Mutants 🌻](/please-dont-pick-the-mutant)
+    * [⨳👤⨳ Space-Based Weapons Ban](/space-based-weapons-ban)
+    * [√ Saudi OP Strategy Success](/saudi-op-strategy-success)
+    * [♨️ Gallery ♨️ Chernobyl Fire ♨️ 2015 ♨️](/gallery-chernobyl-fire)
+      * [❁ 2014 Radiation Roadshow | Chernobyl ❁](/2014-radiation-roadshow)
+    * [🌍 Monsanto Backdoors E.U.](/monsanto-backdoors-eu)
+    * [🎉 Crimea’s 1st Anniversary Album 🎉](/crimeas-1st-anniversary)
+    * [🌏 21st Century Eschalon](/21st-century-eschalon)
+    * [📰 International Headline Watch 🌏](/international-headline)
+      * [📰 Fort Russ Headlines 🌍](/fort-russ-headlines)
+      * [📰 Tass Headlines 🌐](/tass-headlines)
+      * [📰 SouthFront Headlines 🌏](/southfront-headlines)
+    * [✄ Prouty Place ✑ CUT THE BULL ✂︎](/prouty-place-cut-the-bull)
+      * [🌎 Oil is Renewable 🌎](/oil-is-renewable)
+      * [👥 That Whole Bay Of Pigs Thing](/that-whole-bay-of-pigs)
+      * [☛ Lansdale at the Kennedy Assassination ⚑](/lansdale-at-the-kennedy)
+    * [🌏 How To Wreck The Environment](/how-to-wreck-the-environmen)
+    * [🇯🇵 Plutonium Isotopes Off Japan](/plutonium-isotopes-off)
+    * [🌍 Depopulation Agenda: Europe 👤](/depopulation-agenda-europe)
+    * [🔪💉Cease Covert Depopulation Letter🔪💉](/cease-covert-depopulation)
+    * [❁ Dutch Apologize for MH-17 Lies](/dutch-apologize-for-mh-17)
+    * [❁ Pacific Dead from Fukushima](/pacific-dead-from-fukushima)
+    * [❁ Strange Fish Story](/strange-fish-story)
+    * [❁ Blood Composition of Monkeys Altered Near Fukushima](/blood-composition-of-monkey)
+    * [❁ Secret Army Bases](/secret-army-bases)
+    * [⚛ Fukushima Plutonium Effect ⚛](/fukushima-plutonium-effect)
+      * [20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22](/20130423-_poster-estimatio)
+      * [⚛ Fukushima Blow-Up Regimes ⚛](/fukushima-blow-up-regimes)
+    * [➷ RAND Demographic Military Power ➷](/rand-demographic-military)
+    * [⚛ Depleted Uranium | DNA Damage ⚛](/depleted-uranium-dna-damag)
+    * [❁ Hidden Genocide: by Dr. Ernest Sternglass](/hidden-genocide-by-dr-ernes)
+    * [❁ Space Preservation Act of 2001](/space-preservation-act-of)
+    * [❁ 1972 Rothschild Ball](/1972-rothschild-ball)
+    * [❁ Unsafe Radwaste Disposal](/unsafe-radwaste-disposal)
+    * [♆ Fallout and Reproduction of Ocean Fish Populations](/fallout-and-reproduction-of)
+  * [❁ Lifestyle](/lifestyle)
+    * [📖 LM:GNC BookShelf](/lmgnc-bookshelf)
+      * [✑ Manuscripts ✍](/manuscripts)
+      * [🔴 “1984” George Orwell 💀](/1984-george-orwell)
+      * [➷ THE NAMELESS WAR 💣](/the-nameless-war)
+      * [🌍 Who Owns the World](/who-owns-the-world)
+      * [💀 Order OF Skull & Bones](/order-of-skull-bones)
+      * [🎼 Angels Don't Play this HAARP](/angels-dont-play-this-haarp)
+      * [👥 Genocide In Iraq v.I&II](/genocide-in-iraq-viii)
+      * [♟ Double Life of Fidel Castro ♚](/double-life-of-fidel-castro)
+    * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of)
+  * [❁ Archive](/archive)
+    * [⚛ 61 Years of Omnicide ⚛](/61-years-of-omnicide)
+    * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity)
+    * [❁ New Bombs and War Crimes in Fallujah](/new-bombs-and-war-crimes-in)
+    * [❁ Global Climate Change . . .](/global-climate-change)
+    * [⚛ International Radiation Distribution ⚛](/international-radiation)
+      * [Radiation Poisons Generations](/radiation-poisons-generatio)
+      * [Sellafield | Global Dose Test](/sellafield-global-dose)
+    * [💀 Depleted Uranium’n’DNA 😱](/depleted-uraniumndna)
+    * [❁ UC Regents Lose Nuke Pgm](/uc-regents-lose-nuke-pgm)
+    * [❁ DU-Trojan Horse](/du-trojan-horse)
+    * [❁ LM:GNC (Pt1)](/lmgnc-pt1)")
+    * [❁ LM:GNC (Pt2)](/lmgnc-pt2)")
+    * [❁ World Uranium Weapons Conference 2003](/world-uranium-weapons-confe)
+    * [⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization)
+    * [❁ "America First" Transcription](/america-first-transcription)
+    * [❁ "Whale Archive" Transcription](/whale-archive-transcription)
+    * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-globa)
+  * [❁ Glossary](/glossary)
+  * [❁ Contact](/contact)
+
+
+
+  
+
+
+  
+
+
+![LMGNC Irradiated Radiation Circular Symbol! - maxresdefault](/assets/images/irradiated-radiation-circul_med.png)
+
+💀 LM:GNC 20151214 ☚

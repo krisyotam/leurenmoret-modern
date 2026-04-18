@@ -1,46 +1,515 @@
 ---
-title: "Contact"
-description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
-section: "home"
-slug: "contact"
-path: "contact"
-sidebar: |
-  #### Contact LM:GNC
-
-  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
+title: "⏰ Macedonian Uprising / Western NGO's"
+description: "🇺🇸 There is Increasing Concern About Potential Outside Influence Involved in Recent Political Demonstrations in Macedonia Following Reports that Students were Offered up to $1,500 by an Activist Group to Come Up with the Best Ideas on How To Protest Against the Country's Government 🌍"
+section: "currents"
+slug: "macedonian-uprising-wester"
+path: "currents/the-nameless-triangle/macedonian-uprising--wester"
 ---
 
-## Leuren Moret
+![SEPERATOR- Macedonian Uprising / Western NGO's](/assets/images/seperator--macedonian-upris_med.png)
 
-Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
+![TITLP PLATE- 20150521  The Fifth Column- Western NGOs Accused of Financing Macedonian Uprising](/assets/images/titlp-plate--20150521--the_med.png)
 
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
+  
 
-Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
 
----
+  
 
-## Laurens L. Battis III — Original Publisher & Editor
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
+[![Pic 1. 1022286154](/assets/images/pic-1-1022286154_med_hr.jpeg)](/assets/images/pic-1-1022286154.jpeg)
 
----
+[Europe](http://sputniknews.com/europe/) 17:40 21.05.2015(updated 19:26 21.05.2015)
 
-## A Note on Leuren's Whereabouts
+**There is increasing concern about potential outside influence involved in recent political demonstrations in Macedonia following reports that students were offered up to $1,500 by an activist group to come up with the best ideas on how to protest against the country's government.**
 
-Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
+The concern about overseas hands being involved in sparking protests in the country has been heightened by recent reports in Macedonian media, which claimed that activist group, Canvas (Centre for Applied Nonviolent Action and Strategies), had sent out a memo to Macedonian students encouraging them to come up with effective protest ideas.
 
-If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+[![Pic 2. 1022410605](/assets/images/pic-2-1022410605_med_hr.jpeg)](/assets/images/pic-2-1022410605.jpeg)
 
----
+© AFP 2015/ ROBERT ATANASOVSKI [US Seeks to Wreck Macedonia to Satisfy Its Ambitions in EU Energy Market](http://sputniknews.com/europe/20150521/1022409879.html)
 
-## The Archiver
+The leaked memo, sent three weeks before last Sunday's mass demonstrations against Nikola Gruevski's government, purportedly shows Canvas offering students who could come up with the best protest ideas for a grant of $1,500.
 
-This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+**Protestors for Hire and Revolution Makers**
 
-**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
+The issue of Canvas being involved in Macedonia is another matter of discontent among some within the country.
 
-The source mirror and site code are both open and available on GitHub:
+The Belgrade-based group was formed by Slobodan Djinovic and Srdja Popovic — activists who were considered to have played an instrumental role in deposing former Yugoslav leader Slobodan Milosevic in 2000.
 
-- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
-- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
+Canvas' website describes the group as "a non-profit, non-governmental, international network, oriented to educational work related to strategic nonviolent conflict."
+
+Meanwhile, Canvas' stated aim is to "spread the word of 'people power' to the world" and to "explain […] what a powerful tool nonviolent struggle is when it comes to achieving freedom, democracy and human rights."
+
+[#Wikileaks](https://twitter.com/hashtag/Wikileaks?src=hash): Soros US government funding for Otpor/CANVAS activists who overthrew Milosevic <http://t.co/ur1DzqGe33> via [@1389](https://twitter.com/1389) [#Stratfor](https://twitter.com/hashtag/Stratfor?src=hash)
+
+— [Cult of Surveillance (@CultumAnnotata) ](https://twitter.com/CultumAnnotata/status/584886622908387330)[April 6, 2015](https://twitter.com/CultumAnnotata/status/584886622908387330)
+
+Despite these official statements, critics of the group have labeled Canvas professional gun-for-hire revolution makers, who work on commission to actively stir up political and social discontent in countries, at the request of international organizations that have their own vested interests.
+
+The group, which is considered to be a terrorist organization in the UAE, has also been accused of collaborating and sharing information with intelligence agencies in the past, further raising questions about Canvas' motives of their work in Macedonia.
+
+**NGOs and the 'Fifth Column'**
+
+[![Pic 3. 1022304018](/assets/images/pic-3-1022304018_med_hr.jpeg)](/assets/images/pic-3-1022304018.jpeg)
+
+© REUTERS/ Boris Grdanoski [Macedonia Unrest: West Giving Balkan Country a Lesson of 'Democracy'](http://sputniknews.com/politics/20150520/1022369299.html)
+
+Canvas' actions in Macedonia has also been coupled with reports the group is teaming up with non-government organizations (NGOs) in the country, who are allegedly determined to see the overthrow of Nikola Gruevski's government over what has been seen as a lack of cooperation by not imposing sanctions on Russia.
+
+Among these groups is the 'Open Society Foundations,' which is one of the many NGOs set up by controversial investor George Soros, while US government agency USAID also runs various programs in Macedonia.
+
+Soros' groups such as Open Society Foundations have long been accused of representing and acting to maintain western interests in the countries in which they operate, and have been in operation in Macedonia for close to two decades, working with a range of "civil society organizations."
+
+I have long argued that a Greater Albania is emerging in the Balkans. [#Kosovo](https://twitter.com/hashtag/Kosovo?src=hash) was the first to fall. And next will be parts of [#Macedonia](https://twitter.com/hashtag/Macedonia?src=hash).
+
+— Marcus Papadopoulos (@DrMarcusP) [May 19, 2015](https://twitter.com/DrMarcusP/status/600647822518681601)
+
+Other criticisms are that these groups take away the sovereignty of certain governments by pushing a certain agenda on the general population, with Open Society Foundations' Macedonian program focusing on "preventing backsliding in the country's efforts to join the European Union…"
+
+These alleged attempts to influence Macedonian politics are not new according to investigative journalist Umberto Pascali, who has reported widely on the impacts and influence on NGOs in Balkan countries.
+
+Pascali said efforts by Soros' groups to destabilize governments represented the concept of the 'Fifth Column' — whereby groups attempt to undermine a government from within the country — arguing that similar efforts for a "soft coup de'tat" had taken place by Western backers in the country before.
+
+[![Pic 4. 1022309904](/assets/images/pic-4-1022309904_med_hr.jpeg)](/assets/images/pic-4-1022309904.jpeg)
+
+© Sputnik/ Dmitriy Vinogradov [Events in Macedonia Orchestrated From Outside - Lavrov](http://sputniknews.com/europe/20150520/1022354329.html)
+
+**Serving Geopolitical Interests?**
+
+The alleged links between Canvas and NGOs such as the Open Society Foundation's Macedonia program has raised questions over the how much external influence has had an impact on the recent protests in the country, with tens of thousands turning out over the weekend to demonstrate against leader Nikola Gruevski's government.
+
+Some, including Russian Foreign Minister Sergei Lavrov have suggested the political discontent is being stoked as part of a wider geopolitical game, aimed at destabilizing the country, and subsequently scuppering any plans for Russia's Turkish stream gas line to pass through Macedonia.
+
+"There are attempts to pressure Gruevski's government for refusing to join in on sanctions against Russia and for backing the Turkish Stream [gas] pipeline [construction]," he said.
+
+> The Macedonian events are quite brutal and are being orchestrated from outside.
+
+Meanwhile, Skopje-based political analyst Vladimir Pandovski agreed with Mr Lavrov that significant outside interests are at play, and that the recent actions may not necessarily be serving the best interests of the Maceodnian people.
+
+"Everything that is happening in Macedonia has been scripted and staged. We've seen this before; it's a mix of comedy and tragedy," he told Sputnik. 
+
+> Everyone is aware that this is an attempt to create a new Maidan, like in Ukraine.
+
+  
+
+
+![SEPERATOR- Macedonian Uprising / Western NGO's](/assets/images/seperator--macedonian-upris_med.png)
+
+  
+
+
+**Topic:**
+
+[_Protests and Violence Erupt in Macedonia (20)_](http://sputniknews.com/trend/macedonia_unrest/)
+
+**Related:**
+
+[_US Seeks to Wreck Macedonia to Satisfy Its Ambitions in EU Energy Market_](http://sputniknews.com/europe/20150521/1022409879.html)
+
+[ _Events in Macedonia Orchestrated From Outside - Lavrov_](http://sputniknews.com/europe/20150520/1022354329.html)
+
+[ _Unrest in Macedonia Follows ‘Regime Change’ Scenarios Used Worldwide_](http://sputniknews.com/europe/20150519/1022323079.html)
+
+**Tags:**
+
+_[intelligence](http://sputniknews.com/tags/keyword_intelligence/)_ _,[students](http://sputniknews.com/tags/keyword_students/), [protest rally](http://sputniknews.com/tags/keyword_protest_rally/), [NGO](http://sputniknews.com/tags/keyword_NGO/), [regime change](http://sputniknews.com/tags/keyword_regime_change/), [western medling](http://sputniknews.com/tags/keyword_western_medling/), [Nikola Gruevski](http://sputniknews.com/tags/person_Nikola_Gruevski/), [Serbia](http://sputniknews.com/tags/tag_Serbia/), [Albania](http://sputniknews.com/tags/tag_Albania/), [Skopje](http://sputniknews.com/tags/geo_Skopje/), [West](http://sputniknews.com/tags/tag_West/), [Europe](http://sputniknews.com/tags/geo_Europe/), [Macedonia](http://sputniknews.com/tags/tag_Macedonia/)_
+
+![SEPERATOR- Macedonian Uprising / Western NGO's](/assets/images/seperator--macedonian-upris_med.png)
+
+  
+
+
+[![\(-ed\) Cheshire Cat Smiling \(EDITOR LMGNC\)](/assets/images/ed-cheshire-cat-smiling_med_hr.jpeg)](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+[❁ LM:GNC on YouTube ❁](https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw)
+
+Visitors to LM:GNC
+
+  
+
+
+![TITLE, LMGNC Site Map](/assets/images/title-lmgnc-site-map-2_med.png)
+
+  
+
+
+[Leuren Moret: Global Nuclear Coverup](/)
+
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)
+    * [🚫 Out of Eurasia 🚫](/out-of-eurasia)
+    * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international)
+    * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition)
+    * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde-haarp-nlp)
+    * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima)
+    * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm)
+    * [🌎 New World Order America 🇺🇸](/new-world-order-america)
+    * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine-eu)
+    * [👥 Template: Jade Helm](/template-jade-helm)
+    * [✠ America’s Domestic Pacification ✠](/americas-domestic-pacificat)
+    * [♨️ Chernobyl, Zaporozhye, Blackmail ⚛](/chernobyl-zaporozhye-blackm)
+    * [💉 REBRANDING DISASTER🔪](/rebranding-disaster)
+    * [👤 Eurasian Enigma Arises](/eurasian-enigma-arises)
+    * [🔴 Donetsk Nuclear Explosion ⚫️](/donetsk-nuclear-explosion)
+      * [🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️](/interview-donetsk-nuclear)
+      * [⛔️ ”Absolutely Massive," Nuke Explosion Ukraine](/absolutely-massive-nuke)
+    * [🌍 21st Century Silk Road 🌏](/21st-century-silk-road)
+      * [🌍 Silk Road Strategies 🌐](/silk-road-strategies)
+      * [🌍 21st Century Silk Road PT1 🌏](/21st-century-silk-road-pt1)
+      * [🌍 21st Century Silk Road PT2 🌏](/21st-century-silk-road-pt2)
+      * [🌍 21st Century Silk Road PT3 🌏](/21st-century-silk-road-pt3)
+    * [🌍 Africa ☗](/africa)
+      * [🇫🇷 Libya's Orwellian Bienvenue 💣](/libyas-orwellian-bienvenue)
+    * [♞ Balkans, The Nameless Triangle](/the-nameless-triangle)
+      * [📜 VERDICT FIRST | SENTENCES LATER ♨️](/verdict-first-sentences)
+      * ⏰💀 Macedonian Uprising / Western NGO's
+      * [⏰ Minsk? Nyet! Boisto Island](/minsk-nyet-boisto-island)
+      * [☞ ☜ And Now the Flawed Minsk Agreement](/and-now-the-flawed-minsk)
+    * [🌏 China 🌝](/china)
+      * [➷ 300 Years Wasted 💀](/300-years-wasted)
+    * [🌍 Eurasia 🔴](/eurasia)
+      * U.S. Collapse in Syria
+      * [💰 Oil Money? | EU Laundromat? 🚿](/oil-money-eu-laundromat)
+      * [💣 Terrorist Christmas, Jihadi New Year 💀](/terrorist-christmas-jihadi)
+      * [🌞 Stable Oil Trade 🌝](/stable-oil-trade)
+    * [💣 Israel: Out of Erupt!](/israel-out-of-erupt)
+      * [💀 Israel Forced to Investigate ☚](/israel-forced-to-investigat)
+      * [🎈 Sweden: A Stage is Set](/sweden-a-stage-is-set)
+    * [✠ Jesuits/Templar’s Origins & Aims](/jesuitstemplars-origins)
+      * [👺 SOROS ✠ NWO 📚 Hacked ✍](/soros-nwo-hacked)
+      * [➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳](/pyatts-soros-breakfast)
+      * [Breedlove, GOOD RIDDANCE](/breedlove-good-riddance)
+      * [🎱 Obama’s $3 Billion Eurocon 💸](/obamas-3-billion-eurocon)
+      * [🌍 A Psychopath’s Psychopath ✠](/a-psychopaths-psychopath)
+      * [🔫 Global Hit Squad 💣](/global-hit-squad)
+      * [💀 Neo-Capitalist’s Slave Trade 💰](/neo-capitalists-slave-trade)
+        * [💰 Terrorist Law on Slaves 💀](/terrorist-law-on-slaves)
+        * [💩 Be Somebody, Be A Minion! 💩](/be-somebody-be-a-minion)
+      * [🇺🇸 Bio: Undermine Control](/bio-undermine-control)
+      * [↷ Fine Evening For A Minuet ↶](/fine-evening-for-a-minuet)
+      * [✠ Slavery, Then & Now](/slavery-then-now)
+      * [💣 JCS Operation Northwoods](/jcs-operation-northwoods)
+      * [✠ The Three Secret Meetings](/the-three-secret-meetings)
+    * [Korea Yeonhee (연희) Nuclear Kabuki Theatre](/korea-yeonhee-nuclear-kabuk) Nuclear Kabuki Theatre")
+    * [🌍 Middle East 💣](/middle-east)
+      * [💣 ISIL: Battered, Retreating 💀](/isil-battered-retreating)
+      * [🔥 Turkish Coup Attempt 💣](/turkish-coup-attempt)
+        * [💣 Campbell’s Turkey Coup 🎭](/campbells-turkey-coup)
+        * [🇪🇸 Turkey Coup, NATO Fire 🔥](/turkey-coup-nato-fire)
+      * [⚑ Muslim Brotherhood and ISIS ⚫️](/muslim-brotherhood-and-isis)
+      * [🔫💰💉Daesh Terrorist Multi-Tool🔪💣💊](/daesh-terrorist-multi-tool)
+      * [🚧 US and Turkey, NWO the Kurds 💸](/us-and-turkey-nwo-the-kurds)
+      * [✠ Hitler Bragged on Jesuits ✠](/hitler-bragged-on-jesuits)
+      * [🍞 Their Daily Bread & Rubble 💣](/their-daily-bread-n-rubble)
+      * [🔪“Erdogan is Strengthening ISIS”💣](/erdogan-is-strengthening)
+      * [🇫🇷 Russia Reveals ISIS’ Money 💰💰](/russia-reveals-isis-money)
+      * ["Raqqa's Rockefellers” ISIS Full Frontal](/raqqas-rockefellers-isis)
+        * [🍗 Mini Erdogan’s Terrorist Dinner 💣](/mini-erdogans-terrorist)
+      * [☞ Smashing Turkey’s Game❌](/smashing-turkeys-game)
+      * [🌍 Juncker | E.U. | Direction ⤣](/juncker-eu-direction)
+      * [🔪 GLADIO Wolf Kills Russian Pilot ✈︎](/gladio-wolf-kills-russian)
+      * [✈︎ Washington’s SU-24 🎯](/washingtons-su-24)
+      * [🌐 Turkey, NATO, War Crime? 🔎](/turkey-nato-war-crime)
+      * [➷ 449-Down, ISIL to Go 💣](/449-down-isil-to-go)
+    * [🌎 North America 🔥✠](/north-america)
+      * [🌎🔥 Alberta Oil Sands Fire 🌎🔥](/alberta-oil-sands-fire)
+    * [🇷🇺 Russia 🇷🇺](/russia-is-coming)
+      * [🇷🇺 PUTIN OVERHAULS KREMLIN 🏰](/putin-overhauls-kremlin)
+      * [☛ Who Created ISIS ☚](/who-created-isis)
+        * [☞ Assad’s ISIS Interview 🎥](/assads-isis-interview)
+      * [🍳 Food Supply Compromised 🎱](/food-supply-compromised)
+      * [🌍 Putin re Ceasefire Syria 🌐](/putin-re-ceasefire-syria)
+      * [👤 Cold War Re-Run 👀](/cold-war-re-run)
+      * [🌐 Minsk 101 | Theatre of the Absurd 🌍](/minsk101-theatre-of-absurd)
+      * [🌐 Geopolitical Original Sin 🌍](/geopolitical-original-sin)
+      * [♘ Russian Troops | Turkish Border ♘](/russian-troops-turkish)
+      * [📚 Educating Charlie Rose 🔑](/educating-charlie-rose)
+      * [🌍 Lavrov's Munich Speech](/lavrovs-munich-speech)
+      * [🎱 US Embassy Media Fail 🎭](/us-embassy-media-fail)
+      * [✠ ♛🃏 Putin’s Jar Of Spiders](/putins-jar-of-spiders)
+      * [🎱 MOSSAD’S ON THE DOORSTEP 💣](/mossads-on-the-doorstep)
+      * [📄 This Document is Dynamite 📄](/this-document-is-dynamite)
+      * [♔ The Golden Trap](/the-golden-trap)
+      * [❁ Russian Fusion-Fission](/russian-fusion-fission)
+      * [❁ Putin’s 7-Point Plan](/putins-7-point-plan-2)
+      * [❁ Russian Position Speech](/russian-position-speech-2)
+    * [✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?](/mh-17-jesuits-flagged-brics)
+      * [⏰ Ukraine? 🔥 Bail Out! ✈️](/ukraine-bail-out)
+        * [🐟 Poroshenko Calls Merkel 🐙](/poroshenko-calls-merkel)
+        * [🃏 Poroshenko’s Spanish Villa 🏰](/poroshenkos-spanish-villa)
+      * [💦👤 Psychotropic Zombification ☔️](/psychotropic-zombification)
+      * [💣 Odessa Trade Union Murders 🔥](/odessa-trade-union-murders)
+      * [🃏 Nothing Personal, Just Business 💰](/nothing-personal-just-busin)
+      * [💉 BioWeapons for Depopulation 💀](/bioweapons-for-depopulation)
+      * [⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀](/nuclear-coverup-ukraine)
+      * [🔥 Unsustainable Ukraine 👥](/unsustainable-ukraine)
+      * [☗ ASHES TO ASHES 💀](/ashes-to-ashes)
+      * [🔪Ukrainian Wikileaks 👀](/ukrainian-wikileaks)
+      * [☞ Dispatches From the Front 🔫](/dispatches-from-the-front)
+      * [💣 The Ukrainian Failed State 🌍](/the-ukrainian-failed-state)
+      * [🔑 Our Decisions Define Us🔑](/our-decisions-define-us)
+      * [✠ Child Abuse 💀](/child-abuse)
+        * [✏️ UkroNazi ABC’s 📕](/ukronazi-abc)
+      * [💣 Mozgovoi’s Murder 🔪](/mozgovois-murder)
+        * [♞ This War? No Victory 💀](/this-war-no-victory)
+        * [☦ It Is A Gift To Die In May…](/it-is-a-gift-to-die-in-may)
+        * [🔍 Mozgovoy Murder Analysis p1.](/mozgovoy-murder-analysis-p1)
+        * [🔍 Mozgovoy Murder Analysis p2.](/mozgovoy-murder-analysis-p2)
+      * [🎱 Yatsenyuk's Russian Threat 🔮](/yatsenyuks-russian-threat)
+      * [||| Prison Ukraine |||](/prison-ukraine)
+      * [✍ CyberBerkut Reports 👥](/cyberberkut-reports)
+        * [💀 U.S.’n’Ukraine Caught Red Handed ☜](/usnukraine-caught-red-hande)
+          * [☞ Caught Red Handed ☜ CyberBerkut Original](/caught-red-handed-cyberber)
+        * [📄 Soros Letters | Ukraine ✠](/soros-letters-ukraine)
+          * [⚇ SOROS Draft Non-Paper ⚇](/soros-draft-non-paper)
+      * [♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️](/crazy-arseniys-used-ukrai)
+      * [✝ AZOV CRUCIFIXION ✝](/azov-crucifixion)
+      * [👤 Eyewitness Debaltsevo Cauldron 💀](/eyewitness-debaltsevo-cauld)
+      * [✍ Historic Slaviansk Doctor Interviewed](/historic-slaviansk-doctor)
+      * [💀 The Tragedy of Uglegorsk](/the-tragedy-of-uglegorsk)
+      * [♟ Jan. 2015 Minsk Fail 🃏](/jan-2015-minsk-fail)
+      * [➷ Tochka Found, Debaltsevo Locked](/tochka-found-debaltsevo)
+      * [🌍 World Facing Second Chernobyl](/world-facing-second-chernob)
+      * [✈︎ MH-17 AND THE Jesuit Minuet](/mh-17-and-the-jesuit-minuet)
+      * [✈︎ MH-17, Jesuits Flagged!, Video](/mh-17-jesuits-flagged-video)
+      * [💀 Death’s Drummers](/deaths-drummers)
+      * [👤 DPR! Novorossiya Calling](/dpr-novorossiya-calling)
+      * [💀 Ukraine’s Chernobyl Armor](/ukraines-chernobyl-armor)
+      * [🎱 Gas to Ukraine Blocked](/gas-to-ukraine-blocked)
+      * [❁ Global Nuclear Theatre: Donbass](/global-nuclear-theatre)
+      * [✠ GHOSTS of the 51st BRIGADE](/ghosts-of-the-51st-brigade)
+      * [❁ Novorossiya: Strelkov Briefing](/novorossiya-strelkov-briefi)
+      * [👤 Open Letter to President Putin](/open-letter-to-president)
+      * [✈︎ MH-17 Dutch Interim Report](/mh-17-dutch-interim-report)
+      * [💣 Surrendering UA Murdered by Punatives](/surrendering-ua-murdered-by)
+      * [♟ Mutiny of the Euro-Integrators ♟](/mutiny-of-the-euro-integrat)
+      * [➹ View from Ukraine Operating Room](/view-from-ukraine-operating)
+      * [❁ Ukraine’s Violent Escalation](/ukraines-violent-escalation)
+      * [❁ Ukrainian Soldier’s Cry for Help](/ukrainian-soldiers-cry-for)
+      * [⧱ Occupied Ukraine ⧱](/occupied-ukraine)
+      * [❁ US State's Nuland Directs Ukrainian Coup](/us-states-nuland-directs)
+      * [📯 Ukraine Deputies Knew Before Maidan](/ukraine-deputies-knew-befor)
+    * [❁ Health In 2015](/health-in-2015)
+    * [💉 Vaccines 💀](/vaccines)
+    * [🎥 Geopolitics, Jesuits & History](/geopolitics-jesuits-histor)
+    * [🎥 Rebranded ✠ The Jesuits ✠](/rebranded-the-jesuits)
+    * [⚛ Zaporhyze Nuclear Events & Geopolitics](/zaporhyze-nuclear-events)
+    * [❁ Fukushima Polar Vortex Radiation ❁](/fukushima-polar-vortex)
+    * [💀 Embrace, Enfold, Extinguish](/embrace-enfold-extinguish)
+    * [✈︎ Fear of Flying . . . (1of4)](/fear-of-flying-1of4)")
+      * ✈︎ Fear of Flying . . . 2of4
+      * [✈︎ Fear of Flying 3](/fear-of-flying-3)
+      * [✈︎ Fear of Flying 4](/fear-of-flying-4)
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt.1)](/fukushima-impact-of-fallout)")
+    * [❁ Fukushima: Impact of Fallout On Oceans (Pt. 2)](/fukushima-impact-of-fallout-2)")
+    * [❁ North America, Middle East and Fukushima](/north-america-middle-east)
+    * [❁ DHS/Napolitano Berkeley Template](/dhsnapolitano-berkeley)
+    * [❁ Fukushima Radiation, Ecocide & Tesla Technology](/fukushima-radiation-ecocide)
+    * [✈︎ Flight 370 Downing](/flight-370-downing)
+    * [✈︎ MH370: The Follow-Up](/mh370-the-follow-up)
+    * [❁ Domestic Radiation Issues](/domestic-radiation-issues)
+    * [❁ Fukushima: Hawaii, Pacific Is. - Unsafe](/fukushima-hawaii-pacific-is)
+    * [⚛ Fukushima Reactors, Breakdown 1-6 ⚛](/fukushima-reactors-breakdow)
+    * [🌏 International Sites Featuring LM:GNC](/international-sites-featuri)
+    * [❁ On To Mongolia 🎥](/on-to-mongolia)
+    * 🎥 LKM On Fairdinkum Media 🎥
+      * ✠ The Jesuits in Geopolitics
+    * [❁ Editorial Page](/editorial-page)
+      * [🎉April Fooles! 2016 🙊](/april-fooles-2016)
+      * [Yatsenyuk’s Failed-State Cookbook](/yatsenyuks-failed-state)
+      * [⚑ H.A.A.R.P. Season ⚑](/haarp-season)
+      * [↵ Psyop 101 ⟲](/psyop-101)
+      * [⨳ R2P THE NWO ⨳](/r2p-the-nwo)
+        * ["The Responsibility to Protect" ICISS 2001 Report.pdf](currents/editorial-page/r2p-the-nwo/the-responsibility-to-prote.pdf ""The Responsibility to Protect" ICISS 2001 Report.pdf")
+      * [➷ Tbilisi 2008, Ukraine Today](/tbilisi-2008-ukraine-today)
+      * [✠ The Old, New, Endless War](/the-old-new-endless-war)
+      * [✠ A New "Maidan" Awaits](/a-new-maidan-awaits)
+      * [❁ Your Federal Appropriations Scams at Work](/your-federal-appropriations)
+      * [🎈Amusements 🎭](/amusements)
+    * [❁ Conversations 📬](/conversations)
+      * [⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛](/uranium-mine-on-tribal-land)
+      * [📬 re: Geiger Counters ⚛⚛⚛](/re-geiger-counters)
+      * [⚡️CYBERCOM Suppression Silo 🎯](/cybercom-suppression-silo)
+      * [🌎 Pacific Coast Watch](/pacific-coast-watch)
+      * [♟ Cruel Murder of Boris Nemtsov](/cruel-murder-of-boris-nemts)
+        * [⚔ More re: Nemtsov Murder](/more-re-nemtsov-murder)
+        * [👠 A Decoy For Murder](/a-decoy-for-murder)
+      * [❁ Palladium's All-Time High](/palladiums-all-time-high)
+      * [❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014](/fukushimahawaii-update-sun)
+      * [❁ Fukushima And Diet](/fukushima-and-diet)
+  * [❁ Waves](/waves)
+    * [⚛ Radiation Around The Nation 🌎](/radiation-around-the-nation)
+      * ⚛ Your Radiation #73/74, Sep 10 - 24, 2016 🌎
+      * ⚛ Your Radiation #71/72, Aug 27 - Sep 10, 2016 🌎
+      * [⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎](/your-radiation-69-70-july)
+      * [⚛ Your Radiation #67/8,--July 16-30, 2016 🌎](/your-radiation-678-july-16)
+      * [⚛ Your Radiation #65-6,--July 2-16, 2016 🌎](/your-radiation-65-6-july-2)
+      * [⚛ Your Radiation #64, July 2-9, 2016 🌎](/your-radiation-64-july-2-9)
+      * [⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎](/your-radiation-62-3-june-18)
+      * [⚛ Your Radiation #61, June 11-18, 2016 🌎](/your-radiation-61-june-11)
+      * [⚛ Your Radiation #60, June 4-11, 2016 🌎](/your-radiation-60-june-4-11)
+      * [⚛ Your Radiation #59, May 28 - June 4, 2016 🌎](/your-radiation-59-may-28)
+      * [⚛ Your Radiation #58, May 21-28, 2016 🌎](/your-radiation-58-may-21-28)
+      * [⚛ Your Radiation #57, May 14-21, 2016 🌎](/your-radiation-57-may-14-21)
+      * [⚛ Your Radiation #56, May 7-14, 2016 🌎](/your-radiation-56-may-7-14)
+      * [⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎](/your-radiation-55-apr-30)
+      * [⚛ Your Radiation #54, Apr 23-30, 2016 🌎](/your-radiation-54-apr-23-30)
+      * [⚛ Your Radiation #53, Apr 16-23, 2016 🌎](/your-radiation-53-apr-16-23)
+      * [⚛ Your Radiation #52, Apr 9-16, 2016 🌎](/your-radiation-52-apr-9-16)
+      * [⚛ Your Radiation #51, Apr 2-9, 2016 🌎](/your-radiation-51-apr-2-9)
+      * [⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎](/your-radiation-47-50-apr-2)
+      * [⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎](/your-radiation-46-feb-27)
+      * [⚛ Your Radiation #45, Feb 20-27, 2016 🌎](/your-radiation-45-feb-20-27)
+      * [⚛ Your Radiation #44, Feb 13-20, 2016 🌎](/your-radiation-44-feb-13-20)
+      * [⚛ Your Radiation #43, Feb 6-13, 2016 🌎](/your-radiation-43-feb-6-13)
+      * [⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎](/your-radiation-42-jan-30)
+      * [⚛ Your Radiation #41, Jan 23-30, 2016 🌎](/your-radiation-41-jan-23-30)
+      * [⚛ Your Radiation #40, Jan 16-23, 2016 🌎](/your-radiation-40-jan-16-23)
+      * [⚛ Your Radiation #39, Jan 9-16, 2016 🌎](/your-radiation-39-jan-9-16)
+      * [⚛ Your Radiation #38, Jan 2-9, 2016 🌎](/your-radiation-38-jan-2-9)
+      * [⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎](/your-radiation-37-dec-26)
+      * [⚛ Your Radiation #36, Dec 19-26, 2015 🌎](/your-radiation-36-dec-19-26)
+      * [⚛ Your Radiation #35, Dec 12-19, 2015 🌎](/your-radiation-35-dec-12-19)
+      * [⚛ Your Radiation #34, Dec 5-12, 2015 🌎](/your-radiation-34-dec-5-12)
+      * [⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎](/your-radiation-33-nov-28)
+      * [⚛ Your Radiation #32, Nov 21-28, 2015 🌎](/your-radiation-32-nov-21-28)
+      * [⚛ Your Radiation #31, Nov 14-21, 2015 🌎](/your-radiation-31-nov-14-21)
+      * [⚛ Your Radiation #30, Nov 7-14, 2015 🌎](/your-radiation-30-nov-7-14)
+      * [⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎](/your-radiation-29-oct-31)
+      * [⚛ Your Radiation #28, Oct 24-31, 2015 🌎](/your-radiation-28-oct-24-31)
+      * [⚛ Your Radiation #27, Oct 17-24, 2015 🌎](/your-radiation-27-oct-17-24)
+      * [⚛ Your Radiation #26, Oct 10-17, 2015 🌎](/your-radiation-26-oct-10-17)
+      * [⚛ Your Radiation #25, Oct 3-10, 2015 🌎](/your-radiation-25-oct-3-10)
+      * [⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎](/your-radiation-24-sep-26)
+      * [⚛ Your Radiation #23, Sep 19-26, 2015 🌎](/your-radiation-23-sep-19-26)
+      * [⚛ Your Radiation #22, Sep 12-19, 2015 🌎](/your-radiation-22-sep-12-19)
+      * [⚛ Your Radiation #21, Sep 5-12, 2015 🌎](/your-radiation-21-sep-5-12)
+      * [⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎](/your-radiation-20-aug-29)
+      * [⚛ Your Radiation #19, Aug 22-29, 2015 🌎](/your-radiation-19-aug-22-29)
+      * [⚛ Your Radiation #18, Aug 15-22, 2015 🌎](/your-radiation-18-aug-15-22)
+      * [⚛ Your Radiation #17, Aug 8-15, 2015 🌎](/your-radiation-17-aug-8)
+      * [⚛ Your Radiation, August 1-8, 2015 🌎](/your-radiation-august-1-8)
+      * [⚛ Your Radiation, July 24-31, 2015 🌎](/your-radiation-july-24-31)
+      * [⚛ Your Radiation, June 26 - July 24, 2015 🌎](/your-radiation-june-26)
+      * [⚛ Your Radiation, June 19-26, 2015 🌎](/your-radiation-june-19-26)
+      * [⚛ Your Radiation, June 12-19, 2015 🌏](/your-radiation-june-12-19)
+      * [⚛ Your Radiation, June 5-12, 2015 🌎](/your-radiation-june-5-12)
+      * [⚛ Your Radiation, May 29 - June 5, 2015 🌎](/your-radiation-may-29)
+      * [⚛ Your Radiation, May 22-29, 2015 🌎](/your-radiation-may-22-29)
+      * [⚛ Your Radiation, May 15-22, 2015 🌎](/your-radiation-may-15-22)
+      * [⚛ Your Radiation, May 8-15, 2015 🌎](/your-radiation-may-8-15)
+      * [⚛ Your Radiation, May 2-8, 2015 🌎](/your-radiation-may-2-8-2015)
+      * [⚛ Your Radiation, April 24 - May 1, 2015 🌎](/your-radiation-april-24)
+      * [⚛ Your Radiation, April 17-24, 2015 🌎](/your-radiation-april-17-24)
+      * [⚛ Your Radiation, April 9-16, 2015 🌎](/your-radiation-april-9-16)
+    * [🔥 Fire at Oak Ridge 💥](/fire-at-oak-ridge)
+    * [💥 NANOWEAPONRY 💥](/nanoweaponry)
+      * [💥 D.I.M.E. BOMB Fallujah 💥](/dime-bomb-fallujah)
+      * [💥 Dense Inert Metal Explosive 💀](/dense-inert-metal-explosive)
+      * [💥 NANOTECH; LAW OF WEAPONRY ☞🔫](/nanotech-law-of-weaponry)
+      * [☗ Eugenics, Euthanasia and Experiments ☗](/eugenics-euthanasia-and)
+    * [🐄 Radioactive Cattle Teeth, Fukushima 🏭](/radioactive-cattle-teeth)
+    * [📰 WikiLeaks 🔎 NSA and More 🔦](/wikileaks-nsa-and-more)
+      * [✠ Hillary’s DNC Dossier 🎭](/hillarys-dnc-dossier)
+      * [📖 Snowden’s SIDToday Files ✍](/snowdens-sidtoday-files)
+      * [❌ Clinton CyberSecurity Fail 🚫](/clinton-cybersecurity-fail)
+        * [Office of the Inspector General, State Dept- Evaluation of Emai l Records Management and Cybersecurity Requirements, oig-report.pdf](waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/office-of-the-inspector.pdf "Office of the Inspector General, State Dept- Evaluation of  Emai l Records Management and  Cybersecurity Requirements, oig-report.pdf")
+      * [⚑ Clinton’s Designs on Syria ➷](/clintons-designs-on-syria)
+      * [⚑ Clinton eMail on Syria 🎯](/clinton-email-on-syria)
+    * [✨Nano ‘Hall of Mirrors’⚡️](/nano-hall-of-mirrors)
+    * [⚛ 💀 ⚛ into the Hudson River 🌎](/into-the-hudson-river)
+    * [🚿 Flint, Metropolitan Eugenics 💀](/flint-metropolitan-eugenics)
+      * [🚿 Flint, Double Jeopardy 💰](/flint-double-jeopardy)
+      * [🚿 Flint, Poison, Epidemic 💉](/flint-poison-epidemic)
+    * [🌍 Existential Threat? ☛NATO☚](/existential-threat-nato)
+    * [💉 Gates, Poroshenko; Conspiracy, Government 🎯](/gates-poroshenko-conspiracy)
+    * [💉 Gates-Poroshenko ZPG Ukraine 💀](/gates-poroshenko-zpg-ukrain)
+    * [💀 Paris Massacre Perpetrators 👤](/paris-massacre-perpetrators)
+    * [🔪 Delgado, Mind Control ♟](/delgado-mind-control)
+    * [🌎 MOST NUKED NATION ON EARTH 🌎](/most-nuked-nation-on-earth)
+    * [🎯 Radio Frequency Directed Energy 🎯](/radio-frequency-directed)
+    * [⚛ Please, Don’t Pick the Mutants 🌻](/please-dont-pick-the-mutant)
+    * [⨳👤⨳ Space-Based Weapons Ban](/space-based-weapons-ban)
+    * [√ Saudi OP Strategy Success](/saudi-op-strategy-success)
+    * [♨️ Gallery ♨️ Chernobyl Fire ♨️ 2015 ♨️](/gallery-chernobyl-fire)
+      * [❁ 2014 Radiation Roadshow | Chernobyl ❁](/2014-radiation-roadshow)
+    * [🌍 Monsanto Backdoors E.U.](/monsanto-backdoors-eu)
+    * [🎉 Crimea’s 1st Anniversary Album 🎉](/crimeas-1st-anniversary)
+    * [🌏 21st Century Eschalon](/21st-century-eschalon)
+    * [📰 International Headline Watch 🌏](/international-headline)
+      * [📰 Fort Russ Headlines 🌍](/fort-russ-headlines)
+      * [📰 Tass Headlines 🌐](/tass-headlines)
+      * [📰 SouthFront Headlines 🌏](/southfront-headlines)
+    * [✄ Prouty Place ✑ CUT THE BULL ✂︎](/prouty-place-cut-the-bull)
+      * [🌎 Oil is Renewable 🌎](/oil-is-renewable)
+      * [👥 That Whole Bay Of Pigs Thing](/that-whole-bay-of-pigs)
+      * [☛ Lansdale at the Kennedy Assassination ⚑](/lansdale-at-the-kennedy)
+    * [🌏 How To Wreck The Environment](/how-to-wreck-the-environmen)
+    * [🇯🇵 Plutonium Isotopes Off Japan](/plutonium-isotopes-off)
+    * [🌍 Depopulation Agenda: Europe 👤](/depopulation-agenda-europe)
+    * [🔪💉Cease Covert Depopulation Letter🔪💉](/cease-covert-depopulation)
+    * [❁ Dutch Apologize for MH-17 Lies](/dutch-apologize-for-mh-17)
+    * [❁ Pacific Dead from Fukushima](/pacific-dead-from-fukushima)
+    * [❁ Strange Fish Story](/strange-fish-story)
+    * [❁ Blood Composition of Monkeys Altered Near Fukushima](/blood-composition-of-monkey)
+    * [❁ Secret Army Bases](/secret-army-bases)
+    * [⚛ Fukushima Plutonium Effect ⚛](/fukushima-plutonium-effect)
+      * [20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22](/20130423-_poster-estimatio)
+      * [⚛ Fukushima Blow-Up Regimes ⚛](/fukushima-blow-up-regimes)
+    * [➷ RAND Demographic Military Power ➷](/rand-demographic-military)
+    * [⚛ Depleted Uranium | DNA Damage ⚛](/depleted-uranium-dna-damag)
+    * [❁ Hidden Genocide: by Dr. Ernest Sternglass](/hidden-genocide-by-dr-ernes)
+    * [❁ Space Preservation Act of 2001](/space-preservation-act-of)
+    * [❁ 1972 Rothschild Ball](/1972-rothschild-ball)
+    * [❁ Unsafe Radwaste Disposal](/unsafe-radwaste-disposal)
+    * [♆ Fallout and Reproduction of Ocean Fish Populations](/fallout-and-reproduction-of)
+  * [❁ Lifestyle](/lifestyle)
+    * [📖 LM:GNC BookShelf](/lmgnc-bookshelf)
+      * [✑ Manuscripts ✍](/manuscripts)
+      * [🔴 “1984” George Orwell 💀](/1984-george-orwell)
+      * [➷ THE NAMELESS WAR 💣](/the-nameless-war)
+      * [🌍 Who Owns the World](/who-owns-the-world)
+      * [💀 Order OF Skull & Bones](/order-of-skull-bones)
+      * [🎼 Angels Don't Play this HAARP](/angels-dont-play-this-haarp)
+      * [👥 Genocide In Iraq v.I&II](/genocide-in-iraq-viii)
+      * [♟ Double Life of Fidel Castro ♚](/double-life-of-fidel-castro)
+    * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of)
+  * [❁ Archive](/archive)
+    * [⚛ 61 Years of Omnicide ⚛](/61-years-of-omnicide)
+    * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity)
+    * [❁ New Bombs and War Crimes in Fallujah](/new-bombs-and-war-crimes-in)
+    * [❁ Global Climate Change . . .](/global-climate-change)
+    * [⚛ International Radiation Distribution ⚛](/international-radiation)
+      * [Radiation Poisons Generations](/radiation-poisons-generatio)
+      * [Sellafield | Global Dose Test](/sellafield-global-dose)
+    * [💀 Depleted Uranium’n’DNA 😱](/depleted-uraniumndna)
+    * [❁ UC Regents Lose Nuke Pgm](/uc-regents-lose-nuke-pgm)
+    * [❁ DU-Trojan Horse](/du-trojan-horse)
+    * [❁ LM:GNC (Pt1)](/lmgnc-pt1)")
+    * [❁ LM:GNC (Pt2)](/lmgnc-pt2)")
+    * [❁ World Uranium Weapons Conference 2003](/world-uranium-weapons-confe)
+    * [⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization)
+    * [❁ "America First" Transcription](/america-first-transcription)
+    * [❁ "Whale Archive" Transcription](/whale-archive-transcription)
+    * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-globa)
+  * [❁ Glossary](/glossary)
+  * [❁ Contact](/contact)
+
+
+
+  
+
+
+  
+
+
+![LMGNC Irradiated Radiation Circular Symbol! - maxresdefault](/assets/images/irradiated-radiation-circul_med.png)
+
+# # #
