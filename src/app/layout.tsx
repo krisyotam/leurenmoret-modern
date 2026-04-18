@@ -25,9 +25,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <footer id="footer">
             <p>
               Content &copy; Leuren Moret &amp; Laurens L. Battis III &mdash; all rights reserved.
-              Archive snapshot: November 2023.{' '}
-              <a href="https://wayback.archive.org/web/*/leurenmoret.info" target="_blank" rel="noreferrer">
-                Original via Wayback Machine
+              Snapshot 2026 via{' '}
+              <a href="https://cdn.krisyotam.com" target="_blank" rel="noreferrer">
+                STARGATE
+              </a>{' '}
+              by{' '}
+              <a href="https://krisyotam.com" target="_blank" rel="noreferrer">
+                krisyotam
               </a>.
             </p>
           </footer>
