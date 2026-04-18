@@ -14,6 +14,6 @@ path: "archive/location-leuren-moret-globa"
 ⚛ ⚛ ⚛ Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛  
 Welcome to My Home Pages  
 Leuren Moret BS, MA, PhD ABD  
-[../index.html](../index.html)  
+../index.html  
 G+ : <https://plus.google.com/114494411737393398002/>  
 YouTube: <https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw>

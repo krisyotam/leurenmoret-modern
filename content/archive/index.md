@@ -11,12 +11,12 @@ path: "archive/index"
 **  
 **
 
-[ ![TITLE- 61 Years of Omnicide](../assets/images/title--61-years-of-omnicide_med.png) ](archive/61-years-of-omnicide-.html)
+[ ![TITLE- 61 Years of Omnicide](../assets/images/title--61-years-of-omnicide_med.png) ](/61-years-of-omnicide)
 
 **  
 **
 
-[ ![TITLE- Parker’s Pathways w Leuren Moret, DU INTERVIEW](../assets/images/title--parkers-pathways-w_med-2.png) ](archive/nanoparticle-toxicity-w-leuren/index.html)
+[ ![TITLE- Parker’s Pathways w Leuren Moret, DU INTERVIEW](../assets/images/title--parkers-pathways-w_med-2.png) ](/nanoparticle-toxicity)
 
 **  
 **
@@ -35,16 +35,16 @@ Cosmography by Claudius Ptolemy, an astronomer, geographer, mathematician and as
   
 
 
-[⚛ Radionuclide ReMobilization Abatement](archive/radionuclide-remobilization/index.html)
+[⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization)
 
-[LEUREN MORET’S LETTER TO CONGRESS, APRIL 14, 2001, RECOMMENDING THAT CONGRESSMAN JOE SKEEN’S, HOUSE SUBCOMMITTEE ON INTERIOR AND RELATED AGENCIES APPROPRIATIONS, CUT ALL FUNDING APPROPRIATIONS FOR THE $1 BILLION FIRE ABATEMENT PLAN [CONTROLLED BURNS] OVER THE NEXT 20 YEARS FOR THE BUREAU OF LAND MANAGEMENT IN NEVADA.](archive/radionuclide-remobilization/index.html)  
+[LEUREN MORET’S LETTER TO CONGRESS, APRIL 14, 2001, RECOMMENDING THAT CONGRESSMAN JOE SKEEN’S, HOUSE SUBCOMMITTEE ON INTERIOR AND RELATED AGENCIES APPROPRIATIONS, CUT ALL FUNDING APPROPRIATIONS FOR THE $1 BILLION FIRE ABATEMENT PLAN [CONTROLLED BURNS] OVER THE NEXT 20 YEARS FOR THE BUREAU OF LAND MANAGEMENT IN NEVADA.](/radionuclide-remobilization)  
 
 
-[ ![SEPERATOR- \(60\) LMGNC Irradiated Radiation Circular Symbol](../assets/images/seperator--60-lmgnc-irradia_med.png) ](archive/radionuclide-remobilization/index.html)
+[ ![SEPERATOR- \(60\) LMGNC Irradiated Radiation Circular Symbol](../assets/images/seperator--60-lmgnc-irradia_med.png) ](/radionuclide-remobilization)
 
-[ ![20010414 Radionuclide ReMobilization Abatement, Letter to Congress by Leuran Moret](../assets/images/20010414-radionuclide-remob_med.png) ](archive/radionuclide-remobilization/index.html)
+[ ![20010414 Radionuclide ReMobilization Abatement, Letter to Congress by Leuran Moret](../assets/images/20010414-radionuclide-remob_med.png) ](/radionuclide-remobilization)
 
-[ ![SEPERATOR- \(60\) LMGNC Irradiated Radiation Circular Symbol](../assets/images/seperator--60-lmgnc-irradia_med.png) ](archive/radionuclide-remobilization/index.html)
+[ ![SEPERATOR- \(60\) LMGNC Irradiated Radiation Circular Symbol](../assets/images/seperator--60-lmgnc-irradia_med.png) ](/radionuclide-remobilization)
 
   
 
@@ -1093,14 +1093,14 @@ Visitors to LM:GNC
 **  
 **
 
-[Leuren Moret: Global Nuclear Coverup](index.html "Leuren Moret: Global Nuclear Coverup")
+[Leuren Moret: Global Nuclear Coverup](/index)
 
-  * [❁ Currents](currents/index.html "❁ Currents")
-    * [⚛ Radiation Omnicide 👥](currents/radiation-omnicide-.html "⚛ Radiation Omnicide 👥")
-    * [🎥 UC, Davis, Katehi, Illuminati ✠](currents/uc-davis-katehi-illuminati/index.html "🎥 UC, Davis, Katehi, Illuminati ✠")
-      * [⚛ RadChick: UCDavis Transcript 📜](currents/uc-davis-katehi-illuminati/radchick-ucdavis-transcript.html "⚛ RadChick: UCDavis Transcript 📜")
-      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](currents/uc-davis-katehi-illuminati/illustrations-uc-davis/index.html "🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠")
-    * [🌎✟☦ One World Religion 🎭](currents/one-world-religion.html "🌎✟☦ One World Religion 🎭")
-    * [♞ Atlanticists v. Putin et al ⚪️](currents/atlanticists-v-putin-et-al-.html "♞ Atlanticists v. Putin et al ⚪️")
-    * [✈️ 3 NWO False Flags Connected ➷](currents/3-nwo-false-flags-connected.html "✈️ 3 NWO False Flags Connected ➷")
-    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](currents/ukrainian-wikileaks-intervi.html "🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥")
+  * [❁ Currents](/currents)
+    * [⚛ Radiation Omnicide 👥](/radiation-omnicide)
+    * [🎥 UC, Davis, Katehi, Illuminati ✠](/uc-davis-katehi-illuminati)
+      * [⚛ RadChick: UCDavis Transcript 📜](/radchick-ucdavis-transcript)
+      * [🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠](/illustrations-uc-davis)
+    * [🌎✟☦ One World Religion 🎭](/one-world-religion)
+    * [♞ Atlanticists v. Putin et al ⚪️](/atlanticists-v-putin-et-al)
+    * [✈️ 3 NWO False Flags Connected ➷](/3-nwo-false-flags-connected)
+    * [🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥](/ukrainian-wikileaks-intervi)

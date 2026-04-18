@@ -1,33 +1,48 @@
 ---
 title: "Contact"
-description: "✑ The Place to Communicate with Leuren Moret: Global Nuclear Coverup, Leuren Moret and Laurens Battis, Publisher and Editor of Leuren Moret: Global Nuclear Coverup ✍"
+description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
 section: "home"
 slug: "contact"
 path: "contact"
 sidebar: |
-  ### Sidebar[[Skip]](contact.html#main)
-  
   #### Contact LM:GNC
-  
-  #### All submissions to this website, LMGNC, become the property of LMGNC, to be used in any manner, at our sole discretion.
-  
-  ![Element - v. Sidebar Panel - 131493](assets/images/element---v-sidebar-panel--_med_hr.jpeg)
+
+  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
 ---
 
-Your Info/Message
+## Leuren Moret
 
-  
+Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
 
+**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Please leave this field empty:   
-Please leave this field empty:
+Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
 
-Your Name |   
----|---  
-& Email: |   
-Subject: |   
-Message: |   
-  
-Have an Attachment? Use: [contact@leurenmoret.info](mailto:contact@leurenmoret.info?subject=Please%20See%20Attached%3A%20)
+---
 
-Visitors to LM:GNC
+## Laurens L. Battis III — Publisher & Editor
+
+Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He publishes and edits this website on behalf of Leuren Moret.
+
+**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
+
+---
+
+## A Note on Leuren's Whereabouts
+
+Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
+
+If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
+
+---
+
+## The Archiver
+
+This site is maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+
+**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
+
+The source mirror and site code are both open and available on GitHub:
+
+- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
+- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)
