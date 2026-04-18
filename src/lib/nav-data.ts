@@ -15,51 +15,51 @@ export const NAV_ITEMS: NavItem[] = [
             { href: "/radchick-ucdavis-transcript", label: "⚛ RadChick: UCDavis Transcript 📜" },
             { href: "/illustrations-uc-davis", label: "🎨 Illustrations, UC, Davis, Katehi, Illuminati ✠" }
           ] },
-        { href: "/programmable-rna-", label: "💉 Programmable RNA 🙈🙉🙊" },
+        { href: "/programmable-rna", label: "💉 Programmable RNA 🙈🙉🙊" },
         { href: "/dna-ram-01", label: "✏️ DNA RAM 0️⃣1️⃣" },
         { href: "/one-world-religion", label: "🌎✟☦ One World Religion 🎭" },
-        { href: "/atlanticists-v-putin-et-al-", label: "♞ Atlanticists v. Putin et al ⚪️" },
+        { href: "/atlanticists-v-putin-et-al", label: "♞ Atlanticists v. Putin et al ⚪️" },
         { href: "/3-nwo-false-flags-connected", label: "✈️ 3 NWO False Flags Connected ➷" },
         { href: "/ukrainian-wikileaks-intervi", label: "🔪Ukrainian ✠ Wikileaks 👀 Interview 🎥" },
-        { href: "/out-of-eurasia-", label: "🚫 Out of Eurasia 🚫" },
+        { href: "/out-of-eurasia", label: "🚫 Out of Eurasia 🚫" },
         { href: "/jade-helm-international", label: "💀 Jade Helm, International Implications, NWO Rollouts ⏰" },
         { href: "/essential-oils-nutrition", label: "🌿 Essential Oils, Nutrition, Frequencies & Health 🌺" },
-        { href: "/rfde--haarp--nlp-", label: "🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️" },
-        { href: "/leuren-moret-hiroshima", label: "⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛" },
-        { href: "/moret--battis-jade-helm-", label: "❦ Moret & Battis: Jade Helm ❦" },
-        { href: "/new-world-order-america-", label: "🌎 New World Order America 🇺🇸" },
-        { href: "/geopolitics-ukraine--eu", label: "⨳ Geopolitics Ukraine | E.U. Judo 🌍" },
+        { href: "/rfde-haarp-nlp", label: "🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️" },
+        { href: "/hiroshima", label: "⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛" },
+        { href: "/battis-jade-helm", label: "❦ Moret & Battis: Jade Helm ❦" },
+        { href: "/new-world-order-america", label: "🌎 New World Order America 🇺🇸" },
+        { href: "/geopolitics-ukraine-eu", label: "⨳ Geopolitics Ukraine | E.U. Judo 🌍" },
         { href: "/template-jade-helm", label: "👥 Template: Jade Helm" },
         { href: "/americas-domestic-pacificat", label: "✠ America’s Domestic Pacification ✠" },
         { href: "/chernobyl-zaporozhye-blackm", label: "♨️ Chernobyl, Zaporozhye, Blackmail ⚛" },
         { href: "/rebranding-disaster", label: "💉 REBRANDING DISASTER🔪" },
         { href: "/eurasian-enigma-arises", label: "👤 Eurasian Enigma Arises" },
         { href: "/donetsk-nuclear-explosion", label: "🔴 Donetsk Nuclear Explosion ⚫️", children: [
-            { href: "/interview--donetsk-nuclear", label: "🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️" },
+            { href: "/interview-donetsk-nuclear", label: "🎥 Interview 🔴 Donetsk Nuclear Attack ⚫️" },
             { href: "/absolutely-massive-nuke", label: "⛔️ ”Absolutely Massive,\" Nuke Explosion Ukraine" }
           ] },
         { href: "/21st-century-silk-road", label: "🌍 21st Century Silk Road 🌏", children: [
-            { href: "/silk-road-strategies-", label: "🌍 Silk Road Strategies 🌐" },
-            { href: "/21st-century-silk-road-pt1-", label: "🌍 21st Century Silk Road PT1 🌏" },
-            { href: "/21st-century-silk-road-pt2-", label: "🌍 21st Century Silk Road PT2 🌏" },
-            { href: "/21st-century-silk-road-pt3-", label: "🌍 21st Century Silk Road PT3 🌏" }
+            { href: "/silk-road-strategies", label: "🌍 Silk Road Strategies 🌐" },
+            { href: "/21st-century-silk-road-pt1", label: "🌍 21st Century Silk Road PT1 🌏" },
+            { href: "/21st-century-silk-road-pt2", label: "🌍 21st Century Silk Road PT2 🌏" },
+            { href: "/21st-century-silk-road-pt3", label: "🌍 21st Century Silk Road PT3 🌏" }
           ] },
         { href: "/africa", label: "🌍 Africa ☗", children: [
-            { href: "/libyas-orwellian-bienvenue-", label: "🇫🇷 Libya's Orwellian Bienvenue 💣" }
+            { href: "/libyas-orwellian-bienvenue", label: "🇫🇷 Libya's Orwellian Bienvenue 💣" }
           ] },
         { href: "/the-nameless-triangle", label: "♞ Balkans, The Nameless Triangle", children: [
-            { href: "/verdict-first--sentences", label: "📜 VERDICT FIRST | SENTENCES LATER ♨️" },
-            { href: "/macedonian-uprising--wester", label: "⏰💀 Macedonian Uprising / Western NGO's" },
+            { href: "/verdict-first-sentences", label: "📜 VERDICT FIRST | SENTENCES LATER ♨️" },
+            { href: "/macedonian-uprising-wester", label: "⏰💀 Macedonian Uprising / Western NGO's" },
             { href: "/minsk-nyet-boisto-island", label: "⏰ Minsk? Nyet! Boisto Island" },
             { href: "/and-now-the-flawed-minsk", label: "☞ ☜ And Now the Flawed Minsk Agreement" }
           ] },
         { href: "/china", label: "🌏 China 🌝", children: [
-            { href: "/300-years-wasted-", label: "➷ 300 Years Wasted 💀" }
+            { href: "/300-years-wasted", label: "➷ 300 Years Wasted 💀" }
           ] },
         { href: "/eurasia", label: "🌍 Eurasia 🔴", children: [
-            { href: "/oil-money--eu-laundromat-", label: "💰 Oil Money? | EU Laundromat? 🚿" },
+            { href: "/oil-money-eu-laundromat", label: "💰 Oil Money? | EU Laundromat? 🚿" },
             { href: "/terrorist-christmas-jihadi", label: "💣 Terrorist Christmas, Jihadi New Year 💀" },
-            { href: "/stable-oil-trade-", label: "🌞 Stable Oil Trade 🌝" }
+            { href: "/stable-oil-trade", label: "🌞 Stable Oil Trade 🌝" }
           ] },
         { href: "/israel-out-of-erupt", label: "💣 Israel: Out of Erupt!", children: [
             { href: "/israel-forced-to-investigat", label: "💀 Israel Forced to Investigate ☚" },
@@ -69,16 +69,16 @@ export const NAV_ITEMS: NavItem[] = [
             { href: "/soros-nwo-hacked", label: "👺 SOROS ✠ NWO 📚 Hacked ✍" },
             { href: "/pyatts-soros-breakfast", label: "➴ Pyatt’s ✠ SOROS ♞ Breakfast 🍳" },
             { href: "/breedlove-good-riddance", label: "Breedlove, GOOD RIDDANCE" },
-            { href: "/obamas-3-billion-eurocon-", label: "🎱 Obama’s $3 Billion Eurocon 💸" },
-            { href: "/a-psychopaths-psychopath-", label: "🌍 A Psychopath’s Psychopath ✠" },
-            { href: "/global-hit-squad-", label: "🔫 Global Hit Squad 💣" },
+            { href: "/obamas-3-billion-eurocon", label: "🎱 Obama’s $3 Billion Eurocon 💸" },
+            { href: "/a-psychopaths-psychopath", label: "🌍 A Psychopath’s Psychopath ✠" },
+            { href: "/global-hit-squad", label: "🔫 Global Hit Squad 💣" },
             { href: "/neo-capitalists-slave-trade", label: "💀 Neo-Capitalist’s Slave Trade 💰", children: [
-                { href: "/terrorist-law-on-slaves-", label: "💰 Terrorist Law on Slaves 💀" },
-                { href: "/be-somebody-be-a-minion-", label: "💩 Be Somebody, Be A Minion! 💩" }
+                { href: "/terrorist-law-on-slaves", label: "💰 Terrorist Law on Slaves 💀" },
+                { href: "/be-somebody-be-a-minion", label: "💩 Be Somebody, Be A Minion! 💩" }
               ] },
             { href: "/bio-undermine-control", label: "🇺🇸 Bio: Undermine Control" },
-            { href: "/fine-evening-for-a-minuet-", label: "↷ Fine Evening For A Minuet ↶" },
-            { href: "/slavery-then--now", label: "✠ Slavery, Then & Now" },
+            { href: "/fine-evening-for-a-minuet", label: "↷ Fine Evening For A Minuet ↶" },
+            { href: "/slavery-then-now", label: "✠ Slavery, Then & Now" },
             { href: "/jcs-operation-northwoods", label: "💣 JCS Operation Northwoods" },
             { href: "/the-three-secret-meetings", label: "✠ The Three Secret Meetings" }
           ] },
@@ -88,25 +88,25 @@ export const NAV_ITEMS: NavItem[] = [
             { href: "/juncker-eu-direction", label: "🌍 Juncker | E.U. | Direction ⤣" }
           ] },
         { href: "/north-america", label: "🌎 North America 🔥✠", children: [
-            { href: "/alberta-oil-sands-fire-", label: "🌎🔥 Alberta Oil Sands Fire 🌎🔥" }
+            { href: "/alberta-oil-sands-fire", label: "🌎🔥 Alberta Oil Sands Fire 🌎🔥" }
           ] },
         { href: "/russia-is-coming", label: "🇷🇺 Russia 🇷🇺", children: [
-            { href: "/putin-overhauls-kremlin-", label: "🇷🇺 PUTIN OVERHAULS KREMLIN 🏰" },
+            { href: "/putin-overhauls-kremlin", label: "🇷🇺 PUTIN OVERHAULS KREMLIN 🏰" },
             { href: "/who-created-isis", label: "☛ Who Created ISIS ☚", children: [
-                { href: "/assads-isis-interview-", label: "☞ Assad’s ISIS Interview 🎥" }
+                { href: "/assads-isis-interview", label: "☞ Assad’s ISIS Interview 🎥" }
               ] },
-            { href: "/food-supply-compromised-", label: "🍳 Food Supply Compromised 🎱" },
-            { href: "/putin-re-ceasefire-syria-", label: "🌍 Putin re Ceasefire Syria 🌐" },
-            { href: "/cold-war-re-run-", label: "👤 Cold War Re-Run 👀" },
+            { href: "/food-supply-compromised", label: "🍳 Food Supply Compromised 🎱" },
+            { href: "/putin-re-ceasefire-syria", label: "🌍 Putin re Ceasefire Syria 🌐" },
+            { href: "/cold-war-re-run", label: "👤 Cold War Re-Run 👀" },
             { href: "/minsk101-theatre-of-absurd", label: "🌐 Minsk 101 | Theatre of the Absurd 🌍" },
-            { href: "/geopolitical-original-sin-", label: "🌐 Geopolitical Original Sin 🌍" },
-            { href: "/russian-troops--turkish", label: "♘ Russian Troops | Turkish Border ♘" },
+            { href: "/geopolitical-original-sin", label: "🌐 Geopolitical Original Sin 🌍" },
+            { href: "/russian-troops-turkish", label: "♘ Russian Troops | Turkish Border ♘" },
             { href: "/educating-charlie-rose", label: "📚 Educating Charlie Rose 🔑" },
             { href: "/lavrovs-munich-speech", label: "🌍 Lavrov's Munich Speech" },
-            { href: "/us-embassy-media-fail-", label: "🎱 US Embassy Media Fail 🎭" },
+            { href: "/us-embassy-media-fail", label: "🎱 US Embassy Media Fail 🎭" },
             { href: "/putins-jar-of-spiders", label: "✠ ♛🃏 Putin’s Jar Of Spiders" },
-            { href: "/mossads-on-the-doorstep-", label: "🎱 MOSSAD’S ON THE DOORSTEP 💣" },
-            { href: "/this-document-is-dynamite-", label: "📄 This Document is Dynamite 📄" },
+            { href: "/mossads-on-the-doorstep", label: "🎱 MOSSAD’S ON THE DOORSTEP 💣" },
+            { href: "/this-document-is-dynamite", label: "📄 This Document is Dynamite 📄" },
             { href: "/the-golden-trap", label: "♔ The Golden Trap" },
             { href: "/russian-fusion-fission", label: "❁ Russian Fusion-Fission" },
             { href: "/putins-7-point-plan-2", label: "❁ Putin’s 7-Point Plan" },
@@ -114,40 +114,40 @@ export const NAV_ITEMS: NavItem[] = [
           ] },
         { href: "/mh-17-jesuits-flagged-brics", label: "✈︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?", children: [
             { href: "/ukraine-bail-out", label: "⏰ Ukraine? 🔥 Bail Out! ✈️", children: [
-                { href: "/poroshenko-calls-merkel-", label: "🐟 Poroshenko Calls Merkel 🐙" },
-                { href: "/poroshenkos-spanish-villa-", label: "🃏 Poroshenko’s Spanish Villa 🏰" }
+                { href: "/poroshenko-calls-merkel", label: "🐟 Poroshenko Calls Merkel 🐙" },
+                { href: "/poroshenkos-spanish-villa", label: "🃏 Poroshenko’s Spanish Villa 🏰" }
               ] },
             { href: "/psychotropic-zombification", label: "💦👤 Psychotropic Zombification ☔️" },
-            { href: "/odessa-trade-union-murders-", label: "💣 Odessa Trade Union Murders 🔥" },
+            { href: "/odessa-trade-union-murders", label: "💣 Odessa Trade Union Murders 🔥" },
             { href: "/nothing-personal-just-busin", label: "🃏 Nothing Personal, Just Business 💰" },
             { href: "/bioweapons-for-depopulation", label: "💉 BioWeapons for Depopulation 💀" },
-            { href: "/nuclear-coverup-ukraine-", label: "⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀" },
-            { href: "/unsustainable-ukraine-", label: "🔥 Unsustainable Ukraine 👥" },
-            { href: "/ashes-to-ashes-", label: "☗ ASHES TO ASHES 💀" },
-            { href: "/ukrainian-wikileaks-", label: "🔪Ukrainian Wikileaks 👀" },
-            { href: "/dispatches-from-the-front-", label: "☞ Dispatches From the Front 🔫" },
+            { href: "/nuclear-coverup-ukraine", label: "⚛ Nuclear Coverup Ukraine | Mines of Zholti Vody 💀" },
+            { href: "/unsustainable-ukraine", label: "🔥 Unsustainable Ukraine 👥" },
+            { href: "/ashes-to-ashes", label: "☗ ASHES TO ASHES 💀" },
+            { href: "/ukrainian-wikileaks", label: "🔪Ukrainian Wikileaks 👀" },
+            { href: "/dispatches-from-the-front", label: "☞ Dispatches From the Front 🔫" },
             { href: "/the-ukrainian-failed-state", label: "💣 The Ukrainian Failed State 🌍" },
             { href: "/our-decisions-define-us", label: "🔑 Our Decisions Define Us🔑" },
             { href: "/child-abuse", label: "✠ Child Abuse 💀", children: [
                 { href: "/ukronazi-abc", label: "✏️ UkroNazi ABC’s 📕" }
               ] },
             { href: "/mozgovois-murder", label: "💣 Mozgovoi’s Murder 🔪" },
-            { href: "/yatsenyuks-russian-threat-", label: "🎱 Yatsenyuk's Russian Threat 🔮" },
-            { href: "/prison-ukraine-", label: "||| Prison Ukraine |||" },
+            { href: "/yatsenyuks-russian-threat", label: "🎱 Yatsenyuk's Russian Threat 🔮" },
+            { href: "/prison-ukraine", label: "||| Prison Ukraine |||" },
             { href: "/cyberberkut-reports", label: "✍ CyberBerkut Reports 👥", children: [
                 { href: "/usnukraine-caught-red-hande", label: "💀 U.S.’n’Ukraine Caught Red Handed ☜", children: [
-                    { href: "/caught-red-handed--cyberber", label: "☞ Caught Red Handed ☜ CyberBerkut Original" }
+                    { href: "/caught-red-handed-cyberber", label: "☞ Caught Red Handed ☜ CyberBerkut Original" }
                   ] },
                 { href: "/soros-letters-ukraine", label: "📄 Soros Letters | Ukraine ✠", children: [
-                    { href: "/soros-draft-non-paper-", label: "⚇ SOROS Draft Non-Paper ⚇" }
+                    { href: "/soros-draft-non-paper", label: "⚇ SOROS Draft Non-Paper ⚇" }
                   ] }
               ] },
-            { href: "/crazy-arseniys--used--ukrai", label: "♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️" },
-            { href: "/azov-crucifixion-", label: "✝ AZOV CRUCIFIXION ✝" },
+            { href: "/crazy-arseniys-used-ukrai", label: "♨️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ♨️" },
+            { href: "/azov-crucifixion", label: "✝ AZOV CRUCIFIXION ✝" },
             { href: "/eyewitness-debaltsevo-cauld", label: "👤 Eyewitness Debaltsevo Cauldron 💀" },
             { href: "/historic-slaviansk-doctor", label: "✍ Historic Slaviansk Doctor Interviewed" },
             { href: "/the-tragedy-of-uglegorsk", label: "💀 The Tragedy of Uglegorsk" },
-            { href: "/jan-2015-minsk-fail-", label: "♟ Jan. 2015 Minsk Fail 🃏" },
+            { href: "/jan-2015-minsk-fail", label: "♟ Jan. 2015 Minsk Fail 🃏" },
             { href: "/tochka-found-debaltsevo", label: "➷ Tochka Found, Debaltsevo Locked" },
             { href: "/world-facing-second-chernob", label: "🌍 World Facing Second Chernobyl" },
             { href: "/mh-17-and-the-jesuit-minuet", label: "✈︎ MH-17 AND THE Jesuit Minuet" },
@@ -166,19 +166,19 @@ export const NAV_ITEMS: NavItem[] = [
             { href: "/view-from-ukraine-operating", label: "➹ View from Ukraine Operating Room" },
             { href: "/ukraines-violent-escalation", label: "❁ Ukraine’s Violent Escalation" },
             { href: "/ukrainian-soldiers-cry-for", label: "❁ Ukrainian Soldier’s Cry for Help" },
-            { href: "/occupied-ukraine-", label: "⧱ Occupied Ukraine ⧱" },
+            { href: "/occupied-ukraine", label: "⧱ Occupied Ukraine ⧱" },
             { href: "/us-states-nuland-directs", label: "❁ US State's Nuland Directs Ukrainian Coup" },
             { href: "/ukraine-deputies-knew-befor", label: "📯 Ukraine Deputies Knew Before Maidan" }
           ] },
         { href: "/health-in-2015", label: "❁ Health In 2015" },
-        { href: "/vaccines-", label: "💉 Vaccines 💀" },
-        { href: "/geopolitics-jesuits--histor", label: "🎥 Geopolitics, Jesuits & History" },
-        { href: "/rebranded--the-jesuits-", label: "🎥 Rebranded ✠ The Jesuits ✠" },
-        { href: "/zaporhyze-nuclear-events-", label: "⚛ Zaporhyze Nuclear Events & Geopolitics" },
+        { href: "/vaccines", label: "💉 Vaccines 💀" },
+        { href: "/geopolitics-jesuits-histor", label: "🎥 Geopolitics, Jesuits & History" },
+        { href: "/rebranded-the-jesuits", label: "🎥 Rebranded ✠ The Jesuits ✠" },
+        { href: "/zaporhyze-nuclear-events", label: "⚛ Zaporhyze Nuclear Events & Geopolitics" },
         { href: "/fukushima-polar-vortex", label: "❁ Fukushima Polar Vortex Radiation ❁" },
         { href: "/embrace-enfold-extinguish", label: "💀 Embrace, Enfold, Extinguish" },
         { href: "/fear-of-flying-1of4", label: "✈︎ Fear of Flying . . . (1of4)", children: [
-            { href: "/currents/fear-of-flying-1of4/fear-of-flying-2of4", label: "✈︎ Fear of Flying . . . 2of4" },
+            { href: null, label: "✈︎ Fear of Flying . . . 2of4" },
             { href: "/fear-of-flying-3", label: "✈︎ Fear of Flying 3" },
             { href: "/fear-of-flying-4", label: "✈︎ Fear of Flying 4" }
           ] },
@@ -193,19 +193,19 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/fukushima-hawaii-pacific-is", label: "❁ Fukushima: Hawaii, Pacific Is. - Unsafe" },
         { href: "/fukushima-reactors-breakdow", label: "⚛ Fukushima Reactors, Breakdown 1-6 ⚛" },
         { href: "/international-sites-featuri", label: "🌏 International Sites Featuring LM:GNC" },
-        { href: "/on-to-mongolia-", label: "❁ On To Mongolia 🎥" },
-        { href: "/currents/lkm-on-fairdinkum-assets/images", label: "🎥 LKM On Fairdinkum Media 🎥", children: [
-            { href: "/currents/lkm-on-fairdinkum-assets/images/the-jesuits-in-geopolitics", label: "✠ The Jesuits in Geopolitics" }
+        { href: "/on-to-mongolia", label: "❁ On To Mongolia 🎥" },
+        { href: null, label: "🎥 LKM On Fairdinkum Media 🎥", children: [
+            { href: null, label: "✠ The Jesuits in Geopolitics" }
           ] },
         { href: "/editorial-page", label: "❁ Editorial Page", children: [
-            { href: "/april-fooles-2016-", label: "🎉April Fooles! 2016 🙊" },
+            { href: "/april-fooles-2016", label: "🎉April Fooles! 2016 🙊" },
             { href: "/yatsenyuks-failed-state", label: "Yatsenyuk’s Failed-State Cookbook" },
-            { href: "/haarp-season-", label: "⚑ H.A.A.R.P. Season ⚑" },
+            { href: "/haarp-season", label: "⚑ H.A.A.R.P. Season ⚑" },
             { href: "/psyop-101", label: "↵ Psyop 101 ⟲", children: [
-                { href: "/currents/editorial-page/psyop-101/doc-1-stratcom-training.pdf", label: "Doc 1. stratcom-training.pdf" },
-                { href: "/currents/editorial-page/psyop-101/doc-2-conflict-pool-project.pdf", label: "Doc 2. conflict-pool-project.pdf" },
-                { href: "/currents/editorial-page/psyop-101/doc-3-free-donbass.pdf", label: "Doc 3. free-donbass.pdf" },
-                { href: "/currents/editorial-page/psyop-101/doc-4-free-russiappsxppsx.pdf", label: "Doc 4. free-russia(ppsx).ppsx.pdf" }
+                { href: null, label: "Doc 1. stratcom-training.pdf" },
+                { href: null, label: "Doc 2. conflict-pool-project.pdf" },
+                { href: null, label: "Doc 3. free-donbass.pdf" },
+                { href: null, label: "Doc 4. free-russia(ppsx).ppsx.pdf" }
               ] },
             { href: "/r2p-the-nwo", label: "⨳ R2P THE NWO ⨳" },
             { href: "/tbilisi-2008-ukraine-today", label: "➷ Tbilisi 2008, Ukraine Today" },
@@ -216,107 +216,107 @@ export const NAV_ITEMS: NavItem[] = [
           ] },
         { href: "/conversations", label: "❁ Conversations 📬", children: [
             { href: "/uranium-mine-on-tribal-land", label: "⇊⇊ Uranium Mine on Tribal Land ⚛⚛⚛" },
-            { href: "/re-geiger-counters-", label: "📬 re: Geiger Counters ⚛⚛⚛" },
-            { href: "/cybercom-suppression-silo-", label: "⚡️CYBERCOM Suppression Silo 🎯" },
+            { href: "/re-geiger-counters", label: "📬 re: Geiger Counters ⚛⚛⚛" },
+            { href: "/cybercom-suppression-silo", label: "⚡️CYBERCOM Suppression Silo 🎯" },
             { href: "/pacific-coast-watch", label: "🌎 Pacific Coast Watch" },
             { href: "/cruel-murder-of-boris-nemts", label: "♟ Cruel Murder of Boris Nemtsov", children: [
                 { href: "/more-re-nemtsov-murder", label: "⚔ More re: Nemtsov Murder" },
                 { href: "/a-decoy-for-murder", label: "👠 A Decoy For Murder" }
               ] },
             { href: "/palladiums-all-time-high", label: "❁ Palladium's All-Time High" },
-            { href: "/fukushimahawaii-update--sun", label: "❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014" },
+            { href: "/fukushimahawaii-update-sun", label: "❁ Fukushima/Hawaii Update ⚛ Sun, May 18, 2014" },
             { href: "/fukushima-and-diet", label: "❁ Fukushima And Diet" }
           ] }
       ] },
     { href: "/waves", label: "❁ Waves", children: [
         { href: "/radiation-around-the-nation", label: "⚛ Radiation Around The Nation 🌎", children: [
             { href: "/your-radiation-69-70-july", label: "⚛ Your Radiation #69/70, July 30 - August 13, 2016 🌎" },
-            { href: "/your-radiation-678--july-16", label: "⚛ Your Radiation #67/8,--July 16-30, 2016 🌎" },
-            { href: "/your-radiation-65-6--july-2", label: "⚛ Your Radiation #65-6,--July 2-16, 2016 🌎" },
+            { href: "/your-radiation-678-july-16", label: "⚛ Your Radiation #67/8,--July 16-30, 2016 🌎" },
+            { href: "/your-radiation-65-6-july-2", label: "⚛ Your Radiation #65-6,--July 2-16, 2016 🌎" },
             { href: "/your-radiation-64-july-2-9", label: "⚛ Your Radiation #64, July 2-9, 2016 🌎" },
             { href: "/your-radiation-62-3-june-18", label: "⚛ Your Radiation #62-3, June 18 - July 2, 2016 🌎" },
             { href: "/your-radiation-61-june-11", label: "⚛ Your Radiation #61, June 11-18, 2016 🌎" },
             { href: "/your-radiation-60-june-4-11", label: "⚛ Your Radiation #60, June 4-11, 2016 🌎" },
-            { href: "/your-radiation-59-may-28--", label: "⚛ Your Radiation #59, May 28 - June 4, 2016 🌎" },
+            { href: "/your-radiation-59-may-28", label: "⚛ Your Radiation #59, May 28 - June 4, 2016 🌎" },
             { href: "/your-radiation-58-may-21-28", label: "⚛ Your Radiation #58, May 21-28, 2016 🌎" },
             { href: "/your-radiation-57-may-14-21", label: "⚛ Your Radiation #57, May 14-21, 2016 🌎" },
             { href: "/your-radiation-56-may-7-14", label: "⚛ Your Radiation #56, May 7-14, 2016 🌎" },
-            { href: "/your-radiation-55-apr-30--", label: "⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎" },
+            { href: "/your-radiation-55-apr-30", label: "⚛ Your Radiation #55, Apr 30 - May 7, 2016 🌎" },
             { href: "/your-radiation-54-apr-23-30", label: "⚛ Your Radiation #54, Apr 23-30, 2016 🌎" },
             { href: "/your-radiation-53-apr-16-23", label: "⚛ Your Radiation #53, Apr 16-23, 2016 🌎" },
             { href: "/your-radiation-52-apr-9-16", label: "⚛ Your Radiation #52, Apr 9-16, 2016 🌎" },
             { href: "/your-radiation-51-apr-2-9", label: "⚛ Your Radiation #51, Apr 2-9, 2016 🌎" },
-            { href: "/your-radiation-47-50-apr-2-", label: "⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎" },
+            { href: "/your-radiation-47-50-apr-2", label: "⚛ Your Radiation #47-50, Mar 5 - Apr 2, 2016 🌎" },
             { href: "/your-radiation-46-feb-27", label: "⚛ Your Radiation #46, Feb 27-Mar 5, 2016 🌎" },
             { href: "/your-radiation-45-feb-20-27", label: "⚛ Your Radiation #45, Feb 20-27, 2016 🌎" },
             { href: "/your-radiation-44-feb-13-20", label: "⚛ Your Radiation #44, Feb 13-20, 2016 🌎" },
             { href: "/your-radiation-43-feb-6-13", label: "⚛ Your Radiation #43, Feb 6-13, 2016 🌎" },
-            { href: "/your-radiation-42-jan-30--", label: "⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎" },
+            { href: "/your-radiation-42-jan-30", label: "⚛ Your Radiation #42, Jan 30 - Feb 6, 2016 🌎" },
             { href: "/your-radiation-41-jan-23-30", label: "⚛ Your Radiation #41, Jan 23-30, 2016 🌎" },
             { href: "/your-radiation-40-jan-16-23", label: "⚛ Your Radiation #40, Jan 16-23, 2016 🌎" },
             { href: "/your-radiation-39-jan-9-16", label: "⚛ Your Radiation #39, Jan 9-16, 2016 🌎" },
             { href: "/your-radiation-38-jan-2-9", label: "⚛ Your Radiation #38, Jan 2-9, 2016 🌎" },
-            { href: "/your-radiation-37-dec-26--", label: "⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎" },
+            { href: "/your-radiation-37-dec-26", label: "⚛ Your Radiation #37, Dec 26 - Jan 2, 2015|16 🌎" },
             { href: "/your-radiation-36-dec-19-26", label: "⚛ Your Radiation #36, Dec 19-26, 2015 🌎" },
             { href: "/your-radiation-35-dec-12-19", label: "⚛ Your Radiation #35, Dec 12-19, 2015 🌎" },
             { href: "/your-radiation-34-dec-5-12", label: "⚛ Your Radiation #34, Dec 5-12, 2015 🌎" },
-            { href: "/your-radiation-33-nov-28--", label: "⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎" },
+            { href: "/your-radiation-33-nov-28", label: "⚛ Your Radiation #33, Nov 28 - Dec 5, 2015 🌎" },
             { href: "/your-radiation-32-nov-21-28", label: "⚛ Your Radiation #32, Nov 21-28, 2015 🌎" },
             { href: "/your-radiation-31-nov-14-21", label: "⚛ Your Radiation #31, Nov 14-21, 2015 🌎" },
             { href: "/your-radiation-30-nov-7-14", label: "⚛ Your Radiation #30, Nov 7-14, 2015 🌎" },
-            { href: "/your-radiation-29-oct-31--", label: "⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎" },
+            { href: "/your-radiation-29-oct-31", label: "⚛ Your Radiation #29, Oct 31 - Nov 7, 2015 🌎" },
             { href: "/your-radiation-28-oct-24-31", label: "⚛ Your Radiation #28, Oct 24-31, 2015 🌎" },
             { href: "/your-radiation-27-oct-17-24", label: "⚛ Your Radiation #27, Oct 17-24, 2015 🌎" },
             { href: "/your-radiation-26-oct-10-17", label: "⚛ Your Radiation #26, Oct 10-17, 2015 🌎" },
             { href: "/your-radiation-25-oct-3-10", label: "⚛ Your Radiation #25, Oct 3-10, 2015 🌎" },
-            { href: "/your-radiation-24-sep-26--", label: "⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎" },
+            { href: "/your-radiation-24-sep-26", label: "⚛ Your Radiation #24, Sep 26 - Oct 2, 2015 🌎" },
             { href: "/your-radiation-23-sep-19-26", label: "⚛ Your Radiation #23, Sep 19-26, 2015 🌎" },
             { href: "/your-radiation-22-sep-12-19", label: "⚛ Your Radiation #22, Sep 12-19, 2015 🌎" },
             { href: "/your-radiation-21-sep-5-12", label: "⚛ Your Radiation #21, Sep 5-12, 2015 🌎" },
-            { href: "/your-radiation-20-aug-29-", label: "⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎" },
+            { href: "/your-radiation-20-aug-29", label: "⚛ Your Radiation #20, Aug 29 -Sep 5, 2015 🌎" },
             { href: "/your-radiation-19-aug-22-29", label: "⚛ Your Radiation #19, Aug 22-29, 2015 🌎" },
             { href: "/your-radiation-18-aug-15-22", label: "⚛ Your Radiation #18, Aug 15-22, 2015 🌎" },
             { href: "/your-radiation-17-aug-8", label: "⚛ Your Radiation #17, Aug 8-15, 2015 🌎" },
             { href: "/your-radiation-august-1-8", label: "⚛ Your Radiation, August 1-8, 2015 🌎" },
             { href: "/your-radiation-july-24-31", label: "⚛ Your Radiation, July 24-31, 2015 🌎" },
-            { href: "/your-radiation-june-26--", label: "⚛ Your Radiation, June 26 - July 24, 2015 🌎" },
+            { href: "/your-radiation-june-26", label: "⚛ Your Radiation, June 26 - July 24, 2015 🌎" },
             { href: "/your-radiation-june-19-26", label: "⚛ Your Radiation, June 19-26, 2015 🌎" },
             { href: "/your-radiation-june-12-19", label: "⚛ Your Radiation, June 12-19, 2015 🌏" },
             { href: "/your-radiation-june-5-12", label: "⚛ Your Radiation, June 5-12, 2015 🌎" },
-            { href: "/your-radiation-may-29--", label: "⚛ Your Radiation, May 29 - June 5, 2015 🌎" },
+            { href: "/your-radiation-may-29", label: "⚛ Your Radiation, May 29 - June 5, 2015 🌎" },
             { href: "/your-radiation-may-22-29", label: "⚛ Your Radiation, May 22-29, 2015 🌎" },
             { href: "/your-radiation-may-15-22", label: "⚛ Your Radiation, May 15-22, 2015 🌎" },
             { href: "/your-radiation-may-8-15", label: "⚛ Your Radiation, May 8-15, 2015 🌎" },
             { href: "/your-radiation-may-2-8-2015", label: "⚛ Your Radiation, May 2-8, 2015 🌎" },
-            { href: "/your-radiation-april-24--", label: "⚛ Your Radiation, April 24 - May 1, 2015 🌎" },
+            { href: "/your-radiation-april-24", label: "⚛ Your Radiation, April 24 - May 1, 2015 🌎" },
             { href: "/your-radiation-april-17-24", label: "⚛ Your Radiation, April 17-24, 2015 🌎" },
             { href: "/your-radiation-april-9-16", label: "⚛ Your Radiation, April 9-16, 2015 🌎" }
           ] },
-        { href: "/fire-at-oak-ridge-", label: "🔥 Fire at Oak Ridge 💥" },
+        { href: "/fire-at-oak-ridge", label: "🔥 Fire at Oak Ridge 💥" },
         { href: "/nanoweaponry", label: "💥 NANOWEAPONRY 💥", children: [
             { href: "/dense-inert-metal-explosive", label: "💥 Dense Inert Metal Explosive 💀" },
             { href: "/nanotech-law-of-weaponry", label: "💥 NANOTECH; LAW OF WEAPONRY ☞🔫" }
           ] },
         { href: "/radioactive-cattle-teeth", label: "🐄 Radioactive Cattle Teeth, Fukushima 🏭" },
         { href: "/wikileaks-nsa-and-more", label: "📰 WikiLeaks 🔎 NSA and More 🔦", children: [
-            { href: "/hillarys-dnc-dossier-", label: "✠ Hillary’s DNC Dossier 🎭" },
-            { href: "/snowdens-sidtoday-files-", label: "📖 Snowden’s SIDToday Files ✍" },
+            { href: "/hillarys-dnc-dossier", label: "✠ Hillary’s DNC Dossier 🎭" },
+            { href: "/snowdens-sidtoday-files", label: "📖 Snowden’s SIDToday Files ✍" },
             { href: "/clinton-cybersecurity-fail", label: "❌ Clinton CyberSecurity Fail 🚫" },
-            { href: "/clintons-designs-on-syria-", label: "⚑ Clinton’s Designs on Syria ➷" },
-            { href: "/clinton-email-on-syria-", label: "⚑ Clinton eMail on Syria 🎯" }
+            { href: "/clintons-designs-on-syria", label: "⚑ Clinton’s Designs on Syria ➷" },
+            { href: "/clinton-email-on-syria", label: "⚑ Clinton eMail on Syria 🎯" }
           ] },
         { href: "/nano-hall-of-mirrors", label: "✨Nano ‘Hall of Mirrors’⚡️" },
         { href: "/into-the-hudson-river", label: "⚛ 💀 ⚛ into the Hudson River 🌎" },
         { href: "/flint-metropolitan-eugenics", label: "🚿 Flint, Metropolitan Eugenics 💀", children: [
-            { href: "/flint-double-jeopardy-", label: "🚿 Flint, Double Jeopardy 💰" },
-            { href: "/flint-poison-epidemic-", label: "🚿 Flint, Poison, Epidemic 💉" }
+            { href: "/flint-double-jeopardy", label: "🚿 Flint, Double Jeopardy 💰" },
+            { href: "/flint-poison-epidemic", label: "🚿 Flint, Poison, Epidemic 💉" }
           ] },
         { href: "/existential-threat-nato", label: "🌍 Existential Threat? ☛NATO☚" },
         { href: "/gates-poroshenko-conspiracy", label: "💉 Gates, Poroshenko; Conspiracy, Government 🎯" },
         { href: "/gates-poroshenko-zpg-ukrain", label: "💉 Gates-Poroshenko ZPG Ukraine 💀" },
         { href: "/paris-massacre-perpetrators", label: "💀 Paris Massacre Perpetrators 👤" },
         { href: "/delgado-mind-control", label: "🔪 Delgado, Mind Control ♟" },
-        { href: "/most-nuked-nation-on-earth-", label: "🌎 MOST NUKED NATION ON EARTH 🌎" },
+        { href: "/most-nuked-nation-on-earth", label: "🌎 MOST NUKED NATION ON EARTH 🌎" },
         { href: "/radio-frequency-directed", label: "🎯 Radio Frequency Directed Energy 🎯" },
         { href: "/please-dont-pick-the-mutant", label: "⚛ Please, Don’t Pick the Mutants 🌻" },
         { href: "/space-based-weapons-ban", label: "⨳👤⨳ Space-Based Weapons Ban" },
@@ -326,18 +326,18 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/crimeas-1st-anniversary", label: "🎉 Crimea’s 1st Anniversary Album 🎉" },
         { href: "/21st-century-eschalon", label: "🌏 21st Century Eschalon" },
         { href: "/international-headline", label: "📰 International Headline Watch 🌏", children: [
-            { href: "/fort-russ-headlines-", label: "📰 Fort Russ Headlines 🌍" },
-            { href: "/tass-headlines-", label: "📰 Tass Headlines 🌐" },
-            { href: "/southfront-headlines-", label: "📰 SouthFront Headlines 🌏" }
+            { href: "/fort-russ-headlines", label: "📰 Fort Russ Headlines 🌍" },
+            { href: "/tass-headlines", label: "📰 Tass Headlines 🌐" },
+            { href: "/southfront-headlines", label: "📰 SouthFront Headlines 🌏" }
           ] },
         { href: "/prouty-place-cut-the-bull", label: "✄ Prouty Place ✑ CUT THE BULL ✂︎", children: [
-            { href: "/oil-is-renewable-", label: "🌎 Oil is Renewable 🌎" },
+            { href: "/oil-is-renewable", label: "🌎 Oil is Renewable 🌎" },
             { href: "/that-whole-bay-of-pigs", label: "👥 That Whole Bay Of Pigs Thing" },
             { href: "/lansdale-at-the-kennedy", label: "☛ Lansdale at the Kennedy Assassination ⚑" }
           ] },
         { href: "/how-to-wreck-the-environmen", label: "🌏 How To Wreck The Environment" },
         { href: "/plutonium-isotopes-off", label: "🇯🇵 Plutonium Isotopes Off Japan" },
-        { href: "/depopulation-agenda-europe-", label: "🌍 Depopulation Agenda: Europe 👤" },
+        { href: "/depopulation-agenda-europe", label: "🌍 Depopulation Agenda: Europe 👤" },
         { href: "/cease-covert-depopulation", label: "🔪💉Cease Covert Depopulation Letter🔪💉" },
         { href: "/dutch-apologize-for-mh-17", label: "❁ Dutch Apologize for MH-17 Lies" },
         { href: "/pacific-dead-from-fukushima", label: "❁ Pacific Dead from Fukushima" },
@@ -345,11 +345,11 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/blood-composition-of-monkey", label: "❁ Blood Composition of Monkeys Altered Near Fukushima" },
         { href: "/secret-army-bases", label: "❁ Secret Army Bases" },
         { href: "/fukushima-plutonium-effect", label: "⚛ Fukushima Plutonium Effect ⚛", children: [
-            { href: "/20130423-_poster--estimatio", label: "20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22" },
+            { href: "/20130423-_poster-estimatio", label: "20130423 _Poster- Estimation of Nuclear-Energy Excursion Possibility during Fukushima-1 NPP Accident-poster session, T2-P22" },
             { href: "/fukushima-blow-up-regimes", label: "⚛ Fukushima Blow-Up Regimes ⚛" }
           ] },
         { href: "/rand-demographic-military", label: "➷ RAND Demographic Military Power ➷" },
-        { href: "/depleted-uranium--dna-damag", label: "⚛ Depleted Uranium | DNA Damage ⚛" },
+        { href: "/depleted-uranium-dna-damag", label: "⚛ Depleted Uranium | DNA Damage ⚛" },
         { href: "/hidden-genocide-by-dr-ernes", label: "❁ Hidden Genocide: by Dr. Ernest Sternglass" },
         { href: "/space-preservation-act-of", label: "❁ Space Preservation Act of 2001" },
         { href: "/1972-rothschild-ball", label: "❁ 1972 Rothschild Ball" },
@@ -358,11 +358,11 @@ export const NAV_ITEMS: NavItem[] = [
       ] },
     { href: "/lifestyle", label: "❁ Lifestyle", children: [
         { href: "/lmgnc-bookshelf", label: "📖 LM:GNC BookShelf", children: [
-            { href: "/manuscripts-", label: "✑ Manuscripts ✍" },
-            { href: "/1984-george-orwell-", label: "🔴 “1984” George Orwell 💀" },
-            { href: "/the-nameless-war-", label: "➷ THE NAMELESS WAR 💣" },
+            { href: "/manuscripts", label: "✑ Manuscripts ✍" },
+            { href: "/1984-george-orwell", label: "🔴 “1984” George Orwell 💀" },
+            { href: "/the-nameless-war", label: "➷ THE NAMELESS WAR 💣" },
             { href: "/who-owns-the-world", label: "🌍 Who Owns the World" },
-            { href: "/order-of-skull--bones", label: "💀 Order OF Skull & Bones" },
+            { href: "/order-of-skull-bones", label: "💀 Order OF Skull & Bones" },
             { href: "/angels-dont-play-this-haarp", label: "🎼 Angels Don't Play this HAARP" },
             { href: "/genocide-in-iraq-viii", label: "👥 Genocide In Iraq v.I&II" },
             { href: "/double-life-of-fidel-castro", label: "♟ Double Life of Fidel Castro ♚" }
@@ -370,14 +370,14 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/the-ancient-ghost-city-of", label: "❁ The Ancient Ghost City of Ani" }
       ] },
     { href: "/archive", label: "❁ Archive", children: [
-        { href: "/nanoparticle-toxicity-w-leuren", label: "📻 Nanoparticle Toxicity with Leuren Moret ❦" },
+        { href: "/nanoparticle-toxicity", label: "📻 Nanoparticle Toxicity with Leuren Moret ❦" },
         { href: "/new-bombs-and-war-crimes-in", label: "❁ New Bombs and War Crimes in Fallujah" },
-        { href: "/global-climate-change---", label: "❁ Global Climate Change . . ." },
+        { href: "/global-climate-change", label: "❁ Global Climate Change . . ." },
         { href: "/international-radiation", label: "⚛ International Radiation Distribution ⚛", children: [
             { href: "/radiation-poisons-generatio", label: "Radiation Poisons Generations" },
-            { href: "/sellafield--global-dose", label: "Sellafield | Global Dose Test" }
+            { href: "/sellafield-global-dose", label: "Sellafield | Global Dose Test" }
           ] },
-        { href: "/depleted-uraniumndna-", label: "💀 Depleted Uranium’n’DNA 😱" },
+        { href: "/depleted-uraniumndna", label: "💀 Depleted Uranium’n’DNA 😱" },
         { href: "/uc-regents-lose-nuke-pgm", label: "❁ UC Regents Lose Nuke Pgm" },
         { href: "/du-trojan-horse", label: "❁ DU-Trojan Horse" },
         { href: "/lmgnc-pt1", label: "❁ LM:GNC (Pt1)" },
