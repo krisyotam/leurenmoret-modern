@@ -2,7 +2,7 @@
 title: "H.A.A.R.P. Season"
 description: "⚑ The Aether Has Been Unhinged; \"Cry 'Havoc!', and let slip the dogs of war\" ⚑ (San Francisco, April 28, 2015) The NWO rollout in the Bay Area is progressing at a breathtaking speed ⚑"
 section: "currents"
-slug: "editorial-page/haarp-season-"
+slug: "haarp-season-"
 path: "currents/editorial-page/haarp-season-"
 sidebar: |
   ### Sidebar[[Skip]](haarp-season-.html#main)

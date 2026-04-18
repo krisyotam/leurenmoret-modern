@@ -2,7 +2,7 @@
 title: "Open Letter to President Putin"
 description: "👥 There Are Many People In Western Europe, Like Myself, That Do Not Buy The Propaganda That Is Served To Us By Our Governments. We Are Disgusted By All Their Lies And Their Crimes Against The People Of Donbass. We Do Not Consider Russia A Threat, But The Illegal Fascist \"Government\" In Kiev We See As A Threat To The Whole Of Europe And Russia Too 👤"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/open-letter-to-president"
+slug: "open-letter-to-president"
 path: "currents/mh-17-jesuits-flagged-brics/open-letter-to-president"
 sidebar: |
   ### Sidebar[[Skip]](open-letter-to-president.html#main)

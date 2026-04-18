@@ -2,7 +2,7 @@
 title: "U.S.’n’Ukraine Caught Red Handed"
 description: "Caught Red Handed: Leaked Email Reveals Kiev Violated Ceasefire Many Times | For months, both sides of the Ukrainian conflict were accusing each other of violating the Minsk peace agreements. Turns out it was Kiev-led troops who were not sticking to the ceasefire plan, having their heavy artillery stationed near the border with the Donbass republics"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/cyberberkut-reports/usnukraine-caught-red-hande/index"
+slug: "usnukraine-caught-red-hande"
 path: "currents/mh-17-jesuits-flagged-brics/cyberberkut-reports/usnukraine-caught-red-hande/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

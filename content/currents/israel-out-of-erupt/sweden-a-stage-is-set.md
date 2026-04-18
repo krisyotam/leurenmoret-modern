@@ -2,7 +2,7 @@
 title: "Sweden: A Stage is Set"
 description: "🎈➹🎈Even Though Stefan Löfven the Comming PM of Sweden Went to the Last Bilderberg Meeting; He is Going to Recognize Palestine as a State in his Inauguration Speech 🎈➹🎈"
 section: "currents"
-slug: "israel-out-of-erupt/sweden-a-stage-is-set"
+slug: "sweden-a-stage-is-set"
 path: "currents/israel-out-of-erupt/sweden-a-stage-is-set"
 sidebar: |
   ### Sidebar[[Skip]](sweden-a-stage-is-set.html#main)

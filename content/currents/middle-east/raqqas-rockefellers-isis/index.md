@@ -2,7 +2,7 @@
 title: "\"Raqqa's Rockefellers” ISIS Full Frontal"
 description: "\"Effectively, we have been financially discriminated against for a long time. By early 2014, when we did not receive the budget, we decided we need to start thinking about independent oil sales” --  Ashti Hawrami, Kurdistan’s minister for natural resources"
 section: "currents"
-slug: "middle-east/raqqas-rockefellers-isis/index"
+slug: "raqqas-rockefellers-isis"
 path: "currents/middle-east/raqqas-rockefellers-isis/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

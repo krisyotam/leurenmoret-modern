@@ -2,7 +2,7 @@
 title: "Eyewitness Debaltsevo Cauldron"
 description: "Bitter Truth About Debaltsevo Operation - How Debaltsevo was Taken. View, with Analysis of a Participant in the Process"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/eyewitness-debaltsevo-cauld"
+slug: "eyewitness-debaltsevo-cauld"
 path: "currents/mh-17-jesuits-flagged-brics/eyewitness-debaltsevo-cauld"
 sidebar: |
   ### Sidebar[[Skip]](eyewitness-debaltsevo-cauld.html#main)

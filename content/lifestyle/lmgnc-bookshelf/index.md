@@ -2,7 +2,7 @@
 title: "LM:GNC BookShelf"
 description: "📖 LM:GNC BookShelf 📖 As Time Permits, We Will Share With You What We Read, and Are Able to Recommend; More Parts of the Puzzle That Got Us to Where We Are Today. 📖 Leuren Moret: Global Nuclear Coverup  📖 The Journal of Science and the GeoPolitical Condition of the World 📖"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/index"
+slug: "lmgnc-bookshelf"
 path: "lifestyle/lmgnc-bookshelf/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

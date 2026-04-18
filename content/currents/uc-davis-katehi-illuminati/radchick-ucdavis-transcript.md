@@ -2,7 +2,7 @@
 title: "RadChick: UCDavis Transcript"
 description: "📜 Christina Malik Consolo’s Transcript 🎥 The University of California, Davis, P.B. Katehi, Monsanto, Occupy, Illuminati Bloodlines and Vietnam ✠"
 section: "currents"
-slug: "uc-davis-katehi-illuminati/radchick-ucdavis-transcript"
+slug: "radchick-ucdavis-transcript"
 path: "currents/uc-davis-katehi-illuminati/radchick-ucdavis-transcript"
 sidebar: |
   ### Sidebar[[Skip]](radchick-ucdavis-transcript.html#main)

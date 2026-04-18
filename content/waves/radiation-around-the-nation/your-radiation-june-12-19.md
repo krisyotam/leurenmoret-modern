@@ -2,7 +2,7 @@
 title: "Your Radiation, June 12-19, 2015"
 description: "⚛ Your Radiation This Week No. 12 ⚛ Posted by Bob Nichols ⚛ (San Francisco) Jun 19, 2015 – Good Day, This is “Your Radiation This Week.” These are the Recorded Radiation Highs That Affected People This Week Around the United States and In Your Neighborhood. Let’s Get Right To It ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-june-12-19"
+slug: "your-radiation-june-12-19"
 path: "waves/radiation-around-the-nation/your-radiation-june-12-19"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-june-12-19.html#main)

@@ -2,7 +2,7 @@
 title: "The Old, New, Endless War"
 description: "✠ EUGENICS ✠ BERTRAND RUSSELL ✠ UKRAINE ✠ EUROPE ✠ WORLD ✠ “See my thumb?” is the beginning of a very nasty setup, that ends with the person being . . ."
 section: "currents"
-slug: "editorial-page/the-old-new-endless-war"
+slug: "the-old-new-endless-war"
 path: "currents/editorial-page/the-old-new-endless-war"
 sidebar: |
   ### Sidebar[[Skip]](the-old-new-endless-war.html#main)

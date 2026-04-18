@@ -2,7 +2,7 @@
 title: "Terrorist Christmas, Jihadi New Year"
 description: "🌍 A US Plot to Evacuate Daesh Leaders from the Strategic City of Ramadi in Central Iraq has Reportedly been Disclosed by a Volunteer Forces Commander 💀"
 section: "currents"
-slug: "eurasia/terrorist-christmas-jihadi"
+slug: "terrorist-christmas-jihadi"
 path: "currents/eurasia/terrorist-christmas-jihadi"
 sidebar: |
   ### Sidebar[[Skip]](terrorist-christmas-jihadi.html#main)

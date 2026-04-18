@@ -2,7 +2,7 @@
 title: "Tochka Found, Debaltsevo Locked"
 description: "20150210 [eng cc subs] DPR DM morning sitrep: Tochka-U wrecks found, Debaltsevo \"cauldron\" is locked"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/tochka-found-debaltsevo"
+slug: "tochka-found-debaltsevo"
 path: "currents/mh-17-jesuits-flagged-brics/tochka-found-debaltsevo"
 sidebar: |
   ### Sidebar[[Skip]](tochka-found-debaltsevo.html#main)

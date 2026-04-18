@@ -2,7 +2,7 @@
 title: "Cruel Murder of Boris Nemtsov"
 description: "\"This murder is important to understand as it is going to deceive many people, maybe affect the world view, so I feel I should point out the points to you.\" B."
 section: "currents"
-slug: "conversations/cruel-murder-of-boris-nemts/index"
+slug: "cruel-murder-of-boris-nemts"
 path: "currents/conversations/cruel-murder-of-boris-nemts/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

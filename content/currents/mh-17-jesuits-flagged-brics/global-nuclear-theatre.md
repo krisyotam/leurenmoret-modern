@@ -2,7 +2,7 @@
 title: "Global Nuclear Theatre: Donbass"
 description: "<<< The Dump Cycle Of A Well Organized Template That Has Been Repeating Itself Down Through History, With A Will And A Malevolence All Its Own. >>>"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/global-nuclear-theatre"
+slug: "global-nuclear-theatre"
 path: "currents/mh-17-jesuits-flagged-brics/global-nuclear-theatre"
 sidebar: |
   ### Sidebar[[Skip]](global-nuclear-theatre.html#main)

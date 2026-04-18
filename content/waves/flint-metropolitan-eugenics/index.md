@@ -2,7 +2,7 @@
 title: "Flint, Metropolitan Eugenics"
 description: "✠ Avoidable? ✠ Leaks Reveal What Really Happened in Flint Poisoned Water Crisis 💀 Newly Leaked Documents Leave More Questions About How And Why the Drinking Water Supply in the City of Flint, Michigan, was Replaced with Polluted and Corrosive River Water ⚛⚛⚛🎱⚛⚛⚛"
 section: "waves"
-slug: "flint-metropolitan-eugenics/index"
+slug: "flint-metropolitan-eugenics"
 path: "waves/flint-metropolitan-eugenics/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

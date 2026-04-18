@@ -2,7 +2,7 @@
 title: "Smashing Turkey’s Game"
 description: "➸ So Why Did Washington Take Virtually Forever to Not Really Acknowledge Isis/Isil/Daesh is Selling Stolen Syrian Oil that Will Eventually Find Its Way to Turkey? 💣"
 section: "currents"
-slug: "middle-east/smashing-turkeys-game"
+slug: "smashing-turkeys-game"
 path: "currents/middle-east/smashing-turkeys-game"
 sidebar: |
   ### Sidebar[[Skip]](smashing-turkeys-game.html#main)

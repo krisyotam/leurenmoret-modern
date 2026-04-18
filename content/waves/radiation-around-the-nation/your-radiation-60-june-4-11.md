@@ -2,7 +2,7 @@
 title: "Your Radiation #60, June 4-11, 2016"
 description: "⚛ Four recorded cities were over 1,000 CPM all week long, One Thousand CPM Plus, 24/7, 100% of the time and no relief. Same as last week; but, the all-week-long-High-Rad-contagion is spreading, too. More cities are above 1,000 CPM for more hours each week ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-60-june-4-11"
+slug: "your-radiation-60-june-4-11"
 path: "waves/radiation-around-the-nation/your-radiation-60-june-4-11"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-60-june-4-11.html#main)

@@ -2,7 +2,7 @@
 title: "Ukrainian Wikileaks"
 description: "❦ McCain and Saakashvili are Plotting to Shoot Down American Plane in Syria to Blame Russia [transcript] ❦ \"Very Good! The Peace in the Whole World Depends On You! I and Dato Will Support You and Your Families in Everything\" ❦"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukrainian-wikileaks-"
+slug: "ukrainian-wikileaks-"
 path: "currents/mh-17-jesuits-flagged-brics/ukrainian-wikileaks-"
 sidebar: |
   ### Sidebar[[Skip]](ukrainian-wikileaks-.html#main)

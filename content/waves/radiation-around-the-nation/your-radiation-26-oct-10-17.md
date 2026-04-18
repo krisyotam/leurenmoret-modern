@@ -2,7 +2,7 @@
 title: "Your Radiation #26, Oct 10-17, 2015"
 description: "🔴 These are the 40 American Cities that Exceeded 1,000 CPM During the Week Oct 10-17, 2015 and their CPM Count. Up from Thirty-three (33) Cities in Your Rad Weather Two Weeks Ago. I Just Could Not Overlook Washington DC at 372 CPM, Not Even a Low for the District 💀"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-26-oct-10-17"
+slug: "your-radiation-26-oct-10-17"
 path: "waves/radiation-around-the-nation/your-radiation-26-oct-10-17"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-26-oct-10-17.html#main)

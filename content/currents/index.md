@@ -2,7 +2,7 @@
 title: "Currents"
 description: "This Is Where You'll Find Leuren's Current Writings, Videos, Articles Leuren Reads And Current History: Leuren's Analysis Of Which Past Events Are Most Impacting Our Present Society, Environment And Future."
 section: "currents"
-slug: "index"
+slug: "currents"
 path: "currents/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

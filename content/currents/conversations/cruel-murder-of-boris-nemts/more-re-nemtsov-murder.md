@@ -2,7 +2,7 @@
 title: "More re: Nemtsov Murder"
 description: "\"So here, out of her very own mouth, she openly admits that Boris Nemtsov was actually secretly working for her who edited his work for American publication, effectively making her a British agent, who not only is a graduate of the British Fabian Society’s fascist London School of Economics linked to Chatham House that controls the political affairs of much of the world including the CFR here, she has also lectured at the LSE as well.\""
 section: "currents"
-slug: "conversations/cruel-murder-of-boris-nemts/more-re-nemtsov-murder"
+slug: "more-re-nemtsov-murder"
 path: "currents/conversations/cruel-murder-of-boris-nemts/more-re-nemtsov-murder"
 sidebar: |
   ### Sidebar[[Skip]](more-re-nemtsov-murder.html#main)

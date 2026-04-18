@@ -2,7 +2,7 @@
 title: "Slavery, Then & Now"
 description: "✠ Soldiers Branded ✠ Prisoners Tortured in Ukrainian Captivity ✠ The Story of the Slaves in America ✠ A Revolutionary Mistake ✠"
 section: "currents"
-slug: "jesuitstemplars-origins/slavery-then--now"
+slug: "slavery-then--now"
 path: "currents/jesuitstemplars-origins/slavery-then--now"
 sidebar: |
   ### Sidebar[[Skip]](slavery-then--now.html#main)

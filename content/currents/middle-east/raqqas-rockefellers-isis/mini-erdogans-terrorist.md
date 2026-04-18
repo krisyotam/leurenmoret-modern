@@ -2,7 +2,7 @@
 title: "Mini Erdogan’s Terrorist Dinner"
 description: "\"We laugh and joke, tell stories and drink our beers. We smoke ‘em if we got them and if we’re lucky maybe see more of my friends. If I’m very lucky, maybe someone will snap a photo of me and my friends together.”"
 section: "currents"
-slug: "middle-east/raqqas-rockefellers-isis/mini-erdogans-terrorist"
+slug: "mini-erdogans-terrorist"
 path: "currents/middle-east/raqqas-rockefellers-isis/mini-erdogans-terrorist"
 sidebar: |
   ### Sidebar[[Skip]](mini-erdogans-terrorist.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation, June 5-12, 2015"
 description: "⚛ Your Radiation This Week No. 11 | (San Francisco) Jun 12, 2015 – Good Day, this is “Your Radiation This Week.” These are the recorded Radiation Highs that affected people this week around the United States and in your neighborhood. Let’s get right to it."
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-june-5-12"
+slug: "your-radiation-june-5-12"
 path: "waves/radiation-around-the-nation/your-radiation-june-5-12"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-june-5-12.html#main)

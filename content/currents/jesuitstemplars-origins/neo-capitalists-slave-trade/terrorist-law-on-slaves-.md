@@ -2,7 +2,7 @@
 title: "Terrorist Law on Slaves"
 description: "💀 WARNING- This is Beyond the Pale 💀   💰   💀 Rape Regulations: ISIS Laws on ‘Proper' Sex Slave Treatment Revealed 💰 Let's Not Forget ORGAN HARVESTING 💀"
 section: "currents"
-slug: "jesuitstemplars-origins/neo-capitalists-slave-trade/terrorist-law-on-slaves-"
+slug: "terrorist-law-on-slaves-"
 path: "currents/jesuitstemplars-origins/neo-capitalists-slave-trade/terrorist-law-on-slaves-"
 sidebar: |
   ### Sidebar[[Skip]](terrorist-law-on-slaves-.html#main)

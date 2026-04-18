@@ -2,7 +2,7 @@
 title: "The Golden Trap"
 description: "♔ Accusations Of The West Towards Putin Traditionally Are Based On The Fact That He Worked In The KGB. And Therefore He Is A Cruel And Immoral Person. Putin Is Blamed For Everything. But Nobody Ever Accused Putin Of Lack Of Intelligence ♔"
 section: "currents"
-slug: "russia-is-coming/the-golden-trap"
+slug: "the-golden-trap"
 path: "currents/russia-is-coming/the-golden-trap"
 sidebar: |
   ### Sidebar[[Skip]](the-golden-trap.html#main)

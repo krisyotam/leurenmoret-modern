@@ -2,7 +2,7 @@
 title: "Your Radiation #18, Aug 15-22, 2015"
 description: "💀 Isotope Count Reporting ⚛🎱⚛ The Lethality Goes Up for 35 Years; Then Declines Slightly and Hangs Steady for Millions Of Years, for that Release. New Releases Start a New Clock All Over Again. Regrettably, for All Normal Humans, That Is A Bunch Of Generations. The End Result is Extinction, of Course.  Everybody is Included; No One is Left Out. Truthfully, It is a Bummer And I Know of No Variety of Radiation-Exempt Human Being 💀"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-18-aug-15-22"
+slug: "your-radiation-18-aug-15-22"
 path: "waves/radiation-around-the-nation/your-radiation-18-aug-15-22"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-18-aug-15-22.html#main)

@@ -2,7 +2,7 @@
 title: "World Facing Second Chernobyl"
 description: "💣 Denis Pushilin, A Pro-Separatist Leader In Southeast Ukraine, Has Said The Ukraine Faces A ‘Second Chornobyl’ Due To Ukraine’s Decision To Use Nuclear Fuel Supplied By Westinghouse For Its Soviet-Built Nuclear Power Plants 💣"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/world-facing-second-chernob"
+slug: "world-facing-second-chernob"
 path: "currents/mh-17-jesuits-flagged-brics/world-facing-second-chernob"
 sidebar: |
   ### Sidebar[[Skip]](world-facing-second-chernob.html#main)

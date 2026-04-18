@@ -2,7 +2,7 @@
 title: "Death’s Drummers"
 description: "💀 On October 14 💀 The Anniversary of the Foundation of the Ukrainian Insurgent Army (UIA), Members of the UIA Decided to Make an Exotic Gift to their “General”—Five Severed Heads, Freshly Cut from Poles—The General was mightily pleased with both the gift itself and the creativity of his subordinates."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/deaths-drummers"
+slug: "deaths-drummers"
 path: "currents/mh-17-jesuits-flagged-brics/deaths-drummers"
 sidebar: |
   ### Sidebar[[Skip]](deaths-drummers.html#main)

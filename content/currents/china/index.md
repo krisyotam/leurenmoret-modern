@@ -2,7 +2,7 @@
 title: "China"
 description: "🌝 Middle Kingdom Ascendant 🌞 Silk Road 🌍 Eastern Eurasia 🌏"
 section: "currents"
-slug: "china/index"
+slug: "china"
 path: "currents/china/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

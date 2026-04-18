@@ -2,7 +2,7 @@
 title: "International Radiation Distribution"
 description: "Leuren Moret BS, MA, PhD ABD's 2008/2009 Global Analysis of the Ongoing Contamination of Our Planet with Uranium and Plutonium Ionizing Radiation Contamination"
 section: "archive"
-slug: "international-radiation/index"
+slug: "international-radiation"
 path: "archive/international-radiation/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation, July 24-31, 2015"
 description: "🌎⚛⚛ Congrats to Billings, Montana. Billings is once again the Highest Recorded Radiation City in the United States this month with 927 CPM! 💀 Pittsburgh, PA, a not surprising leader on the list, takes Bakersfield, CA’s old spot for second place. Pittsburgh is surrounded by nuclear power plants, including Three Mile Island’s Reactor No 2, which exploded and melted down on March 28, 1979 🌎⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-july-24-31"
+slug: "your-radiation-july-24-31"
 path: "waves/radiation-around-the-nation/your-radiation-july-24-31"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-july-24-31.html#main)

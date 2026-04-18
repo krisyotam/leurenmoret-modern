@@ -2,7 +2,7 @@
 title: "Your Radiation, April 17-24, 2015"
 description: "⚛ (San Francisco) April 17, 2015 – Good Day, This Is “Your Radiation, This Week.” ⚛ These Are The Recorded Radiation Highs That Affected People This Week Around The United States And In Your Neighborhood ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-april-17-24"
+slug: "your-radiation-april-17-24"
 path: "waves/radiation-around-the-nation/your-radiation-april-17-24"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-april-17-24.html#main)

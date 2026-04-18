@@ -2,7 +2,7 @@
 title: "Eugenics, Euthanasia and Experiments"
 description: "Organisation for Economic Co-operation and Development || Environment Directorate | Joint Meeting of the Chemicals Committee and the Working Party on Chemicals, Pesticides and Biotechnology"
 section: "waves"
-slug: "nanoweaponry/eugenics-euthanasia-and/index"
+slug: "eugenics-euthanasia-and"
 path: "waves/nanoweaponry/eugenics-euthanasia-and/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

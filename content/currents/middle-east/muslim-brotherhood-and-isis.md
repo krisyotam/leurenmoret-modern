@@ -2,7 +2,7 @@
 title: "Muslim Brotherhood and ISIS ️"
 description: "🔪Since Their Creation in Egypt, in 1928, The Muslim Brotherhood have Practiced Large-Scale Political Murder and Attempted Numerous Coups D’etat. That is why they are Considered as a Terrorist Organization in Most Arab States . . ."
 section: "currents"
-slug: "middle-east/muslim-brotherhood-and-isis"
+slug: "muslim-brotherhood-and-isis"
 path: "currents/middle-east/muslim-brotherhood-and-isis"
 sidebar: |
   ### Sidebar[[Skip]](muslim-brotherhood-and-isis.html#main)

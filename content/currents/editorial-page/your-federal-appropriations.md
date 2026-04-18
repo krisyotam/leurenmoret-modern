@@ -2,7 +2,7 @@
 title: "Your Federal Appropriations Scams at Work"
 description: "❁ America’s Runaway Government and their ‘destiny’s child’ the ‘defense’ department are full of price scams. Each has ben artfully reverse-engineered to come up with the right talking points for any position the Joint Chiefs of Staff wish to take."
 section: "currents"
-slug: "editorial-page/your-federal-appropriations"
+slug: "your-federal-appropriations"
 path: "currents/editorial-page/your-federal-appropriations"
 sidebar: |
   ### Sidebar[[Skip]](your-federal-appropriations.html#main)

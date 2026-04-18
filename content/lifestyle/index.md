@@ -2,7 +2,7 @@
 title: "Lifestyle"
 description: "What follows are a collection of things Leuren and I do and enjoy, to mitigate the effects of that which has been designed to depopulate the biosphere of this Planet."
 section: "lifestyle"
-slug: "index"
+slug: "lifestyle"
 path: "lifestyle/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

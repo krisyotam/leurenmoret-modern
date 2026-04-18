@@ -2,13 +2,8 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { useState } from 'react'
+import { useState, useRef } from 'react'
 import { NAV_ITEMS, type NavItem } from '@/lib/nav-data'
-import styles from './Navigation.module.css'
-
-// Top-level nav items — we only show the top section items in the main nav bar.
-// The full tree is available via NAV_ITEMS for future use.
-const TOP_ITEMS: NavItem[] = NAV_ITEMS
 
 function isActive(href: string | null, pathname: string): boolean {
   if (!href) return false
@@ -19,44 +14,33 @@ function isActive(href: string | null, pathname: string): boolean {
 function DropdownItem({ item, depth = 0 }: { item: NavItem; depth?: number }) {
   const pathname = usePathname()
   const active = isActive(item.href, pathname)
+  const hasChildren = (item.children?.length ?? 0) > 0
 
-  if (!item.children || item.children.length === 0) {
+  if (!hasChildren) {
     return (
       <li>
         {item.href ? (
-          <Link
-            href={item.href}
-            className={`${styles.dropLink} ${active ? styles.dropLinkActive : ''}`}
-            style={depth > 0 ? { paddingLeft: `${1 + depth * 0.75}rem` } : undefined}
-          >
+          <Link href={item.href} className={active ? 'nav-current' : ''}>
             {item.label}
           </Link>
         ) : (
-          <span className={`${styles.dropLink} ${styles.dropLinkCurrent}`}>
-            {item.label}
-          </span>
+          <span className="nav-current">{item.label}</span>
         )}
       </li>
     )
   }
 
   return (
-    <li className={styles.hasSubmenu}>
+    <li className="has-dropdown">
       {item.href ? (
-        <Link
-          href={item.href}
-          className={`${styles.dropLink} ${active ? styles.dropLinkActive : ''}`}
-          style={depth > 0 ? { paddingLeft: `${1 + depth * 0.75}rem` } : undefined}
-        >
+        <Link href={item.href} className={active ? 'nav-current' : ''}>
           {item.label}
         </Link>
       ) : (
-        <span className={`${styles.dropLink} ${styles.dropLinkCurrent}`}>
-          {item.label}
-        </span>
+        <span className="nav-current">{item.label}</span>
       )}
-      <ul className={styles.subMenu}>
-        {item.children.map((child, i) => (
+      <ul>
+        {item.children!.map((child, i) => (
           <DropdownItem key={i} item={child} depth={depth + 1} />
         ))}
       </ul>
@@ -69,28 +53,25 @@ function TopNavItem({ item }: { item: NavItem }) {
   const [open, setOpen] = useState(false)
   const active = isActive(item.href, pathname)
   const hasChildren = (item.children?.length ?? 0) > 0
+  const liRef = useRef<HTMLLIElement>(null)
 
   return (
     <li
-      className={`${styles.topItem} ${hasChildren ? styles.topItemHasChildren : ''}`}
+      ref={liRef}
+      className={hasChildren ? 'has-dropdown' : ''}
       onMouseEnter={() => setOpen(true)}
       onMouseLeave={() => setOpen(false)}
     >
       {item.href ? (
-        <Link
-          href={item.href}
-          className={`${styles.topLink} ${active ? styles.topLinkActive : ''}`}
-        >
+        <Link href={item.href} className={active ? 'nav-current' : ''}>
           {item.label}
         </Link>
       ) : (
-        <span className={`${styles.topLink} ${styles.topLinkCurrent}`}>
-          {item.label}
-        </span>
+        <span className="nav-current">{item.label}</span>
       )}
 
       {hasChildren && open && (
-        <ul className={styles.dropMenu}>
+        <ul style={{ display: 'block' }}>
           {item.children!.map((child, i) => (
             <DropdownItem key={i} item={child} depth={0} />
           ))}
@@ -102,14 +83,14 @@ function TopNavItem({ item }: { item: NavItem }) {
 
 export default function Navigation() {
   return (
-    <nav className={styles.nav} aria-label="Site navigation">
-      <div className={styles.inner}>
-        <ul className={styles.topList}>
-          {TOP_ITEMS.map((item, i) => (
+    <div id="nav-container">
+      <nav id="nav-bar" aria-label="Site navigation">
+        <ul>
+          {NAV_ITEMS.map((item, i) => (
             <TopNavItem key={i} item={item} />
           ))}
         </ul>
-      </div>
-    </nav>
+      </nav>
+    </div>
   )
 }

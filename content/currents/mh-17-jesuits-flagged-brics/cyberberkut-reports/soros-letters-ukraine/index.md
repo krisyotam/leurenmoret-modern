@@ -2,7 +2,7 @@
 title: "Soros Letters | Ukraine"
 description: "I Want To Appeal To You To Unite Behind The Reformers In Your Government And Give Your Wholehearted Support To A Radical, “Big Bang” Type Of Approach. That Is To Say, Administrative Controls Would Be Removed And The Economy Would Move To Market Prices Rapidly Rather Than Gradually."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/cyberberkut-reports/soros-letters-ukraine/index"
+slug: "soros-letters-ukraine"
 path: "currents/mh-17-jesuits-flagged-brics/cyberberkut-reports/soros-letters-ukraine/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

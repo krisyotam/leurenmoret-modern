@@ -2,7 +2,7 @@
 title: "Your Radiation #47-50, Mar 5 - Apr 2, 2016"
 description: "YRTW is Back! | Your Radiation This Week #47 - #50, by Bob Nichols"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-47-50-apr-2-"
+slug: "your-radiation-47-50-apr-2-"
 path: "waves/radiation-around-the-nation/your-radiation-47-50-apr-2-"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-47-50-apr-2-.html#main)

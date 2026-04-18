@@ -2,7 +2,7 @@
 title: "Archive"
 description: "The Repository of Materials Published by Leuren Moret BS, MS, PhD and Associates"
 section: "archive"
-slug: "index"
+slug: "archive"
 path: "archive/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

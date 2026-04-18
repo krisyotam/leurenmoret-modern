@@ -2,7 +2,7 @@
 title: "Your Radiation, May 2-8, 2015"
 description: "🌎 Your Radiation This Week #6 ⚛ Posted by Bob Nichols on May 8, 2015 🌎 NEW Entry Hits The List With 449CPM! ⚛ (San Francisco) May 8, 2015 – Good Day, this is “Your Radiation This Week.” These are the recorded Radiation Highs that affected people this week around the United States and in your neighborhood. 🌎"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-may-2-8-2015"
+slug: "your-radiation-may-2-8-2015"
 path: "waves/radiation-around-the-nation/your-radiation-may-2-8-2015"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-may-2-8-2015.html#main)

@@ -2,13 +2,13 @@
  * content.ts — Content loader for the Leuren Moret archive.
  *
  * Reads Markdown files with YAML frontmatter from content/**\/*.md
- * (extracted by scripts/extract_content.py using html2text + gray-matter).
- * Renders Markdown to HTML with `marked`.
+ * Pages are addressed by flat slug (Gwern-style) via slug-map.json.
  */
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { marked } from 'marked'
+import slugMap from './slug-map.json'
 
 const CONTENT_DIR = path.join(process.cwd(), 'content')
 
@@ -55,42 +55,24 @@ function readMd(filePath: string): Page | null {
   }
 }
 
+export function getPageBySlug(slug: string): Page | null {
+  const relPath = slugMap[slug as keyof typeof slugMap]
+  if (!relPath) return null
+  return readMd(path.join(CONTENT_DIR, `${relPath}.md`))
+}
+
+export function getAllSlugs(): string[] {
+  return Object.keys(slugMap)
+}
+
+// Convenience helpers used by the home, contact, and glossary pages
+export function getIndexPage(): Page | null   { return getPageBySlug('index') }
+export function getContactPage(): Page | null  { return getPageBySlug('contact') }
+export function getGlossaryPage(): Page | null { return getPageBySlug('glossary') }
+
+// Legacy helpers kept for backward compat (contact/glossary static routes)
 export function getPage(pathStr: string): Page | null {
   return readMd(path.join(CONTENT_DIR, `${pathStr}.md`))
-}
-
-export function getIndexPage(): Page | null   { return getPage('index') }
-export function getContactPage(): Page | null  { return getPage('contact') }
-export function getGlossaryPage(): Page | null { return getPage('glossary') }
-
-export function getSectionIndex(section: string): Page | null {
-  return getPage(`${section}/index`)
-}
-
-export function getSectionPage(section: string, slug: string): Page | null {
-  return getPage(`${section}/${slug}`)
-}
-
-function collectMdPaths(dir: string, base = ''): string[] {
-  if (!fs.existsSync(dir)) return []
-  const results: string[] = []
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const rel = base ? `${base}/${entry.name}` : entry.name
-    if (entry.isDirectory()) {
-      results.push(...collectMdPaths(path.join(dir, entry.name), rel))
-    } else if (entry.isFile() && entry.name.endsWith('.md')) {
-      results.push(rel.replace(/\.md$/, ''))
-    }
-  }
-  return results
-}
-
-export function getSectionSlugs(section: string): string[] {
-  return collectMdPaths(path.join(CONTENT_DIR, section)).filter(p => p !== 'index')
-}
-
-export function getAllPaths(): string[] {
-  return collectMdPaths(CONTENT_DIR)
 }
 
 export const SECTIONS = ['archive', 'currents', 'waves', 'lifestyle'] as const

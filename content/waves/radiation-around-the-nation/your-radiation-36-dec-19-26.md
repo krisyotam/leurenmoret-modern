@@ -2,7 +2,7 @@
 title: "Your Radiation #36, Dec 19-26, 2015"
 description: "🔴 RADIOLYSIS 🔴 \"Molecular Decomposition of a Substance as a Result of Radiation.” – \"Pissin’ On The Roses,\" has a good piece on RADIOLYSIS. It is here: http://pissinontheroses.blogspot.it/2015/11/radiolysis-explosive-danger-at-west.html 🔴"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-36-dec-19-26"
+slug: "your-radiation-36-dec-19-26"
 path: "waves/radiation-around-the-nation/your-radiation-36-dec-19-26"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-36-dec-19-26.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation #57, May 14-21, 2016"
 description: "Heavy Duty Sources This Week in Radiation Include: Nuke Product Fires in Northern Canada; Undeclared Nuclear Wars in Central Asia; Fukushima in Japan; and, 438 Big Nuke Reactors Leaking Non-Stop, All the Time Worldwide. There are Approximately 104 Operating Reactors in the States. The Number Varies with Reloading and Repair Schedules."
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-57-may-14-21"
+slug: "your-radiation-57-may-14-21"
 path: "waves/radiation-around-the-nation/your-radiation-57-may-14-21"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-57-may-14-21.html#main)

@@ -2,7 +2,7 @@
 title: "Mozgovoy Murder Analysis p1."
 description: "🔍 Over Yesterday I (Col. Cassad) collected a number of facts on this murder here 🔍 The following versions were put up as of May 24 🔍 Lets consider these versions based on the known facts 🔍"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mozgovois-murder/mozgovoy-murder-analysis-p1"
+slug: "mozgovoy-murder-analysis-p1"
 path: "currents/mh-17-jesuits-flagged-brics/mozgovois-murder/mozgovoy-murder-analysis-p1"
 sidebar: |
   ### Sidebar[[Skip]](mozgovoy-murder-analysis-p1.html#main)

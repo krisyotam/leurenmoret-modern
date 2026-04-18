@@ -2,7 +2,7 @@
 title: "T HE N AMELESS W AR"
 description: "🙈 \"A side of history not seen in history books\". Because of attempting to tell people the truth and stop World War 2 from happening, Ramsay (who was a member of the British Parliament) was arrested and imprisoned unjustly by an extension of Regulation 18B 🙊  💣"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/the-nameless-war-"
+slug: "the-nameless-war-"
 path: "lifestyle/lmgnc-bookshelf/the-nameless-war-"
 sidebar: |
   ### Sidebar[[Skip]](the-nameless-war-.html#main)

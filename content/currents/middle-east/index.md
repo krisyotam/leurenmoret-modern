@@ -2,7 +2,7 @@
 title: "Middle East"
 description: "🌍 The \"ME\" in MENA [Middle-East, North Africa] 💣 -also-✓Recommended☞  http://sputniknews.com/trend/russia_versus_isil_in_syria/  Russia Versus ISIL in Syria (401)  📰"
 section: "currents"
-slug: "middle-east/index"
+slug: "middle-east"
 path: "currents/middle-east/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

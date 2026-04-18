@@ -2,7 +2,7 @@
 title: "US State's Nuland Directs Ukrainian Coup"
 description: "☛US Assistant Secretary of State Victoria Nuland☚ Was Caught On Tape Micro-Managing Ukraine Opposition Party Strategies with US Ambassador to Ukraine, Geoffrey Pyatt. That the Ukraine Regime-Change Operation Was Directed from Washington Can’t Be Denied."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/us-states-nuland-directs"
+slug: "us-states-nuland-directs"
 path: "currents/mh-17-jesuits-flagged-brics/us-states-nuland-directs"
 sidebar: |
   ### Sidebar[[Skip]](us-states-nuland-directs.html#main)

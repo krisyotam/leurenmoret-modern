@@ -2,7 +2,7 @@
 title: "🇷🇺 PUTIN OVERHAULS KREMLIN"
 description: "🏰 Reshuffle in the Kremlin: Understanding Putin's Personnel Overhaul 🇷🇺 President Vladimir Putin has Carried Out a Major Reshuffle of Top Regional Officials, Sacked the Chief of Russia's Federal Customs Service, Dismissed Moscow's Ambassador to Ukraine, and Merged Crimea into the Southern Federal District 🌐"
 section: "currents"
-slug: "russia-is-coming/putin-overhauls-kremlin-"
+slug: "putin-overhauls-kremlin-"
 path: "currents/russia-is-coming/putin-overhauls-kremlin-"
 sidebar: |
   ### Sidebar[[Skip]](putin-overhauls-kremlin-.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation, June 19-26, 2015"
 description: "⚛ Radiation Across the Nation ⚛ CPM* by City & State ⚛ Normal Radiation is 5 to 20 CPM* ⚛ *Listed in Counts per Minute, a Count is One Radioactive Decay Registered by the Instrument. | Partial Counts [Gamma only] are Noted. Uncounted Radiation Would Make the Actual Count Higher ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-june-19-26"
+slug: "your-radiation-june-19-26"
 path: "waves/radiation-around-the-nation/your-radiation-june-19-26"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-june-19-26.html#main)

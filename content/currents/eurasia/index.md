@@ -2,7 +2,7 @@
 title: "Eurasia"
 description: "🌍 Eurasia's Ascention and Middle-East Normalization | Silk Road/One Road Trading Bloc and the Principle Accessway to the Underbelly of Russia and China 🌎"
 section: "currents"
-slug: "eurasia/index"
+slug: "eurasia"
 path: "currents/eurasia/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

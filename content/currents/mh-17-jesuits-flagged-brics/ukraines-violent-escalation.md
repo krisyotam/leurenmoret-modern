@@ -2,7 +2,7 @@
 title: "Ukraine’s Violent Escalation"
 description: "In Less Than A Year, Ukraine Has Been Plunged Into A Vortex Of Violence That Doesn’t Appear To Have Any End In Sight. The Vicious Circle That Started With Molotov Cocktails Thrown At Riot Police Has Now Gone To Ballistic Missiles Launched At Cities."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukraines-violent-escalation"
+slug: "ukraines-violent-escalation"
 path: "currents/mh-17-jesuits-flagged-brics/ukraines-violent-escalation"
 sidebar: |
   ### Sidebar[[Skip]](ukraines-violent-escalation.html#main)

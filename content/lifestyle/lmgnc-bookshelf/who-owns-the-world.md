@@ -2,7 +2,7 @@
 title: "Who Owns the World"
 description: "🌍 Who Owns the World is the First Ever Compilation of Landowners and Landownership Structures in Every Single One of the World's 197 States and 66 Territories. It Covers the History of Landownership As Far as Written History Will Allow and Shows the Division of Landownership in Every Region of the Globe 🌍"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/who-owns-the-world"
+slug: "who-owns-the-world"
 path: "lifestyle/lmgnc-bookshelf/who-owns-the-world"
 sidebar: |
   ### Sidebar[[Skip]](who-owns-the-world.html#main)

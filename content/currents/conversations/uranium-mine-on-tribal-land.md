@@ -2,7 +2,7 @@
 title: "⇊⇊ Uranium Mine on Tribal Land"
 description: "✍ Hello E, Thank you so much for contacting me about your concerns on the Laguna Pueblo regarding the uranium mining.  I have been very concerned for a very long time about the exposure of the Native Americans in the US, and First Nation People in Canada . . . 👥"
 section: "currents"
-slug: "conversations/uranium-mine-on-tribal-land"
+slug: "uranium-mine-on-tribal-land"
 path: "currents/conversations/uranium-mine-on-tribal-land"
 sidebar: |
   ### Sidebar[[Skip]](uranium-mine-on-tribal-land.html#main)

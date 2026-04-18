@@ -2,7 +2,7 @@
 title: "Fukushima And Diet"
 description: ". . . all is solid and irrefutable proof that it is no longer safe or advisable to eat anything out of the Pacific Ocean . . . Fresh water fish and other forms of edible food have higher concentrations of rad in them than salt water fish because the rad is more diluted in oceans and salt chemistry than bodies of fresh water."
 section: "currents"
-slug: "conversations/fukushima-and-diet"
+slug: "fukushima-and-diet"
 path: "currents/conversations/fukushima-and-diet"
 sidebar: |
   ### Sidebar[[Skip]](fukushima-and-diet.html#main)

@@ -2,7 +2,7 @@
 title: "⧱ Occupied Ukraine ⧱"
 description: "Ukrainian General-Colonel Yan Kazemirovich from Kiev Reveals CIA Agents and Masons in Ukraine. Simferopol, March 7, 2014. English subtitles."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/occupied-ukraine-"
+slug: "occupied-ukraine-"
 path: "currents/mh-17-jesuits-flagged-brics/occupied-ukraine-"
 sidebar: |
   ### Sidebar[[Skip]](occupied-ukraine-.html#main)

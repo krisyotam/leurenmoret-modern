@@ -2,7 +2,7 @@
 title: "Your Radiation #37, Dec 26 - Jan 2, 2015|16"
 description: "📜 Categories Added in List Are 📜 Abandoned: The Rad Unit was removed from public viewing by the governing authority ⚛ Tampered-with: The Rad Unit was altered by the governing authority ⚛ MIA-CPM not PC: The Rad Unit has gone missing after reporting High Rad numbers that were not “Politically Correct” ⚛ KIA-CPM not PC: The Rad Unit was obliterated after reporting High Rad numbers that were not “Politically Correct” ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-37-dec-26--"
+slug: "your-radiation-37-dec-26--"
 path: "waves/radiation-around-the-nation/your-radiation-37-dec-26--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-37-dec-26--.html#main)

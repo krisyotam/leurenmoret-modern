@@ -2,7 +2,7 @@
 title: "Neo-Capitalist’s Slave Trade"
 description: "✠ ISIS And Saudi's 💀 Profiteers Of Syria's Slave Trade 💰 35-year-old Rustam Tovsultanov, Almost a Year After Being in Daesh, in an Exclusive Interview with Lifenews, said that, In Addition to Illegal Oil Exports, The Militants are Actively Engaged in the Slave Trade. According to Him, the Victims of this \"Business\" are Mostly Women and Children Kidnapped by Terrorists 💀"
 section: "currents"
-slug: "jesuitstemplars-origins/neo-capitalists-slave-trade/index"
+slug: "neo-capitalists-slave-trade"
 path: "currents/jesuitstemplars-origins/neo-capitalists-slave-trade/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

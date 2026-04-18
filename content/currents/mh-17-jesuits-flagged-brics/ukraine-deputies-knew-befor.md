@@ -2,7 +2,7 @@
 title: "Ukraine Deputies Knew Before Maidan"
 description: "\"MUST WATCH: 20.11.2013!! (pre-Maidan!): Ukraine Deputy Has Proof of USA Staging Civil War in Ukraine\". –––––VIDEO TRANSCRIPT INCLUDED–––––"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukraine-deputies-knew-befor"
+slug: "ukraine-deputies-knew-befor"
 path: "currents/mh-17-jesuits-flagged-brics/ukraine-deputies-knew-befor"
 sidebar: |
   ### Sidebar[[Skip]](ukraine-deputies-knew-befor.html#main)

@@ -2,7 +2,7 @@
 title: "449-Down, ISIL to Go"
 description: "🌍 \"On November 23-26, Russian Aerospace Forces' aircraft have conducted 134 sorties, hitting 449 targets in the provinces of Aleppo, Damascus, Idlib, Latakia, Hama, Homs, Raqqa and Deir ez-Zor,\" Maj. Gen. Igor Konashenkov said 🌍"
 section: "currents"
-slug: "middle-east/449-down-isil-to-go-"
+slug: "449-down-isil-to-go-"
 path: "currents/middle-east/449-down-isil-to-go-"
 sidebar: |
   ### Sidebar[[Skip]](449-down-isil-to-go-.html#main)

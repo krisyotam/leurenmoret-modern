@@ -2,7 +2,7 @@
 title: "Your Radiation, May 15-22, 2015"
 description: "⚛ Your Radiation This Week #8 ⚛ Posted by Bob Nichols, (San Francisco) May 22, 2015 ⚛ Good Day, This Is “Your Radiation This Week.” These Are the Recorded Radiation Highs That Affected People This Week Around the United States and in Your Neighborhood. Let’s Get Right To It ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-may-15-22"
+slug: "your-radiation-may-15-22"
 path: "waves/radiation-around-the-nation/your-radiation-may-15-22"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-may-15-22.html#main)

@@ -2,7 +2,7 @@
 title: "⏰ Minsk? Nyet! Boisto Island"
 description: "In a Climate of Intensifying Hostilities, Their Ideas—Among Others, Establishing a Un-Authorized Peacekeeping Mission in Eastern Ukraine, Granting Amnesty to Combatants Who Have Not Committed War Crimes, and Respecting Ukrainian Legislation on the Country's \"Non-Aligned\" Status—Chart a Path to Peace."
 section: "currents"
-slug: "the-nameless-triangle/minsk-nyet-boisto-island"
+slug: "minsk-nyet-boisto-island"
 path: "currents/the-nameless-triangle/minsk-nyet-boisto-island"
 sidebar: |
   ### Sidebar[[Skip]](minsk-nyet-boisto-island.html#main)

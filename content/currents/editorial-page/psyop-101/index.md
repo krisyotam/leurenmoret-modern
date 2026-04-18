@@ -2,7 +2,7 @@
 title: "↵ Psyop 101 ⟲"
 description: "The following documents are custom tailored to the specifics of the situation developing in the Nameless Triangle and Ukraine. They are designed, “As part of its on-going capacity building programme,” [read: infiltration/exaction/assumption],  to embrace, enfold, and extinguish the nation-state Ukraine, as an entré to do the same with Russia."
 section: "currents"
-slug: "editorial-page/psyop-101/index"
+slug: "psyop-101"
 path: "currents/editorial-page/psyop-101/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

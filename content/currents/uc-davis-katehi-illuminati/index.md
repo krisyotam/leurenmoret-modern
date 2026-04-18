@@ -2,7 +2,7 @@
 title: "UC, Davis, Katehi, Illuminati"
 description: "🎥 INTERVIEW 🎥 Leuren Moret with Darrell Hamamoto, ♜ \"The University of California, Davis, P.B. Katehi, Monsanto, Occupy, Illuminati Bloodlines and Vietnam\" ✠"
 section: "currents"
-slug: "uc-davis-katehi-illuminati/index"
+slug: "uc-davis-katehi-illuminati"
 path: "currents/uc-davis-katehi-illuminati/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

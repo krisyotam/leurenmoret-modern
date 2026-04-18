@@ -2,7 +2,7 @@
 title: "International Sites Featuring LM:GNC"
 description: "⚛ ⚛ ⚛ LM:GNC ⚛ ⚛ ⚛ Communicate ⚛ Educate ⚛ Repair ⚛ Recover ⚛"
 section: "currents"
-slug: "conversations/international-sites-featuri"
+slug: "international-sites-featuri-2"
 path: "currents/conversations/international-sites-featuri"
 sidebar: |
   ### Sidebar[Skip]

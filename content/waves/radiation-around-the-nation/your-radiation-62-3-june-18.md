@@ -2,7 +2,7 @@
 title: "Your Radiation #62-3, June 18 - July 2, 2016"
 description: "⚛ The Rad Hit These Cities Hard: Colorado Springs, CO; San Diego, CA; Raleigh, NC; Portland, Maine; Navajo Lake, New Mexico;  Little Rock, Arkansas; Spokane, Washington; Idaho Falls, Idaho; and Phoenix, Arizona ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-62-3-june-18"
+slug: "your-radiation-62-3-june-18"
 path: "waves/radiation-around-the-nation/your-radiation-62-3-june-18"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-62-3-june-18.html#main)

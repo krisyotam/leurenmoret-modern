@@ -2,7 +2,7 @@
 title: "Angels Don't Play this HAARP"
 description: "♛🎼💀 This Article Was Prepared to Provide a Summary of the Seminal Book . . . Angels Don't Play This HAARP: Advances In Tesla Technology ♛🎼💀"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/angels-dont-play-this-haarp"
+slug: "angels-dont-play-this-haarp"
 path: "lifestyle/lmgnc-bookshelf/angels-dont-play-this-haarp"
 sidebar: |
   ### Sidebar[[Skip]](angels-dont-play-this-haarp.html#main)

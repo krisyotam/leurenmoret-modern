@@ -2,7 +2,7 @@
 title: "ISIL: Battered, Retreating"
 description: "🔥 The Party Is Over- ISIL Is Battered and on the Retreat 💀 The foreign-backed attempt to regime change Syria and establish an “American Caliphate” in the Levant has failed and is now history. That said, the struggle continues both within and outside the region 💣"
 section: "currents"
-slug: "middle-east/isil-battered-retreating-"
+slug: "isil-battered-retreating-"
 path: "currents/middle-east/isil-battered-retreating-"
 sidebar: |
   ### Sidebar[[Skip]](isil-battered-retreating-.html#main)

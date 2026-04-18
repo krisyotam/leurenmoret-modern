@@ -2,7 +2,7 @@
 title: "Your Radiation, April 24 - May 1, 2015"
 description: "⚛ Your Radiation, This Week ⚛ Posted by Bob Nichols on Apr 24 - May 1, 2015 ⚛ (San Francisco) April 30, 2015 – Good Day, this is “Your Radiation, This Week.” These are the recorded Radiation Highs that affected people this week around the United States and in your neighborhood."
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-april-24--"
+slug: "your-radiation-april-24--"
 path: "waves/radiation-around-the-nation/your-radiation-april-24--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-april-24--.html#main)

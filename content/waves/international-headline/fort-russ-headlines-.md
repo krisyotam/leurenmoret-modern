@@ -2,7 +2,7 @@
 title: "Fort Russ Headlines"
 description: "⚪️ http://fortruss.blogspot.com/ ⚪️"
 section: "waves"
-slug: "international-headline/fort-russ-headlines-"
+slug: "fort-russ-headlines-"
 path: "waves/international-headline/fort-russ-headlines-"
 sidebar: |
   ### Sidebar[[Skip]](fort-russ-headlines-.html#main)

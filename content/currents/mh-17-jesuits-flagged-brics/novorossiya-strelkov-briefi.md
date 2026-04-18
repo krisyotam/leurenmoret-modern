@@ -2,7 +2,7 @@
 title: "Novorossiya: Strelkov Briefing"
 description: "➹➹ \"We Will Not Allow for Russia to be Ripped Asunder and Ruined\" ➹➹ The Igor Ivanovich Strelkov Press Conference Sep 11, 2014 ➹➹ \"It has been a month since the moment when I had to resign from my position as the Donetsk Peoples’ Republic (“DPR”) Minister of Defence and the Commander-in-Chief of the Militia. I will not say that this decision was easy for me. Nor were the circumstances, in which it was made, simple . . .\" ➹➹"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/novorossiya-strelkov-briefi"
+slug: "novorossiya-strelkov-briefi"
 path: "currents/mh-17-jesuits-flagged-brics/novorossiya-strelkov-briefi"
 sidebar: |
   ### Sidebar[[Skip]](novorossiya-strelkov-briefi.html#main)

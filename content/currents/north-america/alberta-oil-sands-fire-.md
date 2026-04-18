@@ -2,7 +2,7 @@
 title: "Alberta Oil Sands Fire"
 description: "🎥 Fort McMurray, Alberta: Entire Canadian Sand Oil City Evacuated by Wildfire 🎥 Entire population ordered to evacuate on Tuesday as a wildfire whipped by winds engulfed homes and sent ash raining down on residents"
 section: "currents"
-slug: "north-america/alberta-oil-sands-fire-"
+slug: "alberta-oil-sands-fire-"
 path: "currents/north-america/alberta-oil-sands-fire-"
 sidebar: |
   ### Sidebar[[Skip]](alberta-oil-sands-fire-.html#main)

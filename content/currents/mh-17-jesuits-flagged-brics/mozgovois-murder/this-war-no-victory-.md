@@ -2,7 +2,7 @@
 title: "This War? No Victory"
 description: "Alchevsk, 9th April, 2015 | An interview with the well-known Donbass Militia field commander, Aleksey Mozgovoy, commander of the Prizrak Brigade, now part of the People’s Militia of the self-proclaimed People’s Republic of Lugansk. Notwithstanding his official position, today he is, probably, one of the leading critics of the LPR leadership."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mozgovois-murder/this-war-no-victory-"
+slug: "this-war-no-victory-"
 path: "currents/mh-17-jesuits-flagged-brics/mozgovois-murder/this-war-no-victory-"
 sidebar: |
   ### Sidebar[[Skip]](this-war-no-victory-.html#main)

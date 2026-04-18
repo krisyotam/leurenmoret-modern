@@ -2,7 +2,7 @@
 title: "Conversations"
 description: "📬 Communications, in the 'background', that help guide and fuel our efforts here at LM:GNC ⚛ ⚛ ⚛"
 section: "currents"
-slug: "conversations/index"
+slug: "conversations"
 path: "currents/conversations/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

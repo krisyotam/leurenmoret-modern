@@ -2,7 +2,7 @@
 title: "Your Radiation #35, Dec 12-19, 2015"
 description: "🚫💀🚫 Yuma, Phoenix and Tucson, Arizona All Saw Extended Absences in their Rad Measurement Units This Week After Yuma’s Nation Leading High Rad Last Week . . . ⚛💀⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-35-dec-12-19"
+slug: "your-radiation-35-dec-12-19"
 path: "waves/radiation-around-the-nation/your-radiation-35-dec-12-19"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-35-dec-12-19.html#main)

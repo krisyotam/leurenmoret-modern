@@ -2,7 +2,7 @@
 title: "Israel: Out of Erupt!"
 description: "⚛ ⚛ ⚛ 💀 LM:GNC's Section Following the Migrations of a People Being a Religion Being a People 💀 ⚛ ⚛ ⚛"
 section: "currents"
-slug: "israel-out-of-erupt/index"
+slug: "israel-out-of-erupt"
 path: "currents/israel-out-of-erupt/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

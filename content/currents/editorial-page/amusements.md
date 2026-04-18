@@ -2,7 +2,7 @@
 title: "Amusements"
 description: "🎈Things That Strike Us as Funny, Offbeat or Otherwise Amusing 🎭"
 section: "currents"
-slug: "editorial-page/amusements"
+slug: "amusements"
 path: "currents/editorial-page/amusements"
 sidebar: |
   ### Sidebar[[Skip]](amusements.html#main)

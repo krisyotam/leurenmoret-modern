@@ -2,7 +2,7 @@
 title: "N ANOTECH; L AW OF W EAPONRY"
 description: "Nano-Weapons are referred to here as Objects and Devices Using Nanotechnology or Causing Effects in Nano-Scale that are Designed or Used for Harming Humans."
 section: "waves"
-slug: "nanoweaponry/nanotech-law-of-weaponry/index"
+slug: "nanotech-law-of-weaponry"
 path: "waves/nanoweaponry/nanotech-law-of-weaponry/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

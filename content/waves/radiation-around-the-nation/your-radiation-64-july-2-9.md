@@ -2,7 +2,7 @@
 title: "Your Radiation #64, July 2-9, 2016"
 description: "The new schedule of two reports a month on the 1st and 3rd Saturday of the month will facilitate continuing to provide consistent data to you while working on completion of my book, “There Are No Words.”"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-64-july-2-9"
+slug: "your-radiation-64-july-2-9"
 path: "waves/radiation-around-the-nation/your-radiation-64-july-2-9"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-64-july-2-9.html#main)

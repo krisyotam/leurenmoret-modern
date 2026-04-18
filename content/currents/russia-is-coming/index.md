@@ -2,7 +2,7 @@
 title: "🇷🇺 Russia 🇷🇺"
 description: "🌍 Middle-Space is Up And Coming on The Grand Chessboard. 🇷🇺 Russia is Middle-Space. At Present this has Every Appearance And Indication of Being a Good Thing. We Will Keep You Posted 🌏"
 section: "currents"
-slug: "russia-is-coming/index"
+slug: "russia-is-coming"
 path: "currents/russia-is-coming/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

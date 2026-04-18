@@ -2,7 +2,7 @@
 title: "300 Years Wasted"
 description: "✠ What is at the Root of Beijing's Incredulity Toward the West? To Unveil the Mystery One Should Look Back in History to the Colonization of China; Unbelievably, a Hundred Years Ago China's Statehood was Hanging in the Balance What is at the root of Beijing's incredulity toward the West? To unveil the mystery one should look back in history to the colonization of China; unbelievably, a hundred years ago China's statehood was hanging in the balance 🔥"
 section: "currents"
-slug: "china/300-years-wasted-"
+slug: "300-years-wasted-"
 path: "currents/china/300-years-wasted-"
 sidebar: |
   ### Sidebar[[Skip]](300-years-wasted-.html#main)

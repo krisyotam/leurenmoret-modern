@@ -2,7 +2,7 @@
 title: "Psychotropic Zombification ️"
 description: "🔥There is Enough Proof that it's Not the Verses of the Koran but the Amphetamines that Make the Fighters Commit Crimes, and of the way it Arrived in Qatar and Dubai. The Ideologists of its Application are the Oligarchy Controlling the West and from the East European Satellites ☔️"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/psychotropic-zombification"
+slug: "psychotropic-zombification"
 path: "currents/mh-17-jesuits-flagged-brics/psychotropic-zombification"
 sidebar: |
   ### Sidebar[[Skip]](psychotropic-zombification.html#main)

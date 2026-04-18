@@ -2,7 +2,7 @@
 title: "🇫🇷 Russia Reveals ISIS’ Money"
 description: "The Russian Defense Ministry gives a major media briefing to outline measures to combat international terrorism. The military operation in Syria dominates the event."
 section: "currents"
-slug: "middle-east/russia-reveals-isis-money-"
+slug: "russia-reveals-isis-money-"
 path: "currents/middle-east/russia-reveals-isis-money-"
 sidebar: |
   ### Sidebar[[Skip]](russia-reveals-isis-money-.html#main)

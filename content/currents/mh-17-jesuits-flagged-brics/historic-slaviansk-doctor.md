@@ -2,7 +2,7 @@
 title: "Historic Slaviansk Doctor Interviewed"
 description: "Journalists have managed to find and interview the man who was captured on the photo carrying the body of a killed young girl. Wanted by Ukrainian ethnonationalists, Mikhail Kovalenko is a medical doctor and now lives at an undisclosed location in Russia"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/historic-slaviansk-doctor"
+slug: "historic-slaviansk-doctor"
 path: "currents/mh-17-jesuits-flagged-brics/historic-slaviansk-doctor"
 sidebar: |
   ### Sidebar[[Skip]](historic-slaviansk-doctor.html#main)

@@ -2,7 +2,7 @@
 title: "That Whole Bay Of Pigs Thing"
 description: "🎱 The Final Analysis | Why Kennedy’s Murder is Assured by the Bay of Pigs Failure 🍳 Part One and Two 💣"
 section: "waves"
-slug: "prouty-place-cut-the-bull/that-whole-bay-of-pigs"
+slug: "that-whole-bay-of-pigs"
 path: "waves/prouty-place-cut-the-bull/that-whole-bay-of-pigs"
 sidebar: |
   ### Sidebar[[Skip]](that-whole-bay-of-pigs.html#main)

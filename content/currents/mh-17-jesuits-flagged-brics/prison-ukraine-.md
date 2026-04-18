@@ -2,7 +2,7 @@
 title: "||| Prison Ukraine |||"
 description: "⨳⨳⨳ Speaking With Radio Sputnik Israeli Publicist Avigdor Eskin Commented on Us Foreign Policy, Washington’s Stance Towards Ukraine and the Ukrainian Crisis in General ⨳⨳⨳"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/prison-ukraine-"
+slug: "prison-ukraine-"
 path: "currents/mh-17-jesuits-flagged-brics/prison-ukraine-"
 sidebar: |
   ### Sidebar[[Skip]](prison-ukraine-.html#main)

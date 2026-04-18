@@ -2,7 +2,7 @@
 title: "2014 Radiation Roadshow | Chernobyl"
 description: "⚛⚛⚛ Conditions on the Ground in Chernobyl, Ukraine, in January on 2014 at the Beginning of the Kiev Junta's Overthrow of Legitimate Ukraine Government ⚛⚛⚛"
 section: "waves"
-slug: "gallery-chernobyl-fire/2014-radiation-roadshow/index"
+slug: "2014-radiation-roadshow"
 path: "waves/gallery-chernobyl-fire/2014-radiation-roadshow/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

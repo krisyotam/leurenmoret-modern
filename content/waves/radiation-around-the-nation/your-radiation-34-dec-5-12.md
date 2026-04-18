@@ -2,7 +2,7 @@
 title: "Your Radiation #34, Dec 5-12, 2015"
 description: "⚛ St. Louis, Now and Forever More, will be Remembered as a Manhattan Project Nuclear Garbage Dump. It was for the Most Poisonous, Flammable Elements in the Universe that Just Happen to Also be Radioactive. What will Happen to the Pieces of the Rocks that Incinerated Hiroshima, Japan and Turned Former People into Mere Shadows on the Concrete? Nagasaki was Blown Away by Plutonium, Manufactured by All Reactors ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-34-dec-5-12"
+slug: "your-radiation-34-dec-5-12"
 path: "waves/radiation-around-the-nation/your-radiation-34-dec-5-12"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-34-dec-5-12.html#main)

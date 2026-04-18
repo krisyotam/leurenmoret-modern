@@ -2,7 +2,7 @@
 title: "Lansdale at the Kennedy Assassination"
 description: "☛ Ed Lansdale in Dealey Plaza Nov 22 1963 🎥 Colonel L. Fletcher Prouty, USAF, Plain Speaking ✂︎ 💀 Keep Your Friends Close, Your Enemies Closer, and Your Monsters in a Cage 💀"
 section: "waves"
-slug: "prouty-place-cut-the-bull/lansdale-at-the-kennedy"
+slug: "lansdale-at-the-kennedy"
 path: "waves/prouty-place-cut-the-bull/lansdale-at-the-kennedy"
 sidebar: |
   ### Sidebar[[Skip]](lansdale-at-the-kennedy.html#main)

@@ -2,7 +2,7 @@
 title: "️ UkroNazi ABC’s"
 description: "The ABC (primer) of a Young Bandera Follower | This Text Is Highly Recommended For All Those Who Believe That Bandera Adherents Are Not Present In Ukraine."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/child-abuse/ukronazi-abc"
+slug: "ukronazi-abc"
 path: "currents/mh-17-jesuits-flagged-brics/child-abuse/ukronazi-abc"
 sidebar: |
   ### Sidebar[[Skip]](ukronazi-abc.html#main)

@@ -2,7 +2,7 @@
 title: "⨳ R2P THE NWO ⨳"
 description: "⚪️ Editorial ⚪️ I was reading through a pile of rationalizations for what is presently being done to the world by the NWO when I was reminded of ICISS' classic, “Responsibility to Protect,” doctrine. It’s time to apply a coat fresh perspective to this policy position. (LB) ⚪️"
 section: "currents"
-slug: "editorial-page/r2p-the-nwo/index"
+slug: "r2p-the-nwo"
 path: "currents/editorial-page/r2p-the-nwo/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

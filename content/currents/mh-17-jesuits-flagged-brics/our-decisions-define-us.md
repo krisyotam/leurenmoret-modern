@@ -2,7 +2,7 @@
 title: "Our Decisions Define Us"
 description: "🎼 International Symphony Pianist and Soloist Valentina Lisitsa 🎹 Each of us is faced with a choice of speaking our mind, or worrying about what our family, friends, bosses will think, how it would affect our reputation. This choice is even more amplified for public personas, such as Valentina Lisitsa, who put her career and livelihood on the line for truth, for her personal pain and the struggle of her people."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/our-decisions-define-us"
+slug: "our-decisions-define-us"
 path: "currents/mh-17-jesuits-flagged-brics/our-decisions-define-us"
 sidebar: |
   ### Sidebar[[Skip]](our-decisions-define-us.html#main)

@@ -2,7 +2,7 @@
 title: "LKM On Fairdinkum Media"
 description: "🎥 Fairdinkum Radio and Video 🎥"
 section: "currents"
-slug: "lkm-on-fairdinkum-media/index"
+slug: "lkm-on-fairdinkum-media"
 path: "currents/lkm-on-fairdinkum-media/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

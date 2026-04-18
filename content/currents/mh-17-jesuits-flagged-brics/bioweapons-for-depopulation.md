@@ -2,7 +2,7 @@
 title: "BioWeapons for Depopulation"
 description: "💉 Flu Epidemic in Ukraine: A US BioWeapon of War 💀 Apocalyptic Parables of \"Advent\", written by O. Turchynov, Minister in the Verkhovna Rada 🎯 Foreshadowing Annihilation in Ukraine ✠"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/bioweapons-for-depopulation"
+slug: "bioweapons-for-depopulation"
 path: "currents/mh-17-jesuits-flagged-brics/bioweapons-for-depopulation"
 sidebar: |
   ### Sidebar[[Skip]](bioweapons-for-depopulation.html#main)

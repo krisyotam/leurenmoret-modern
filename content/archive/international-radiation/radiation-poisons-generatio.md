@@ -2,7 +2,7 @@
 title: "Radiation Poisons Generations"
 description: "⚛ ⚛ ⚛ Dumping Radioactive Contaminated Materials Into Bodies of Water Has a Boomerang Effect 💀 It is Not Long Before the Ionizing Radiation is Washing Back Up On Riverbanks and Shorelines ⚛ ⚛ ⚛"
 section: "archive"
-slug: "international-radiation/radiation-poisons-generatio"
+slug: "radiation-poisons-generatio"
 path: "archive/international-radiation/radiation-poisons-generatio"
 sidebar: |
   ### Sidebar[[Skip]](radiation-poisons-generatio.html#main)

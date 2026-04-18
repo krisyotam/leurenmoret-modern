@@ -1,7 +1,7 @@
 ---
 title: "Flint, Poison, Epidemic"
 section: "waves"
-slug: "flint-metropolitan-eugenics/flint-poison-epidemic-"
+slug: "flint-poison-epidemic-"
 path: "waves/flint-metropolitan-eugenics/flint-poison-epidemic-"
 sidebar: |
   ### Sidebar[[Skip]](flint-poison-epidemic-.html#main)

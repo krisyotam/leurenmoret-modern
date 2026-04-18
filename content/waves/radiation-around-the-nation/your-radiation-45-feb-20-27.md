@@ -2,7 +2,7 @@
 title: "Your Radiation #45, Feb 20-27, 2016"
 description: "🔴 Normal Radiation is 5 to 20 CPM ⚛ 🌎 ⚛ Twenty-two (22) Cities exceed 1,000 CPM. There are Seventeen (17) Cities between 900 and 999 CPM. ⚛ 🌎 ⚛ No, It is not OK now . . . Often Times when the Radiation Goes Down the Associated Lethality of the Isotopes Goes Up ⚛ 🌎 ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-45-feb-20-27"
+slug: "your-radiation-45-feb-20-27"
 path: "waves/radiation-around-the-nation/your-radiation-45-feb-20-27"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-45-feb-20-27.html#main)

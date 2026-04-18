@@ -2,7 +2,7 @@
 title: "🃏 Nothing Personal, Just Business"
 description: "🃏 U.S. Secretary of State John Kerry Persuaded the International Monetary Fund 																																				 to Suspend its Consideration on the Issuing Kiev With a New Loan 💰"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/nothing-personal-just-busin"
+slug: "nothing-personal-just-busin"
 path: "currents/mh-17-jesuits-flagged-brics/nothing-personal-just-busin"
 sidebar: |
   ### Sidebar[[Skip]](nothing-personal-just-busin.html#main)

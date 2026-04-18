@@ -2,7 +2,7 @@
 title: "Russian Position Speech"
 description: "Foreign Minister Sergey Lavrov’s Speech And Answers To Questions During International Youth Forum Seliger On 27 August 2014; Setting The Stage For Russia's Initiative And The Putin 7-Point Plan."
 section: "currents"
-slug: "russia-is-coming/russian-position-speech"
+slug: "russian-position-speech-2"
 path: "currents/russia-is-coming/russian-position-speech"
 sidebar: |
   ### Sidebar[[Skip]](russian-position-speech.html#main)

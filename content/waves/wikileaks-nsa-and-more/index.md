@@ -2,7 +2,7 @@
 title: "WikiLeaks NSA and More"
 description: "📚 Wikileaks Specializes in the Analysis and Publication of Large Datasets of Censored or Otherwise Restricted Official Materials Involving War, Spying and Corruption. It has so far Published more than 10 Million Documents and Associated Analyses ✍"
 section: "waves"
-slug: "wikileaks-nsa-and-more/index"
+slug: "wikileaks-nsa-and-more"
 path: "waves/wikileaks-nsa-and-more/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

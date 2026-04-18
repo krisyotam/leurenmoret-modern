@@ -2,7 +2,7 @@
 title: "Daesh Terrorist Multi-Tool"
 description: "\"I Believe That They [America/Nato] Felt They Were Losing Their Control to Nations Acting More Independently and Sovereign in Recent Years, Like Russia, Like Germany, Like China, Like Iran and Other States Encouraged to Assert National Autonomy Against the Wishes of NATO. Of Course, in the End They Will Only Lose."
 section: "currents"
-slug: "middle-east/daesh-terrorist-multi-tool"
+slug: "daesh-terrorist-multi-tool"
 path: "currents/middle-east/daesh-terrorist-multi-tool"
 sidebar: |
   ### Sidebar[[Skip]](daesh-terrorist-multi-tool.html#main)

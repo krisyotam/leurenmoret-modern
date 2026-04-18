@@ -2,7 +2,7 @@
 title: "LKM ON CTM"
 description: "❁ Leuren Moret ❁ Leuren Moret: Global Nuclear Coverup ❁ Interviewed By John B. Wells 🎥 Caravan to Midnight 🎥"
 section: "currents"
-slug: "lkm-on-ctm-/index"
+slug: "lkm-on-ctm-"
 path: "currents/lkm-on-ctm-/index"
 sidebar: |
   ### Sidebar[Skip]

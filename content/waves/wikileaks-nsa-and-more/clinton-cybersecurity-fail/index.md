@@ -2,7 +2,7 @@
 title: "Clinton CyberSecurity Fail"
 description: "❌ Office of the Inspector General Found No Evidence that The Secretary Obtained a Department Address or Device After This Discussion . . . 🚫"
 section: "waves"
-slug: "wikileaks-nsa-and-more/clinton-cybersecurity-fail/index"
+slug: "clinton-cybersecurity-fail"
 path: "waves/wikileaks-nsa-and-more/clinton-cybersecurity-fail/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

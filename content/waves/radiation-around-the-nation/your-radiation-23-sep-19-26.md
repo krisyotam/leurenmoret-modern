@@ -2,7 +2,7 @@
 title: "Your Radiation #23, Sep 19-26, 2015"
 description: "⏰ UNACKNOWLEDGED NUCLEAR EVENT SWEEPS NORTHERN MIDWEST IN THE U.S. 💀 NO ENTITY TAKES CREDIT FOR NUCLEAR TERROR 🌎"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-23-sep-19-26"
+slug: "your-radiation-23-sep-19-26"
 path: "waves/radiation-around-the-nation/your-radiation-23-sep-19-26"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-23-sep-19-26.html#main)

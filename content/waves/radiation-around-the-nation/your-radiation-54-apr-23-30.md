@@ -2,7 +2,7 @@
 title: "Your Radiation #54, Apr 23-30, 2016"
 description: "Some 24/7 Rad Measuring Units are Flaking-out or are Removed from Service for Various Reasons, Including Political Reasons. “MIA 18MthHigh” is a New Category. It means “Missing in Action – 18 Month High.”"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-54-apr-23-30"
+slug: "your-radiation-54-apr-23-30"
 path: "waves/radiation-around-the-nation/your-radiation-54-apr-23-30"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-54-apr-23-30.html#main)

@@ -2,7 +2,7 @@
 title: "Pyatt’s SOROS Breakfast"
 description: "Leaked Memo Proves Soros Ruled Ukraine In 2014: Minutes From \"Breakfast With US Ambassador Pyatt” | FULL TRANSCRIPT INCLUDED"
 section: "currents"
-slug: "jesuitstemplars-origins/pyatts-soros-breakfast/index"
+slug: "pyatts-soros-breakfast"
 path: "currents/jesuitstemplars-origins/pyatts-soros-breakfast/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

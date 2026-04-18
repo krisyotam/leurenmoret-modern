@@ -2,7 +2,7 @@
 title: "︎ Fear of Flying 3"
 description: "✈︎ UnSafe At Any Altitude ✈︎ | ⚛ Remediations ⚛ Wigner Dust ⚛ S. New Zealand ‘Repo' ⚛ HAARP Weather ⚛ Planetary Evolution ⚛ Aircraft Event Roster ⚛ Militarized Berkeley ⚛ Patent Shelving ⚛"
 section: "currents"
-slug: "fear-of-flying-1of4/fear-of-flying-3"
+slug: "fear-of-flying-3"
 path: "currents/fear-of-flying-1of4/fear-of-flying-3"
 sidebar: |
   ### Sidebar[[Skip]](fear-of-flying-3.html#main)

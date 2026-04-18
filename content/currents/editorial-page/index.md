@@ -2,7 +2,7 @@
 title: "Editorial Page"
 description: "❁ LM:GNC Editorial Page ❁ ❁ ❁ Perception is Reality ❁ Perspective Frames Perception, Information Shapes Perspective ❁ Defend Yourself ❁ Avoid Disinformation, Get the Facts, Be Informed, See Reality in its Entirety ❁ Be Effective, Be True, Attain Excellence, Effect Your Reality ❁ ❁ ❁ LM:GNC ❁ ❁ ❁"
 section: "currents"
-slug: "editorial-page/index"
+slug: "editorial-page"
 path: "currents/editorial-page/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

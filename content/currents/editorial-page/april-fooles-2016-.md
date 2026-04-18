@@ -2,7 +2,7 @@
 title: "April Fooles! 2016"
 description: "It Would Appear we have a Script for the Spring-Season of this Geo-Political Peyton Place. It's Not Shakespeare, For Neither Are They!"
 section: "currents"
-slug: "editorial-page/april-fooles-2016-"
+slug: "april-fooles-2016-"
 path: "currents/editorial-page/april-fooles-2016-"
 sidebar: |
   ### Sidebar[[Skip]](april-fooles-2016-.html#main)

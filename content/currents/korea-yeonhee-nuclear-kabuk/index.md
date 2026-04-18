@@ -2,7 +2,7 @@
 title: "Korea Yeonhee (연희) Nuclear Kabuki Theatre"
 description: ". . . It Took Decades of Experience by Accomplished Nuclear Weapons Designers in the Great Powers to Create 200 Kiloton Warheads Weighing 200 Pounds Apiece of the Kind that are Carried by US Cruise Missiles, He Explained ⚛"
 section: "currents"
-slug: "korea-yeonhee-nuclear-kabuk/index"
+slug: "korea-yeonhee-nuclear-kabuk"
 path: "currents/korea-yeonhee-nuclear-kabuk/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

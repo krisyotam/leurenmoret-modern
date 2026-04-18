@@ -2,7 +2,7 @@
 title: "Your Radiation #30, Nov 7-14, 2015"
 description: "🔴 Nuclear Pulse Redo 🔴 Target: Denver, Colorado 🔴 Another Nuclear Pulse Struck in Denver, Colorado November 13, 2015. The Rapid Increase in Measurable Radiation had the Same Rad Signature as the September 30 – October 30 Rad Pulse in Champaign, Illinois Reported in Yrtw No 23 🔴"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-30-nov-7-14"
+slug: "your-radiation-30-nov-7-14"
 path: "waves/radiation-around-the-nation/your-radiation-30-nov-7-14"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-30-nov-7-14.html#main)

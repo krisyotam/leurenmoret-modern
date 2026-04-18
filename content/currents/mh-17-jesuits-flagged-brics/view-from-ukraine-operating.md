@@ -2,7 +2,7 @@
 title: "View from Ukraine Operating Room"
 description: "This is an Online Conference with a Former Surgeon of the Slavyansk Hospital (he performed operations on Strelkov’s Soldiers and left the town together with the retreating Militia)"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/view-from-ukraine-operating"
+slug: "view-from-ukraine-operating"
 path: "currents/mh-17-jesuits-flagged-brics/view-from-ukraine-operating"
 sidebar: |
   ### Sidebar[[Skip]](view-from-ukraine-operating.html#main)

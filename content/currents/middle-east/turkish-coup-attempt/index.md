@@ -2,7 +2,7 @@
 title: "Turkish Coup Attempt"
 description: "⏰ Over 2,800 Arrested, 265 Killed, 1,440 Injured in Turkish Coup Attempt 🔥"
 section: "currents"
-slug: "middle-east/turkish-coup-attempt/index"
+slug: "turkish-coup-attempt"
 path: "currents/middle-east/turkish-coup-attempt/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

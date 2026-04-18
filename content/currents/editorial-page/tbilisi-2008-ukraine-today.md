@@ -2,7 +2,7 @@
 title: "Tbilisi 2008, Ukraine Today"
 description: "➷ If Russian Tanks Went to Tbilisi in 2008, There Would be No Problem with Kiev Today ➷ Islam Saydayev: ISIL, like any other Terrorist Group in the Middle East, will be always controlled by the Americans ➷"
 section: "currents"
-slug: "editorial-page/tbilisi-2008-ukraine-today"
+slug: "tbilisi-2008-ukraine-today"
 path: "currents/editorial-page/tbilisi-2008-ukraine-today"
 sidebar: |
   ### Sidebar[[Skip]](tbilisi-2008-ukraine-today.html#main)

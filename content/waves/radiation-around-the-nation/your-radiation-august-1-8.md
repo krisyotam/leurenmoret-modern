@@ -2,7 +2,7 @@
 title: "Your Radiation, August 1-8, 2015"
 description: "⚛ Normal Radiation is 5 to 20 CPM ⚛ A New Leader This Week in the Race for the Most Radioactive Weather in America is Lincoln, Nebraska with 885 CPM. Congratulations to Lincoln, Nebraska as the Most Radioactive City in America ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-august-1-8"
+slug: "your-radiation-august-1-8"
 path: "waves/radiation-around-the-nation/your-radiation-august-1-8"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-august-1-8.html#main)

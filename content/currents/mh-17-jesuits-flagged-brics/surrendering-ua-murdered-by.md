@@ -2,7 +2,7 @@
 title: "Surrendering UA Murdered by Punatives"
 description: "💣✠ 💣 Surrendering Ukraine National Guard Murdered By Right Sector Punitive Forces 💣✠ 💣 A Full Batallion; ~350 Men, Came Under Fire From Punitive Battalion Troops Near Starobeshevo. Twenty Soldiers And Three Officers Of The Ukrainian Army Survived. 💣✠ 💣"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/surrendering-ua-murdered-by"
+slug: "surrendering-ua-murdered-by"
 path: "currents/mh-17-jesuits-flagged-brics/surrendering-ua-murdered-by"
 sidebar: |
   ### Sidebar[[Skip]](surrendering-ua-murdered-by.html#main)

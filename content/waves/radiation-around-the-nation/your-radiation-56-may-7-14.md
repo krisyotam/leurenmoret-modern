@@ -2,7 +2,7 @@
 title: "Your Radiation #56, May 7-14, 2016"
 description: "♞ Talk About a Deadly Horse Race! 💀 All Week Long Colorado Springs, Colorado; Little Rock, Arkansas and Raleigh, North Carolina Changed First, Second and Third Place Many Times. What an Incredible City-Race For a Non-Prize None of them Ever Wanted in the First Place! ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-56-may-7-14"
+slug: "your-radiation-56-may-7-14"
 path: "waves/radiation-around-the-nation/your-radiation-56-may-7-14"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-56-may-7-14.html#main)

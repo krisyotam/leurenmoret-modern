@@ -2,7 +2,7 @@
 title: "Your Radiation #40, Jan 16-23, 2016"
 description: "⚛ ⚛ ⚛ NEWSFLASH: US BIRTHRATE PLUNGES – SEE BELOW ⚛ ⚛ ⚛ A Branch of the Federal Government has Faithfully Compiled a List of Dead Kids, Infants Really, as Numbers Only for the Past 55 Years. It is Called the CDC, or Center for Disease Control. As if Pregnancy Were a Disease! If You Can Believe That ⚛ ⚛ ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-40-jan-16-23"
+slug: "your-radiation-40-jan-16-23"
 path: "waves/radiation-around-the-nation/your-radiation-40-jan-16-23"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-40-jan-16-23.html#main)

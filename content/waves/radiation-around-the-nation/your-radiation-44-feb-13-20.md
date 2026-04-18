@@ -2,7 +2,7 @@
 title: "Your Radiation #44, Feb 13-20, 2016"
 description: "⚛ ⚛ ⚛ Twenty-one (21) cities exceed 1,000 CPM. There are Thirteen (13) cities between 900 and 999 CPM ⚛ ⚛ ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-44-feb-13-20"
+slug: "your-radiation-44-feb-13-20"
 path: "waves/radiation-around-the-nation/your-radiation-44-feb-13-20"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-44-feb-13-20.html#main)

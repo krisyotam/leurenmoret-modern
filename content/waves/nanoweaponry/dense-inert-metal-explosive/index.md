@@ -2,7 +2,7 @@
 title: "Dense Inert Metal Explosive"
 description: "Neoplastic Transformation of Human Osteoblast Cells to the Tumorigenic Phenotype (☚ MEANS CANCER CAUSING) by Heavy Metal-Tungsten Alloy Particles: Induction of Genotoxic Effects."
 section: "waves"
-slug: "nanoweaponry/dense-inert-metal-explosive/index"
+slug: "dense-inert-metal-explosive"
 path: "waves/nanoweaponry/dense-inert-metal-explosive/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

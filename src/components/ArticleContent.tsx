@@ -1,5 +1,3 @@
-import styles from './ArticleContent.module.css'
-
 interface ArticleContentProps {
   html: string
   title?: string
@@ -7,12 +5,9 @@ interface ArticleContentProps {
 
 export default function ArticleContent({ html, title }: ArticleContentProps) {
   return (
-    <article className={styles.article}>
-      {title && <h1 className={styles.title}>{title}</h1>}
-      <div
-        className={styles.body}
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
-    </article>
+    <div id="main">
+      {title && <h1>{title}</h1>}
+      <div dangerouslySetInnerHTML={{ __html: html }} />
+    </div>
   )
 }

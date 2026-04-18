@@ -2,7 +2,7 @@
 title: "US Embassy Media Fail"
 description: "🎭 Epic Fail! 🎭 Us Diplomats Find They Can’t Control The Narrative On Social Media. 🎱 RT bashing is a fashion among the American elite right now. From Victoria Nuland to John Kerry, few are missing their chance to participate. When a minor official from the US’ Moscow embassy decided to join in, it blew up in his face.💣"
 section: "currents"
-slug: "russia-is-coming/us-embassy-media-fail-"
+slug: "us-embassy-media-fail-"
 path: "currents/russia-is-coming/us-embassy-media-fail-"
 sidebar: |
   ### Sidebar[[Skip]](us-embassy-media-fail-.html#main)

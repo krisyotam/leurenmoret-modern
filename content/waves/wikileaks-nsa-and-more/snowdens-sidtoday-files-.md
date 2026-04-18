@@ -2,7 +2,7 @@
 title: "Snowden’s SIDToday Files"
 description: "✑ 2003 Snowden, NSA's \"SIDtoday Files\" 📚 Full Download ⬇︎ -And- 📦 Fully Commented Links to Each Edition of SIDtoday 📋"
 section: "waves"
-slug: "wikileaks-nsa-and-more/snowdens-sidtoday-files-"
+slug: "snowdens-sidtoday-files-"
 path: "waves/wikileaks-nsa-and-more/snowdens-sidtoday-files-"
 sidebar: |
   ### Sidebar[[Skip]](snowdens-sidtoday-files-.html#main)

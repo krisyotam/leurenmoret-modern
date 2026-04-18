@@ -2,7 +2,7 @@
 title: "Radionuclide ReMobilization Abatement"
 description: "⚛⚛⚛ Leuren Moret’s Letter to Congress, April 14, 2001, Recommending that Congressman Joe Skeen’s, House Subcommittee on Interior and Related Agencies Appropriations, Cut All Funding Appropriations for the $1 Billion Fire Abatement Plan over the Next 20 Years for the Bureau of Land Management in Nevada ⚛⚛⚛"
 section: "archive"
-slug: "radionuclide-remobilization/index"
+slug: "radionuclide-remobilization"
 path: "archive/radionuclide-remobilization/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

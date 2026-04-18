@@ -1,7 +1,7 @@
 ---
 title: "The Jesuits in Geopolitics"
 section: "currents"
-slug: "lkm-on-fairdinkum-media/the-jesuits-in-geopolitics"
+slug: "the-jesuits-in-geopolitics"
 path: "currents/lkm-on-fairdinkum-media/the-jesuits-in-geopolitics"
 sidebar: |
   ### Sidebar[[Skip]](the-jesuits-in-geopolitics.html#main)

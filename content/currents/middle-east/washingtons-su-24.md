@@ -2,7 +2,7 @@
 title: "︎ Washington’s SU-24"
 description: "🌍 Turkey is a Pawn in a Nato Geostrategic Game Against Russia; Ankara has Long Been Supporting Isil On Behalf of Washington, Profiting from Syria's Stolen Oil, According to Independent Researcher and Writer Timothy Alexander Guzman 🇺🇸"
 section: "currents"
-slug: "middle-east/washingtons-su-24"
+slug: "washingtons-su-24"
 path: "currents/middle-east/washingtons-su-24"
 sidebar: |
   ### Sidebar[[Skip]](washingtons-su-24.html#main)

@@ -2,7 +2,7 @@
 title: "︎ MH-17, Jesuits Flagged!, Video"
 description: "MH17, Like MH370, is a Failed Jesuit False Flag, Using 2 Ukrainian Missiles to Undermine Putin & BRICS, Protect Israel, and Trigger Additional War"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mh-17-jesuits-flagged-video"
+slug: "mh-17-jesuits-flagged-video"
 path: "currents/mh-17-jesuits-flagged-brics/mh-17-jesuits-flagged-video"
 sidebar: |
   ### Sidebar[[Skip]](mh-17-jesuits-flagged-video.html#main)

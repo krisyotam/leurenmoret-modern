@@ -2,7 +2,7 @@
 title: "Your Radiation #41, Jan 23-30, 2016"
 description: "⚛ Your Radiation This Week Has Been Redesigned. The Facts and Chart on the Week's Radiation Are In This Article - Analysis Follows ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-41-jan-23-30"
+slug: "your-radiation-41-jan-23-30"
 path: "waves/radiation-around-the-nation/your-radiation-41-jan-23-30"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-41-jan-23-30.html#main)

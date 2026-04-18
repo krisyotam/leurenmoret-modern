@@ -2,7 +2,7 @@
 title: "The Three Secret Meetings"
 description: "✠ Vienna ✠ Verona ✠ Chieri ✠ The Three Secret Meetings ✠ World Facts generally not included in history texts or encyclopedia here in America ✠ Shall Jesuits be allowed to keep such facts from us?"
 section: "currents"
-slug: "jesuitstemplars-origins/the-three-secret-meetings"
+slug: "the-three-secret-meetings"
 path: "currents/jesuitstemplars-origins/the-three-secret-meetings"
 sidebar: |
   ### Sidebar[[Skip]](the-three-secret-meetings.html#main)

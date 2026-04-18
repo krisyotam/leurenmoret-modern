@@ -2,7 +2,7 @@
 title: "Oil Money? | EU Laundromat?"
 description: "New Scandal? The Erdogans Spotted Laundering Money in EU | The evidence continues to mount against Turkish President Erdogan and his family regarding their involvement in illicit collaboration with Daesh (Islamic State); surprisingly, neither Washington, nor Brussels has raised its voice against Recep Erdogan who remains at the helm of Turkey"
 section: "currents"
-slug: "eurasia/oil-money--eu-laundromat-"
+slug: "oil-money--eu-laundromat-"
 path: "currents/eurasia/oil-money--eu-laundromat-"
 sidebar: |
   ### Sidebar[[Skip]](oil-money--eu-laundromat-.html#main)

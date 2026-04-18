@@ -2,7 +2,7 @@
 title: "Tass Headlines"
 description: "⚪️ http://tass.ru/en/world ⚪️"
 section: "waves"
-slug: "international-headline/tass-headlines-"
+slug: "tass-headlines-"
 path: "waves/international-headline/tass-headlines-"
 sidebar: |
   ### Sidebar[[Skip]](tass-headlines-.html#main)

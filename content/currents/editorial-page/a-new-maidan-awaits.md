@@ -2,7 +2,7 @@
 title: "A New \"Maidan\" Awaits"
 description: "Maidan was engineered and scripted as the opening for the pariahs to wrest control of the Ukranian government from steady hands. Here we have YAF NWO nationalistically rationalized exercise in Eugenics."
 section: "currents"
-slug: "editorial-page/a-new-maidan-awaits"
+slug: "a-new-maidan-awaits"
 path: "currents/editorial-page/a-new-maidan-awaits"
 sidebar: |
   ### Sidebar[[Skip]](a-new-maidan-awaits.html#main)

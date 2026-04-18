@@ -2,7 +2,7 @@
 title: "︎ MH-17 Dutch Interim Report"
 description: "✈︎ The Pattern Of Damage To The Cockpit And Forward Fuselage Was Not Consistent With The Damage Expected From Any Known Failure Mode Of The Aircraft, Its Engines, Or Systems ✈︎"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mh-17-dutch-interim-report"
+slug: "mh-17-dutch-interim-report"
 path: "currents/mh-17-jesuits-flagged-brics/mh-17-dutch-interim-report"
 sidebar: |
   ### Sidebar[[Skip]](mh-17-dutch-interim-report.html#main)

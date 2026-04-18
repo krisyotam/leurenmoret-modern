@@ -2,7 +2,7 @@
 title: "Your Radiation #28, Oct 24-31, 2015"
 description: "🔴 HAARP 🔴 I just could not overlook Washington, DC at 213 CPM subtotal Gamma and Beta for a low and 399 CPM subtotal Gamma and Beta for a High Rad reading. This is not even a low for the District. The Low Beta only reading for the week in DC was only 16 CPM! ⚫️"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-28-oct-24-31"
+slug: "your-radiation-28-oct-24-31"
 path: "waves/radiation-around-the-nation/your-radiation-28-oct-24-31"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-28-oct-24-31.html#main)

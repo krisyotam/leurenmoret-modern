@@ -2,7 +2,7 @@
 title: "Russian Fusion-Fission"
 description: "❁ Russia is Developing a Hybrid Nuclear Reactor, a Sort of Stepping Stone to Building a True Nuclear Fusion Reactor; That Uses Both Nuclear Fusion and Fission. The Project is Open for International Collaboration, Particularly from Chinese Scientists a Sort of Stepping Stone to Building a True Nuclear Fusion Reactor ❁"
 section: "currents"
-slug: "russia-is-coming/russian-fusion-fission"
+slug: "russian-fusion-fission"
 path: "currents/russia-is-coming/russian-fusion-fission"
 sidebar: |
   ### Sidebar[[Skip]](russian-fusion-fission.html#main)

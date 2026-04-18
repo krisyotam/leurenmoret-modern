@@ -2,7 +2,7 @@
 title: "Your Radiation #31, Nov 14-21, 2015"
 description: "⚛ ARE WE UNDER ATTACK ??? Hi Bob, You keep referring to “Pulse” events like the September Midwest event and now this week in Denver. Are we under attack? Where is this coming from and who do you think is responsible? Please don’t be shy Bob, thousands of people trust and follow your column, and I get the feeling that you know a lot more than you are telling us ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-31-nov-14-21"
+slug: "your-radiation-31-nov-14-21"
 path: "waves/radiation-around-the-nation/your-radiation-31-nov-14-21"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-31-nov-14-21.html#main)

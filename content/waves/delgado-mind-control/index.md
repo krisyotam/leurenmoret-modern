@@ -2,7 +2,7 @@
 title: "Delgado, Mind Control"
 description: "☛ \"Physical Control of the Mind\" 🔪 Author: Jose Delgado ✠ Hell and Heaven Within the Brain ♟ Methodology for Direct Communication with the Brain ☚ 💀 💀 💀"
 section: "waves"
-slug: "delgado-mind-control/index"
+slug: "delgado-mind-control"
 path: "waves/delgado-mind-control/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

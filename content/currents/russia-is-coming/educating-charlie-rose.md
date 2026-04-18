@@ -2,7 +2,7 @@
 title: "Educating Charlie Rose"
 description: "📺 Because: An Interview is a Terrible Thing to Waste 💰 The Annual St. Petersburg International Economic Forum (PMEF) Which is Traditionally Considered as the Main Venue for Meeting Russian Business Partners, Concluded on June 20. The Culmination Of The Forum is Usually the Appearance by the Russian Head of State at the Plenary Meeting and His Subsequent Participation in a Free-Wheeling Discussion 🎥"
 section: "currents"
-slug: "russia-is-coming/educating-charlie-rose"
+slug: "educating-charlie-rose"
 path: "currents/russia-is-coming/educating-charlie-rose"
 sidebar: |
   ### Sidebar[[Skip]](educating-charlie-rose.html#main)

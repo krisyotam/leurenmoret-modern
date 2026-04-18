@@ -2,7 +2,7 @@
 title: "️ ”Absolutely Massive,\" Nuke Explosion Ukraine"
 description: "Huge Explosion at Donetsk Chemical Plant, Kiev Blames ‘Dropped Cigarette Butt’"
 section: "currents"
-slug: "donetsk-nuclear-explosion/absolutely-massive-nuke"
+slug: "absolutely-massive-nuke"
 path: "currents/donetsk-nuclear-explosion/absolutely-massive-nuke"
 sidebar: |
   ### Sidebar[[Skip]](absolutely-massive-nuke.html#main)

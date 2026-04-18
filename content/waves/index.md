@@ -2,7 +2,7 @@
 title: "Waves"
 description: "It's a Fact; Everyone has at Least One Piece of the Puzzle. Here's Where We Keep the Pieces We've Come Across that Help Us to Put this Puzzle Together."
 section: "waves"
-slug: "index"
+slug: "waves"
 path: "waves/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

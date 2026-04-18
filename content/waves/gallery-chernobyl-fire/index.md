@@ -2,7 +2,7 @@
 title: "️ Gallery ️ Chernobyl Fire ️ 2015 ️"
 description: "🔥 Articles, Videos, Scientific Papers, & Other Evidence Pertaining to the Ramifications of the April 28, 2015 Chernobyl Fire Event 🔥"
 section: "waves"
-slug: "gallery-chernobyl-fire/index"
+slug: "gallery-chernobyl-fire"
 path: "waves/gallery-chernobyl-fire/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

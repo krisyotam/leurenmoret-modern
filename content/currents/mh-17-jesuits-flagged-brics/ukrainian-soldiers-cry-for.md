@@ -2,7 +2,7 @@
 title: "Ukrainian Soldier’s Cry for Help"
 description: "\". . . And you write that everything is fine and we are attacking Sverdlovsk. We are not fucking attacking – we are retreating for the forth day in a row!\""
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukrainian-soldiers-cry-for"
+slug: "ukrainian-soldiers-cry-for"
 path: "currents/mh-17-jesuits-flagged-brics/ukrainian-soldiers-cry-for"
 sidebar: |
   ### Sidebar[[Skip]](ukrainian-soldiers-cry-for.html#main)

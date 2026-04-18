@@ -2,7 +2,7 @@
 title: "US and Turkey, NWO the Kurds"
 description: "Collapse of Iraqi Kurdistan | The road is surrounded by garbage dumps. Electric wires and high fences cut through the land. And the land lies idle; there is almost no agriculture left here. It is all oil, military bases, and inactivity and apathy."
 section: "currents"
-slug: "middle-east/us-and-turkey-nwo-the-kurds"
+slug: "us-and-turkey-nwo-the-kurds"
 path: "currents/middle-east/us-and-turkey-nwo-the-kurds"
 sidebar: |
   ### Sidebar[[Skip]](us-and-turkey-nwo-the-kurds.html#main)

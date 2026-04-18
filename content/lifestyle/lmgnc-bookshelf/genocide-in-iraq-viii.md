@@ -2,7 +2,7 @@
 title: "Genocide In Iraq v .I&II"
 description: "👤 The Current Horrific Malaise In The State Of Iraq Has Its Roots In The Us-Led Destruction Of Iraq In 1991, Followed By A Decade Of Harsh Us-Led International Sanctions Against The Entire Iraqi Population That Killed Millions -- One Of The Most Heinous Crimes Of The 20Th Century 👥"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/genocide-in-iraq-viii"
+slug: "genocide-in-iraq-viii"
 path: "lifestyle/lmgnc-bookshelf/genocide-in-iraq-viii"
 sidebar: |
   ### Sidebar[[Skip]](genocide-in-iraq-viii.html#main)

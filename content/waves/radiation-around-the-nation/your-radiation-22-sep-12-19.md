@@ -2,7 +2,7 @@
 title: "Your Radiation #22, Sep 12-19, 2015"
 description: "⚛ A familiar Leader this week in the race for the Most Radioactive Weather in America is Billings, Montana with 2,252 CPM 🌎 In 1992 Germany calculated that in reactor meltdowns like Fukushima Daiichi the radioactive isotope Strontium 90 would aggressively poison the environment for 109.2 years and then decline slowly over the next 273 years ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-22-sep-12-19"
+slug: "your-radiation-22-sep-12-19"
 path: "waves/radiation-around-the-nation/your-radiation-22-sep-12-19"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-22-sep-12-19.html#main)

@@ -2,7 +2,7 @@
 title: "Manuscripts"
 description: "🗽 Foundation Documents of The United States of America and More From Before and After The Fall 🗽"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/manuscripts-"
+slug: "manuscripts-"
 path: "lifestyle/lmgnc-bookshelf/manuscripts-"
 sidebar: |
   ### Sidebar[[Skip]](manuscripts-.html#main)

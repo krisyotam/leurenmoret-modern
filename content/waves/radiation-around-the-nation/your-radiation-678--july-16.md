@@ -2,7 +2,7 @@
 title: "Your Radiation #67/8, -- July 16-30, 2016"
 description: "⚛ July 16 thru 30, 2016, Undeclared Nuclear War Continues 💥 These are a portion of the American cities that exceeded 1,000 CPM these past 2 weeks. 34 Cities are Reporting Radiation Above 1,000 CPM. Take precautions ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-678--july-16"
+slug: "your-radiation-678--july-16"
 path: "waves/radiation-around-the-nation/your-radiation-678--july-16"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-678--july-16.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation #21, Sep 5-12, 2015"
 description: "A New and Familiar Leader this Week in the Race for the Most Radioactive Weather in America is Billings, Montana with 🔴 2,323 CPM 🔴 Thirteen (13) Cities Exceeded 1,000 CPM this Week in Your Rad Weather. Stay Alert and Take All Appropriate Precautions"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-21-sep-5-12"
+slug: "your-radiation-21-sep-5-12"
 path: "waves/radiation-around-the-nation/your-radiation-21-sep-5-12"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-21-sep-5-12.html#main)

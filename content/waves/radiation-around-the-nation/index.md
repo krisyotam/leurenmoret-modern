@@ -2,7 +2,7 @@
 title: "Radiation Around The Nation"
 description: "(San Francisco) – Good Day, This Is “Your Radiation, This Week.” These Are The Recorded Radiation Highs That Affected People This Week Around The United States And In Your Neighborhood."
 section: "waves"
-slug: "radiation-around-the-nation/index"
+slug: "radiation-around-the-nation"
 path: "waves/radiation-around-the-nation/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

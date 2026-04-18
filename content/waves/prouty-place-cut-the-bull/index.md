@@ -2,7 +2,7 @@
 title: "Prouty Place C UT THE B ULL ︎"
 description: "🎥 Colonel L. Fletcher Prouty, USAF, Plain Speaking ✂︎ 💀 Ed Lansdale in Dealey Plaza Nov 22 1963 💀 🌎  The Origins of Oil - Falsely Defined in 1892 ➢ Origin of Hydrocarbons Found in Geologic Processes 🌍 ✂︎ More . . . 🎥"
 section: "waves"
-slug: "prouty-place-cut-the-bull/index"
+slug: "prouty-place-cut-the-bull"
 path: "waves/prouty-place-cut-the-bull/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

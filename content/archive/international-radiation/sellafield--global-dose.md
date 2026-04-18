@@ -2,7 +2,7 @@
 title: "Sellafield | Global Dose Test"
 description: "⚛ | Global Implications of Sellafield | ⚛ “The UK Discharges More Radioactivity into the Sea than Any Other Nation. Sellafield is the Largest Recorded Source of Radioactive Discharge in the World. That the UK, with a Comparatively Small Nuclear Industry, Should Be So Dramatically Out of Step is a Cause for Concern.” -House of Commons, EXTREME CONCERN -ed ⚛⚛⚛"
 section: "archive"
-slug: "international-radiation/sellafield--global-dose"
+slug: "sellafield--global-dose"
 path: "archive/international-radiation/sellafield--global-dose"
 sidebar: |
   ### Sidebar[[Skip]](sellafield--global-dose.html#main)

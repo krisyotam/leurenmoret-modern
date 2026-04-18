@@ -2,7 +2,7 @@
 title: "A ZOV C RUCIFIXION"
 description: "YES, Crucifixion, Possibly Easter 2015"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/azov-crucifixion-"
+slug: "azov-crucifixion-"
 path: "currents/mh-17-jesuits-flagged-brics/azov-crucifixion-"
 sidebar: |
   ### Sidebar[[Skip]](azov-crucifixion-.html#main)

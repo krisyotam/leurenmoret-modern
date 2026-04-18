@@ -2,7 +2,7 @@
 title: "Jesuits/Templar’s Origins & Aims"
 description: "❁ CORPORATE NAME CHANGE ❁ Knights Templar History and World Domination of Jesuits since 1516 ❁ FALSE FLAG ❁ Crusades were economic but masked as Christianity - n.Europeans wanted to revive Silk Road and capture huge revenue stream from it. Crimea was flash point where Silk Road ended and continues to be modern flash point (vast oil and gas deposits Siberia/RU)."
 section: "currents"
-slug: "jesuitstemplars-origins/index"
+slug: "jesuitstemplars-origins"
 path: "currents/jesuitstemplars-origins/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

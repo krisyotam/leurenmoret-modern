@@ -2,7 +2,7 @@
 title: "Your Radiation #20, Aug 29 -Sep 5, 2015"
 description: "🔴 \"Jeeez, Three Cities Went Over 1000 CPMs.\" -Bob 🔴 ⚛ ⚛ ⚛ A New and Unfamiliar Leader This Week in the Race for the Most Radioactive Weather in America is Ft Wayne, Indiana with 1,326 CPM. Congratulations to Ft Wayne, IN, as the Most Radioactive City in America this Week ⚛ ⚛ ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-20-aug-29-"
+slug: "your-radiation-20-aug-29-"
 path: "waves/radiation-around-the-nation/your-radiation-20-aug-29-"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-20-aug-29-.html#main)

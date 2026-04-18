@@ -2,7 +2,7 @@
 title: "A SHES TO A SHES"
 description: "\"Donbass is not just a depressive region. There is such an enormous number of problems, and the main problem is there are just many absolutely undesirable people. The most important thing that needs to be done at the moment, no matter how harsh it may sound, there is a category of people, who simply need to be killed\""
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ashes-to-ashes-"
+slug: "ashes-to-ashes-"
 path: "currents/mh-17-jesuits-flagged-brics/ashes-to-ashes-"
 sidebar: |
   ### Sidebar[[Skip]](ashes-to-ashes-.html#main)

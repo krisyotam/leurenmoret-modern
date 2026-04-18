@@ -2,7 +2,7 @@
 title: "Breedlove, GOOD RIDDANCE"
 description: "⨳ PSYCHOPATH RETIRED ⨳ “I May Be Wrong, … But I Do Not See This WH Really ‘Engaged’ by Working with Europe/NATO. Frankly I Think We are a ‘Worry,’ … ie A Threat To Get the Nation Drug Into a Conflict,” (sic)"
 section: "currents"
-slug: "jesuitstemplars-origins/breedlove-good-riddance"
+slug: "breedlove-good-riddance"
 path: "currents/jesuitstemplars-origins/breedlove-good-riddance"
 sidebar: |
   ### Sidebar[[Skip]](breedlove-good-riddance.html#main)

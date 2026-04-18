@@ -2,7 +2,7 @@
 title: "Fukushima Plutonium Effect"
 description: "⚛ Fukushima Plutonium Effect and Blow-Up Regimes in Neutron-Multiplying Media ⚛ OR ⚛ How MOX Fuel is Engineered to go Critical ⚛"
 section: "waves"
-slug: "fukushima-plutonium-effect/index"
+slug: "fukushima-plutonium-effect"
 path: "waves/fukushima-plutonium-effect/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

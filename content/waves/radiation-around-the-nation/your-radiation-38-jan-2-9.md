@@ -2,7 +2,7 @@
 title: "Your Radiation #38, Jan 2-9, 2016"
 description: "🔴 ⚛ 🔴 Snow is Far And Away the Best Rad Scavenger or Collector There Is. Snow Grabs About 95% of the Rad in the Air at the Time it Passes Through It 🔴⚛🔴"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-38-jan-2-9"
+slug: "your-radiation-38-jan-2-9"
 path: "waves/radiation-around-the-nation/your-radiation-38-jan-2-9"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-38-jan-2-9.html#main)

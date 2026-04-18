@@ -2,7 +2,7 @@
 title: "Mozgovoi’s Murder"
 description: "💀 And So Goes Ukraine . . . | The Levels of International and Internecine Intrigue in Donetsk and Lughansk Have Killed The Vision of a Bright Future and Novorossia. Now Comes the Undermined Grind Of Conventional War . . ."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mozgovois-murder/index"
+slug: "mozgovois-murder"
 path: "currents/mh-17-jesuits-flagged-brics/mozgovois-murder/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

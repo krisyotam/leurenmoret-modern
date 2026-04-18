@@ -2,7 +2,7 @@
 title: "⏰ Macedonian Uprising / Western NGO's"
 description: "🇺🇸 There is Increasing Concern About Potential Outside Influence Involved in Recent Political Demonstrations in Macedonia Following Reports that Students were Offered up to $1,500 by an Activist Group to Come Up with the Best Ideas on How To Protest Against the Country's Government 🌍"
 section: "currents"
-slug: "the-nameless-triangle/macedonian-uprising--wester"
+slug: "macedonian-uprising--wester"
 path: "currents/the-nameless-triangle/macedonian-uprising--wester"
 sidebar: |
   ### Sidebar[[Skip]](macedonian-uprising--wester.html#main)

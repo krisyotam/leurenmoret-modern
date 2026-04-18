@@ -2,7 +2,7 @@
 title: "NANOWEAPONRY"
 description: "💥 D.I.M.E. BOMB Fallujah 💥 D.I.M.E.: Dense Inert Metal Explosive 💥 \"Nanotechnology and the International Law of Weaponry\" ☗ Eugenics, Euthenasia, and Experiments Requiring Death as an End Point 💀"
 section: "waves"
-slug: "nanoweaponry/index"
+slug: "nanoweaponry"
 path: "waves/nanoweaponry/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

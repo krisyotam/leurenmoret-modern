@@ -2,7 +2,7 @@
 title: "Child Abuse"
 description: "“Give Me A Child Until He Is Seven And I Will Give You The Man.” ✠ OR ✠ “Give Me A Child Until He Is Seven And He Will Be Mine For Life.”"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/child-abuse/index"
+slug: "child-abuse"
 path: "currents/mh-17-jesuits-flagged-brics/child-abuse/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

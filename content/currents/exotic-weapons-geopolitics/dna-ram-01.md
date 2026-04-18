@@ -2,7 +2,7 @@
 title: "️ DNA RAM 0️⃣1️⃣"
 description: "• How DNA Data Storage Works, Scientists Create First DNA 'RAM'• They Managed to Pack about 200 Megabytes of Data into just a Fraction of a Drop of Liquid •"
 section: "currents"
-slug: "exotic-weapons-geopolitics/dna-ram-01"
+slug: "dna-ram-01"
 path: "currents/exotic-weapons-geopolitics/dna-ram-01"
 sidebar: |
   ### Sidebar[[Skip]](dna-ram-01.html#main)

@@ -2,7 +2,7 @@
 title: "21 st Century Silk Road"
 description: "🌺 Building the New Silk Road and New Eurasia 🌸 Part 1 - China and the South 🍀 PART 2 - Russia and the North 🌸 Part 3 - Pipelines, Railways, and Highways from Europe to China 🌺"
 section: "currents"
-slug: "21st-century-silk-road/index"
+slug: "21st-century-silk-road"
 path: "currents/21st-century-silk-road/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

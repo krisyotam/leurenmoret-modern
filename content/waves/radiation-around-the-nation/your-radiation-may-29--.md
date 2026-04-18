@@ -2,7 +2,7 @@
 title: "Your Radiation, May 29 - June 5, 2015"
 description: "⚛⚛⚛ (San Francisco) Jun 5, 2015 ⚛⚛⚛ Good Day, this is “Your Radiation This Week.” These are the recorded Radiation Highs that affected people this week around the United States and in your neighborhood. Let’s get right to it ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-may-29--"
+slug: "your-radiation-may-29--"
 path: "waves/radiation-around-the-nation/your-radiation-may-29--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-may-29--.html#main)

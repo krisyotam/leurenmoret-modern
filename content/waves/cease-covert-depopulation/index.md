@@ -2,7 +2,7 @@
 title: "Cease Covert Depopulation Letter"
 description: ". . . As Secretary of the National Security and Defense Council of Ukraine since 2004, you, President Poroshenko, are personally responsible for carrying out the war of attrition on your own people through chemical, biological and bacteriological weapons . . ."
 section: "waves"
-slug: "cease-covert-depopulation/index"
+slug: "cease-covert-depopulation"
 path: "waves/cease-covert-depopulation/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

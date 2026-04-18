@@ -2,7 +2,7 @@
 title: "︎ Fear of Flying 4"
 description: "✈︎ Theatre of Magnitude ✈︎ | ⚛ Wigner Worldwide ⚛ Event Roster ⚛ LM:GNC, The Journal ⚛ What to Do? ⚛ Cast & Credits . . ."
 section: "currents"
-slug: "fear-of-flying-1of4/fear-of-flying-4"
+slug: "fear-of-flying-4"
 path: "currents/fear-of-flying-1of4/fear-of-flying-4"
 sidebar: |
   ### Sidebar[[Skip]](fear-of-flying-4.html#main)

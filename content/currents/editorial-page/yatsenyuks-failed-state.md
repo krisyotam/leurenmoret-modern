@@ -2,7 +2,7 @@
 title: "Yatsenyuk’s Failed-State Cookbook"
 description: "✠ Today’s Recipe 💀 OUTSOURCE STATE PROFIT CENTERS, LIKE CU$TOM$ 🍳 Preparation: 1. Take a plump Nation-State and give it a flaming coup. 2. Stuff it with criminal cronies and ‘supporters’. 3. Bleed it dry. 4. Put it in a Cauldron. 5. Add 'Chicken Broth' and Stir It Up! 6. Call International Media, Announce an Open House . . ."
 section: "currents"
-slug: "editorial-page/yatsenyuks-failed-state"
+slug: "yatsenyuks-failed-state"
 path: "currents/editorial-page/yatsenyuks-failed-state"
 sidebar: |
   ### Sidebar[[Skip]](yatsenyuks-failed-state.html#main)

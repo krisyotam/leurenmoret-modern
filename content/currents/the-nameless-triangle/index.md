@@ -2,7 +2,7 @@
 title: "Balkans, The Nameless Triangle"
 description: "An Area, Cloaked in a Myth of Confusion, That Has Been Crossroads to the Foments and Restructurings That We Call History"
 section: "currents"
-slug: "the-nameless-triangle/index"
+slug: "the-nameless-triangle"
 path: "currents/the-nameless-triangle/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

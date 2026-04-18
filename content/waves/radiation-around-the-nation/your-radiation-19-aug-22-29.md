@@ -2,7 +2,7 @@
 title: "Your Radiation #19, Aug 22-29, 2015"
 description: "⚛ ⚛ ⚛ A new and familiar Leader this week in the race for the Most Radioactive Weather in America is Billings, Montana with 937 CPM. Congratulations to Billings as the Most Radioactive City in America ⚛ ⚛ ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-19-aug-22-29"
+slug: "your-radiation-19-aug-22-29"
 path: "waves/radiation-around-the-nation/your-radiation-19-aug-22-29"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-19-aug-22-29.html#main)

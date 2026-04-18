@@ -2,7 +2,7 @@
 title: "Putin’s 7-Point Plan"
 description: "Vladimir Putin outlined a plan for stabilizing the Ukraine while speaking with journalists at the end of his working visit to Mongolia, September 3, 2014."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/putins-7-point-plan"
+slug: "putins-7-point-plan"
 path: "currents/mh-17-jesuits-flagged-brics/putins-7-point-plan"
 sidebar: |
   ### Sidebar[Skip]

@@ -2,7 +2,7 @@
 title: "“Erdogan is Strengthening ISIS”"
 description: "♟The leader of the group \"Jabhat al-Nusra\", the Emir, Abu Muhammad al-Julani, in an interview aired by Arab TV channel Orient News, has revealed Turkey's plans to create so-called \"security zone\" in Northern Syria. The leader of the militants, whose face was hidden from cameras, directly accused Erdogan's regime of creating a buffer zone \" which will not weaken, but will strengthen ISIS\".♟"
 section: "currents"
-slug: "middle-east/erdogan-is-strengthening"
+slug: "erdogan-is-strengthening"
 path: "currents/middle-east/erdogan-is-strengthening"
 sidebar: |
   ### Sidebar[[Skip]](erdogan-is-strengthening.html#main)

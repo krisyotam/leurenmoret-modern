@@ -2,7 +2,7 @@
 title: "Geopolitical Original Sin"
 description: "🌍 Geopolitical Original Sin, American Style 🇫🇷 While Russia's Uncompromising President is Adored at Home, He Troubles the West Mostly for His Unwillingness to Blindly Follow the Western “Democratic Dogma” and his Decisiveness in Reviving Russia, According To The French Daily L’expression 🌐"
 section: "currents"
-slug: "russia-is-coming/geopolitical-original-sin-"
+slug: "geopolitical-original-sin-"
 path: "currents/russia-is-coming/geopolitical-original-sin-"
 sidebar: |
   ### Sidebar[[Skip]](geopolitical-original-sin-.html#main)

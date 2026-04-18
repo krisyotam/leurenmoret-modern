@@ -2,7 +2,7 @@
 title: "International Headline Watch"
 description: "📰 Access To Real News 📰 The Pace of International Events has Accelerated To The Point Where it is Worthwhile to List Links to Full Spectrum International News as a sort of Diary of Events. LM:GNC Does Not Warrant that Any Given Story is Accurate, or Expresses our Opinion. What We Will Tell You is that these are Some of the Places We Go in Search of That Most Elusive of Treasures, The Whole Truth 🌏"
 section: "waves"
-slug: "international-headline/index"
+slug: "international-headline"
 path: "waves/international-headline/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

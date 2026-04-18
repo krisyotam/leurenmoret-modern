@@ -2,7 +2,7 @@
 title: "Your Radiation #27, Oct 17-24, 2015"
 description: "🔴 Manhattan Project’s former nuclear laden garbage dump for radiologically contaminated material is in comeback mode in a big way in St Louis. The nuclear laced garbage is directly in the path of a underground fire in a modern city garbage dump, also underground ⏰"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-27-oct-17-24"
+slug: "your-radiation-27-oct-17-24"
 path: "waves/radiation-around-the-nation/your-radiation-27-oct-17-24"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-27-oct-17-24.html#main)

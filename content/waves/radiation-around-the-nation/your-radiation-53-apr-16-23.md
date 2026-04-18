@@ -2,7 +2,7 @@
 title: "Your Radiation #53, Apr 16-23, 2016"
 description: "⚛⚛⚛ The Number of Cities over 1,000 CPM DOUBLED in this edition of YRTW: from 15 Cities to 30 Cities. ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-53-apr-16-23"
+slug: "your-radiation-53-apr-16-23"
 path: "waves/radiation-around-the-nation/your-radiation-53-apr-16-23"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-53-apr-16-23.html#main)

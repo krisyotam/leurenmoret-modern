@@ -2,7 +2,7 @@
 title: "🃏 Poroshenko’s Spanish Villa"
 description: "🌍 So, on March 8 Poroshenko was Noticed by Russian Tourists in a Drugstore of the Spanish City of Marbella. According to Eyewitnesses, He Bought in (the) Drugstore Vitamins and Medicines and as soon as with Him (they) Started Talking Russian, (he) Got Into (his) Car and Left 👤"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukraine-bail-out/poroshenkos-spanish-villa-"
+slug: "poroshenkos-spanish-villa-"
 path: "currents/mh-17-jesuits-flagged-brics/ukraine-bail-out/poroshenkos-spanish-villa-"
 sidebar: |
   ### Sidebar[[Skip]](poroshenkos-spanish-villa-.html#main)

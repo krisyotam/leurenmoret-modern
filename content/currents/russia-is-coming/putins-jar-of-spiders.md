@@ -2,7 +2,7 @@
 title: "🃏 Putin’s Jar Of Spiders"
 description: "✠✠✠ The Jesuits Are Simply The Romish Army For The Earthly Sovereignty Of The World In The Future, With The Pontiff Of Rome For Emperor…That’s Their Ideal…It Is Simple Lust Of Power, Of Filthy Earthly Gain, Of Domination – Something Like A Universal Serfdom With Them [i.e. The Jesuits] As Masters – That’s All They Stand For. They Don’t Even Believe In God Perhaps. -Fyodor Dostoyevsky (1821-1881) ✠✠✠"
 section: "currents"
-slug: "russia-is-coming/putins-jar-of-spiders"
+slug: "putins-jar-of-spiders"
 path: "currents/russia-is-coming/putins-jar-of-spiders"
 sidebar: |
   ### Sidebar[[Skip]](putins-jar-of-spiders.html#main)

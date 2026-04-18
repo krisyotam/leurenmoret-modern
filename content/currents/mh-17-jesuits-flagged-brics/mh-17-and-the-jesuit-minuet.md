@@ -2,7 +2,7 @@
 title: "︎ MH-17 AND THE Jesuit Minuet"
 description: "✈️ THE Illustrated Edition ✈️ A Clearer Look Into How MH17, Like MH370, is a Failed Jesuit False Flag, Using 2 Ukrainian Missiles to Undermine Putin & BRICS, Protect Israel, and Trigger Additional War"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mh-17-and-the-jesuit-minuet"
+slug: "mh-17-and-the-jesuit-minuet"
 path: "currents/mh-17-jesuits-flagged-brics/mh-17-and-the-jesuit-minuet"
 sidebar: |
   ### Sidebar[[Skip]](mh-17-and-the-jesuit-minuet.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation #69/70, July 30 - August 13, 2016"
 description: "⚛⚛⚛ 44 Cities are Reporting Radiation Above 1,000 CPM. Last Issue it was 34 Cities. Mandatory Evacuation Level is 300 CPM. Take Precautions ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-69-70-july"
+slug: "your-radiation-69-70-july"
 path: "waves/radiation-around-the-nation/your-radiation-69-70-july"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-69-70-july.html#main)

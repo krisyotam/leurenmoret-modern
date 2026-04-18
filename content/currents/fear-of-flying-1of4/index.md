@@ -2,7 +2,7 @@
 title: "︎ Fear of Flying . . . (1of4)"
 description: "❁ Leuren Moret Interviewed by Christina Consolo \"RadChick\" ❁ | ⚛ Wigner Effect ⚛ Neutron Pulse ⚛ Entropy Acceleration ⚛"
 section: "currents"
-slug: "fear-of-flying-1of4/index"
+slug: "fear-of-flying-1of4"
 path: "currents/fear-of-flying-1of4/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

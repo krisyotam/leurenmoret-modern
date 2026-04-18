@@ -2,7 +2,7 @@
 title: "Your Radiation #25, Oct 3-10, 2015"
 description: "🌎 | ⚛ ⚛ ⚛ The Radiation Count is Up Yet Again, America. The Count in Billings, Montana is 2,710 CPM. Can 3,000 CPM Be Far Behind? ⚛ ⚛ ⚛ | 🌎"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-25-oct-3-10"
+slug: "your-radiation-25-oct-3-10"
 path: "waves/radiation-around-the-nation/your-radiation-25-oct-3-10"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-25-oct-3-10.html#main)

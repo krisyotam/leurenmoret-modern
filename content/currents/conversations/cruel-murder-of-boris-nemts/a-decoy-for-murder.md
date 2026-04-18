@@ -2,7 +2,7 @@
 title: "A Decoy For Murder"
 description: "\"Your perceptive observations that virtually PROVES you are right and that Anna Duritskaya was a “decoy” and definitely knows who actually killed her boyfriend.\""
 section: "currents"
-slug: "conversations/cruel-murder-of-boris-nemts/a-decoy-for-murder"
+slug: "a-decoy-for-murder"
 path: "currents/conversations/cruel-murder-of-boris-nemts/a-decoy-for-murder"
 sidebar: |
   ### Sidebar[[Skip]](a-decoy-for-murder.html#main)

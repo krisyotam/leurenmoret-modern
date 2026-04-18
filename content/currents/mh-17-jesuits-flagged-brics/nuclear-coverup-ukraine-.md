@@ -2,7 +2,7 @@
 title: "Nuclear Coverup Ukraine | Mines of Zholti Vody"
 description: "🔴 Because the Ukrainian Government Wanted to Punish Miners Striking for Non-Payment of Wages, and Penalize the Mine; the Ukraine Government cut off Electricity to the New Mine in Zholti Vody, Disabling Removal of Seeping Water, that Averted its Radioactive Contamination 💀"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/nuclear-coverup-ukraine-"
+slug: "nuclear-coverup-ukraine-"
 path: "currents/mh-17-jesuits-flagged-brics/nuclear-coverup-ukraine-"
 sidebar: |
   ### Sidebar[[Skip]](nuclear-coverup-ukraine-.html#main)

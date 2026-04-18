@@ -2,7 +2,7 @@
 title: "Minsk 101 | Theatre of the Absurd"
 description: "\"Everyone is talking saying that it is necessary to fulfill the Minsk agreements before we can revisit the issue of sanctions\", - said the President of the Russian Federation."
 section: "currents"
-slug: "russia-is-coming/minsk101-theatre-of-absurd"
+slug: "minsk101-theatre-of-absurd"
 path: "currents/russia-is-coming/minsk101-theatre-of-absurd"
 sidebar: |
   ### Sidebar[[Skip]](minsk101-theatre-of-absurd.html#main)

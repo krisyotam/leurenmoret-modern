@@ -2,7 +2,7 @@
 title: "Order OF Skull & Bones"
 description: "💀 America's Secret Establishment 💀 An Introduction to the Order of Skull & Bones 💀 Failure of Official History Times have changed. The weaknesses, inconsistencies and plain untruths in official history have surfaced."
 section: "lifestyle"
-slug: "lmgnc-bookshelf/order-of-skull--bones"
+slug: "order-of-skull--bones"
 path: "lifestyle/lmgnc-bookshelf/order-of-skull--bones"
 sidebar: |
   ### Sidebar[[Skip]](order-of-skull--bones.html#main)

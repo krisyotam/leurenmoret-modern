@@ -2,7 +2,7 @@
 title: "Global Hit Squad"
 description: "☗ Remembering 2015 💣 \"This Is Exactly What The Supporting Powers To The Opposition Want\" ☜ One Violation of International Law Too Many - Underestimating Russia has Cost Washington Dearly 👤"
 section: "currents"
-slug: "jesuitstemplars-origins/global-hit-squad-"
+slug: "global-hit-squad-"
 path: "currents/jesuitstemplars-origins/global-hit-squad-"
 sidebar: |
   ### Sidebar[[Skip]](global-hit-squad-.html#main)

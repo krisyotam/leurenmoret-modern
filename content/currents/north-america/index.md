@@ -2,7 +2,7 @@
 title: "North America"
 description: "NAFTA | JADE HELM | OCCUPY | MKULTRA | COINTELPRO | NATO | GLADIO | PROJECT NORTHWOODS | RAND | WAR DEMOGRAPHICS | NWO | CYBERCOM | USN | HOMELAND SECURITY"
 section: "currents"
-slug: "north-america/index"
+slug: "north-america"
 path: "currents/north-america/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

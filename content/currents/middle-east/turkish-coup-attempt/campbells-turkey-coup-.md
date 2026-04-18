@@ -2,7 +2,7 @@
 title: "Campbell’s Turkey Coup"
 description: "• Four Star US Army General Campbell: BOZO Behind the Failed Coup in Turkey • The Organizer and Financial Distributor of the Coup Attempt Turns Out to be an ISAF ex- US Commander, Investigation Reveals •"
 section: "currents"
-slug: "middle-east/turkish-coup-attempt/campbells-turkey-coup-"
+slug: "campbells-turkey-coup-"
 path: "currents/middle-east/turkish-coup-attempt/campbells-turkey-coup-"
 sidebar: |
   ### Sidebar[[Skip]](campbells-turkey-coup-.html#main)

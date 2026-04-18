@@ -2,7 +2,7 @@
 title: "Your Radiation #32, Nov 21-28, 2015"
 description: "⚛⚛⚛ Colorado Springs is the #1 Radioactive City in America for This Week! Congrats to Colorado Springs as the Most Radioactive City in America for This Week. The United States Air Force Academy is Located Immediately North of Colorado Springs ✈︎✈︎✈︎"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-32-nov-21-28"
+slug: "your-radiation-32-nov-21-28"
 path: "waves/radiation-around-the-nation/your-radiation-32-nov-21-28"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-32-nov-21-28.html#main)

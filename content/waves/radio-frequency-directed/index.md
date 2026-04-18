@@ -2,7 +2,7 @@
 title: "Radio Frequency Directed Energy"
 description: "⚡️H.A.A.R.P. DERIVATIVES⚡️ Radio Frequency Directed Energy 🎯 US Patent 7629918 B2 🎯 An RFDE System Includes an RFDE Transmitter and at Least One RFDE Antenna. The RFDE Transmitter and Antenna Direct High Power Electromagnetic Energy Towards a Target Sufficient to Cause High Energy Damage or Disruption of the Target ⚡️"
 section: "waves"
-slug: "radio-frequency-directed/index"
+slug: "radio-frequency-directed"
 path: "waves/radio-frequency-directed/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

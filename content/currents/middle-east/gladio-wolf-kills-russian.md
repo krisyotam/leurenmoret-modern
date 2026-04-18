@@ -2,7 +2,7 @@
 title: "GLADIO Wolf Kills Russian Pilot ︎"
 description: "💀 You may wonder…what’s that hand gesture they're showing? It’s not a typical snackbar 'index finger wave'. Here is the same gesture in Alpaslan’s photos posted on Twitter ✠"
 section: "currents"
-slug: "middle-east/gladio-wolf-kills-russian"
+slug: "gladio-wolf-kills-russian"
 path: "currents/middle-east/gladio-wolf-kills-russian"
 sidebar: |
   ### Sidebar[[Skip]](gladio-wolf-kills-russian.html#main)

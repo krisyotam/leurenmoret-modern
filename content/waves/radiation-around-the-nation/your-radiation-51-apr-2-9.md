@@ -2,7 +2,7 @@
 title: "Your Radiation #51, Apr 2-9, 2016"
 description: "⚛⚛⚛ Miami is in First Place in the Countdown to the End of Time. Other Cities have the Radioactive “Contagion,” Just Not as Severe,  Even Though the Listed Cities All Exceed 1000 CPM ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-51-apr-2-9"
+slug: "your-radiation-51-apr-2-9"
 path: "waves/radiation-around-the-nation/your-radiation-51-apr-2-9"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-51-apr-2-9.html#main)

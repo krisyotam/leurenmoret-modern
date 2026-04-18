@@ -2,7 +2,7 @@
 title: "Ukraine’s Chernobyl Armor"
 description: "💀 Ukraine is Killing its Soldiers with Chernobyl Armor (💀Video💀) | Not only the Ukrainian regime shows no mercy for the rebellion in Donbass, it also maims those who have risen up in defense of Kiev’s unholy interests. Ukrainian military commanders have dispatched to the ATO area units equipped with radioactively contaminated armored vehicles that had been long mothballed at the Chernobyl nuclear disaster site."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukraines-chernobyl-armor"
+slug: "ukraines-chernobyl-armor"
 path: "currents/mh-17-jesuits-flagged-brics/ukraines-chernobyl-armor"
 sidebar: |
   ### Sidebar[[Skip]](ukraines-chernobyl-armor.html#main)

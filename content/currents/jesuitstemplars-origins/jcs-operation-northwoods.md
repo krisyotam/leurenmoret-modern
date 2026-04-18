@@ -2,7 +2,7 @@
 title: "JCS Operation Northwoods"
 description: "💣 Joint Chiefs of Staff’s 1962 Escalation of Curtis E LeMays, “War on the Civilian Population” 💣 The Northwoods documents were created in 1962 and remained secret until they were declassified in 1997 💣"
 section: "currents"
-slug: "jesuitstemplars-origins/jcs-operation-northwoods"
+slug: "jcs-operation-northwoods"
 path: "currents/jesuitstemplars-origins/jcs-operation-northwoods"
 sidebar: |
   ### Sidebar[[Skip]](jcs-operation-northwoods.html#main)

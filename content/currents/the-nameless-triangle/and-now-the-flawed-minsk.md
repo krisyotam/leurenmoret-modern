@@ -2,7 +2,7 @@
 title: "And Now the Flawed Minsk Agreement"
 description: "☞ An Interview With Former Intelligence Officer Leonid Reshetnikov, “Idea of Minsk Agreements Was Born in Finland,” said the Present Director of the Russian Institute for Strategic Studies (RISI) ☜"
 section: "currents"
-slug: "the-nameless-triangle/and-now-the-flawed-minsk"
+slug: "and-now-the-flawed-minsk"
 path: "currents/the-nameless-triangle/and-now-the-flawed-minsk"
 sidebar: |
   ### Sidebar[[Skip]](and-now-the-flawed-minsk.html#main)

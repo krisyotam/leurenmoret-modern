@@ -2,7 +2,7 @@
 title: "Double Life of Fidel Castro"
 description: "For 17 Years, Juan Reinaldo Sanchez Served as a Bodyguard to Fidel Castro. But when He Became Disillusioned with the Cuban Dictator’s Hypocrisy and Tried to Retire in 1994, Castro had Him Thrown in Prison. Sanchez ade 10 attempts to Escape the Island, Finally Making it to Mexico by Boat, then across the Texas Border in 2008. Now He Reveals All in his Book, “The Double Life of Fidel Castro.”"
 section: "lifestyle"
-slug: "lmgnc-bookshelf/double-life-of-fidel-castro"
+slug: "double-life-of-fidel-castro"
 path: "lifestyle/lmgnc-bookshelf/double-life-of-fidel-castro"
 sidebar: |
   ### Sidebar[[Skip]](double-life-of-fidel-castro.html#main)

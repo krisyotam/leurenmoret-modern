@@ -2,7 +2,7 @@
 title: "Your Radiation #29, Oct 31 - Nov 7, 2015"
 description: "⚛ ⚛ ⚛ A Definitely Un-Familiar Leader Again in the Race for the Most Radioactive Weather in America This Week is Little Rock, Arkansas! Congrats to Little Rock, Arkansas as the Most Radioactive City in America for This Week ⚛ ⚛ ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-29-oct-31--"
+slug: "your-radiation-29-oct-31--"
 path: "waves/radiation-around-the-nation/your-radiation-29-oct-31--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-29-oct-31--.html#main)

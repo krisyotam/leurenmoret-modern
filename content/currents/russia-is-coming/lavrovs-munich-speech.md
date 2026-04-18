@@ -2,7 +2,7 @@
 title: "Lavrov's Munich Speech"
 description: "Remarks and replies to media questions by Russian Minister of Foreign Affairs, Sergey Lavrov, during the discussion at the 51st Munich Conference on Security Policy, Munich, February 7 2015."
 section: "currents"
-slug: "russia-is-coming/lavrovs-munich-speech"
+slug: "lavrovs-munich-speech"
 path: "currents/russia-is-coming/lavrovs-munich-speech"
 sidebar: |
   ### Sidebar[[Skip]](lavrovs-munich-speech.html#main)

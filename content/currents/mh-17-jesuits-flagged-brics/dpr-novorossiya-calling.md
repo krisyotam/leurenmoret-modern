@@ -2,7 +2,7 @@
 title: "DPR! Novorossiya Calling"
 description: "👤 Statement of I. B. Ivanov, Chairman of the Russian General Military Union 👤 The former Deputy Chief of the General Staff of the Armed Forces of the of Donetsk People’s Republic 👤"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/dpr-novorossiya-calling"
+slug: "dpr-novorossiya-calling"
 path: "currents/mh-17-jesuits-flagged-brics/dpr-novorossiya-calling"
 sidebar: |
   ### Sidebar[[Skip]](dpr-novorossiya-calling.html#main)

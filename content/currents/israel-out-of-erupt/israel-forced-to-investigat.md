@@ -2,7 +2,7 @@
 title: "Israel Forced to Investigate"
 description: "The Accused's Friends and Family Allegedly Murdered Three People and Made a Baby an Orphan. This is what These Supposedly Learned Rabbis Have Lost Sight Of. Instead they Focus the Fact that the Suspects are Having their Religious Objects Denied them. You’ll Barely Hear a Whisper About the Murders in these Letters Though, They Wisely Omit from Them any Reference to the Killers themselves and Their Crime. Certainly, If You Spoke To These Rabbis Privately, They Would Have A Thousand Justifications For These Foul Deeds. But they’re Wise Enough to Understand that this Won’t “Sell” Well in Israel Right Now."
 section: "currents"
-slug: "israel-out-of-erupt/israel-forced-to-investigat"
+slug: "israel-forced-to-investigat"
 path: "currents/israel-out-of-erupt/israel-forced-to-investigat"
 sidebar: |
   ### Sidebar[[Skip]](israel-forced-to-investigat.html#main)

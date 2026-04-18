@@ -2,7 +2,7 @@
 title: "Donetsk Nuclear Explosion ️"
 description: "Leuren Moret's Analysis of the Blast That Occurred in Donetsk, Ukraine, on the Night of February 8, 2015"
 section: "currents"
-slug: "donetsk-nuclear-explosion/index"
+slug: "donetsk-nuclear-explosion"
 path: "currents/donetsk-nuclear-explosion/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

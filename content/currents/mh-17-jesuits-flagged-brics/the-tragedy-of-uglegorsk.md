@@ -2,7 +2,7 @@
 title: "The Tragedy of Uglegorsk"
 description: "⏰ The Militia Opened A Humanitarian Corridor For The Residents And Organised The Evacuation. ✠💣 The Ukrainian Side Did Not Want To Let The Civilians Cross Their Front Line ✠💣"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/the-tragedy-of-uglegorsk"
+slug: "the-tragedy-of-uglegorsk"
 path: "currents/mh-17-jesuits-flagged-brics/the-tragedy-of-uglegorsk"
 sidebar: |
   ### Sidebar[[Skip]](the-tragedy-of-uglegorsk.html#main)

@@ -2,7 +2,7 @@
 title: "GHOSTS of the 51st BRIGADE"
 description: "A New \"Maidan\" Awaits Ukraine, With All That Implies. In Volyn, Speakers for the Dead are Mobilizing. Have a Care, Ukraine; Your Location Makes You A Rich Prize."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ghosts-of-the-51st-brigade"
+slug: "ghosts-of-the-51st-brigade"
 path: "currents/mh-17-jesuits-flagged-brics/ghosts-of-the-51st-brigade"
 sidebar: |
   ### Sidebar[[Skip]](ghosts-of-the-51st-brigade.html#main)

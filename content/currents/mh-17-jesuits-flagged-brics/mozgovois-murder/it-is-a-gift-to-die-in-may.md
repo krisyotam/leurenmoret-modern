@@ -2,7 +2,7 @@
 title: "It Is A Gift To Die In May…"
 description: "It is a gift to die in May— An easy task to dig a grave, And nightingales will sing their song Inimitably, like their last. | Не плохо в мае умереть, Могильщику копать удобно. И соловьи всё будут петь, В последний раз, так бесподобно."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mozgovois-murder/it-is-a-gift-to-die-in-may"
+slug: "it-is-a-gift-to-die-in-may"
 path: "currents/mh-17-jesuits-flagged-brics/mozgovois-murder/it-is-a-gift-to-die-in-may"
 sidebar: |
   ### Sidebar[[Skip]](it-is-a-gift-to-die-in-may.html#main)

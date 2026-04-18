@@ -2,7 +2,7 @@
 title: "CyberBerkut Reports"
 description: "👥 CyberBerkut was part of the Kiev National Government’s security structure 🔪 They were betrayed and attacked at Maidan 💣 Many were killed, many others survived or were elsewhere at that time. They have since evolved into an elite group of hackers actively opposed to the current government in Kiev on constitutional and procedural grounds. Since the start of the conflict in East Ukraine, the group has conducted a series of high-profile hacks. It has previously reported on the details of U.S. plans to send arms to Ukraine, released information revealing the high casualty figures among the Ukrainian army, information about snipers on Maidan Square, and Victoria Nuland's famous \"F**k the EU!\" exchange with US Ambassador Geoffrey Pyatt."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/cyberberkut-reports/index"
+slug: "cyberberkut-reports"
 path: "currents/mh-17-jesuits-flagged-brics/cyberberkut-reports/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

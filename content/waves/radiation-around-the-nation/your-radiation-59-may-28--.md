@@ -2,7 +2,7 @@
 title: "Your Radiation #59, May 28 - June 4, 2016"
 description: "What is Killing the Bees is Pretty Simple, Really. It’s the Rad that is Everywhere on Land, Sea and Air and Will Be for Millions of Years. Result, Is No More Bees"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-59-may-28--"
+slug: "your-radiation-59-may-28--"
 path: "waves/radiation-around-the-nation/your-radiation-59-may-28--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-59-may-28--.html#main)

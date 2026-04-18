@@ -2,7 +2,7 @@
 title: "Gas to Ukraine Blocked"
 description: "🎱 At 17:55 (Moscow Time), The Ukrainian Operator Of The Gas Transportation System (Gts), Ukrtransgaz, Received An Email From The Hungarian Gts Operator, Fgsz, About Gas Supply Termination Starting From 19:00 Due To Technical Reasons \"Until Further Notice\" 🎱"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/gas-to-ukraine-blocked"
+slug: "gas-to-ukraine-blocked"
 path: "currents/mh-17-jesuits-flagged-brics/gas-to-ukraine-blocked"
 sidebar: |
   ### Sidebar[[Skip]](gas-to-ukraine-blocked.html#main)

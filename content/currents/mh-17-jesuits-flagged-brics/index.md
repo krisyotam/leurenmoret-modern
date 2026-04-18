@@ -2,7 +2,7 @@
 title: "︎ Ukraine, MH-17, Jesuits Flagged! BRICS Undermined?"
 description: "✈︎ MH17 Has Grown Into the Ukraine Section 🌍 MH17, NATO, NWO; Jesuit Minuet, Levering Ukraine to Disassemble Modern Europe and the Balkans."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/index"
+slug: "mh-17-jesuits-flagged-brics"
 path: "currents/mh-17-jesuits-flagged-brics/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

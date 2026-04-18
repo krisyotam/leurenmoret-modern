@@ -2,7 +2,7 @@
 title: "Your Radiation #39, Jan 9-16, 2016"
 description: "🔴 Los Angeles Chemical and Nuclear Disaster 🔴 Snowflakes and Radiation 🔴 Emergency Shutdown of Russian Reactor 🔴 Help Fight the FaceBook Thought Police 🔴 LM:GNC 🌎"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-39-jan-9-16"
+slug: "your-radiation-39-jan-9-16"
 path: "waves/radiation-around-the-nation/your-radiation-39-jan-9-16"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-39-jan-9-16.html#main)

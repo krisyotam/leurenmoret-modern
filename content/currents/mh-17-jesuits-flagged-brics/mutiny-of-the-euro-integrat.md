@@ -2,7 +2,7 @@
 title: "Mutiny of the Euro-Integrators"
 description: "$$$ \"The Aim, Of The Unfolding Events\" 🌍🌏 \"Is An Internal Slavic War, The Final Solution To The Russian Question.” 🌍🌏"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/mutiny-of-the-euro-integrat"
+slug: "mutiny-of-the-euro-integrat"
 path: "currents/mh-17-jesuits-flagged-brics/mutiny-of-the-euro-integrat"
 sidebar: |
   ### Sidebar[[Skip]](mutiny-of-the-euro-integrat.html#main)

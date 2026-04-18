@@ -2,7 +2,7 @@
 title: "Who Created ISIS"
 description: "🎯 Putin Tells Everyone Exactly Who Created ISIS ☚ Do You Really Not Understand as to Who is Fighting in Syria? 🎯"
 section: "currents"
-slug: "russia-is-coming/who-created-isis/index"
+slug: "who-created-isis"
 path: "currents/russia-is-coming/who-created-isis/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation #58, May 21-28, 2016"
 description: "⚛⚛⚛ New Measurement is Spooky ⚛⚛⚛ All Rad All the Time ⚛⚛⚛ Four Recorded Cities were Over 1,000 CPM All Week Long, One Thousand CPM Plus, 24/7, All Week Long, 100% of the Time ⚛⚛⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-58-may-21-28"
+slug: "your-radiation-58-may-21-28"
 path: "waves/radiation-around-the-nation/your-radiation-58-may-21-28"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-58-may-21-28.html#main)

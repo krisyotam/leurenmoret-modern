@@ -2,7 +2,7 @@
 title: "SOROS NWO Hacked"
 description: "The Bulk of George Soros' Documents Hacked and Published on DC Leaks Website Shed Light on the Magnates' Meddling Into Ukrainian Affairs and Shaping of Public Opinion in Western Europe Regarding the February Coup of 2014 in Kiev Through a Series of Projects and Media Campaigns."
 section: "currents"
-slug: "jesuitstemplars-origins/soros-nwo-hacked"
+slug: "soros-nwo-hacked"
 path: "currents/jesuitstemplars-origins/soros-nwo-hacked"
 sidebar: |
   ### Sidebar[[Skip]](soros-nwo-hacked.html#main)

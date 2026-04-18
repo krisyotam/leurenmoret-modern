@@ -2,7 +2,7 @@
 title: "Juncker | E.U. | Direction ⤣"
 description: "Answering the Question “What is He Like as a Politician?” is Quite Difficult, But I Will Try to Show Him from the Point of View Which the European and American Press Don’t See"
 section: "currents"
-slug: "middle-east/juncker-eu-direction"
+slug: "juncker-eu-direction"
 path: "currents/middle-east/juncker-eu-direction"
 sidebar: |
   ### Sidebar[[Skip]](juncker-eu-direction.html#main)

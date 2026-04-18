@@ -2,7 +2,7 @@
 title: "The Ukrainian Failed State"
 description: ". . . Poroshenko was the candidate which the US, EU, and Russia could agree to.  That Russia did not recognize the elections in Novorossiya the way they had with Crimea was their 'proof' that they were on board with the Poroshenko compromise."
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/the-ukrainian-failed-state"
+slug: "the-ukrainian-failed-state"
 path: "currents/mh-17-jesuits-flagged-brics/the-ukrainian-failed-state"
 sidebar: |
   ### Sidebar[[Skip]](the-ukrainian-failed-state.html#main)

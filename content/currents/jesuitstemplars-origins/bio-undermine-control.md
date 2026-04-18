@@ -2,7 +2,7 @@
 title: "🇺🇸 Bio: Undermine Control"
 description: "✠ Geoffrey R. Pyatt Field Marshal Of Euromaidan 💣 Geoffrey Pyatt, Ambassador to Ukraine, in Conjunction with Undersecretary Nuland in D.C. Shaped Maidan and Brokered the Events that Led to the Overthrow of the Elected Democratic Government of Victor Yanukavich 🇺🇸"
 section: "currents"
-slug: "jesuitstemplars-origins/bio-undermine-control"
+slug: "bio-undermine-control"
 path: "currents/jesuitstemplars-origins/bio-undermine-control"
 sidebar: |
   ### Sidebar[[Skip]](bio-undermine-control.html#main)

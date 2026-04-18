@@ -2,7 +2,7 @@
 title: "Palladium's All-Time High"
 description: "Palladium: A Key Component in 4th Generation Nuclear Weapons ⚛ Neutron Bombs ⚛ Pulsed Neutron Generators ⚛ When I was in Canada I met two (CIA) guys who were working over the slag at a 150 year old smelter."
 section: "currents"
-slug: "conversations/palladiums-all-time-high"
+slug: "palladiums-all-time-high"
 path: "currents/conversations/palladiums-all-time-high"
 sidebar: |
   ### Sidebar[[Skip]](palladiums-all-time-high.html#main)

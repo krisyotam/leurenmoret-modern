@@ -2,7 +2,7 @@
 title: "⏰ Ukraine? Bail Out! ️"
 description: "⏰ Confirmed: Amidst sharpening crisis, Poroshenko and co. have left Ukraine 🔥 Everything is getting hotter in Ukraine. Alexander Turchynov is speaking of martial law. Pavel Sheremet was murdered in Kiev 💸"
 section: "currents"
-slug: "mh-17-jesuits-flagged-brics/ukraine-bail-out/index"
+slug: "ukraine-bail-out"
 path: "currents/mh-17-jesuits-flagged-brics/ukraine-bail-out/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

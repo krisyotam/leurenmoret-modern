@@ -2,7 +2,7 @@
 title: "Your Radiation #61, June 11-18, 2016"
 description: "⚛⚛⚛ Three recorded cities were over 1,000 CPM all week long in America; One Thousand CPM Plus, 24/7, 100% of the time and no relief 💀 The Rad hit these cities hard: Colorado Springs, CO; Raleigh, NC and Little Rock, AR. All were over 1,000 CPM up to Six (6) weeks straight ⚛"
 section: "waves"
-slug: "radiation-around-the-nation/your-radiation-61-june-11"
+slug: "your-radiation-61-june-11"
 path: "waves/radiation-around-the-nation/your-radiation-61-june-11"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-61-june-11.html#main)

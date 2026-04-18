@@ -2,7 +2,7 @@
 title: "Africa"
 description: "🔮 Then: \"The Dark Continent\" 💀 Now: \"MENA\" (Middle East North Africa): Arena for CENTCOM Eugenics ⚛💉🔥 Meditteranean Geopolitics? Politics of Empire - Southern Africa? 💀"
 section: "currents"
-slug: "africa/index"
+slug: "africa"
 path: "currents/africa/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

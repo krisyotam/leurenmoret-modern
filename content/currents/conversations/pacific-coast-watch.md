@@ -2,7 +2,7 @@
 title: "Pacific Coast Watch"
 description: "Pacific Coast: Pismo Beach to San Francisco, Update from Kevin Blanch, Intel from Rangers and Kayak Shop Owner. Video Coming Soon . . ."
 section: "currents"
-slug: "conversations/pacific-coast-watch"
+slug: "pacific-coast-watch"
 path: "currents/conversations/pacific-coast-watch"
 sidebar: |
   ### Sidebar[[Skip]](pacific-coast-watch.html#main)
