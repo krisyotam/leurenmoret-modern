@@ -1,0 +1,62 @@
+.sidebar {
+  width: var(--sidebar-w);
+  flex-shrink: 0;
+  background: var(--bg-sidebar);
+  border-left: 1px solid var(--border);
+  padding: 1.5rem 1.25rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  align-self: flex-start;
+  position: sticky;
+  top: calc(var(--nav-h) + 1rem);
+  max-height: calc(100vh - var(--nav-h) - 2rem);
+  overflow-y: auto;
+}
+
+.content {
+  color: var(--text-muted);
+}
+
+.content a {
+  color: var(--accent);
+  word-break: break-word;
+}
+
+.content a:hover {
+  color: var(--link-hover);
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  margin: 0.5rem 0;
+}
+
+.content p {
+  margin: 0 0 0.75em;
+}
+
+.content h2,
+.content h3,
+.content h4 {
+  font-size: 0.9rem;
+  margin: 1em 0 0.4em;
+  color: var(--accent);
+}
+
+/* Sandvox widget elements */
+.content :global(.sidebarBlock) {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.content :global(.sidebarBlock:last-child) {
+  border-bottom: none;
+}
+
+@media (max-width: 900px) {
+  .sidebar {
+    display: none;
+  }
+}

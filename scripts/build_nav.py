@@ -1,0 +1,175 @@
+#!/usr/bin/env python3
+"""
+Build nav-data.ts from index.html nav tree.
+Run: python3 scripts/build_nav.py
+Output: src/lib/nav-data.ts
+"""
+import re
+import json
+from pathlib import Path
+from html.parser import HTMLParser
+
+SOURCE_HTML = Path.home() / "dev" / "leurenmoret" / "index.html"
+OUTPUT_TS   = Path(__file__).parent.parent / "src" / "lib" / "nav-data.ts"
+
+
+class NavParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        # Whether we are inside #sitemenu-content
+        self._in_nav = False
+        self._nav_depth = 0
+        # Stack of lists (for nesting)
+        self._stack: list[list] = []
+        self._current: list = []
+        self._root: list = []
+        # Current list item state
+        self._in_li = False
+        self._pending: dict | None = None
+        self._capture_span = False
+        self._span_buf: list[str] = []
+
+    def handle_starttag(self, tag, attrs):
+        attr = dict(attrs)
+
+        # Detect entry into #sitemenu-content
+        if not self._in_nav:
+            if tag == "div" and attr.get("id") == "sitemenu-content":
+                self._in_nav = True
+                self._nav_depth = 1
+            return
+
+        if tag == "div":
+            self._nav_depth += 1
+            return
+
+        if tag == "ul":
+            self._stack.append(self._current)
+            if self._pending is not None:
+                children: list = []
+                self._pending["children"] = children
+                self._current = children
+            else:
+                self._current = []
+                if not self._root:
+                    self._root = self._current
+
+        elif tag == "li":
+            self._in_li = True
+            self._pending = None
+
+        elif tag == "a" and self._in_li:
+            href = attr.get("href", "")
+            # Normalize href to absolute path
+            if href and not href.startswith("http"):
+                href = "/" + href.lstrip("./")
+                href = href.replace(".html", "")
+                if href.endswith("/index"):
+                    href = href[: -len("/index")] or "/"
+                if not href:
+                    href = "/"
+            self._pending = {"href": href, "label": ""}
+            self._current.append(self._pending)
+
+        elif tag == "span" and attr.get("class") == "in":
+            self._capture_span = True
+            self._span_buf = []
+
+    def handle_endtag(self, tag):
+        if not self._in_nav:
+            return
+
+        if tag == "div":
+            self._nav_depth -= 1
+            if self._nav_depth == 0:
+                self._in_nav = False
+            return
+
+        if tag == "ul":
+            if self._stack:
+                self._current = self._stack.pop()
+
+        elif tag == "li":
+            self._in_li = False
+            self._pending = None
+
+        elif tag == "span":
+            if self._capture_span:
+                label = "".join(self._span_buf).strip()
+                if self._pending is not None:
+                    self._pending["label"] = label
+                else:
+                    # currentPage span with no <a>
+                    self._current.append({"href": None, "label": label, "current": True})
+            self._capture_span = False
+
+    def handle_data(self, data):
+        if self._capture_span:
+            self._span_buf.append(data)
+
+
+def prune(items: list) -> list:
+    """Clean items: remove empty children, drop items with no label."""
+    result = []
+    for item in items:
+        if not item.get("label"):
+            continue
+        clean: dict = {"href": item.get("href"), "label": item["label"]}
+        if item.get("current"):
+            clean["current"] = True
+        children = item.get("children", [])
+        if children:
+            clean["children"] = prune(children)
+        result.append(clean)
+    return result
+
+
+def items_to_ts(items: list, indent: int = 2) -> str:
+    pad = " " * indent
+    inner_pad = " " * (indent + 2)
+    lines = ["["]
+    for i, item in enumerate(items):
+        comma = "," if i < len(items) - 1 else ""
+        href = f'"{item["href"]}"' if item.get("href") else "null"
+        label = item["label"].replace("\\", "\\\\").replace('"', '\\"')
+        children = item.get("children", [])
+        if children:
+            child_ts = items_to_ts(children, indent + 4)
+            lines.append(f'{inner_pad}{{ href: {href}, label: "{label}", children: {child_ts} }}{comma}')
+        elif item.get("current"):
+            lines.append(f'{inner_pad}{{ href: {href}, label: "{label}", current: true }}{comma}')
+        else:
+            lines.append(f'{inner_pad}{{ href: {href}, label: "{label}" }}{comma}')
+    lines.append(f"{pad}]")
+    return "\n".join(lines)
+
+
+def main():
+    text = SOURCE_HTML.read_text(encoding="utf-8", errors="replace")
+    parser = NavParser()
+    parser.feed(text)
+    root = prune(parser._root)
+
+    ts_items = items_to_ts(root)
+
+    ts = f"""// Auto-generated by scripts/build_nav.py — do not edit by hand.
+// Source: ~/dev/leurenmoret/index.html nav tree.
+
+export interface NavItem {{
+  href: string | null
+  label: string
+  children?: NavItem[]
+  current?: boolean
+}}
+
+export const NAV_ITEMS: NavItem[] = {ts_items}
+"""
+
+    OUTPUT_TS.parent.mkdir(parents=True, exist_ok=True)
+    OUTPUT_TS.write_text(ts, encoding="utf-8")
+    print(f"Written: {OUTPUT_TS}")
+    print(f"Top-level items: {len(root)}")
+
+
+if __name__ == "__main__":
+    main()

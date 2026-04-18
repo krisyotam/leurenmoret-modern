@@ -1,0 +1,137 @@
+.nav {
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border-nav);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.topList {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 0;
+  flex-wrap: wrap;
+}
+
+/* ---- Top-level items ---- */
+.topItem {
+  position: relative;
+}
+
+.topLink {
+  display: block;
+  padding: 0.65rem 1rem;
+  color: var(--text-nav);
+  text-decoration: none;
+  font-family: system-ui, 'Helvetica Neue', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.topLink:hover {
+  background: var(--bg-nav-hover);
+  color: #fff;
+  border-bottom-color: #c8a96e;
+}
+
+.topLinkActive {
+  border-bottom-color: #c8a96e;
+  color: #fff;
+}
+
+.topLinkCurrent {
+  display: block;
+  padding: 0.65rem 1rem;
+  color: #c8a96e;
+  font-family: system-ui, 'Helvetica Neue', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: default;
+  border-bottom: 2px solid #c8a96e;
+}
+
+/* ---- Dropdown menu ---- */
+.dropMenu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 280px;
+  max-width: 380px;
+  background: var(--bg-nav-drop);
+  border: 1px solid var(--border-nav);
+  border-top: none;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+  max-height: 70vh;
+  overflow-y: auto;
+}
+
+.dropLink {
+  display: block;
+  padding: 0.4rem 1rem;
+  color: var(--text-nav);
+  text-decoration: none;
+  font-family: system-ui, 'Helvetica Neue', sans-serif;
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: background 0.1s;
+}
+
+.dropLink:hover {
+  background: var(--bg-nav-hover);
+  color: #fff;
+}
+
+.dropLinkActive {
+  color: #c8a96e;
+}
+
+.dropLinkCurrent {
+  color: #c8a96e;
+  cursor: default;
+}
+
+/* Sub-submenu */
+.hasSubmenu {
+  position: relative;
+}
+
+.subMenu {
+  position: static;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background: rgba(0,0,0,0.15);
+  border-top: 1px solid rgba(255,255,255,0.05);
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.subMenu .dropLink {
+  font-size: 0.75rem;
+  padding-left: 1.75rem;
+}
+
+@media (max-width: 768px) {
+  .topList {
+    overflow-x: auto;
+  }
+  .topLink, .topLinkCurrent {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.78rem;
+  }
+}

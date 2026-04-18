@@ -1,0 +1,62 @@
+.header {
+  background: var(--accent);
+  border-bottom: 2px solid var(--border-nav);
+  padding: 1rem 0;
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.logoLink {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  text-decoration: none;
+  color: var(--text-nav);
+}
+
+.logoLink:hover {
+  color: #fff;
+}
+
+.atom {
+  font-size: 2rem;
+  line-height: 1;
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+
+.titles {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  flex: 1;
+}
+
+.siteName {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+}
+
+.tagline {
+  font-size: 0.8rem;
+  opacity: 0.75;
+  font-style: italic;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+}
+
+@media (max-width: 640px) {
+  .atom {
+    display: none;
+  }
+  .siteName {
+    font-size: 1.05rem;
+  }
+}

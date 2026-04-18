@@ -1,0 +1,125 @@
+.article {
+  min-width: 0;
+  flex: 1;
+  padding: 2rem 2.5rem 3rem;
+  max-width: calc(var(--max-content) + 5rem);
+}
+
+.title {
+  font-family: 'Lora', Georgia, serif;
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1.25;
+  margin: 0 0 1.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Article body — preserve and style original HTML content */
+.body {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: var(--text);
+}
+
+.body p {
+  margin: 0 0 1.1em;
+}
+
+.body h2 {
+  font-size: 1.3rem;
+  margin-top: 2em;
+}
+
+.body h3 {
+  font-size: 1.1rem;
+  margin-top: 1.75em;
+}
+
+.body ul, .body ol {
+  padding-left: 1.75em;
+  margin: 0 0 1em;
+}
+
+.body li {
+  margin-bottom: 0.4em;
+}
+
+.body blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 1.5em 0;
+  padding: 0.5em 1.5em;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.25em auto;
+}
+
+.body iframe {
+  max-width: 100%;
+  display: block;
+  margin: 1.25em auto;
+  border: none;
+}
+
+.body a {
+  color: var(--link);
+  word-break: break-word;
+}
+
+.body a:hover {
+  color: var(--link-hover);
+}
+
+.body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25em 0;
+  font-size: 0.9rem;
+}
+
+.body th, .body td {
+  padding: 0.5em 0.75em;
+  border: 1px solid var(--border);
+}
+
+.body th {
+  background: var(--bg-sidebar);
+  font-weight: 700;
+}
+
+/* Sandvox-specific elements */
+.body :global(.graphic-container) {
+  text-align: center;
+  margin: 1.25em 0;
+}
+
+.body :global(.YouTubeElement),
+.body :global(.video) {
+  text-align: center;
+  margin: 1.25em auto;
+}
+
+/* Hide broken noscript / data-img-src spans (JS-lazy images from Sandvox) */
+.body :global(span[data-img-src]) {
+  display: inline-block;
+}
+
+.body :global(span[data-img-src] noscript) {
+  display: contents;
+}
+
+@media (max-width: 768px) {
+  .article {
+    padding: 1.25rem 1rem 2rem;
+  }
+  .title {
+    font-size: 1.3rem;
+  }
+}
