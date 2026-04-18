@@ -20,11 +20,9 @@ Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the
 
 ---
 
-## Laurens L. Battis III — Publisher & Editor
+## Laurens L. Battis III — Original Publisher & Editor
 
-Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He publishes and edits this website on behalf of Leuren Moret.
-
-**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
+Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
 
 ---
 
@@ -38,7 +36,7 @@ If you have any information about Leuren's current status or means of contact, p
 
 ## The Archiver
 
-This site is maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
+This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
 
 **Contact the archiver:** [krisyotam.com](https://krisyotam.com)
 
