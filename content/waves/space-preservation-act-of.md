@@ -1,304 +1,46 @@
 ---
-title: "Space Preservation Act of 2001"
-description: "To preserve the cooperative, peaceful uses of space for the benefit of all humankind by permanently prohibiting the basing of weapons in space by the United States, and to require the President to take action to adopt and implement a world treaty banning space-based weapons."
-section: "waves"
-slug: "space-preservation-act-of"
-path: "waves/space-preservation-act-of"
+title: "Contact"
+description: "Contact information for Leuren Moret, Laurens Battis, and the LMGNC archive."
+section: "home"
+slug: "contact"
+path: "contact"
+sidebar: |
+  #### Contact LM:GNC
+
+  All submissions to this website become the property of LMGNC, to be used at our sole discretion.
 ---
 
-⚛ ⚛ ⚛
+## Leuren Moret
 
-  
+Leuren Moret (BS, MS, PhD ABD) is an internationally recognized geoscientist and specialist on the environmental and biological effects of ionizing radiation. She worked as a staff scientist at Lawrence Livermore National Laboratory and has testified before the U.S. Congress, the Japanese Parliament, and international bodies on the effects of depleted uranium and nuclear contamination.
 
+**Email:** [contact@leurenmoret.info](mailto:contact@leurenmoret.info)
 
-Written by Alfred Lambremont Webre
+Leuren has appeared extensively on Alfred Lambremont Webre's Exopolitics TV, the Rense Radio Network, Press TV, and RT (Russia Today). Her interviews and lectures have been archived across numerous independent media platforms.
 
-Introduced in Congress by Dennis Kucinich
+---
 
-  
+## Laurens L. Battis III — Original Publisher & Editor
 
+Laurens Battis is a TV, film, audio, and computer engineer and entrepreneur with a prior career in journalism. He was the publisher and editor of the original leurenmoret.info, maintaining it on behalf of Leuren Moret.
 
-Space Preservation Act of 2001
+---
 
-107th Congress (2001-2002)
+## A Note on Leuren's Whereabouts
 
-H.R.2977.IH
+Leuren Moret has not had a publicly confirmed presence since approximately 2016. Her website went offline and she has not appeared in new interviews or public forums since that time. Her current whereabouts are unknown to this archive.
 
-  
+If you have any information about Leuren's current status or means of contact, please reach out to the archiver below.
 
+---
 
-H.R.2977 -- Space Preservation Act of 2001 (Introduced in House - IH)
+## The Archiver
 
-  
+This modern rendition is solely maintained by [Kris Yotam](https://krisyotam.com) as an independent preservation effort. The original leurenmoret.info went offline and this archive exists to keep her research and testimony accessible.
 
+**Contact the archiver:** [krisyotam.com](https://krisyotam.com)
 
-HR 2977 IH
+The source mirror and site code are both open and available on GitHub:
 
-107th CONGRESS
-
-1st Session
-
-  
-
-
-H. R. 2977
-
-  
-
-
-To preserve the cooperative, peaceful uses of space for the benefit of all humankind by permanently prohibiting the basing of weapons in space by the United States, and to require the President to take action to adopt and implement a world treaty banning space-based weapons.
-
-  
-
-
-IN THE HOUSE OF REPRESENTATIVES
-
-  
-
-
-October 2, 2001
-
-  
-
-
-Mr. KUCINICH introduced the following bill; which was referred to the Committee on Science, and in addition to the Committees on Armed Services, and International Relations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned
-
-  
-
-
-A BILL
-
-  
-
-
-To preserve the cooperative, peaceful uses of space for the benefit of all humankind by permanently prohibiting the basing of weapons in space by the United States, and to require the President to take action to adopt and implement a world treaty banning space-based weapons.
-
-Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
-
-  
-
-
-SECTION 1. SHORT TITLE.
-
-  
-
-
-This Act may be cited as the `Space Preservation Act of 2001'.
-
-  
-
-
-SEC. 2. REAFFIRMATION OF POLICY ON THE PRESERVATION OF PEACE IN SPACE.
-
-  
-
-
-Congress reaffirms the policy expressed in section 102(a) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2451(a)), stating that it `is the policy of the United States that activities in space should be devoted to peaceful purposes for the benefit of all mankind.'.
-
-  
-
-
-SEC. 3. PERMANENT BAN ON BASING OF WEAPONS IN SPACE.
-
-  
-
-
-The President shall--
-
-  
-
-
-(1) implement a permanent ban on space-based weapons of the United States and remove from space any existing space-based weapons of the United States; and
-
-  
-
-
-(2) immediately order the permanent termination of research and development, testing, manufacturing, production, and deployment of all space-based weapons of the United States and their components.
-
-  
-
-
-SEC. 4. WORLD AGREEMENT BANNING SPACE-BASED WEAPONS.
-
-  
-
-
-The President shall direct the United States representatives to the United Nations and other international organizations to immediately work toward negotiating, adopting, and implementing a world agreement banning space-based weapons.
-
-  
-
-
-SEC. 5. REPORT.
-
-  
-
-
-The President shall submit to Congress not later than 90 days after the date of the enactment of this Act, and every 90 days thereafter, a report on--
-
-  
-
-
-(1) the implementation of the permanent ban on space-based weapons required by section 3; and
-
-  
-
-
-(2) progress toward negotiating, adopting, and implementing the agreement described in section 4.
-
-  
-
-
-SEC. 6. NON SPACE-BASED WEAPONS ACTIVITIES.
-
-  
-
-
-Nothing in this Act may be construed as prohibiting the use of funds for--
-
-  
-
-
-(1) space exploration;
-
-  
-
-
-(2) space research and development;
-
-  
-
-
-(3) testing, manufacturing, or production that is not related to space-based weapons or systems; or
-
-  
-
-
-(4) civil, commercial, or defense activities (including communications, navigation, surveillance, reconnaissance, early warning, or remote sensing) that are not related to space-based weapons or systems.
-
-  
-
-
-SEC. 7. DEFINITIONS.
-
-  
-
-
-In this Act:
-
-  
-
-
-(1) The term `space' means all space extending upward from an altitude greater than 60 kilometers above the surface of the earth and any celestial body in such space.
-
-  
-
-
-(2)(A) The terms `weapon' and `weapons system' mean a device capable of any of the following:
-
-  
-
-
-(i) Damaging or destroying an object (whether in outer space, in the atmosphere, or on earth) by--
-
-  
-
-
-(I) firing one or more projectiles to collide with that object;
-
-  
-
-
-(II) detonating one or more explosive devices in close proximity to that object;
-
-  
-
-
-(III) directing a source of energy (including molecular or atomic energy, subatomic particle beams, electromagnetic radiation, plasma, or extremely low frequency (ELF) or ultra low frequency (ULF) energy radiation) against that object; or
-
-  
-
-
-(IV) any other unacknowledged or as yet undeveloped means.
-
-  
-
-
-(ii) Inflicting death or injury on, or damaging or destroying, a person (or the biological life, bodily health, mental health, or physical and economic well-being of a person)--
-
-  
-
-
-(I) through the use of any of the means described in clause (i) or subparagraph (B);
-
-  
-
-
-(II) through the use of land-based, sea-based, or space-based systems using radiation, electromagnetic, psychotronic, sonic, laser, or other energies directed at individual persons or targeted populations for the purpose of information war, mood management, or mind control of such persons or populations; or
-
-  
-
-
-(III) by expelling chemical or biological agents in the vicinity of a person.
-
-  
-
-
-(B) Such terms include exotic weapons systems such as--
-
-  
-
-
-(i) electronic, psychotronic, or information weapons;
-
-  
-
-
-(ii) chemtrails;
-
-  
-
-
-(iii) high altitude ultra low frequency weapons systems;
-
-  
-
-
-(iv) plasma, electromagnetic, sonic, or ultrasonic weapons;
-
-  
-
-
-(v) laser weapons systems;
-
-  
-
-
-(vi) strategic, theater, tactical, or extraterrestrial weapons; and
-
-  
-
-
-(vii) chemical, biological, environmental, climate, or tectonic weapons.
-
-  
-
-
-(C) The term `exotic weapons systems' includes weapons designed to damage space or natural ecosystems (such as the ionosphere and upper atmosphere) or climate, weather, and tectonic systems with the purpose of inducing damage or destruction upon a target population or region on earth or in space.
-
-  
-
-
-  
-
-
-![23, Brn Ink, 18pt, h, Atom Spins](../assets/images/23-brn-ink-18pt-h-atom_med_hr.png)
-
-⚛
-
-⚛  
-
-
-⚛  
-
-
-Visitors to LM:GNC
+- Mirror: [github.com/krisyotam/leurenmoret](https://github.com/krisyotam/leurenmoret)
+- Modern site: [github.com/krisyotam/leurenmoret-modern](https://github.com/krisyotam/leurenmoret-modern)

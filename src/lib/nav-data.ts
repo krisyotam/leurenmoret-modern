@@ -178,7 +178,7 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/fukushima-polar-vortex", label: "❁ Fukushima Polar Vortex Radiation ❁" },
         { href: "/embrace-enfold-extinguish", label: "💀 Embrace, Enfold, Extinguish" },
         { href: "/fear-of-flying-1of4", label: "✈︎ Fear of Flying . . . (1of4)", children: [
-            { href: null, label: "✈︎ Fear of Flying . . . 2of4" },
+            { href: "/fear-of-flying-2of4", label: "✈︎ Fear of Flying . . . 2of4" },
             { href: "/fear-of-flying-3", label: "✈︎ Fear of Flying 3" },
             { href: "/fear-of-flying-4", label: "✈︎ Fear of Flying 4" }
           ] },
@@ -194,8 +194,8 @@ export const NAV_ITEMS: NavItem[] = [
         { href: "/fukushima-reactors-breakdow", label: "⚛ Fukushima Reactors, Breakdown 1-6 ⚛" },
         { href: "/international-sites-featuri", label: "🌏 International Sites Featuring LM:GNC" },
         { href: "/on-to-mongolia", label: "❁ On To Mongolia 🎥" },
-        { href: null, label: "🎥 LKM On Fairdinkum Media 🎥", children: [
-            { href: null, label: "✠ The Jesuits in Geopolitics" }
+        { href: "/on-fairdinkum-media", label: "🎥 LKM On Fairdinkum Media 🎥", children: [
+            { href: "/the-jesuits-in-geopolitics", label: "✠ The Jesuits in Geopolitics" }
           ] },
         { href: "/editorial-page", label: "❁ Editorial Page", children: [
             { href: "/april-fooles-2016", label: "🎉April Fooles! 2016 🙊" },
