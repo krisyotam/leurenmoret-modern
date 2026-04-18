@@ -2,7 +2,7 @@
 title: "Location, Leuren Moret: Global Nuclear Coverup"
 description: "♻️ ../index.html ♻️ G+ : https://plus.google.com/114494411737393398002/ ♻️ https://www.youtube.com/channel/UCMurqHwMgfs_DxMH_DgjkIw ♻️"
 section: "archive"
-slug: "location-leuren-moret-globa"
+slug: "location-globa"
 path: "archive/location-leuren-moret-globa"
 ---
 

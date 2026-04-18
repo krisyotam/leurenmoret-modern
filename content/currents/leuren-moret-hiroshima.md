@@ -2,7 +2,7 @@
 title: "Leuren Moret: Hiroshima, Nagasaki, Fukushima"
 description: "👺 Nuclear Kabuki Theater, Depopulation, Ritual Minuet 👹 Leuren Moret, Interviewed by Alfred Lambremont Webre, August 7, 2015 👹 Hiroshima, August 6, 1945 👺 Nagasaki, August 9, 1945 👹 Fukushima, 3/11/11 👺 Templates for Diosaster 💀"
 section: "currents"
-slug: "leuren-moret-hiroshima"
+slug: "hiroshima"
 path: "currents/leuren-moret-hiroshima"
 sidebar: |
   ### Sidebar[[Skip]](leuren-moret-hiroshima.html#main)

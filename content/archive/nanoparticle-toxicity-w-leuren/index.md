@@ -2,7 +2,7 @@
 title: "Nanoparticle Toxicity with Leuren Moret"
 description: "📻 Parker’s Pathways 📻 \"The Hidden Purpose For Using DU” 💀 Food, Water And Medical Protocols 💉 February 3, 2007 Dr. Winn Parker Interview with Leuren Moret ❦"
 section: "archive"
-slug: "nanoparticle-toxicity-w-leuren"
+slug: "nanoparticle-toxicity"
 path: "archive/nanoparticle-toxicity-w-leuren/index"
 sidebar: |
   ### Sidebar[[Skip]](index.html#main)

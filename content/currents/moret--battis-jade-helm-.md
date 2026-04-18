@@ -2,7 +2,7 @@
 title: "Moret & Battis: Jade Helm"
 description: "❁ JCS Operation Northwoods / Jade Helm ❁ Approaching the RAND Corporation’s Logical, Scientific Conclusion ❁ VANCOUVER, BC – Leuren Moret and Laurens Battis in a July 20, 2015 Interview by Alfred Lambremont Webre ❁"
 section: "currents"
-slug: "moret--battis-jade-helm-"
+slug: "battis-jade-helm"
 path: "currents/moret--battis-jade-helm-"
 sidebar: |
   ### Sidebar[[Skip]](moret--battis-jade-helm-.html#main)

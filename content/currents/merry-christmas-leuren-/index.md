@@ -2,7 +2,7 @@
 title: "Merry Christmas, Leuren & Laurens"
 description: "Season's Greetings . . . 🎈May the New Year🎈Bring Massive🎈Improvement🎈"
 section: "currents"
-slug: "merry-christmas-leuren-"
+slug: "merry-christmas"
 path: "currents/merry-christmas-leuren-/index"
 sidebar: |
   ### Sidebar[Skip]

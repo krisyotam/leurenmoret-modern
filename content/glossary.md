@@ -46,8 +46,8 @@ sidebar: |
       * [💀 Jade Helm, International Implications, NWO Rollouts ⏰](/jade-helm-international "💀 Jade Helm, International Implications, NWO Rollouts ⏰")
       * [🌿 Essential Oils, Nutrition, Frequencies & Health 🌺](/essential-oils-nutrition "🌿 Essential Oils, Nutrition, Frequencies & Health 🌺")
       * [🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️](/rfde--haarp--nlp- "🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. ⚡️")
-      * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/leuren-moret-hiroshima "⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛")
-      * [❦ Moret & Battis: Jade Helm ❦](/moret--battis-jade-helm- "❦ Moret & Battis: Jade Helm ❦")
+      * [⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛](/hiroshima "⚛ Leuren Moret: Hiroshima, Nagasaki, Fukushima ⚛")
+      * [❦ Moret & Battis: Jade Helm ❦](/battis-jade-helm "❦ Moret & Battis: Jade Helm ❦")
       * [🌎 New World Order America 🇺🇸](/new-world-order-america- "🌎 New World Order America 🇺🇸")
       * [⨳ Geopolitics Ukraine | E.U. Judo 🌍](/geopolitics-ukraine--eu "⨳ Geopolitics Ukraine | E.U. Judo 🌍")
       * [👥 Template: Jade Helm](/template-jade-helm "👥 Template: Jade Helm")
@@ -381,7 +381,7 @@ sidebar: |
       * [❁ The Ancient Ghost City of Ani](/the-ancient-ghost-city-of "❁ The Ancient Ghost City of Ani")
     * [❁ Archive](/archive "❁ Archive")
       * [⚛ 61 Years of Omnicide ⚛](/61-years-of-omnicide- "⚛ 61 Years of Omnicide ⚛")
-      * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity-w-leuren "📻 Nanoparticle Toxicity with Leuren Moret ❦")
+      * [📻 Nanoparticle Toxicity with Leuren Moret ❦](/nanoparticle-toxicity "📻 Nanoparticle Toxicity with Leuren Moret ❦")
       * [❁ New Bombs and War Crimes in Fallujah](/new-bombs-and-war-crimes-in "❁ New Bombs and War Crimes in Fallujah")
       * [❁ Global Climate Change . . .](/global-climate-change--- "❁ Global Climate Change . . .")
       * [⚛ International Radiation Distribution ⚛](/international-radiation "⚛ International Radiation Distribution ⚛")
@@ -396,7 +396,7 @@ sidebar: |
       * [⚛ Radionuclide ReMobilization Abatement](/radionuclide-remobilization "⚛ Radionuclide ReMobilization Abatement")
       * [❁ "America First" Transcription](/america-first-transcription)
       * [❁ "Whale Archive" Transcription](/whale-archive-transcription)
-      * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-leuren-moret-globa "⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛")
+      * [⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛](/location-globa "⚛ ⚛ ⚛ Location, Leuren Moret: Global Nuclear Coverup ⚛ ⚛ ⚛")
     * ❁ Glossary
     * [❁ Contact](/contact "❁ Contact")
   
