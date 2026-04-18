@@ -2,7 +2,7 @@
 title: "“ 1984 ” George Orwell"
 description: "🔴 “He who controls the past controls the future. He who controls the present controls the past.” 🔴 “It was a bright cold day in April, and the clocks were striking thirteen.” 🔴"
 section: "lifestyle"
-slug: "1984-george-orwell-"
+slug: "1984-george-orwell"
 path: "lifestyle/lmgnc-bookshelf/1984-george-orwell-"
 sidebar: |
   ### Sidebar[[Skip]](1984-george-orwell-.html#main)

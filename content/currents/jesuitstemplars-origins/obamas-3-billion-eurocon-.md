@@ -2,7 +2,7 @@
 title: "Obama’s $3 Billion Eurocon"
 description: "💰There Is No Russian Resurgence. Washington is Playing on your Cold War Fears to get you to Pay for Something the U.S. Does-Not Need and Can’t Afford"
 section: "currents"
-slug: "obamas-3-billion-eurocon-"
+slug: "obamas-3-billion-eurocon"
 path: "currents/jesuitstemplars-origins/obamas-3-billion-eurocon-"
 sidebar: |
   ### Sidebar[[Skip]](obamas-3-billion-eurocon-.html#main)

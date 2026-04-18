@@ -2,7 +2,7 @@
 title: "Geopolitics, Jesuits & History"
 description: "❁ Leuren Moret interviewed by Desiree Rover Sunday, February 8, 2015, on CCN 	•	 Ukraine	 •	 DU 	• 	Mini-Nukes 	•	 Nuke Power Shake-Down 	• 	HAARP 	• 	Endless War ✠"
 section: "currents"
-slug: "geopolitics-jesuits--histor"
+slug: "geopolitics-jesuits-histor"
 path: "currents/geopolitics-jesuits--histor"
 sidebar: |
   ### Sidebar[[Skip]](geopolitics-jesuits--histor.html#main)

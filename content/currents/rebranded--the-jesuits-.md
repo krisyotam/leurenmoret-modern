@@ -2,7 +2,7 @@
 title: "Rebranded The Jesuits"
 description: "✠ The Jesuits in Geopolitics ✠ Leuren Moret Joins Fairdinkum Radio Plus, to Discuss The History and Influence of the Jesuits ✠ The Society Of Jesus or The Vatican Assassins ✠ Within Geopolitics, Economy and Religion Worldwide ✠"
 section: "currents"
-slug: "rebranded--the-jesuits-"
+slug: "rebranded-the-jesuits"
 path: "currents/rebranded--the-jesuits-"
 sidebar: |
   ### Sidebar[[Skip]](rebranded--the-jesuits-.html#main)

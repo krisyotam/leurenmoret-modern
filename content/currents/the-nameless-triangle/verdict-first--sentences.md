@@ -2,7 +2,7 @@
 title: "VERDICT FIRST | SENTENCES LATER ️"
 description: "➷ STRATFOR Chief Reveals Zio-Anglo-American Plot For World Domination 🌐 Head of Stratfor, ‘Private CIA’, Says Overthrow of Yanukovych was ‘The Most Blatant Coup in History’ ☚"
 section: "currents"
-slug: "verdict-first--sentences"
+slug: "verdict-first-sentences"
 path: "currents/the-nameless-triangle/verdict-first--sentences"
 sidebar: |
   ### Sidebar[[Skip]](verdict-first--sentences.html#main)

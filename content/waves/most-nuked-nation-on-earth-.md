@@ -2,7 +2,7 @@
 title: "MOST NUKED NATION ON EARTH"
 description: "💀 Radiological Effluents Releases from Nuclear Rocket and Ramjet Engine Tests at the Nevada Test Site 1959 - 1969 | Prepared for the D.O.E. by Raytheon 💀"
 section: "waves"
-slug: "most-nuked-nation-on-earth-"
+slug: "most-nuked-nation-on-earth"
 path: "waves/most-nuked-nation-on-earth-"
 sidebar: |
   ### Sidebar[[Skip]](most-nuked-nation-on-earth-.html#main)

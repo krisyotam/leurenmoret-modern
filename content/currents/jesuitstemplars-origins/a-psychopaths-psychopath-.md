@@ -2,7 +2,7 @@
 title: "A Psychopath’s Psychopath"
 description: "🌍 As Prime Minister of Hungary, Orban is a Man with, Perhaps, Better Access than most to the Truth About George Soros, A Hungarian Jew Who Got His First Business Breaks Collaborating with the Nazis in Hungary – The Source for which Information is his own Father’s Book, \"Masquerade – Dancing Around Death in Nazi-Occupied Hungary\" ✠"
 section: "currents"
-slug: "a-psychopaths-psychopath-"
+slug: "a-psychopaths-psychopath"
 path: "currents/jesuitstemplars-origins/a-psychopaths-psychopath-"
 sidebar: |
   ### Sidebar[[Skip]](a-psychopaths-psychopath-.html#main)

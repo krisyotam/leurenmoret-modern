@@ -2,7 +2,7 @@
 title: "On To Mongolia"
 description: "❁ Leuren Moret Interviewed By John B. Wells 🎥  \"On To Mongolia\" Leuren And John Take You On A Survey Of Current History; Of The Jesuits, And Their Directors, Back Thru Castro And His Progenitors The Farnese; To Ancient Persia."
 section: "currents"
-slug: "on-to-mongolia-"
+slug: "on-to-mongolia"
 path: "currents/on-to-mongolia-"
 sidebar: |
   ### Sidebar[[Skip]](on-to-mongolia-.html#main)

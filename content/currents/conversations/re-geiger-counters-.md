@@ -1,7 +1,7 @@
 ---
 title: "re: Geiger Counters"
 section: "currents"
-slug: "re-geiger-counters-"
+slug: "re-geiger-counters"
 path: "currents/conversations/re-geiger-counters-"
 sidebar: |
   ### Sidebar[[Skip]](re-geiger-counters-.html#main)

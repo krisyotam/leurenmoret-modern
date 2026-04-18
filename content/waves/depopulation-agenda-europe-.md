@@ -2,7 +2,7 @@
 title: "Depopulation Agenda: Europe"
 description: "👥 Why Europe's Doomsayers Are Right, In One Chart 👤 To say that Europe is doomed is an understatament, so much so that every European politician, banker, bureaucrat, and bean-counter has, over the past 5 years, taken at least one opportunity to deny and thus validate the statement 👤"
 section: "waves"
-slug: "depopulation-agenda-europe-"
+slug: "depopulation-agenda-europe"
 path: "waves/depopulation-agenda-europe-"
 sidebar: |
   ### Sidebar[[Skip]](depopulation-agenda-europe-.html#main)

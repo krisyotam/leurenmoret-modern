@@ -2,7 +2,7 @@
 title: "Food Supply Compromised"
 description: "☛ Gorbachev Created the Artificial Shortage of Food: Conditions for the Murder of the USSR 🔫 Food is the most important strategic resource. The safety and defence of the country depended on it like they depended on the presence of nuclear weapons 🍳"
 section: "currents"
-slug: "food-supply-compromised-"
+slug: "food-supply-compromised"
 path: "currents/russia-is-coming/food-supply-compromised-"
 sidebar: |
   ### Sidebar[[Skip]](food-supply-compromised-.html#main)

@@ -2,7 +2,7 @@
 title: "↷ Fine Evening For A Minuet ↶"
 description: "🔴 🌍 ⏰ Here Is Another Great Tie In And Example Of The Mossad Infiltration And Control Of The Us-Nato-Eu-Uk Criminal Destruction And Looting Of Ukraine And The Eastern War Zone."
 section: "currents"
-slug: "fine-evening-for-a-minuet-"
+slug: "fine-evening-for-a-minuet"
 path: "currents/jesuitstemplars-origins/fine-evening-for-a-minuet-"
 sidebar: |
   ### Sidebar[[Skip]](fine-evening-for-a-minuet-.html#main)

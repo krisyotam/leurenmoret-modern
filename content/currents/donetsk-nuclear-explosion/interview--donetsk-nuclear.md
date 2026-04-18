@@ -2,7 +2,7 @@
 title: "Interview Donetsk Nuclear Attack ️"
 description: "🔴 Donetsk Nuclear Explosion 🎥 Leuren Moret, Documents in Depth How Jesuit-Controlled US President Barack Obama And The United States  Military Intervenors In The Ukraine Authorized And Directed The Ukrainian Government To Carry Out A Nuclear Weapons Attack On Donetsk In The Ukraine 🎥"
 section: "currents"
-slug: "interview--donetsk-nuclear"
+slug: "interview-donetsk-nuclear"
 path: "currents/donetsk-nuclear-explosion/interview--donetsk-nuclear"
 sidebar: |
   ### Sidebar[[Skip]](interview--donetsk-nuclear.html#main)

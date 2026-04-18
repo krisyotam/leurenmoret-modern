@@ -2,7 +2,7 @@
 title: "Your Radiation #65-6, -- July 2-16, 2016"
 description: "⚛⚛⚛ San Francisco – Good Day, This is “Your Radiation This Week” for the Time Period July 2 to July 16, 2016 ⚛ RADIATION: CPM* COMPARISON by CITY, STATE ⚛⚛⚛"
 section: "waves"
-slug: "your-radiation-65-6--july-2"
+slug: "your-radiation-65-6-july-2"
 path: "waves/radiation-around-the-nation/your-radiation-65-6--july-2"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-65-6--july-2.html#main)

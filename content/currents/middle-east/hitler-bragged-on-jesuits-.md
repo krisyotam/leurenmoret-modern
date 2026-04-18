@@ -2,7 +2,7 @@
 title: "Hitler Bragged on Jesuits"
 description: "✠ Erdogan Brags on Hitler ✠ Erdogan Says Hitler's Germany Example of Efficient Presidential System ✠ \". . . When you look at Hitler's Germany, you will see it,\" Erdogan told reporters, as quoted by T24 online news portal ✠"
 section: "currents"
-slug: "hitler-bragged-on-jesuits-"
+slug: "hitler-bragged-on-jesuits"
 path: "currents/middle-east/hitler-bragged-on-jesuits-"
 sidebar: |
   ### Sidebar[[Skip]](hitler-bragged-on-jesuits-.html#main)

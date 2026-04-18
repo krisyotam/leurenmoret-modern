@@ -2,7 +2,7 @@
 title: "Oil is Renewable"
 description: "✂︎ Peak-Oil is BULL5#!T ⬅︎ 🌎 Origin of Hydrocarbons Found in Renewable Geologic Processes 🌍 The Origins of Oil - Falsely Defined in 1892 🎩 🎥 Colonel L. Fletcher Prouty, USAF, Plain Speaking ✂︎"
 section: "waves"
-slug: "oil-is-renewable-"
+slug: "oil-is-renewable"
 path: "waves/prouty-place-cut-the-bull/oil-is-renewable-"
 sidebar: |
   ### Sidebar[[Skip]](oil-is-renewable-.html#main)

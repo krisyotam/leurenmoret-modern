@@ -2,7 +2,7 @@
 title: "Clinton’s Designs on Syria"
 description: "The Quotes for this Article were Provided by Virtue of a Wikileaks Release of the Trove of eMails Belonging to Hillary Clinton. While Wikileaks Merely Provided the “eMail” Text, The Quotes are Actually from an Article Written by James P. Rubin for Foreign Policy Entitled “The Real Reason to Intervene in Syria.”"
 section: "waves"
-slug: "clintons-designs-on-syria-"
+slug: "clintons-designs-on-syria"
 path: "waves/wikileaks-nsa-and-more/clintons-designs-on-syria-"
 sidebar: |
   ### Sidebar[[Skip]](clintons-designs-on-syria-.html#main)

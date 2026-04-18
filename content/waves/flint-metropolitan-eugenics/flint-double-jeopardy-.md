@@ -1,7 +1,7 @@
 ---
 title: "Flint, Double Jeopardy"
 section: "waves"
-slug: "flint-double-jeopardy-"
+slug: "flint-double-jeopardy"
 path: "waves/flint-metropolitan-eugenics/flint-double-jeopardy-"
 sidebar: |
   ### Sidebar[[Skip]](flint-double-jeopardy-.html#main)

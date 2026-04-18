@@ -2,7 +2,7 @@
 title: "Atlanticists v. Putin et al ️"
 description: "⚪️ PUTIN v. 🔵 GLOBAL TERRORISM 🔴 GLOBAL RFDE/HAARP ATTACKS ⚫️ CHEMTRAIL ATTACK ON RSA SECURITY CONF ⚫️ DANA DURNFORD UPDATE 🔴 CASTRO’S GAME - POPE AND PATRIARCH ✠🎱✠"
 section: "currents"
-slug: "atlanticists-v-putin-et-al-"
+slug: "atlanticists-v-putin-et-al"
 path: "currents/atlanticists-v-putin-et-al-"
 sidebar: |
   ### Sidebar[[Skip]](atlanticists-v-putin-et-al-.html#main)

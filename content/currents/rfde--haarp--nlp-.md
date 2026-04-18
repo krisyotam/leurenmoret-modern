@@ -2,7 +2,7 @@
 title: "R.F.D.E. | H.A.A.R.P. | N.L.P. ️"
 description: "🎯 R.F.D.E. | H.A.A.R.P. | N.L.P. 🎯 Interview with Leuren Moret and Laurens Battis, by Alfred Lambremont Webre 🎯 Radio Frequency Directed Energy 🎯 High Ampliude Auroral Research Project 🎯 Neuro-Linguistic Programming 🎯 AMERICA'S DILEMMA ♞"
 section: "currents"
-slug: "rfde--haarp--nlp-"
+slug: "rfde-haarp-nlp"
 path: "currents/rfde--haarp--nlp-"
 sidebar: |
   ### Sidebar[[Skip]](rfde--haarp--nlp-.html#main)

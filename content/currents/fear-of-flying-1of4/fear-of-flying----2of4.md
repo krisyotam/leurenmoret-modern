@@ -2,7 +2,7 @@
 title: "︎ Fear of Flying . . . 2of4"
 description: "⚛ Historical Context ⚛ Bertrand Russell ⚛ The Impact of Science on Society ⚛ Nanoparticles: Triple-Threat ⚛ Fukushima: Triple-Weapon ⚛ Wigner Dust ⚛ Neutron Pulse"
 section: "currents"
-slug: "fear-of-flying----2of4"
+slug: "fear-of-flying-2of4"
 path: "currents/fear-of-flying-1of4/fear-of-flying----2of4"
 sidebar: |
   ### Sidebar[[Skip]](fear-of-flying-2of4.html#main)

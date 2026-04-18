@@ -2,7 +2,7 @@
 title: "Silk Road Strategies"
 description: "US Plotting to Control Bab al-Mandeb | UAE to Take Control of Socotra Islands | According to the Agreement, the Northern Part of Yemen will Remain Under Saudi Arabia's Control while the UAE will Take Charge of Eastern Yemen"
 section: "currents"
-slug: "silk-road-strategies-"
+slug: "silk-road-strategies"
 path: "currents/21st-century-silk-road/silk-road-strategies-"
 sidebar: |
   ### Sidebar[[Skip]](silk-road-strategies-.html#main)

@@ -2,7 +2,7 @@
 title: "D.I.M.E. BOMB Fallujah"
 description: "♝ A true Cancer Bomb is the Holy Grail of the US Military. Bingo! The Dense Inert Metal Explosive Bomb with a carbon fiber shell is a real contender for the coveted military title of – The Cancer Bomb 💥"
 section: "waves"
-slug: "dime-bomb-fallujah-"
+slug: "dime-bomb-fallujah"
 path: "waves/nanoweaponry/dime-bomb-fallujah-"
 sidebar: |
   ### Sidebar[[Skip]](dime-bomb-fallujah-.html#main)

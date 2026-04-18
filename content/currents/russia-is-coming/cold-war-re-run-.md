@@ -2,7 +2,7 @@
 title: "Cold War Re-Run"
 description: "\"Today I’d like to tell you about Russia’s assessment of the current European security situation and possible solutions to our common problems, which have been aggravated by the deterioration of relations between Russia and the West.\""
 section: "currents"
-slug: "cold-war-re-run-"
+slug: "cold-war-re-run"
 path: "currents/russia-is-coming/cold-war-re-run-"
 sidebar: |
   ### Sidebar[[Skip]](cold-war-re-run-.html#main)

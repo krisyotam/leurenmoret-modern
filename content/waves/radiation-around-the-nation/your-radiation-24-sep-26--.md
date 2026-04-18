@@ -2,7 +2,7 @@
 title: "Your Radiation #24, Sep 26 - Oct 2, 2015"
 description: "🔴 33 Cities Over 1000 CPM 🔴 Three weeks ago some unacknowledged source or sources around Lake Michigan spread measurable radiation all over the country. Like a Devil Wind it could be tracked for several days. Thousands of people know and no one is talking publicly 💀"
 section: "waves"
-slug: "your-radiation-24-sep-26--"
+slug: "your-radiation-24-sep-26"
 path: "waves/radiation-around-the-nation/your-radiation-24-sep-26--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-24-sep-26--.html#main)

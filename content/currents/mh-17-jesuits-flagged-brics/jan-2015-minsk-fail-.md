@@ -2,7 +2,7 @@
 title: "Jan. 2015 Minsk Fail 🃏"
 description: "Separatist rockets streaked across hills in eastern Ukraine on Monday as rebels pounded the positions of Ukrainian government troops holding a strategic rail town, while both sides prepared to mobilise more forces for combat."
 section: "currents"
-slug: "jan-2015-minsk-fail-"
+slug: "jan-2015-minsk-fail"
 path: "currents/mh-17-jesuits-flagged-brics/jan-2015-minsk-fail-"
 sidebar: |
   ### Sidebar[[Skip]](jan-2015-minsk-fail-.html#main)

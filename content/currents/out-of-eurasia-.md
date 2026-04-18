@@ -2,7 +2,7 @@
 title: "Out of Eurasia"
 description: "🌍 PUTIN IN SYRIA 🌐 NWO ✠ Out of Eurasia 🌏 MINING MINERALS ⚫️ SILK ROAD ECONOMY ⚫️ DANGER FROM WEST AND US - INVADING SE ASIA THRU JESUITS ⚫️ RUSSIA’S DOORSTEP - BALTIC STATES TO BALKAN STATES 🔴"
 section: "currents"
-slug: "out-of-eurasia-"
+slug: "out-of-eurasia"
 path: "currents/out-of-eurasia-"
 sidebar: |
   ### Sidebar[[Skip]](out-of-eurasia-.html#main)

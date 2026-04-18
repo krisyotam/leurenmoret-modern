@@ -2,7 +2,7 @@
 title: "Their Daily Bread & Rubble"
 description: "💣 Homs in 2015 (PHOTOS) 🎥 Purchasing Bread in Homs 🍞 Women and Children Picking Up Their Rations in Buckets in Raqqa 🍞 Landscape of Homs 💣 American Democracy in Homs 💀"
 section: "currents"
-slug: "their-daily-bread-n-rubble-"
+slug: "their-daily-bread-n-rubble"
 path: "currents/middle-east/their-daily-bread-n-rubble-"
 sidebar: |
   ### Sidebar[[Skip]](their-daily-bread-n-rubble-.html#main)

@@ -2,7 +2,7 @@
 title: "Putin re Ceasefire Syria"
 description: "✑ We Have Agreed on Ceasefire to Take Place from Midnight of 27Th February 2016, Damascus Time, on the Grounds Agreed Upon During US- Russian Consultations ✍"
 section: "currents"
-slug: "putin-re-ceasefire-syria-"
+slug: "putin-re-ceasefire-syria"
 path: "currents/russia-is-coming/putin-re-ceasefire-syria-"
 sidebar: |
   ### Sidebar[[Skip]](putin-re-ceasefire-syria-.html#main)

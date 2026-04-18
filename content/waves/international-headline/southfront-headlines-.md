@@ -2,7 +2,7 @@
 title: "SouthFront Headlines"
 description: "⚪️ http://southfront.org/category/all-articles/ ⚪️"
 section: "waves"
-slug: "southfront-headlines-"
+slug: "southfront-headlines"
 path: "waves/international-headline/southfront-headlines-"
 sidebar: |
   ### Sidebar[[Skip]](southfront-headlines-.html#main)

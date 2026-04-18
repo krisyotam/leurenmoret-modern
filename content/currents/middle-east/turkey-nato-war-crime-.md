@@ -2,7 +2,7 @@
 title: "Turkey, NATO, War Crime?"
 description: "The NATO Aggression Against Russia, which was Expressed in the Form of an Attack on the Russian Su-24 Bomber, Could Not Occur Without the Approval of the Alliance’s Senior Management, noted Christopher Black, an International Criminal Lawyer Based in Toronto"
 section: "currents"
-slug: "turkey-nato-war-crime-"
+slug: "turkey-nato-war-crime"
 path: "currents/middle-east/turkey-nato-war-crime-"
 sidebar: |
   ### Sidebar[[Skip]](turkey-nato-war-crime-.html#main)

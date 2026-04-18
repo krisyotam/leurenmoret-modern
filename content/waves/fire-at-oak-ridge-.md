@@ -2,7 +2,7 @@
 title: "Fire at Oak Ridge"
 description: "Fire at Y-12 National Security Complex on August 6th, Spent Nuclear Waste (Fuel Rods and Other) Threatened"
 section: "waves"
-slug: "fire-at-oak-ridge-"
+slug: "fire-at-oak-ridge"
 path: "waves/fire-at-oak-ridge-"
 sidebar: |
   ### Sidebar[[Skip]](fire-at-oak-ridge-.html#main)

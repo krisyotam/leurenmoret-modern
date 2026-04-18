@@ -2,7 +2,7 @@
 title: "Depleted Uranium’n’DNA"
 description: "❁ ❁ ❁ WASHINGTON D.C.-2006— Depleted Uranium, Used To Harden Vehicles And Armor-Piercing Munitions, Might Cause Damage To Dna In Ways Previously Not Understood By Health Officials, According To A Recently Released Study From Northern Arizona University. ❁ ❁ ❁"
 section: "archive"
-slug: "depleted-uraniumndna-"
+slug: "depleted-uraniumndna"
 path: "archive/depleted-uraniumndna-"
 sidebar: |
   ### Sidebar[[Skip]](depleted-uraniumndna-.html#main)

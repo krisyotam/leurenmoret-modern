@@ -2,7 +2,7 @@
 title: "Yatsenyuk's Russian Threat"
 description: "💀 Death / Disconnect ♛ Encode / Decode 🔮 New World Order-Speak / NewSpeak 🎱 The Reporter Asks Yatsenyuk How He Feels About Being Responsible for the Deaths of Between 6 and10-Thousand Civilians in Ukraine . . . 💀"
 section: "currents"
-slug: "yatsenyuks-russian-threat-"
+slug: "yatsenyuks-russian-threat"
 path: "currents/mh-17-jesuits-flagged-brics/yatsenyuks-russian-threat-"
 sidebar: |
   ### Sidebar[[Skip]](yatsenyuks-russian-threat-.html#main)

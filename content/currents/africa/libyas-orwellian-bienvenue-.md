@@ -2,7 +2,7 @@
 title: "🇫🇷 Libya's Orwellian Bienvenue"
 description: "⚑ Following that Latest Strike, the so-called «Unity Government» of Libya, Based in Exile in Tunis, which the Western Powers have been Trying to Cobble Together, even Condemned that Action as a Violation of Libyan Sovereignty ⚑"
 section: "currents"
-slug: "libyas-orwellian-bienvenue-"
+slug: "libyas-orwellian-bienvenue"
 path: "currents/africa/libyas-orwellian-bienvenue-"
 sidebar: |
   ### Sidebar[[Skip]](libyas-orwellian-bienvenue-.html#main)

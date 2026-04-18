@@ -2,7 +2,7 @@
 title: "Fukushima/Hawaii Update Sun, May 18, 2014"
 description: "The Fukushima Contaminated Tsunami Debris Field Extends from the Coast of China to the West Coast of N. America.  Hawaii is Sitting Exactly in the Middle of the Tsunami Garbage Patch. Now to Answer Your Questions . . ."
 section: "currents"
-slug: "fukushimahawaii-update--sun"
+slug: "fukushimahawaii-update-sun"
 path: "currents/conversations/fukushimahawaii-update--sun"
 sidebar: |
   ### Sidebar[[Skip]](fukushimahawaii-update--sun.html#main)

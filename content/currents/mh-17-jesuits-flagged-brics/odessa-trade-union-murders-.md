@@ -2,7 +2,7 @@
 title: "Odessa Trade Union Murders"
 description: "🔥 \"The First Cocktail was Thrown Outside. It Broke, the Liquid  Spilled Out, Doors, and Furniture, Which We had Used to Barricade Ourselves Inside, Started Burning\". \"The Lights Turned Off, and There was Real Hell 🔥"
 section: "currents"
-slug: "odessa-trade-union-murders-"
+slug: "odessa-trade-union-murders"
 path: "currents/mh-17-jesuits-flagged-brics/odessa-trade-union-murders-"
 sidebar: |
   ### Sidebar[[Skip]](odessa-trade-union-murders-.html#main)

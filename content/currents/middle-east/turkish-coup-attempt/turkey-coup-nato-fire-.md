@@ -2,7 +2,7 @@
 title: "🇪🇸 Turkey Coup, NATO Fire"
 description: "A Massive Fire Erupted Near a NATO Base in Western Turkey. Authorities are Investigating the Fire as a Possible Act of Anti-American Sabotage"
 section: "currents"
-slug: "turkey-coup-nato-fire-"
+slug: "turkey-coup-nato-fire"
 path: "currents/middle-east/turkish-coup-attempt/turkey-coup-nato-fire-"
 sidebar: |
   ### Sidebar[[Skip]](turkey-coup-nato-fire-.html#main)

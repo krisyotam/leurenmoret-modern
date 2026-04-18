@@ -2,7 +2,7 @@
 title: "Russian Troops | Turkish Border"
 description: "➷ President Putin, December 15, 2015, Issued an Order to the 58th Army Headquarters of the North-Caucasian Military District to Immediately Deploy “Selected” Regiments and Brigades of Federation Military Electronic Warfare, Anti-Aircraft, Multiple Rocket Launcher, Anti-Tank, Motorized Rifle, and Artillery Forces to the Turkish-Armenia Border ➷"
 section: "currents"
-slug: "russian-troops--turkish"
+slug: "russian-troops-turkish"
 path: "currents/russia-is-coming/russian-troops--turkish"
 sidebar: |
   ### Sidebar[[Skip]](russian-troops--turkish.html#main)

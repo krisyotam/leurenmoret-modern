@@ -2,7 +2,7 @@
 title: "Programmable RNA"
 description: "💉 Engineers Designed Programmable RNA Vaccines that could be Rapidly Manufactured and Deployed 🙈🙉🙊"
 section: "currents"
-slug: "programmable-rna-"
+slug: "programmable-rna"
 path: "currents/exotic-weapons-geopolitics/programmable-rna-"
 sidebar: |
   ### Sidebar[[Skip]](programmable-rna-.html#main)

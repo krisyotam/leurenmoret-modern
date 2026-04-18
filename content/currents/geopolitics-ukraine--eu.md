@@ -2,7 +2,7 @@
 title: "⨳ Geopolitics Ukraine | E.U. Judo"
 description: "⨳ Throwing the European Union 🌍 Leuren Moret of Global Nuclear Cover Up Joins Leon Pittard and Fairdinkum Radio, To Span The Globe in a Geopolitical Update Where We Discuss the Latest in the Ukraine and the Proxy War Being Carried Out By Washington. We Discuss How Ukraine is a Disposable Torpedo Against Russia, With NATO Threatening to Store Arms and Increase Troops in the Baltic States ⨳"
 section: "currents"
-slug: "geopolitics-ukraine--eu"
+slug: "geopolitics-ukraine-eu"
 path: "currents/geopolitics-ukraine--eu"
 sidebar: |
   ### Sidebar[[Skip]](geopolitics-ukraine--eu.html#main)

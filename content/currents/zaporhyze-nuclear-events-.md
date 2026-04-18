@@ -2,7 +2,7 @@
 title: "Zaporhyze Nuclear Events & Geopolitics"
 description: "⚛ Scientist and Whistle Blower Leuren Moret joins Ari Kopel and Ari's Co-host Rose Paige on Shattering The Matrix Radio ⚛ Today she'll talk about another Nuclear disaster, as bad as Chernobyl, at the Zaporhyze Nuclear Power Plant in Ukraine ⚛ She reveals what is going on there - which has been kept secretive - and why this happened ⚛"
 section: "currents"
-slug: "zaporhyze-nuclear-events-"
+slug: "zaporhyze-nuclear-events"
 path: "currents/zaporhyze-nuclear-events-"
 sidebar: |
   ### Sidebar[[Skip]](zaporhyze-nuclear-events-.html#main)

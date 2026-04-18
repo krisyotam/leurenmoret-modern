@@ -2,7 +2,7 @@
 title: "This Document is Dynamite"
 description: "🎱💀💣 THE USUAL TERRORISTS 💣💀🎱 Photo from Cyber-Berkut and Translation of a Document SBU Order to Carry Out Provocations in the Territory of Novorossia 🎱💀💣 SBU=Security Service of Ukraine 💣💀🎱"
 section: "currents"
-slug: "this-document-is-dynamite-"
+slug: "this-document-is-dynamite"
 path: "currents/russia-is-coming/this-document-is-dynamite-"
 sidebar: |
   ### Sidebar[[Skip]](this-document-is-dynamite-.html#main)

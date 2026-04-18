@@ -2,7 +2,7 @@
 title: "Hillary’s DNC Dossier"
 description: "🃏The DNC Collected all Info about the Attacks on Hillary Clinton and Prepared the Ways of her Defense, Memos, Etc., Including the Most Sensitive Issues like Email Hacks 🎭"
 section: "waves"
-slug: "hillarys-dnc-dossier-"
+slug: "hillarys-dnc-dossier"
 path: "waves/wikileaks-nsa-and-more/hillarys-dnc-dossier-"
 sidebar: |
   ### Sidebar[[Skip]](hillarys-dnc-dossier-.html#main)

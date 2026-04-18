@@ -2,7 +2,7 @@
 title: "Unsustainable Ukraine"
 description: "🔥 For Brussels and Paris, and Berlin, it is Unprofitable to Preserve Ukrainian Statehood, but to Admit its Dissolution/Destruction is an Even More Losing Option 👥"
 section: "currents"
-slug: "unsustainable-ukraine-"
+slug: "unsustainable-ukraine"
 path: "currents/mh-17-jesuits-flagged-brics/unsustainable-ukraine-"
 sidebar: |
   ### Sidebar[[Skip]](unsustainable-ukraine-.html#main)

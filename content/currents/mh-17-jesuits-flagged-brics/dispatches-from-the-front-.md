@@ -2,7 +2,7 @@
 title: "Dispatches From the Front"
 description: "🔥 The War in Ukraine has Gone Hot 🔥 BREAKING: UAF Received the Order to Use Artillery 🎯 \"UAF Shelled Itself to Justify Offensive\" 🃏 Kiev: (Our) New Offensive Violates Minsk II 🎭 DPR Aerial Recon Shows UAF Preparing a Major Push 💣 Perhaps, Telmanovo Next 🍒 Back-room Machinations and State Department Back-stabs are Over 👀 Nuland, Kerry and Crew tried to sneak in a Dirty-bomb 💀 A Large and Promisingly Empty 404 Army Cemetery Comes Into Use ♠️"
 section: "currents"
-slug: "dispatches-from-the-front-"
+slug: "dispatches-from-the-front"
 path: "currents/mh-17-jesuits-flagged-brics/dispatches-from-the-front-"
 sidebar: |
   ### Sidebar[[Skip]](dispatches-from-the-front-.html#main)

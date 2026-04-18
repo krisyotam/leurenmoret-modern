@@ -2,7 +2,7 @@
 title: "Caught Red Handed CyberBerkut Original"
 description: "💀 U.S.’n’Ukraine The Portfolio 💣 We, Cyber Berkut, keep on our presence in the computer networks of Kiev junta 🔍 This time we have hacked an e-mail of Major General A. Taran, who works as an head expert in the Common center of cease-fire control and coordination. In his letters we have found satellite images, which show multiple violations of the Minsk agreements by Kiev regime. Namely, we are talking about (lack of) withdrawal of heavy weaponry farther from the contact line in the conflict area ➷"
 section: "currents"
-slug: "caught-red-handed--cyberber"
+slug: "caught-red-handed-cyberber"
 path: "currents/mh-17-jesuits-flagged-brics/cyberberkut-reports/usnukraine-caught-red-hande/caught-red-handed--cyberber"
 sidebar: |
   ### Sidebar[[Skip]](caught-red-handed--cyberber.html#main)

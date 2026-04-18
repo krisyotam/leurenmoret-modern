@@ -2,7 +2,7 @@
 title: "Poroshenko Calls Merkel"
 description: "New details have been revealed to PolitNavigator concerning the overseas trip of Poroshenko which the Ukrainian president is trying to hide out of fear of displeasing the population with his luxurious vacation during wartime. (is the excuse -ed)"
 section: "currents"
-slug: "poroshenko-calls-merkel-"
+slug: "poroshenko-calls-merkel"
 path: "currents/mh-17-jesuits-flagged-brics/ukraine-bail-out/poroshenko-calls-merkel-"
 sidebar: |
   ### Sidebar[[Skip]](poroshenko-calls-merkel-.html#main)

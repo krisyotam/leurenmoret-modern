@@ -1,7 +1,7 @@
 ---
 title: "️CYBERCOM Suppression Silo"
 section: "currents"
-slug: "cybercom-suppression-silo-"
+slug: "cybercom-suppression-silo"
 path: "currents/conversations/cybercom-suppression-silo-"
 sidebar: |
   ### Sidebar[[Skip]](cybercom-suppression-silo-.html#main)

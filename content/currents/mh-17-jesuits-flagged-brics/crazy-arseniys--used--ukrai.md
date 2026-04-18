@@ -2,7 +2,7 @@
 title: "️ Crazy Arseniy’s -USED- Ukraine Fire Sale! ️"
 description: "♨️ This Will Make the World Sorry it Put a CIA Death Squad in Charge of Chernobyl ♨️ In 1986 Chernobyl experienced a disaster. The number Three reactor was reconfigured to a condition where all its redundant safety systems failed simultaneously. Then it was powered up to the point where it experienced what is known as, “An Unmoderated Prompt Criticality.” Chernobyl was Melted-Down ♨️"
 section: "currents"
-slug: "crazy-arseniys--used--ukrai"
+slug: "crazy-arseniys-used-ukrai"
 path: "currents/mh-17-jesuits-flagged-brics/crazy-arseniys--used--ukrai"
 sidebar: |
   ### Sidebar[[Skip]](crazy-arseniys--used--ukrai.html#main)

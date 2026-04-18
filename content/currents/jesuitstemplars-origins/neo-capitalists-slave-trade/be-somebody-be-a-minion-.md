@@ -2,7 +2,7 @@
 title: "Be Somebody, Be A Minion!"
 description: "⚪️ Battis’ Corollary To Clarke’s 4th Law ⚪️ For Every Purpose a Technology is Created, An Equal and Opposite Purpose Exists ⚪️"
 section: "currents"
-slug: "be-somebody-be-a-minion-"
+slug: "be-somebody-be-a-minion"
 path: "currents/jesuitstemplars-origins/neo-capitalists-slave-trade/be-somebody-be-a-minion-"
 sidebar: |
   ### Sidebar[[Skip]](be-somebody-be-a-minion-.html#main)

@@ -2,7 +2,7 @@
 title: "Clinton eMail on Syria"
 description: "\"⚑ The best way to help Israel deal with Iran’s growing nuclear capability is to help the people of Syria overthrow the regime of Bashar Assad. . . .\" 🎯"
 section: "waves"
-slug: "clinton-email-on-syria-"
+slug: "clinton-email-on-syria"
 path: "waves/wikileaks-nsa-and-more/clinton-email-on-syria-"
 sidebar: |
   ### Sidebar[[Skip]](clinton-email-on-syria-.html#main)

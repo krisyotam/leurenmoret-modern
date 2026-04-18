@@ -2,7 +2,7 @@
 title: "Radiation Omnicide"
 description: "⚛ Radiation Omnicide | Castro Plays Religions | War on Terrorists • Leuren Moret BS, MA, PhD interviewed by Alfred Lambremont Webre, JD, MEd •  Putin, Red Sea, Middle East |  UC Monsanto, Katehi, Vietnam ⚛"
 section: "currents"
-slug: "radiation-omnicide-"
+slug: "radiation-omnicide"
 path: "currents/radiation-omnicide-"
 sidebar: |
   ### Sidebar[[Skip]](radiation-omnicide-.html#main)

@@ -2,7 +2,7 @@
 title: "New World Order America 🇺🇸"
 description: "🌎 Leuren Moret: Stripping the U.S. to Bare Metal | Anatomy of the NWO Prison | Avoiding Same 🌎 Independent Scientist Leuren Moret in a Wide-Ranging Interview with Alfred Lambremont Webre Details the Current Roll-Out Inside Jade Helm of the U.S. and Russian Government’s Secret Deployment of Mind Control Technologies as Part of a Long Term Covert Program by the Governments of the Soviet Union and Now Russia, and the United States, and Controllers Including the Jesuits and Specific Bloodlines to Turn America into a Nwo Prison 🇺🇸"
 section: "currents"
-slug: "new-world-order-america-"
+slug: "new-world-order-america"
 path: "currents/new-world-order-america-"
 sidebar: |
   ### Sidebar[[Skip]](new-world-order-america-.html#main)

@@ -2,7 +2,7 @@
 title: "Stable Oil Trade"
 description: "🌍 While Saudi Arabia's Oil Exports to China have Dropped in Recent Years, Russia is Able to Mitigate the Effect of Low Oil Prices by Increasing Chinese Exports 🌏"
 section: "currents"
-slug: "stable-oil-trade-"
+slug: "stable-oil-trade"
 path: "currents/eurasia/stable-oil-trade-"
 sidebar: |
   ### Sidebar[[Skip]](stable-oil-trade-.html#main)

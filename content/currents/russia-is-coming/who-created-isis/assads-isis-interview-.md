@@ -2,7 +2,7 @@
 title: "Assad’s ISIS Interview"
 description: "‘West Crying for Refugees with One Eye, Aiming Gun with the Other’ – Assad (Full RT Interview & Transcript)"
 section: "currents"
-slug: "assads-isis-interview-"
+slug: "assads-isis-interview"
 path: "currents/russia-is-coming/who-created-isis/assads-isis-interview-"
 sidebar: |
   ### Sidebar[[Skip]](assads-isis-interview-.html#main)

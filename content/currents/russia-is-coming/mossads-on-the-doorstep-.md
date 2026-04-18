@@ -2,7 +2,7 @@
 title: "M OSSAD’S ON THE D OORSTEP"
 description: "👤 Dateline DNR Dec 10, 2014 🎱 Worth Observing The Actual Mossad Agent Inside the DNR Pseudo-Govt 👤"
 section: "currents"
-slug: "mossads-on-the-doorstep-"
+slug: "mossads-on-the-doorstep"
 path: "currents/russia-is-coming/mossads-on-the-doorstep-"
 sidebar: |
   ### Sidebar[[Skip]](mossads-on-the-doorstep-.html#main)

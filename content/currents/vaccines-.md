@@ -2,7 +2,7 @@
 title: "Vaccines"
 description: "❁ Minority of One Report ❁ Leuren Moret Interviewed by Desiree Rover March 22, 2015 💉 Vaccines 💀 The History, The Crimes, The Players, The Motives, The Methodologies, The Alternatives 👤"
 section: "currents"
-slug: "vaccines-"
+slug: "vaccines"
 path: "currents/vaccines-"
 sidebar: |
   ### Sidebar[[Skip]](vaccines-.html#main)

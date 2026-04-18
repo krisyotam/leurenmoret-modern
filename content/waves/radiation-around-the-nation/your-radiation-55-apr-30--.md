@@ -2,7 +2,7 @@
 title: "Your Radiation #55, Apr 30 - May 7, 2016"
 description: "⚛♞⚛ The Subtitle for YRTW is Changed to add the Phrase: “War Crimes in Progress.” Let’s Not Pretend This Much Rad for This Long is Not a War Crime Punishable by Hanging. It is Purposeful and With Intent ⚛♞⚛"
 section: "waves"
-slug: "your-radiation-55-apr-30--"
+slug: "your-radiation-55-apr-30"
 path: "waves/radiation-around-the-nation/your-radiation-55-apr-30--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-55-apr-30--.html#main)

@@ -2,7 +2,7 @@
 title: "Your Radiation #33, Nov 28 - Dec 5, 2015"
 description: "⚛⚛⚛ Spokane, Washington is the No 1 Radioactive City in America this week! Congrats to Spokane! Miami, Florida and Bakersfield, California are close behind in the CPM race to the End ⚛⚛⚛"
 section: "waves"
-slug: "your-radiation-33-nov-28--"
+slug: "your-radiation-33-nov-28"
 path: "waves/radiation-around-the-nation/your-radiation-33-nov-28--"
 sidebar: |
   ### Sidebar[[Skip]](your-radiation-33-nov-28--.html#main)

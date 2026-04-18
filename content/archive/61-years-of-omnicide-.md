@@ -2,7 +2,7 @@
 title: "61 Years of Omnicide"
 description: "\"From Hiroshima to Iraq, 61 Years of Uranium Wars a Suicidal, Genocidal, Omnicidal Course\" by Leuren Moret BS, MA, PhD, San Francisco Bay View, 2006-12-26"
 section: "archive"
-slug: "61-years-of-omnicide-"
+slug: "61-years-of-omnicide"
 path: "archive/61-years-of-omnicide-"
 sidebar: |
   ### Sidebar[[Skip]](61-years-of-omnicide-.html#main)

@@ -2,7 +2,7 @@
 title: "Global Climate Change . . ."
 description: "Planet Earth is unique in our solar system, because it is the only planet exactly the right distance from the Sun, to allow both liquid and solid states of water, an essential molecule of life . . ."
 section: "archive"
-slug: "global-climate-change---"
+slug: "global-climate-change"
 path: "archive/global-climate-change---"
 sidebar: |
   ### Sidebar[[Skip]](global-climate-change---.html#main)

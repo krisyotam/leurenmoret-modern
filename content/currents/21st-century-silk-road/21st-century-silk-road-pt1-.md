@@ -2,7 +2,7 @@
 title: "21 st Century Silk Road PT 1"
 description: "🌺 Building the New Silk Road and New Eurasia 🌸 Part 1 - China and the South 🍀  \"Moscow and Beijing are Building a united Eurasia” 🌺"
 section: "currents"
-slug: "21st-century-silk-road-pt1-"
+slug: "21st-century-silk-road-pt1"
 path: "currents/21st-century-silk-road/21st-century-silk-road-pt1-"
 sidebar: |
   ### Sidebar[[Skip]](21st-century-silk-road-pt1-.html#main)

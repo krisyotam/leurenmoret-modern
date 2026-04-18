@@ -2,7 +2,7 @@
 title: "SOROS Draft Non-Paper"
 description: "🔪Draft Non-Paper/ v14 📄 A Short and Medium-Term ✍ Comprehensive Strategy 💣 For The New Ukraine 💀"
 section: "currents"
-slug: "soros-draft-non-paper-"
+slug: "soros-draft-non-paper"
 path: "currents/mh-17-jesuits-flagged-brics/cyberberkut-reports/soros-letters-ukraine/soros-draft-non-paper-"
 sidebar: |
   ### Sidebar[[Skip]](soros-draft-non-paper-.html#main)
